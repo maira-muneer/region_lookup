@@ -22,7 +22,26 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To get list of all countries 
+```ruby
+GeoData.countries
+```
+
+To get list of cities of specific country 
+```ruby
+GeoData.cities("PK")
+```
+
+
+To get list of states of specific country 
+```ruby
+GeoData.states("PK")
+```
+
+To get list of cities of specific state 
+```ruby
+GeoData.states("PK", "Azad Kashmir")
+```
 
 ## Development
 
