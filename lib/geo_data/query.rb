@@ -1,4 +1,3 @@
-require 'pry'
 module GeoData
   module Query
     def self.countries
