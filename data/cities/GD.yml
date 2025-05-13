@@ -1,0 +1,78 @@
+---
+- id: 52030
+  name: Hillsborough
+  state_id: 3867
+  state_code: '10'
+  state_name: Carriacou
+  country_id: 87
+  country_code: GD
+  country_name: Grenada
+  latitude: '12.48292000'
+  longitude: "-61.45597000"
+  wikiDataId: Q3267362
+- id: 52029
+  name: Grenville
+  state_id: 3865
+  state_code: '01'
+  state_name: Saint Andrew
+  country_id: 87
+  country_code: GD
+  country_name: Grenada
+  latitude: '12.12278000'
+  longitude: "-61.62498000"
+  wikiDataId: Q3116519
+- id: 52031
+  name: Saint David’s
+  state_id: 3869
+  state_code: '02'
+  state_name: Saint David
+  country_id: 87
+  country_code: GD
+  country_name: Grenada
+  latitude: '12.04903000'
+  longitude: "-61.66875000"
+  wikiDataId: Q3267362
+- id: 52032
+  name: Saint George's
+  state_id: 3864
+  state_code: '03'
+  state_name: Saint George
+  country_id: 87
+  country_code: GD
+  country_name: Grenada
+  latitude: '12.05288000'
+  longitude: "-61.75226000"
+  wikiDataId: Q41547
+- id: 52028
+  name: Gouyave
+  state_id: 3868
+  state_code: '04'
+  state_name: Saint John
+  country_id: 87
+  country_code: GD
+  country_name: Grenada
+  latitude: '12.16462000'
+  longitude: "-61.72965000"
+  wikiDataId: Q375507
+- id: 52034
+  name: Victoria
+  state_id: 3866
+  state_code: '05'
+  state_name: Saint Mark
+  country_id: 87
+  country_code: GD
+  country_name: Grenada
+  latitude: '12.19021000'
+  longitude: "-61.70677000"
+  wikiDataId: Q12874663
+- id: 52033
+  name: Sauteurs
+  state_id: 3863
+  state_code: '06'
+  state_name: Saint Patrick
+  country_id: 87
+  country_code: GD
+  country_name: Grenada
+  latitude: '12.21833000'
+  longitude: "-61.63917000"
+  wikiDataId: Q1318103

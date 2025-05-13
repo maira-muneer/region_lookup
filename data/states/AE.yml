@@ -1,0 +1,64 @@
+---
+- id: 3396
+  name: Abu Dhabi
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  state_code: AZ
+  type: emirate
+  latitude: '24.45388400'
+  longitude: '54.37734380'
+- id: 3395
+  name: Ajman
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  state_code: AJ
+  type: emirate
+  latitude: '25.40521650'
+  longitude: '55.51364330'
+- id: 3391
+  name: Dubai
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  state_code: DU
+  type: emirate
+  latitude: '25.20484930'
+  longitude: '55.27078280'
+- id: 3393
+  name: Fujairah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  state_code: FU
+  type: emirate
+  latitude: '25.12880990'
+  longitude: '56.32648490'
+- id: 3394
+  name: Ras Al Khaimah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  state_code: RK
+  type: emirate
+  latitude: '25.67413430'
+  longitude: '55.98041730'
+- id: 3390
+  name: Sharjah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  state_code: SH
+  type: emirate
+  latitude: '25.07539740'
+  longitude: '55.75784030'
+- id: 3392
+  name: Umm Al Quwain
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  state_code: UQ
+  type: emirate
+  latitude: '25.54263240'
+  longitude: '55.54753480'

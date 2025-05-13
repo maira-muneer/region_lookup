@@ -1,0 +1,91 @@
+---
+- id: 4784
+  name: Central
+  country_id: 202
+  country_code: SB
+  country_name: Solomon Islands
+  state_code: CE
+  type: province
+  latitude:
+  longitude:
+- id: 4781
+  name: Choiseul
+  country_id: 202
+  country_code: SB
+  country_name: Solomon Islands
+  state_code: CH
+  type: province
+  latitude: "-7.05014940"
+  longitude: '156.95114590'
+- id: 4785
+  name: Guadalcanal
+  country_id: 202
+  country_code: SB
+  country_name: Solomon Islands
+  state_code: GU
+  type: province
+  latitude: "-9.57732840"
+  longitude: '160.14558050'
+- id: 4778
+  name: Honiara
+  country_id: 202
+  country_code: SB
+  country_name: Solomon Islands
+  state_code: CT
+  type: capital territory
+  latitude: "-9.44563810"
+  longitude: '159.97289990'
+- id: 4780
+  name: Isabel
+  country_id: 202
+  country_code: SB
+  country_name: Solomon Islands
+  state_code: IS
+  type: province
+  latitude: "-8.05923530"
+  longitude: '159.14470810'
+- id: 4782
+  name: Makira-Ulawa
+  country_id: 202
+  country_code: SB
+  country_name: Solomon Islands
+  state_code: MK
+  type: province
+  latitude: "-10.57374470"
+  longitude: '161.80969410'
+- id: 4783
+  name: Malaita
+  country_id: 202
+  country_code: SB
+  country_name: Solomon Islands
+  state_code: ML
+  type: province
+  latitude: "-8.94461680"
+  longitude: '160.90712360'
+- id: 4787
+  name: Rennell and Bellona
+  country_id: 202
+  country_code: SB
+  country_name: Solomon Islands
+  state_code: RB
+  type: province
+  latitude: "-11.61314350"
+  longitude: '160.16939490'
+- id: 4779
+  name: Temotu
+  country_id: 202
+  country_code: SB
+  country_name: Solomon Islands
+  state_code: TE
+  type: province
+  latitude: "-10.68692900"
+  longitude: '166.06239790'
+- id: 4786
+  name: Western
+  country_id: 202
+  country_code: SB
+  country_name: Solomon Islands
+  state_code: WE
+  type: province
+  latitude:
+  longitude:

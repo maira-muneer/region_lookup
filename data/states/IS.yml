@@ -1,0 +1,73 @@
+---
+- id: 3431
+  name: Capital
+  country_id: 100
+  country_code: IS
+  country_name: Iceland
+  state_code: '1'
+  type: region
+  latitude: '38.56569570'
+  longitude: "-92.18169490"
+- id: 3433
+  name: Eastern
+  country_id: 100
+  country_code: IS
+  country_name: Iceland
+  state_code: '7'
+  type: region
+  latitude:
+  longitude:
+- id: 3437
+  name: Northeastern
+  country_id: 100
+  country_code: IS
+  country_name: Iceland
+  state_code: '6'
+  type: region
+  latitude: '43.29942850'
+  longitude: "-74.21793260"
+- id: 3435
+  name: Northwestern
+  country_id: 100
+  country_code: IS
+  country_name: Iceland
+  state_code: '5'
+  type: region
+  latitude: '41.91339320'
+  longitude: "-73.04716880"
+- id: 3434
+  name: Southern
+  country_id: 100
+  country_code: IS
+  country_name: Iceland
+  state_code: '8'
+  type: region
+  latitude:
+  longitude:
+- id: 3430
+  name: Southern Peninsula
+  country_id: 100
+  country_code: IS
+  country_name: Iceland
+  state_code: '2'
+  type: region
+  latitude: '63.91548030'
+  longitude: "-22.36496670"
+- id: 3436
+  name: Western
+  country_id: 100
+  country_code: IS
+  country_name: Iceland
+  state_code: '3'
+  type: region
+  latitude:
+  longitude:
+- id: 3432
+  name: Westfjords
+  country_id: 100
+  country_code: IS
+  country_name: Iceland
+  state_code: '4'
+  type: region
+  latitude: '65.91961500'
+  longitude: "-21.88117640"

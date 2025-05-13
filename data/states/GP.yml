@@ -1,0 +1,19 @@
+---
+- id: 5384
+  name: Basse-Terre
+  country_id: 88
+  country_code: GP
+  country_name: Guadeloupe
+  state_code: '01'
+  type: district
+  latitude: '16.10110190'
+  longitude: "-62.00545460"
+- id: 5385
+  name: Pointe-à-Pitre
+  country_id: 88
+  country_code: GP
+  country_name: Guadeloupe
+  state_code: '02'
+  type: district
+  latitude: '16.19024380'
+  longitude: "-61.62917130"

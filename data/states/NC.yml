@@ -1,0 +1,28 @@
+---
+- id: 5227
+  name: Loyalty Islands Province
+  country_id: 157
+  country_code: NC
+  country_name: New Caledonia
+  state_code: '03'
+  type: province
+  latitude: "-20.96670000"
+  longitude: '167.23330000'
+- id: 5226
+  name: North Province
+  country_id: 157
+  country_code: NC
+  country_name: New Caledonia
+  state_code: '02'
+  type: province
+  latitude: "-22.27580000"
+  longitude: '166.45800000'
+- id: 5225
+  name: South Province
+  country_id: 157
+  country_code: NC
+  country_name: New Caledonia
+  state_code: '01'
+  type: province
+  latitude: "-22.27580000"
+  longitude: '166.45800000'

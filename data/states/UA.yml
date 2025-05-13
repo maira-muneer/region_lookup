@@ -1,0 +1,244 @@
+---
+- id: 4689
+  name: Autonomous Republic of Crimea
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '43'
+  type: republic
+  latitude: '44.95211700'
+  longitude: '34.10241700'
+- id: 4680
+  name: Cherkaska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '71'
+  type: region
+  latitude: '49.44443300'
+  longitude: '32.05976700'
+- id: 4692
+  name: Chernihivska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '74'
+  type: region
+  latitude: '51.49820000'
+  longitude: '31.28934990'
+- id: 4678
+  name: Chernivetska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '77'
+  type: region
+  latitude: '48.29168300'
+  longitude: '25.93521700'
+- id: 4675
+  name: Dnipropetrovska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '12'
+  type: region
+  latitude: '48.46471700'
+  longitude: '35.04618300'
+- id: 4691
+  name: Donetska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '14'
+  type: region
+  latitude: '48.01588300'
+  longitude: '37.80285000'
+- id: 4682
+  name: Ivano-Frankivska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '26'
+  type: region
+  latitude: '48.92263300'
+  longitude: '24.71111700'
+- id: 4686
+  name: Kharkivska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '63'
+  type: region
+  latitude: '49.99350000'
+  longitude: '36.23038300'
+- id: 4684
+  name: Khersonska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '65'
+  type: region
+  latitude: '46.63541700'
+  longitude: '32.61686700'
+- id: 4681
+  name: Khmelnytska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '68'
+  type: region
+  latitude: '49.42298300'
+  longitude: '26.98713310'
+- id: 4677
+  name: Kirovohradska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '35'
+  type: region
+  latitude: '48.50793300'
+  longitude: '32.26231700'
+- id: 4676
+  name: Kyiv
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '30'
+  type: city
+  latitude: '50.45010000'
+  longitude: '30.52340000'
+- id: 4671
+  name: Kyivska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '32'
+  type: region
+  latitude: '50.05295060'
+  longitude: '30.76671340'
+- id: 4673
+  name: Luhanska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '09'
+  type: region
+  latitude: '48.57404100'
+  longitude: '39.30781500'
+- id: 4672
+  name: Lvivska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '46'
+  type: region
+  latitude: '49.83968300'
+  longitude: '24.02971700'
+- id: 4679
+  name: Mykolaivska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '48'
+  type: region
+  latitude: '46.97503300'
+  longitude: '31.99458290'
+- id: 4688
+  name: Odeska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '51'
+  type: region
+  latitude: '46.48458300'
+  longitude: '30.73260000'
+- id: 5071
+  name: Poltavska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '53'
+  type: region
+  latitude: '49.64291960'
+  longitude: '32.66753390'
+- id: 4683
+  name: Rivnenska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '56'
+  type: region
+  latitude: '50.61990000'
+  longitude: '26.25161700'
+- id: 1912
+  name: Sevastopol
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '40'
+  type: administrative region
+  latitude: '44.61665000'
+  longitude: '33.52536710'
+- id: 4685
+  name: Sumska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '59'
+  type: region
+  latitude: '50.90770000'
+  longitude: '34.79810000'
+- id: 4674
+  name: Ternopilska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '61'
+  type: region
+  latitude: '49.55351700'
+  longitude: '25.59476700'
+- id: 4669
+  name: Vinnytska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '05'
+  type: region
+  latitude: '49.23308300'
+  longitude: '28.46821690'
+- id: 4690
+  name: Volynska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '07'
+  type: region
+  latitude: '50.74723300'
+  longitude: '25.32538300'
+- id: 4670
+  name: Zakarpatska Oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '21'
+  type: region
+  latitude: '48.62080000'
+  longitude: '22.28788300'
+- id: 4687
+  name: Zaporizka oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '23'
+  type: region
+  latitude: '47.83880000'
+  longitude: '35.13956700'
+- id: 4668
+  name: Zhytomyrska oblast
+  country_id: 230
+  country_code: UA
+  country_name: Ukraine
+  state_code: '18'
+  type: region
+  latitude: '50.25465000'
+  longitude: '28.65866690'

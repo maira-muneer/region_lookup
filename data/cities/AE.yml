@@ -1,0 +1,353 @@
+---
+- id: 12
+  name: Abu Dhabi
+  state_id: 3396
+  state_code: AZ
+  state_name: Abu Dhabi
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '24.41361000'
+  longitude: '54.43295000'
+  wikiDataId: Q1519
+- id: 16
+  name: Al Ain City
+  state_id: 3396
+  state_code: AZ
+  state_name: Abu Dhabi
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '24.19167000'
+  longitude: '55.76056000'
+  wikiDataId: Q234600
+- id: 19
+  name: Al Dhafra
+  state_id: 3396
+  state_code: AZ
+  state_name: Abu Dhabi
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '23.65745000'
+  longitude: '53.72225000'
+  wikiDataId: Q4703864
+- id: 26
+  name: Bani Yas City
+  state_id: 3396
+  state_code: AZ
+  state_name: Abu Dhabi
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '24.30978000'
+  longitude: '54.62944000'
+  wikiDataId: Q11960137
+- id: 11
+  name: Ghayathi
+  state_id: 3396
+  state_code: AZ
+  state_name: Abu Dhabi
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '23.90453420'
+  longitude: '52.58710260'
+  wikiDataId: Q15221607
+- id: 34
+  name: Khalifa City
+  state_id: 3396
+  state_code: AZ
+  state_name: Abu Dhabi
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '24.42588000'
+  longitude: '54.60500000'
+  wikiDataId: Q6399642
+- id: 17
+  name: Liwa Oasis
+  state_id: 3396
+  state_code: AZ
+  state_name: Abu Dhabi
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '22.86972550'
+  longitude: '53.24086080'
+  wikiDataId: Q615949
+- id: 41
+  name: Mussafah
+  state_id: 3396
+  state_code: AZ
+  state_name: Abu Dhabi
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '24.35893000'
+  longitude: '54.48267000'
+  wikiDataId: Q12243475
+- id: 42
+  name: Muzayri‘
+  state_id: 3396
+  state_code: AZ
+  state_name: Abu Dhabi
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '23.14355000'
+  longitude: '53.78810000'
+  wikiDataId: Q21735810
+- id: 25
+  name: Ruwais
+  state_id: 3396
+  state_code: AZ
+  state_name: Abu Dhabi
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '24.11028000'
+  longitude: '52.73056000'
+  wikiDataId: Q1023786
+- id: 49
+  name: Zayed City
+  state_id: 3396
+  state_code: AZ
+  state_name: Abu Dhabi
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '23.65416000'
+  longitude: '53.70522000'
+  wikiDataId: Q62269911
+- id: 14
+  name: Ajman
+  state_id: 3395
+  state_code: AJ
+  state_name: Ajman
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.40328000'
+  longitude: '55.52341000'
+  wikiDataId: Q530171
+- id: 15
+  name: Ajman City
+  state_id: 3395
+  state_code: AJ
+  state_name: Ajman
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.40177000'
+  longitude: '55.47878000'
+  wikiDataId: Q530171
+- id: 37
+  name: Manama
+  state_id: 3395
+  state_code: AJ
+  state_name: Ajman
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.32568000'
+  longitude: '56.00259000'
+  wikiDataId: Q1888663
+- id: 38
+  name: Masfut
+  state_id: 3395
+  state_code: AJ
+  state_name: Ajman
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '24.83982000'
+  longitude: '56.05158000'
+  wikiDataId: Q3133042
+- id: 32
+  name: Dubai
+  state_id: 3391
+  state_code: DU
+  state_name: Dubai
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.06570000'
+  longitude: '55.17128000'
+  wikiDataId: Q612
+- id: 28
+  name: Dibba Al Fujairah Municipality
+  state_id: 3393
+  state_code: FU
+  state_name: Fujairah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.58580000'
+  longitude: '56.24792000'
+  wikiDataId: Q3696182
+- id: 30
+  name: Dibba Al-Fujairah
+  state_id: 3393
+  state_code: FU
+  state_name: Fujairah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.59246000'
+  longitude: '56.26176000'
+  wikiDataId: Q3696182
+- id: 31
+  name: Dibba Al-Hisn
+  state_id: 3393
+  state_code: FU
+  state_name: Fujairah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.61955000'
+  longitude: '56.27291000'
+  wikiDataId: Q6742405
+- id: 20
+  name: Fujairah
+  state_id: 3393
+  state_code: FU
+  state_name: Fujairah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.11641000'
+  longitude: '56.34141000'
+  wikiDataId: Q4045
+- id: 43
+  name: Ras Al Khaimah
+  state_id: 3394
+  state_code: RK
+  state_name: Ras Al Khaimah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.46116000'
+  longitude: '56.04058000'
+  wikiDataId: Q2126436
+- id: 18
+  name: Al Batayih
+  state_id: 3390
+  state_code: SH
+  state_name: Sharjah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.22317000'
+  longitude: '55.74272000'
+  wikiDataId: Q85740409
+- id: 13
+  name: Al Dhaid
+  state_id: 3390
+  state_code: SH
+  state_name: Sharjah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.28812000'
+  longitude: '55.88157000'
+  wikiDataId: Q3492826
+- id: 22
+  name: Al Hamriyah
+  state_id: 3390
+  state_code: SH
+  state_name: Sharjah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.46121000'
+  longitude: '55.54813000'
+  wikiDataId: Q4703978
+- id: 23
+  name: Al Madam
+  state_id: 3390
+  state_code: SH
+  state_name: Sharjah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '24.95536000'
+  longitude: '55.76820000'
+  wikiDataId: Q55603483
+- id: 33
+  name: Kalba
+  state_id: 3390
+  state_code: SH
+  state_name: Sharjah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '24.99816000'
+  longitude: '56.27207000'
+  wikiDataId: Q2204078
+- id: 36
+  name: Khor Fakkan
+  state_id: 3390
+  state_code: SH
+  state_name: Sharjah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.33966000'
+  longitude: '56.30280000'
+  wikiDataId: Q764279
+- id: 39
+  name: Milehah
+  state_id: 3390
+  state_code: SH
+  state_name: Sharjah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.10097000'
+  longitude: '55.91282000'
+  wikiDataId: Q1001413
+- id: 40
+  name: Murbaḩ
+  state_id: 3390
+  state_code: SH
+  state_name: Sharjah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.27623000'
+  longitude: '56.36256000'
+  wikiDataId: Q6401643
+- id: 46
+  name: Sharjah
+  state_id: 3390
+  state_code: SH
+  state_name: Sharjah
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.33737000'
+  longitude: '55.41206000'
+  wikiDataId: Q289693
+- id: 47
+  name: Umm AL Quwain
+  state_id: 3392
+  state_code: UQ
+  state_name: Umm Al Quwain
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.49326000'
+  longitude: '55.73520000'
+  wikiDataId: Q2788830
+- id: 48
+  name: Umm Al Quwain City
+  state_id: 3392
+  state_code: UQ
+  state_name: Umm Al Quwain
+  country_id: 231
+  country_code: AE
+  country_name: United Arab Emirates
+  latitude: '25.56473000'
+  longitude: '55.55517000'
+  wikiDataId: Q2788830

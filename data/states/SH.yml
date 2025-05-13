@@ -1,0 +1,73 @@
+---
+- id: 5440
+  name: Alarm Forest
+  country_id: 184
+  country_code: SH
+  country_name: Saint Helena
+  state_code: '01'
+  type: district
+  latitude: "-15.94671440"
+  longitude: "-5.72447520"
+- id: 5441
+  name: Blue Hill
+  country_id: 184
+  country_code: SH
+  country_name: Saint Helena
+  state_code: '02'
+  type: district
+  latitude: "-15.98354720"
+  longitude: "-5.79656520"
+- id: 5442
+  name: Half Tree Hollow
+  country_id: 184
+  country_code: SH
+  country_name: Saint Helena
+  state_code: '03'
+  type: district
+  latitude: "-15.93468450"
+  longitude: "-5.73134770"
+- id: 5443
+  name: Jamestown
+  country_id: 184
+  country_code: SH
+  country_name: Saint Helena
+  state_code: '04'
+  type: district
+  latitude: "-15.92883080"
+  longitude: "-5.72033380"
+- id: 5444
+  name: Levelwood
+  country_id: 184
+  country_code: SH
+  country_name: Saint Helena
+  state_code: '05'
+  type: district
+  latitude: "-15.97475430"
+  longitude: "-5.70960800"
+- id: 5445
+  name: Longwood
+  country_id: 184
+  country_code: SH
+  country_name: Saint Helena
+  state_code: '06'
+  type: district
+  latitude: "-15.94458630"
+  longitude: "-5.69502720"
+- id: 5447
+  name: Saint Paul's
+  country_id: 184
+  country_code: SH
+  country_name: Saint Helena
+  state_code: '08'
+  type: district
+  latitude: "-15.98695810"
+  longitude: "-5.78096580"
+- id: 5446
+  name: Sandy Bay
+  country_id: 184
+  country_code: SH
+  country_name: Saint Helena
+  state_code: '07'
+  type: district
+  latitude: "-15.99187410"
+  longitude: "-5.73991510"

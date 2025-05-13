@@ -1,0 +1,46 @@
+---
+- id: 1992
+  name: Capital
+  country_id: 18
+  country_code: BH
+  country_name: Bahrain
+  state_code: '13'
+  type: governorate
+  latitude:
+  longitude:
+- id: 1996
+  name: Central
+  country_id: 18
+  country_code: BH
+  country_name: Bahrain
+  state_code: '16'
+  type: governorate
+  latitude: '26.14260930'
+  longitude: '50.56532940'
+- id: 1995
+  name: Muharraq
+  country_id: 18
+  country_code: BH
+  country_name: Bahrain
+  state_code: '15'
+  type: governorate
+  latitude: '26.26856530'
+  longitude: '50.64825170'
+- id: 1994
+  name: Northern
+  country_id: 18
+  country_code: BH
+  country_name: Bahrain
+  state_code: '17'
+  type: governorate
+  latitude: '26.15519140'
+  longitude: '50.48251730'
+- id: 1993
+  name: Southern
+  country_id: 18
+  country_code: BH
+  country_name: Bahrain
+  state_code: '14'
+  type: governorate
+  latitude: '25.93810180'
+  longitude: '50.57568870'

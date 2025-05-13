@@ -1,0 +1,1013 @@
+---
+- id: 9159
+  name: Barani
+  state_id: 3138
+  state_code: '01'
+  state_name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.16910000'
+  longitude: "-3.88990000"
+  wikiDataId: Q639674
+- id: 9164
+  name: Boromo
+  state_id: 3138
+  state_code: '01'
+  state_name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.74542000'
+  longitude: "-2.93006000"
+  wikiDataId: Q894055
+- id: 9172
+  name: Dédougou
+  state_id: 3138
+  state_code: '01'
+  state_name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.46338000'
+  longitude: "-3.46075000"
+  wikiDataId: Q934436
+- id: 9192
+  name: Nouna
+  state_id: 3138
+  state_code: '01'
+  state_name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.72939000'
+  longitude: "-3.86305000"
+  wikiDataId: Q3344855
+- id: 9203
+  name: Province de la Kossi
+  state_id: 3138
+  state_code: '01'
+  state_name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.91667000'
+  longitude: "-3.83333000"
+  wikiDataId: Q1074485
+- id: 9208
+  name: Province des Balé
+  state_id: 3138
+  state_code: '01'
+  state_name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.71667000'
+  longitude: "-3.05000000"
+  wikiDataId: Q805913
+- id: 9209
+  name: Province des Banwa
+  state_id: 3138
+  state_code: '01'
+  state_name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.16667000'
+  longitude: "-4.16667000"
+  wikiDataId: Q674664
+- id: 9221
+  name: Province du Mouhoun
+  state_id: 3138
+  state_code: '01'
+  state_name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.25000000'
+  longitude: "-3.41667000"
+  wikiDataId: Q1142050
+- id: 9223
+  name: Province du Nayala
+  state_id: 3138
+  state_code: '01'
+  state_name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.66667000'
+  longitude: "-3.00000000"
+  wikiDataId: Q1141776
+- id: 9230
+  name: Province du Sourou
+  state_id: 3138
+  state_code: '01'
+  state_name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.25000000'
+  longitude: "-3.00000000"
+  wikiDataId: Q558703
+- id: 9239
+  name: Salanso
+  state_id: 3138
+  state_code: '01'
+  state_name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.17423000'
+  longitude: "-4.08477000"
+  wikiDataId: Q2102129
+- id: 9244
+  name: Toma
+  state_id: 3138
+  state_code: '01'
+  state_name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.75844000'
+  longitude: "-2.89879000"
+  wikiDataId: Q2304523
+- id: 9245
+  name: Tougan
+  state_id: 3138
+  state_code: '01'
+  state_name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.07250000'
+  longitude: "-3.06940000"
+  wikiDataId: Q558346
+- id: 9158
+  name: Banfora
+  state_id: 3153
+  state_code: '02'
+  state_name: Cascades
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '10.63333000'
+  longitude: "-4.76667000"
+  wikiDataId: Q639674
+- id: 9200
+  name: Province de la Comoé
+  state_id: 3153
+  state_code: '02'
+  state_name: Cascades
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '10.33333000'
+  longitude: "-4.41667000"
+  wikiDataId: Q1074496
+- id: 9204
+  name: Province de la Léraba
+  state_id: 3153
+  state_code: '02'
+  state_name: Cascades
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '10.66667000'
+  longitude: "-5.20000000"
+  wikiDataId: Q977607
+- id: 9241
+  name: Sindou
+  state_id: 3153
+  state_code: '02'
+  state_name: Cascades
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '10.66667000'
+  longitude: "-5.16667000"
+  wikiDataId: Q1507575
+- id: 9181
+  name: Kadiogo Province
+  state_id: 3136
+  state_code: '03'
+  state_name: Centre
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.33333000'
+  longitude: "-1.50000000"
+  wikiDataId: Q1074530
+- id: 9193
+  name: Ouagadougou
+  state_id: 3136
+  state_code: '03'
+  state_name: Centre
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.36566000'
+  longitude: "-1.53388000"
+  wikiDataId: Q3777
+- id: 9174
+  name: Garango
+  state_id: 3162
+  state_code: '04'
+  state_name: Centre-Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.80000000'
+  longitude: "-0.55056000"
+  wikiDataId: Q2668534
+- id: 9187
+  name: Koupéla
+  state_id: 3162
+  state_code: '04'
+  state_name: Centre-Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.17864000'
+  longitude: "-0.35103000"
+  wikiDataId: Q116524
+- id: 9188
+  name: Kouritenga Province
+  state_id: 3162
+  state_code: '04'
+  state_name: Centre-Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.20000000'
+  longitude: "-0.30000000"
+  wikiDataId: Q1141767
+- id: 9195
+  name: Ouargaye
+  state_id: 3162
+  state_code: '04'
+  state_name: Centre-Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.50202000'
+  longitude: '0.05886000'
+  wikiDataId: Q1570493
+- id: 9211
+  name: Province du Boulgou
+  state_id: 3162
+  state_code: '04'
+  state_name: Centre-Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.50000000'
+  longitude: "-0.41667000"
+  wikiDataId: Q895097
+- id: 9217
+  name: Province du Koulpélogo
+  state_id: 3162
+  state_code: '04'
+  state_name: Centre-Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.41667000'
+  longitude: '0.16667000'
+  wikiDataId: Q934923
+- id: 9242
+  name: Tenkodogo
+  state_id: 3162
+  state_code: '04'
+  state_name: Centre-Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.78000000'
+  longitude: "-0.36972000"
+  wikiDataId: Q621925
+- id: 9165
+  name: Boulsa
+  state_id: 3127
+  state_code: '05'
+  state_name: Centre-Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.66664000'
+  longitude: "-0.57469000"
+  wikiDataId: Q895110
+- id: 9182
+  name: Kaya
+  state_id: 3127
+  state_code: '05'
+  state_name: Centre-Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.09167000'
+  longitude: "-1.08444000"
+  wikiDataId: Q766464
+- id: 9185
+  name: Kongoussi
+  state_id: 3127
+  state_code: '05'
+  state_name: Centre-Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.32583000'
+  longitude: "-1.53472000"
+  wikiDataId: Q163352
+- id: 9210
+  name: Province du Bam
+  state_id: 3127
+  state_code: '05'
+  state_name: Centre-Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.46667000'
+  longitude: "-1.58333000"
+  wikiDataId: Q620710
+- id: 9222
+  name: Province du Namentenga
+  state_id: 3127
+  state_code: '05'
+  state_name: Centre-Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.25000000'
+  longitude: "-0.50000000"
+  wikiDataId: Q1142044
+- id: 9228
+  name: Province du Sanmatenga
+  state_id: 3127
+  state_code: '05'
+  state_name: Centre-Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.25000000'
+  longitude: "-1.08333000"
+  wikiDataId: Q1142039
+- id: 9178
+  name: Goulouré
+  state_id: 3115
+  state_code: '06'
+  state_name: Centre-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.23484000'
+  longitude: "-1.93394000"
+  wikiDataId: Q741117
+- id: 9183
+  name: Kokologo
+  state_id: 3115
+  state_code: '06'
+  state_name: Centre-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.19392000'
+  longitude: "-1.87687000"
+  wikiDataId: Q1778964
+- id: 9186
+  name: Koudougou
+  state_id: 3115
+  state_code: '06'
+  state_name: Centre-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.25263000'
+  longitude: "-2.36272000"
+  wikiDataId: Q460697
+- id: 9189
+  name: Léo
+  state_id: 3115
+  state_code: '06'
+  state_name: Centre-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.10033000'
+  longitude: "-2.10654000"
+  wikiDataId: Q650951
+- id: 9198
+  name: Pitmoaga
+  state_id: 3115
+  state_code: '06'
+  state_name: Centre-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.24564000'
+  longitude: "-1.88148000"
+  wikiDataId: Q7199006
+- id: 9205
+  name: Province de la Sissili
+  state_id: 3115
+  state_code: '06'
+  state_name: Centre-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.33333000'
+  longitude: "-2.25000000"
+  wikiDataId: Q964281
+- id: 9212
+  name: Province du Boulkiemdé
+  state_id: 3115
+  state_code: '06'
+  state_name: Centre-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.33333000'
+  longitude: "-2.16667000"
+  wikiDataId: Q895102
+- id: 9227
+  name: Province du Sanguié
+  state_id: 3115
+  state_code: '06'
+  state_name: Centre-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.16667000'
+  longitude: "-2.66667000"
+  wikiDataId: Q1142014
+- id: 9235
+  name: Province du Ziro
+  state_id: 3115
+  state_code: '06'
+  state_name: Centre-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.58333000'
+  longitude: "-1.91667000"
+  wikiDataId: Q206019
+- id: 9238
+  name: Réo
+  state_id: 3115
+  state_code: '06'
+  state_name: Centre-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.31963000'
+  longitude: "-2.47094000"
+  wikiDataId: Q1817933
+- id: 9240
+  name: Sapouy
+  state_id: 3115
+  state_code: '06'
+  state_name: Centre-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.55444000'
+  longitude: "-1.77361000"
+  wikiDataId: Q2183729
+- id: 9161
+  name: Bazega Province
+  state_id: 3149
+  state_code: '07'
+  state_name: Centre-Sud
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.91667000'
+  longitude: "-1.50000000"
+  wikiDataId: Q619764
+- id: 9184
+  name: Kombissiri
+  state_id: 3149
+  state_code: '07'
+  state_name: Centre-Sud
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.06884000'
+  longitude: "-1.33644000"
+  wikiDataId: Q1642022
+- id: 9190
+  name: Manga
+  state_id: 3149
+  state_code: '07'
+  state_name: Centre-Sud
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.66361000'
+  longitude: "-1.07306000"
+  wikiDataId: Q999498
+- id: 9191
+  name: Nahouri Province
+  state_id: 3149
+  state_code: '07'
+  state_name: Centre-Sud
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.25000000'
+  longitude: "-1.25000000"
+  wikiDataId: Q1142003
+- id: 9237
+  name: Pô
+  state_id: 3149
+  state_code: '07'
+  state_name: Centre-Sud
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.16972000'
+  longitude: "-1.14500000"
+  wikiDataId: Q1756613
+- id: 9249
+  name: Zoundweogo Province
+  state_id: 3149
+  state_code: '07'
+  state_name: Centre-Sud
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.58333000'
+  longitude: "-1.00000000"
+  wikiDataId: Q227059
+- id: 9163
+  name: Bogandé
+  state_id: 3158
+  state_code: '08'
+  state_name: Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.97040000'
+  longitude: "-0.14953000"
+  wikiDataId: Q890373
+- id: 9168
+  name: Diapaga
+  state_id: 3158
+  state_code: '08'
+  state_name: Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.07305000'
+  longitude: '1.78838000'
+  wikiDataId: Q254514
+- id: 9173
+  name: Fada N'gourma
+  state_id: 3158
+  state_code: '08'
+  state_name: Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.06157000'
+  longitude: '0.35843000'
+  wikiDataId: Q990122
+- id: 9175
+  name: Gayéri
+  state_id: 3158
+  state_code: '08'
+  state_name: Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.64824000'
+  longitude: '0.49314000'
+  wikiDataId: Q2668534
+- id: 9176
+  name: Gnagna Province
+  state_id: 3158
+  state_code: '08'
+  state_name: Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.91880000'
+  longitude: '0.03920000'
+  wikiDataId: Q1074144
+- id: 9197
+  name: Pama
+  state_id: 3158
+  state_code: '08'
+  state_name: Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.24972000'
+  longitude: '0.70750000'
+  wikiDataId: Q2048608
+- id: 9201
+  name: Province de la Komandjoari
+  state_id: 3158
+  state_code: '08'
+  state_name: Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.66667000'
+  longitude: '0.66667000'
+  wikiDataId: Q1074479
+- id: 9202
+  name: Province de la Kompienga
+  state_id: 3158
+  state_code: '08'
+  state_name: Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.41667000'
+  longitude: '0.91667000'
+  wikiDataId: Q1142059
+- id: 9206
+  name: Province de la Tapoa
+  state_id: 3158
+  state_code: '08'
+  state_name: Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.00000000'
+  longitude: '1.75000000'
+  wikiDataId: Q621983
+- id: 9214
+  name: Province du Gourma
+  state_id: 3158
+  state_code: '08'
+  state_name: Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.08333000'
+  longitude: '0.50000000'
+  wikiDataId: Q432317
+- id: 9162
+  name: Bobo-Dioulasso
+  state_id: 3165
+  state_code: '09'
+  state_name: Hauts-Bassins
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.17715000'
+  longitude: "-4.29790000"
+  wikiDataId: Q223761
+- id: 9180
+  name: Houndé
+  state_id: 3165
+  state_code: '09'
+  state_name: Hauts-Bassins
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.50000000'
+  longitude: "-3.51667000"
+  wikiDataId: Q999435
+- id: 9215
+  name: Province du Houet
+  state_id: 3165
+  state_code: '09'
+  state_name: Hauts-Bassins
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.33333000'
+  longitude: "-4.25000000"
+  wikiDataId: Q1074161
+- id: 9219
+  name: Province du Kénédougou
+  state_id: 3165
+  state_code: '09'
+  state_name: Hauts-Bassins
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.41667000'
+  longitude: "-5.00000000"
+  wikiDataId: Q1150901
+- id: 9232
+  name: Province du Tuy
+  state_id: 3165
+  state_code: '09'
+  state_name: Hauts-Bassins
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.41667000'
+  longitude: "-3.41667000"
+  wikiDataId: Q627844
+- id: 9179
+  name: Gourcy
+  state_id: 3164
+  state_code: '10'
+  state_name: Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.20776000'
+  longitude: "-2.35893000"
+  wikiDataId: Q1540219
+- id: 9194
+  name: Ouahigouya
+  state_id: 3164
+  state_code: '10'
+  state_name: Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.58278000'
+  longitude: "-2.42158000"
+  wikiDataId: Q569904
+- id: 9220
+  name: Province du Loroum
+  state_id: 3164
+  state_code: '10'
+  state_name: Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.91667000'
+  longitude: "-2.16667000"
+  wikiDataId: Q1142054
+- id: 9225
+  name: Province du Passoré
+  state_id: 3164
+  state_code: '10'
+  state_name: Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.91667000'
+  longitude: "-2.16667000"
+  wikiDataId: Q1142008
+- id: 9234
+  name: Province du Yatenga
+  state_id: 3164
+  state_code: '10'
+  state_name: Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.58333000'
+  longitude: "-2.41667000"
+  wikiDataId: Q1074521
+- id: 9236
+  name: Province du Zondoma
+  state_id: 3164
+  state_code: '10'
+  state_name: Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.18333000'
+  longitude: "-2.36667000"
+  wikiDataId: Q219859
+- id: 9243
+  name: Titao
+  state_id: 3164
+  state_code: '10'
+  state_name: Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.76667000'
+  longitude: "-2.06667000"
+  wikiDataId: Q1861898
+- id: 9246
+  name: Yako
+  state_id: 3164
+  state_code: '10'
+  state_name: Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.95910000'
+  longitude: "-2.26075000"
+  wikiDataId: Q940973
+- id: 9166
+  name: Boussé
+  state_id: 3125
+  state_code: '11'
+  state_name: Plateau-Central
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.66121000'
+  longitude: "-1.89515000"
+  wikiDataId: Q895281
+- id: 9196
+  name: Oubritenga
+  state_id: 3125
+  state_code: '11'
+  state_name: Plateau-Central
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.66667000'
+  longitude: "-1.33333000"
+  wikiDataId: Q1142026
+- id: 9213
+  name: Province du Ganzourgou
+  state_id: 3125
+  state_code: '11'
+  state_name: Plateau-Central
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.26667000'
+  longitude: "-0.76667000"
+  wikiDataId: Q182889
+- id: 9218
+  name: Province du Kourwéogo
+  state_id: 3125
+  state_code: '11'
+  state_name: Plateau-Central
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.58333000'
+  longitude: "-1.76667000"
+  wikiDataId: Q661376
+- id: 9247
+  name: Ziniaré
+  state_id: 3125
+  state_code: '11'
+  state_name: Plateau-Central
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.58186000'
+  longitude: "-1.29710000"
+  wikiDataId: Q15647343
+- id: 9248
+  name: Zorgo
+  state_id: 3125
+  state_code: '11'
+  state_name: Plateau-Central
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '12.24922000'
+  longitude: "-0.61527000"
+  wikiDataId: Q929255
+- id: 9170
+  name: Djibo
+  state_id: 3114
+  state_code: '12'
+  state_name: Sahel
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '14.09940000'
+  longitude: "-1.62554000"
+  wikiDataId: Q578567
+- id: 9171
+  name: Dori
+  state_id: 3114
+  state_code: '12'
+  state_name: Sahel
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '14.03540000'
+  longitude: "-0.03450000"
+  wikiDataId: Q999493
+- id: 9177
+  name: Gorom-Gorom
+  state_id: 3114
+  state_code: '12'
+  state_name: Sahel
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '14.44290000'
+  longitude: "-0.23468000"
+  wikiDataId: Q741117
+- id: 9207
+  name: Province de l’Oudalan
+  state_id: 3114
+  state_code: '12'
+  state_name: Sahel
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '14.66667000'
+  longitude: "-0.33333000"
+  wikiDataId: Q514173
+- id: 9231
+  name: Province du Séno
+  state_id: 3114
+  state_code: '12'
+  state_name: Sahel
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.96400000'
+  longitude: '0.01200000'
+  wikiDataId: Q1061214
+- id: 9229
+  name: Province du Soum
+  state_id: 3114
+  state_code: '12'
+  state_name: Sahel
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '14.33333000'
+  longitude: "-1.25000000"
+  wikiDataId: Q385973
+- id: 9233
+  name: Province du Yagha
+  state_id: 3114
+  state_code: '12'
+  state_name: Sahel
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '13.41667000'
+  longitude: '0.58333000'
+  wikiDataId: Q1074466
+- id: 9160
+  name: Batié
+  state_id: 3140
+  state_code: '13'
+  state_name: Sud-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '9.88333000'
+  longitude: "-2.91667000"
+  wikiDataId: Q639674
+- id: 9167
+  name: Dano
+  state_id: 3140
+  state_code: '13'
+  state_name: Sud-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.14640000'
+  longitude: "-3.05784000"
+  wikiDataId: Q1164836
+- id: 9169
+  name: Diébougou
+  state_id: 3140
+  state_code: '13'
+  state_name: Sud-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '10.96209000'
+  longitude: "-3.24967000"
+  wikiDataId: Q578567
+- id: 9199
+  name: Province de la Bougouriba
+  state_id: 3140
+  state_code: '13'
+  state_name: Sud-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '10.83333000'
+  longitude: "-3.41667000"
+  wikiDataId: Q676641
+- id: 9216
+  name: Province du Ioba
+  state_id: 3140
+  state_code: '13'
+  state_name: Sud-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '11.08333000'
+  longitude: "-3.08333000"
+  wikiDataId: Q1074154
+- id: 9224
+  name: Province du Noumbièl
+  state_id: 3140
+  state_code: '13'
+  state_name: Sud-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '9.83333000'
+  longitude: "-3.00000000"
+  wikiDataId: Q646647
+- id: 9226
+  name: Province du Poni
+  state_id: 3140
+  state_code: '13'
+  state_name: Sud-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  latitude: '10.25000000'
+  longitude: "-3.41667000"
+  wikiDataId: Q953657

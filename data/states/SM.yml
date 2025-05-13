@@ -1,0 +1,82 @@
+---
+- id: 59
+  name: Acquaviva
+  country_id: 192
+  country_code: SM
+  country_name: San Marino
+  state_code: '01'
+  type: municipality
+  latitude: '41.86715970'
+  longitude: '14.74694790'
+- id: 61
+  name: Borgo Maggiore
+  country_id: 192
+  country_code: SM
+  country_name: San Marino
+  state_code: '06'
+  type: municipality
+  latitude: '43.95748820'
+  longitude: '12.45525460'
+- id: 60
+  name: Chiesanuova
+  country_id: 192
+  country_code: SM
+  country_name: San Marino
+  state_code: '02'
+  type: municipality
+  latitude: '45.42261720'
+  longitude: '7.65038540'
+- id: 64
+  name: Domagnano
+  country_id: 192
+  country_code: SM
+  country_name: San Marino
+  state_code: '03'
+  type: municipality
+  latitude: '43.95019290'
+  longitude: '12.46815370'
+- id: 62
+  name: Faetano
+  country_id: 192
+  country_code: SM
+  country_name: San Marino
+  state_code: '04'
+  type: municipality
+  latitude: '43.93489670'
+  longitude: '12.48965540'
+- id: 66
+  name: Fiorentino
+  country_id: 192
+  country_code: SM
+  country_name: San Marino
+  state_code: '05'
+  type: municipality
+  latitude: '43.90783370'
+  longitude: '12.45812090'
+- id: 63
+  name: Montegiardino
+  country_id: 192
+  country_code: SM
+  country_name: San Marino
+  state_code: '08'
+  type: municipality
+  latitude: '43.90529990'
+  longitude: '12.48105420'
+- id: 58
+  name: San Marino
+  country_id: 192
+  country_code: SM
+  country_name: San Marino
+  state_code: '07'
+  type: municipality
+  latitude: '43.94236000'
+  longitude: '12.45777700'
+- id: 65
+  name: Serravalle
+  country_id: 192
+  country_code: SM
+  country_name: San Marino
+  state_code: '09'
+  type: municipality
+  latitude: '44.72320840'
+  longitude: '8.85740050'

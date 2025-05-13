@@ -1,0 +1,226 @@
+---
+- id: 2594
+  name: Addu
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '01'
+  type: city
+  latitude: "-0.63009950"
+  longitude: '73.15856260'
+- id: 2587
+  name: Alif Alif
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '02'
+  type: administrative atoll
+  latitude: '4.08500000'
+  longitude: '72.85154790'
+- id: 2600
+  name: Alif Dhaal
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '00'
+  type: administrative atoll
+  latitude: '3.65433020'
+  longitude: '72.80427970'
+- id: 2604
+  name: Central
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: CE
+  type: province
+  latitude:
+  longitude:
+- id: 2590
+  name: Dhaalu
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '17'
+  type: administrative atoll
+  latitude: '2.84685020'
+  longitude: '72.94605660'
+- id: 2599
+  name: Faafu
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '14'
+  type: administrative atoll
+  latitude: '3.23094090'
+  longitude: '72.94605660'
+- id: 2598
+  name: Gaafu Alif
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '27'
+  type: administrative atoll
+  latitude: '0.61248130'
+  longitude: '73.32370800'
+- id: 2603
+  name: Gaafu Dhaalu
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '28'
+  type: administrative atoll
+  latitude: '0.35880400'
+  longitude: '73.18216230'
+- id: 2595
+  name: Gnaviyani
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '29'
+  type: administrative atoll
+  latitude: "-0.30064250"
+  longitude: '73.42391430'
+- id: 2586
+  name: Haa Alif
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '07'
+  type: administrative atoll
+  latitude: '6.99034880'
+  longitude: '72.94605660'
+- id: 2597
+  name: Haa Dhaalu
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '23'
+  type: administrative atoll
+  latitude: '6.57827170'
+  longitude: '72.94605660'
+- id: 2596
+  name: Kaafu
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '26'
+  type: administrative atoll
+  latitude: '4.45589790'
+  longitude: '73.55941280'
+- id: 2601
+  name: Laamu
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '05'
+  type: administrative atoll
+  latitude: '1.94307370'
+  longitude: '73.41802110'
+- id: 2607
+  name: Lhaviyani
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '03'
+  type: administrative atoll
+  latitude: '5.37470210'
+  longitude: '73.51229280'
+- id: 2609
+  name: Malé
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: MLE
+  type: administrative atoll
+  latitude: '46.34888670'
+  longitude: '10.90724890'
+- id: 2608
+  name: Meemu
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '12'
+  type: administrative atoll
+  latitude: '3.00903450'
+  longitude: '73.51229280'
+- id: 2592
+  name: Noonu
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '25'
+  type: administrative atoll
+  latitude: '5.85512760'
+  longitude: '73.32370800'
+- id: 2589
+  name: North Central
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: NC
+  type: province
+  latitude:
+  longitude:
+- id: 2602
+  name: Raa
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '13'
+  type: administrative atoll
+  latitude: '5.60064570'
+  longitude: '72.94605660'
+- id: 2585
+  name: Shaviyani
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '24'
+  type: administrative atoll
+  latitude: '6.17511000'
+  longitude: '73.13496050'
+- id: 2605
+  name: South
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: SU
+  type: province
+  latitude: "-21.74820060"
+  longitude: '166.17837390'
+- id: 2606
+  name: South Central
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: SC
+  type: province
+  latitude: '7.25649960'
+  longitude: '80.72144170'
+- id: 2591
+  name: Thaa
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '08'
+  type: administrative atoll
+  latitude: '2.43111610'
+  longitude: '73.18216230'
+- id: 2593
+  name: Upper South
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: US
+  type: province
+  latitude: '0.23070000'
+  longitude: '73.27948460'
+- id: 2584
+  name: Vaavu
+  country_id: 133
+  country_code: MV
+  country_name: Maldives
+  state_code: '04'
+  type: administrative atoll
+  latitude: '3.39554380'
+  longitude: '73.51229280'

@@ -1,0 +1,343 @@
+---
+- id: 2116
+  name: Achaea
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '13'
+  type: regional unit
+  latitude: '38.11587290'
+  longitude: '21.95224910'
+- id: 2123
+  name: Aetolia-Acarnania
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '01'
+  type: regional unit
+  latitude: '38.70843860'
+  longitude: '21.37989280'
+- id: 2098
+  name: Arcadia
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '12'
+  type: prefecture
+  latitude: '37.55578250'
+  longitude: '22.33377690'
+- id: 2105
+  name: Argolis
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '11'
+  type: regional unit
+  latitude:
+  longitude:
+- id: 2122
+  name: Attica
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: I
+  type: administrative region
+  latitude: '38.04575680'
+  longitude: '23.85847370'
+- id: 2126
+  name: Boeotia
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '03'
+  type: regional unit
+  latitude: '38.36636640'
+  longitude: '23.09650640'
+- id: 2128
+  name: Central Greece
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: H
+  type: administrative region
+  latitude: '38.60439840'
+  longitude: '22.71521310'
+- id: 2125
+  name: Central Macedonia
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: B
+  type: administrative region
+  latitude: '40.62117300'
+  longitude: '23.19180210'
+- id: 2115
+  name: Chania
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '94'
+  type: regional unit
+  latitude: '35.51382980'
+  longitude: '24.01803670'
+- id: 2124
+  name: Corfu
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '22'
+  type: prefecture
+  latitude: '39.62498380'
+  longitude: '19.92234610'
+- id: 2129
+  name: Corinthia
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '15'
+  type: regional unit
+  latitude:
+  longitude:
+- id: 2109
+  name: Crete
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: M
+  type: administrative region
+  latitude: '35.24011700'
+  longitude: '24.80926910'
+- id: 2130
+  name: Drama
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '52'
+  type: regional unit
+  latitude: '41.23400230'
+  longitude: '24.23904980'
+- id: 2120
+  name: East Attica
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: A2
+  type: administrative region
+  latitude: '38.20540930'
+  longitude: '23.85847370'
+- id: 2117
+  name: East Macedonia and Thrace
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: A
+  type: administrative region
+  latitude: '41.12951260'
+  longitude: '24.88771910'
+- id: 2110
+  name: Epirus
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: D
+  type: administrative region
+  latitude: '39.57064130'
+  longitude: '20.76428430'
+- id: 2101
+  name: Euboea
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '04'
+  type: prefecture
+  latitude: '38.52360360'
+  longitude: '23.85847370'
+- id: 2102
+  name: Grevena
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '51'
+  type: prefecture
+  latitude: '40.08376260'
+  longitude: '21.42732990'
+- id: 2099
+  name: 'Imathia '
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '53'
+  type: regional unit
+  latitude: '40.60600670'
+  longitude: '22.14302150'
+- id: 2113
+  name: Ioannina
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '33'
+  type: regional unit
+  latitude: '39.66502880'
+  longitude: '20.85374660'
+- id: 2131
+  name: Ionian Islands
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: F
+  type: administrative region
+  latitude: '37.96948980'
+  longitude: '21.38023720'
+- id: 2095
+  name: Karditsa
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '41'
+  type: regional unit
+  latitude: '39.36402580'
+  longitude: '21.92140490'
+- id: 2100
+  name: Kastoria
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '56'
+  type: regional unit
+  latitude: '40.51926910'
+  longitude: '21.26871710'
+- id: 2127
+  name: Kefalonia
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '23'
+  type: prefecture
+  latitude: '38.17536750'
+  longitude: '20.56921790'
+- id: 2111
+  name: Kilkis
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '57'
+  type: regional unit
+  latitude: '40.99370710'
+  longitude: '22.87536740'
+- id: 2112
+  name: Kozani
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '58'
+  type: prefecture
+  latitude: '40.30055860'
+  longitude: '21.78877370'
+- id: 2106
+  name: Laconia
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '16'
+  type: prefecture
+  latitude: '43.52785460'
+  longitude: "-71.47035090"
+- id: 2132
+  name: Larissa
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '42'
+  type: prefecture
+  latitude: '39.63902240'
+  longitude: '22.41912540'
+- id: 2104
+  name: Lefkada
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '24'
+  type: regional unit
+  latitude: '38.83336630'
+  longitude: '20.70691080'
+- id: 2107
+  name: Pella
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '59'
+  type: regional unit
+  latitude: '40.91480390'
+  longitude: '22.14302150'
+- id: 2119
+  name: Peloponnese
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: J
+  type: administrative region
+  latitude: '37.50794720'
+  longitude: '22.37349000'
+- id: 2114
+  name: Phthiotis
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '06'
+  type: prefecture
+  latitude: '38.99978500'
+  longitude: '22.33377690'
+- id: 2103
+  name: Preveza
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '34'
+  type: prefecture
+  latitude: '38.95926490'
+  longitude: '20.75171550'
+- id: 2121
+  name: Serres
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '62'
+  type: prefecture
+  latitude: '41.08638540'
+  longitude: '23.54838190'
+- id: 2118
+  name: South Aegean
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: L
+  type: administrative region
+  latitude: '37.08553020'
+  longitude: '25.14892150'
+- id: 2097
+  name: Thessaloniki
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: '54'
+  type: regional unit
+  latitude: '40.64006290'
+  longitude: '22.94441910'
+- id: 2096
+  name: West Greece
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: G
+  type: administrative region
+  latitude: '38.51154960'
+  longitude: '21.57067860'
+- id: 2108
+  name: West Macedonia
+  country_id: 85
+  country_code: GR
+  country_name: Greece
+  state_code: C
+  type: administrative region
+  latitude: '40.30040580'
+  longitude: '21.79035590'

@@ -1,0 +1,217 @@
+---
+- id: 513
+  name: Anse Boileau
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '02'
+  type: district
+  latitude: "-4.70472680"
+  longitude: '55.48593630'
+- id: 502
+  name: Anse Royale
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '05'
+  type: district
+  latitude: "-4.74079880"
+  longitude: '55.50810120'
+- id: 506
+  name: Anse-aux-Pins
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '01'
+  type: district
+  latitude: "-4.69004430"
+  longitude: '55.51502890'
+- id: 508
+  name: Au Cap
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '04'
+  type: district
+  latitude: "-4.70597230"
+  longitude: '55.50810120'
+- id: 497
+  name: Baie Lazare
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '06'
+  type: district
+  latitude: "-4.74825250"
+  longitude: '55.48593630'
+- id: 514
+  name: Baie Sainte Anne
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '07'
+  type: district
+  latitude: '47.05259000'
+  longitude: "-64.95245790"
+- id: 512
+  name: Beau Vallon
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '08'
+  type: district
+  latitude: "-4.62109670"
+  longitude: '55.42778020'
+- id: 515
+  name: Bel Air
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '09'
+  type: district
+  latitude: '34.10024550'
+  longitude: "-118.45946300"
+- id: 505
+  name: Bel Ombre
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '10'
+  type: district
+  latitude: "-20.50100950"
+  longitude: '57.42596240'
+- id: 517
+  name: Cascade
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '11'
+  type: district
+  latitude: '44.51628210'
+  longitude: "-116.04179830"
+- id: 503
+  name: Glacis
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '12'
+  type: district
+  latitude: '47.11573030'
+  longitude: "-70.30281830"
+- id: 500
+  name: Grand'Anse Mahé
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '13'
+  type: district
+  latitude: "-4.67739200"
+  longitude: '55.46377700'
+- id: 504
+  name: Grand'Anse Praslin
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '14'
+  type: district
+  latitude: "-4.31762190"
+  longitude: '55.70783630'
+- id: 495
+  name: La Digue
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '15'
+  type: district
+  latitude: '49.76669220'
+  longitude: "-97.15466290"
+- id: 516
+  name: La Rivière Anglaise
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '16'
+  type: district
+  latitude: "-4.61061500"
+  longitude: '55.45408410'
+- id: 499
+  name: Les Mamelles
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '24'
+  type: district
+  latitude: '38.82505050'
+  longitude: "-90.48345170"
+- id: 494
+  name: Mont Buxton
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '17'
+  type: district
+  latitude: "-4.61666670"
+  longitude: '55.44577680'
+- id: 498
+  name: Mont Fleuri
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '18'
+  type: district
+  latitude: "-4.63565430"
+  longitude: '55.45546880'
+- id: 511
+  name: Plaisance
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '19'
+  type: district
+  latitude: '45.60709500'
+  longitude: "-75.11427450"
+- id: 510
+  name: Pointe La Rue
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '20'
+  type: district
+  latitude: "-4.68048900"
+  longitude: '55.51918570'
+- id: 507
+  name: Port Glaud
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '21'
+  type: district
+  latitude: "-4.64885230"
+  longitude: '55.41947530'
+- id: 501
+  name: Roche Caiman
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '25'
+  type: district
+  latitude: "-4.63960280"
+  longitude: '55.46793150'
+- id: 496
+  name: Saint Louis
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '22'
+  type: district
+  latitude: '38.62700250'
+  longitude: "-90.19940420"
+- id: 509
+  name: Takamaka
+  country_id: 197
+  country_code: SC
+  country_name: Seychelles
+  state_code: '23'
+  type: district
+  latitude: '37.96459170'
+  longitude: "-1.22177270"

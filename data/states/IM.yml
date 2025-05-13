@@ -1,0 +1,55 @@
+---
+- id: 5303
+  name: Ayre
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  state_code: '01'
+  type: sheadings
+  latitude: '54.32975770'
+  longitude: "-4.60258790"
+- id: 5304
+  name: Garff
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  state_code: '02'
+  type: sheadings
+  latitude: '54.25687200'
+  longitude: "-4.55473070"
+- id: 5305
+  name: Glenfaba
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  state_code: '03'
+  type: sheadings
+  latitude: '54.19855340'
+  longitude: "-4.81314070"
+- id: 5306
+  name: Michael
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  state_code: '04'
+  type: sheadings
+  latitude: '54.27427780'
+  longitude: "-4.64273250"
+- id: 5307
+  name: Middle
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  state_code: '05'
+  type: sheadings
+  latitude: '54.17770520'
+  longitude: "-4.81064360"
+- id: 5308
+  name: Rushen
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  state_code: '06'
+  type: sheadings
+  latitude: '54.09574060'
+  longitude: "-4.82835170"

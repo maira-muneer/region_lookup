@@ -1,0 +1,28 @@
+---
+- id: 5074
+  name: Saint Croix
+  country_id: 242
+  country_code: VI
+  country_name: Virgin Islands (US)
+  state_code: SC
+  type: district
+  latitude: '17.72935200'
+  longitude: "-64.73437050"
+- id: 5073
+  name: Saint John
+  country_id: 242
+  country_code: VI
+  country_name: Virgin Islands (US)
+  state_code: SJ
+  type: district
+  latitude: '18.33561690'
+  longitude: "-64.80028000"
+- id: 5072
+  name: Saint Thomas
+  country_id: 242
+  country_code: VI
+  country_name: Virgin Islands (US)
+  state_code: ST
+  type: district
+  latitude: '18.34284590'
+  longitude: "-65.07701800"

@@ -1,0 +1,705 @@
+---
+- id: 153858
+  name: 'Barguna '
+  state_id: 807
+  state_code: A
+  state_name: 'Barisal '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.17167870'
+  longitude: '89.79740240'
+  wikiDataId: Q808172
+- id: 153857
+  name: 'Barisal '
+  state_id: 807
+  state_code: A
+  state_name: 'Barisal '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.42035790'
+  longitude: '89.78250340'
+  wikiDataId: Q459723
+- id: 153859
+  name: 'Bhola '
+  state_id: 807
+  state_code: A
+  state_name: 'Barisal '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.32452480'
+  longitude: '90.10568470'
+  wikiDataId: Q855042
+- id: 153860
+  name: 'Jhalokati '
+  state_id: 807
+  state_code: A
+  state_name: 'Barisal '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.56303520'
+  longitude: '89.87191590'
+  wikiDataId: Q2093327
+- id: 153861
+  name: 'Patuakhali '
+  state_id: 807
+  state_code: A
+  state_name: 'Barisal '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.18709170'
+  longitude: '89.71647060'
+  wikiDataId: Q1429761
+- id: 153862
+  name: 'Pirojpur '
+  state_id: 807
+  state_code: A
+  state_name: 'Barisal '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.50937910'
+  longitude: '89.36434220'
+  wikiDataId: Q609190
+- id: 8457
+  name: Bandarban
+  state_id: 803
+  state_code: B
+  state_name: 'Chittagong '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.00000000'
+  longitude: '92.33333000'
+  wikiDataId: Q806273
+- id: 8470
+  name: Brahmanbaria
+  state_id: 803
+  state_code: B
+  state_name: 'Chittagong '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.98333000'
+  longitude: '91.16667000'
+  wikiDataId: Q2039066
+- id: 8474
+  name: Chandpur
+  state_id: 803
+  state_code: B
+  state_name: 'Chittagong '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.25000000'
+  longitude: '90.83333000'
+  wikiDataId: Q1429697
+- id: 8481
+  name: Chittagong
+  state_id: 803
+  state_code: B
+  state_name: 'Chittagong '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.48750000'
+  longitude: '91.96333000'
+  wikiDataId: Q1074991
+- id: 8483
+  name: Comilla
+  state_id: 803
+  state_code: B
+  state_name: 'Chittagong '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.44170000'
+  longitude: '91.00987000'
+  wikiDataId: Q1480778
+- id: 8484
+  name: Cox's Bazar
+  state_id: 803
+  state_code: B
+  state_name: 'Chittagong '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '21.58389000'
+  longitude: '92.01528000'
+  wikiDataId: Q1122278
+- id: 8492
+  name: Feni
+  state_id: 803
+  state_code: B
+  state_name: 'Chittagong '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.96667000'
+  longitude: '91.31667000'
+  wikiDataId: Q1404741
+- id: 8512
+  name: Khagrachhari
+  state_id: 803
+  state_code: B
+  state_name: 'Chittagong '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.16667000'
+  longitude: '91.90000000'
+  wikiDataId: Q1429685
+- id: 8521
+  name: Lakshmipur
+  state_id: 803
+  state_code: B
+  state_name: 'Chittagong '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.91667000'
+  longitude: '90.83333000'
+  wikiDataId: Q1550252
+- id: 8553
+  name: Noakhali
+  state_id: 803
+  state_code: B
+  state_name: 'Chittagong '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.75000000'
+  longitude: '91.16667000'
+  wikiDataId: Q2188627
+- id: 8576
+  name: Rangamati
+  state_id: 803
+  state_code: B
+  state_name: 'Chittagong '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.63333000'
+  longitude: '92.20000000'
+  wikiDataId: Q2121686
+- id: 153863
+  name: 'Dhaka '
+  state_id: 760
+  state_code: C
+  state_name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.78417980'
+  longitude: '89.92859830'
+  wikiDataId: Q1850485
+- id: 153871
+  name: 'Faridpur '
+  state_id: 760
+  state_code: C
+  state_name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.45115240'
+  longitude: '89.52820380'
+  wikiDataId: Q2093552
+- id: 153864
+  name: 'Gazipur '
+  state_id: 760
+  state_code: C
+  state_name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.10914520'
+  longitude: '90.09596140'
+  wikiDataId: Q2094101
+- id: 153872
+  name: 'Gopalganj '
+  state_id: 760
+  state_code: C
+  state_name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.10660120'
+  longitude: '89.57802710'
+  wikiDataId: Q1537813
+- id: 153865
+  name: 'Kishoreganj '
+  state_id: 760
+  state_code: C
+  state_name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.33888030'
+  longitude: '90.58499800'
+  wikiDataId: Q2344833
+- id: 153873
+  name: 'Madaripur '
+  state_id: 760
+  state_code: C
+  state_name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.23455490'
+  longitude: '89.81089030'
+  wikiDataId: Q928836
+- id: 153866
+  name: 'Manikganj '
+  state_id: 760
+  state_code: C
+  state_name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.83174080'
+  longitude: '89.64097890'
+  wikiDataId: Q2024719
+- id: 153867
+  name: 'Munshiganj '
+  state_id: 760
+  state_code: C
+  state_name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.52615230'
+  longitude: '90.11590910'
+  wikiDataId: Q1990519
+- id: 153868
+  name: 'Narayanganj '
+  state_id: 760
+  state_code: C
+  state_name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.74880130'
+  longitude: '90.25638500'
+  wikiDataId: Q2208354
+- id: 153869
+  name: 'Narsingdi '
+  state_id: 760
+  state_code: C
+  state_name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.00966000'
+  longitude: '90.44480420'
+  wikiDataId: Q2042638
+- id: 153874
+  name: 'Rajbari '
+  state_id: 760
+  state_code: C
+  state_name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.73843000'
+  longitude: '89.25547000'
+  wikiDataId: Q2348762
+- id: 153875
+  name: 'Shariatpur '
+  state_id: 760
+  state_code: C
+  state_name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.23124340'
+  longitude: '90.08293470'
+  wikiDataId: Q253007
+- id: 153870
+  name: 'Tangail '
+  state_id: 760
+  state_code: C
+  state_name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.37630700'
+  longitude: '89.35804610'
+  wikiDataId: Q952184
+- id: 153876
+  name: 'Bagerhat '
+  state_id: 775
+  state_code: D
+  state_name: 'Khulna '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.34880590'
+  longitude: '89.07470250'
+  wikiDataId: Q2344861
+- id: 153877
+  name: 'Chuadanga '
+  state_id: 775
+  state_code: D
+  state_name: 'Khulna '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.60352730'
+  longitude: '88.48732400'
+  wikiDataId: Q2094570
+- id: 153878
+  name: 'Jessore '
+  state_id: 775
+  state_code: D
+  state_name: 'Khulna '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.08473560'
+  longitude: '88.87480080'
+  wikiDataId: Q1862981
+- id: 153879
+  name: 'Jhenaidah '
+  state_id: 775
+  state_code: D
+  state_name: 'Khulna '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.49521270'
+  longitude: '88.70694930'
+  wikiDataId: Q2188750
+- id: 153880
+  name: 'Khulna '
+  state_id: 775
+  state_code: D
+  state_name: 'Khulna '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.35351390'
+  longitude: '88.83407090'
+  wikiDataId: Q2093344
+- id: 153881
+  name: 'Kushtia '
+  state_id: 775
+  state_code: D
+  state_name: 'Khulna '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.94595240'
+  longitude: '88.70179290'
+  wikiDataId: Q956895
+- id: 153882
+  name: 'Magura '
+  state_id: 775
+  state_code: D
+  state_name: 'Khulna '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.46557740'
+  longitude: '89.11547300'
+  wikiDataId: Q2039085
+- id: 153883
+  name: 'Meherpur '
+  state_id: 775
+  state_code: D
+  state_name: 'Khulna '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.78972180'
+  longitude: '88.39319490'
+  wikiDataId: Q1474206
+- id: 153884
+  name: 'Narail '
+  state_id: 775
+  state_code: D
+  state_name: 'Khulna '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '23.13175700'
+  longitude: '89.26258440'
+  wikiDataId: Q1550260
+- id: 153885
+  name: 'Satkhira '
+  state_id: 775
+  state_code: D
+  state_name: 'Khulna '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '22.29898590'
+  longitude: '88.47540870'
+  wikiDataId: Q1233680
+- id: 153887
+  name: 'Jamalpur '
+  state_id: 758
+  state_code: H
+  state_name: 'Mymensingh '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '25.00108250'
+  longitude: '89.26050130'
+  wikiDataId: Q2039306
+- id: 153886
+  name: 'Mymensingh '
+  state_id: 758
+  state_code: H
+  state_name: 'Mymensingh '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.72309850'
+  longitude: '89.78411730'
+  wikiDataId: Q1429976
+- id: 153888
+  name: 'Netrokona '
+  state_id: 758
+  state_code: H
+  state_name: 'Mymensingh '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.87204810'
+  longitude: '90.52293810'
+  wikiDataId: Q2344966
+- id: 153889
+  name: 'Sherpur '
+  state_id: 758
+  state_code: H
+  state_name: 'Mymensingh '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '25.09260380'
+  longitude: '89.76352070'
+  wikiDataId: Q2039314
+- id: 153894
+  name: 'Bogra '
+  state_id: 753
+  state_code: E
+  state_name: 'Rajshahi '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.82966450'
+  longitude: '89.02598570'
+  wikiDataId: Q2039066
+- id: 153895
+  name: Chapai Nawabganj
+  state_id: 753
+  state_code: E
+  state_name: 'Rajshahi '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.69520750'
+  longitude: '87.93021310'
+  wikiDataId: Q46043
+- id: 153897
+  name: 'Joypurhat '
+  state_id: 753
+  state_code: E
+  state_name: 'Rajshahi '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '25.06567070'
+  longitude: '88.76832650'
+  wikiDataId: Q2348146
+- id: 153896
+  name: 'Naogaon '
+  state_id: 753
+  state_code: E
+  state_name: 'Rajshahi '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.87425080'
+  longitude: '88.43751910'
+  wikiDataId: Q2094277
+- id: 153890
+  name: 'Natore '
+  state_id: 753
+  state_code: E
+  state_name: 'Rajshahi '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.38021070'
+  longitude: '88.76302520'
+  wikiDataId: Q2093361
+- id: 153893
+  name: 'Pabna '
+  state_id: 753
+  state_code: E
+  state_name: 'Rajshahi '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.08126720'
+  longitude: '89.03724420'
+  wikiDataId: Q1083505
+- id: 153891
+  name: 'Rajshahi '
+  state_id: 753
+  state_code: E
+  state_name: 'Rajshahi '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.42073360'
+  longitude: '88.29602140'
+  wikiDataId: Q2344697
+- id: 153892
+  name: 'Sirajganj '
+  state_id: 753
+  state_code: E
+  state_name: 'Rajshahi '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.39876240'
+  longitude: '88.87641810'
+  wikiDataId: Q2429432
+- id: 153898
+  name: 'Dinajpur '
+  state_id: 750
+  state_code: F
+  state_name: 'Rangpur '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '25.64261030'
+  longitude: '88.18344620'
+  wikiDataId: Q1985120
+- id: 153900
+  name: 'Gaibandha '
+  state_id: 750
+  state_code: F
+  state_name: 'Rangpur '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '25.34315570'
+  longitude: '89.13978570'
+  wikiDataId: Q2344595
+- id: 153899
+  name: 'Kurigram '
+  state_id: 750
+  state_code: F
+  state_name: 'Rangpur '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '25.80827220'
+  longitude: '89.00915030'
+  wikiDataId: Q2348751
+- id: 153901
+  name: 'Lalmonirhat '
+  state_id: 750
+  state_code: F
+  state_name: 'Rangpur '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '26.12442390'
+  longitude: '88.91060900'
+  wikiDataId: Q2373734
+- id: 153902
+  name: 'Nilphamari '
+  state_id: 750
+  state_code: F
+  state_name: 'Rangpur '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '26.02264250'
+  longitude: '88.63412710'
+  wikiDataId: Q2188627
+- id: 153903
+  name: 'Panchagarh '
+  state_id: 750
+  state_code: F
+  state_name: 'Rangpur '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '26.32032700'
+  longitude: '26.32032700'
+  wikiDataId: Q2367822
+- id: 153904
+  name: 'Rangpur '
+  state_id: 750
+  state_code: F
+  state_name: 'Rangpur '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '25.62390240'
+  longitude: '88.90094980'
+  wikiDataId: Q2344570
+- id: 153905
+  name: 'Thakurgaon '
+  state_id: 750
+  state_code: F
+  state_name: 'Rangpur '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '25.93648420'
+  longitude: '88.03366640'
+  wikiDataId: Q2367825
+- id: 153906
+  name: 'Habiganj '
+  state_id: 765
+  state_code: G
+  state_name: 'Sylhet '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.33481970'
+  longitude: '90.74899010'
+  wikiDataId: Q1438974
+- id: 153907
+  name: 'Moulvibazar '
+  state_id: 765
+  state_code: G
+  state_name: 'Sylhet '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.48617710'
+  longitude: '91.28742410'
+  wikiDataId: Q281435
+- id: 153908
+  name: 'Sunamganj '
+  state_id: 765
+  state_code: G
+  state_name: 'Sylhet '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.88905540'
+  longitude: '91.00248270'
+  wikiDataId: Q2093388
+- id: 153909
+  name: 'Sylhet '
+  state_id: 765
+  state_code: G
+  state_name: 'Sylhet '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  latitude: '24.89189110'
+  longitude: '91.73554950'
+  wikiDataId: Q2093352

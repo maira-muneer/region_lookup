@@ -1,0 +1,100 @@
+---
+- id: 108993
+  name: Alapi Village
+  state_id: 3951
+  state_code: FUN
+  state_name: Funafuti
+  country_id: 228
+  country_code: TV
+  country_name: Tuvalu
+  latitude: "-8.52074000"
+  longitude: '179.19680000'
+  wikiDataId: Q1444575
+- id: 108995
+  name: Fakaifou Village
+  state_id: 3951
+  state_code: FUN
+  state_name: Funafuti
+  country_id: 228
+  country_code: TV
+  country_name: Tuvalu
+  latitude: "-8.51758000"
+  longitude: '179.20094000'
+  wikiDataId: Q2481883
+- id: 108996
+  name: Funafuti
+  state_id: 3951
+  state_code: FUN
+  state_name: Funafuti
+  country_id: 228
+  country_code: TV
+  country_name: Tuvalu
+  latitude: "-8.52425000"
+  longitude: '179.19417000'
+  wikiDataId: Q2481883
+- id: 109001
+  name: Toga Village
+  state_id: 3947
+  state_code: NMG
+  state_name: Nanumanga
+  country_id: 228
+  country_code: TV
+  country_name: Tuvalu
+  latitude: "-6.28764000"
+  longitude: '176.31472000'
+  wikiDataId: Q3394651
+- id: 108997
+  name: Kulia Village
+  state_id: 3946
+  state_code: NIT
+  state_name: Niutao Island Council
+  country_id: 228
+  country_code: TV
+  country_name: Tuvalu
+  latitude: "-6.10819000"
+  longitude: '177.33393000'
+  wikiDataId: Q2481883
+- id: 108998
+  name: Niulakita
+  state_id: 3946
+  state_code: NIT
+  state_name: Niutao Island Council
+  country_id: 228
+  country_code: TV
+  country_name: Tuvalu
+  latitude: "-10.78800000"
+  longitude: '179.46600000'
+  wikiDataId: Q2481883
+- id: 109000
+  name: Tanrake Village
+  state_id: 3948
+  state_code: NUI
+  state_name: Nui
+  country_id: 228
+  country_code: TV
+  country_name: Tuvalu
+  latitude: "-7.24562000"
+  longitude: '177.14511000'
+  wikiDataId: Q3394618
+- id: 108999
+  name: Savave Village
+  state_id: 3952
+  state_code: NKF
+  state_name: Nukufetau
+  country_id: 228
+  country_code: TV
+  country_name: Tuvalu
+  latitude: "-8.02731000"
+  longitude: '178.31351000'
+  wikiDataId: Q2481883
+- id: 108994
+  name: Asau Village
+  state_id: 3950
+  state_code: VAI
+  state_name: Vaitupu
+  country_id: 228
+  country_code: TV
+  country_name: Tuvalu
+  latitude: "-7.49026000"
+  longitude: '178.68016000'
+  wikiDataId: Q2481883

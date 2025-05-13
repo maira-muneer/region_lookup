@@ -1,0 +1,73 @@
+---
+- id: 807
+  name: 'Barisal '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  state_code: A
+  type: division
+  latitude: '22.38111310'
+  longitude: '90.33718890'
+- id: 803
+  name: 'Chittagong '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  state_code: B
+  type: division
+  latitude: '23.17931570'
+  longitude: '91.98815270'
+- id: 760
+  name: 'Dhaka '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  state_code: C
+  type: division
+  latitude: '23.95357420'
+  longitude: '90.14949880'
+- id: 775
+  name: 'Khulna '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  state_code: D
+  type: division
+  latitude: '22.80878160'
+  longitude: '89.24671910'
+- id: 758
+  name: 'Mymensingh '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  state_code: H
+  type: division
+  latitude: '24.71362000'
+  longitude: '90.45023680'
+- id: 753
+  name: 'Rajshahi '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  state_code: E
+  type: division
+  latitude: '24.71057760'
+  longitude: '88.94138650'
+- id: 750
+  name: 'Rangpur '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  state_code: F
+  type: division
+  latitude: '25.84833880'
+  longitude: '88.94138650'
+- id: 765
+  name: 'Sylhet '
+  country_id: 19
+  country_code: BD
+  country_name: Bangladesh
+  state_code: G
+  type: division
+  latitude: '24.70498110'
+  longitude: '91.67606910'

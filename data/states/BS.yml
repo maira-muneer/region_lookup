@@ -1,0 +1,379 @@
+---
+- id: 3601
+  name: Acklins
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: AK
+  type: district
+  latitude: '22.36577080'
+  longitude: "-74.05351260"
+- id: 3628
+  name: Acklins and Crooked Islands
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: AC
+  type: district
+  latitude: '22.36577080'
+  longitude: "-74.05351260"
+- id: 3593
+  name: Berry Islands
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: BY
+  type: district
+  latitude: '25.62500420'
+  longitude: "-77.82522030"
+- id: 3629
+  name: Bimini
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: BI
+  type: district
+  latitude: '24.64153250'
+  longitude: "-79.85062260"
+- id: 3605
+  name: Black Point
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: BP
+  type: district
+  latitude: '41.39510240'
+  longitude: "-71.46505560"
+- id: 3611
+  name: Cat Island
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: CI
+  type: district
+  latitude: '30.22801360'
+  longitude: "-89.10149330"
+- id: 3603
+  name: Central Abaco
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: CO
+  type: district
+  latitude: '26.35550290'
+  longitude: "-77.14851630"
+- id: 3631
+  name: Central Andros
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: CS
+  type: district
+  latitude: '24.46884820'
+  longitude: "-77.97386500"
+- id: 3596
+  name: Central Eleuthera
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: CE
+  type: district
+  latitude: '25.13620370'
+  longitude: "-76.14359150"
+- id: 3621
+  name: Crooked Island
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: CK
+  type: district
+  latitude: '22.63909820'
+  longitude: "-74.00650900"
+- id: 3614
+  name: East Grand Bahama
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: EG
+  type: district
+  latitude: '26.65828230'
+  longitude: "-78.22482910"
+- id: 3612
+  name: Exuma
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: EX
+  type: district
+  latitude: '23.61925980'
+  longitude: "-75.96954650"
+- id: 3626
+  name: Freeport
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: FP
+  type: district
+  latitude: '42.29668610'
+  longitude: "-89.62122710"
+- id: 3619
+  name: Fresh Creek
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: FC
+  type: district
+  latitude: '40.65437560'
+  longitude: "-73.89479390"
+- id: 3597
+  name: Governor's Harbour
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: GH
+  type: district
+  latitude: '25.19480960'
+  longitude: "-76.24396220"
+- id: 3632
+  name: Grand Cay
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: GC
+  type: district
+  latitude: '27.21626150'
+  longitude: "-78.32305590"
+- id: 3595
+  name: Green Turtle Cay
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: GT
+  type: district
+  latitude: '26.77471070'
+  longitude: "-77.32957080"
+- id: 3613
+  name: Harbour Island
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: HI
+  type: district
+  latitude: '25.50011000'
+  longitude: "-76.63405110"
+- id: 3598
+  name: High Rock
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: HR
+  type: district
+  latitude: '46.68434150'
+  longitude: "-121.90174610"
+- id: 3624
+  name: Hope Town
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: HT
+  type: district
+  latitude: '26.50095040'
+  longitude: "-76.99598720"
+- id: 3609
+  name: Inagua
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: IN
+  type: district
+  latitude: '21.06560660'
+  longitude: "-73.32370800"
+- id: 3618
+  name: Kemps Bay
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: KB
+  type: district
+  latitude: '24.02364000'
+  longitude: "-77.54534900"
+- id: 3610
+  name: Long Island
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: LI
+  type: district
+  latitude: '40.78914200'
+  longitude: "-73.13496100"
+- id: 3625
+  name: Mangrove Cay
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: MC
+  type: district
+  latitude: '24.14814250'
+  longitude: "-77.76809520"
+- id: 3604
+  name: Marsh Harbour
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: MH
+  type: district
+  latitude: '26.52416530'
+  longitude: "-77.09098090"
+- id: 3633
+  name: Mayaguana
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: MG
+  type: district
+  latitude: '22.40177140'
+  longitude: "-73.06413960"
+- id: 4881
+  name: New Providence
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: NP
+  type: island
+  latitude: '40.69843480'
+  longitude: "-74.40154050"
+- id: 3594
+  name: Nichollstown and Berry Islands
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: NB
+  type: district
+  latitude: '25.72362340'
+  longitude: "-77.83101040"
+- id: 3616
+  name: North Abaco
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: 'NO'
+  type: district
+  latitude: '26.78716970'
+  longitude: "-77.43577390"
+- id: 3617
+  name: North Andros
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: NS
+  type: district
+  latitude: '24.70638050'
+  longitude: "-78.01953870"
+- id: 3602
+  name: North Eleuthera
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: NE
+  type: district
+  latitude: '25.46475170'
+  longitude: "-76.67592200"
+- id: 3615
+  name: Ragged Island
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: RI
+  type: district
+  latitude: '41.59743100'
+  longitude: "-71.26020200"
+- id: 3623
+  name: Rock Sound
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: RS
+  type: district
+  latitude: '39.01424430'
+  longitude: "-95.67089890"
+- id: 3600
+  name: Rum Cay
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: RC
+  type: district
+  latitude: '23.68546760'
+  longitude: "-74.83901620"
+- id: 3620
+  name: San Salvador and Rum Cay
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: SR
+  type: district
+  latitude: '23.68546760'
+  longitude: "-74.83901620"
+- id: 3627
+  name: San Salvador Island
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: SS
+  type: district
+  latitude: '24.07755460'
+  longitude: "-74.47600880"
+- id: 3606
+  name: Sandy Point
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: SP
+  type: district
+  latitude: '39.01454640'
+  longitude: "-76.39989250"
+- id: 3608
+  name: South Abaco
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: SO
+  type: district
+  latitude: '26.06405910'
+  longitude: "-77.26350380"
+- id: 3622
+  name: South Andros
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: SA
+  type: district
+  latitude: '23.97135560'
+  longitude: "-77.60778650"
+- id: 3607
+  name: South Eleuthera
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: SE
+  type: district
+  latitude: '24.77085620'
+  longitude: "-76.21314740"
+- id: 3630
+  name: Spanish Wells
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: SW
+  type: district
+  latitude: '26.32505990'
+  longitude: "-81.79803280"
+- id: 3599
+  name: West Grand Bahama
+  country_id: 17
+  country_code: BS
+  country_name: The Bahamas
+  state_code: WG
+  type: district
+  latitude: '26.65944700'
+  longitude: "-78.52065000"

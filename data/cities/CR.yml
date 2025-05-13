@@ -1,0 +1,1750 @@
+---
+- id: 21643
+  name: Alajuela
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.01625000'
+  longitude: "-84.21163000"
+  wikiDataId: Q37104
+- id: 21647
+  name: Atenas
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.98333000'
+  longitude: "-84.38333000"
+  wikiDataId: Q2406261
+- id: 21653
+  name: Bijagua
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.73279000'
+  longitude: "-85.05676000"
+  wikiDataId: Q3639885
+- id: 21658
+  name: Carrillos
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.02918000'
+  longitude: "-84.27403000"
+  wikiDataId: Q23745374
+- id: 21672
+  name: Desamparados
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.94727000'
+  longitude: "-84.50626000"
+  wikiDataId: Q23743609
+- id: 21678
+  name: Esquipulas
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.05676000'
+  longitude: "-84.42337000"
+  wikiDataId: Q23743713
+- id: 21685
+  name: Grecia
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.06892000'
+  longitude: "-84.31458000"
+  wikiDataId: Q2594049
+- id: 21687
+  name: Guatuso
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.66667000'
+  longitude: "-84.83333000"
+  wikiDataId: Q1189935
+- id: 21698
+  name: La Fortuna
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.47089000'
+  longitude: "-84.64535000"
+  wikiDataId: Q2518042
+- id: 21705
+  name: Los Chiles
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.86667000'
+  longitude: "-84.66667000"
+  wikiDataId: Q1189266
+- id: 21715
+  name: Naranjo
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.11667000'
+  longitude: "-84.40000000"
+  wikiDataId: Q2544794
+- id: 21719
+  name: Orotina
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.90000000'
+  longitude: "-84.56667000"
+  wikiDataId: Q891356
+- id: 21722
+  name: Palmares
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.03333000'
+  longitude: "-84.43333000"
+  wikiDataId: Q2610139
+- id: 21729
+  name: Pital
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.45056000'
+  longitude: "-84.27406000"
+  wikiDataId: Q23738634
+- id: 21733
+  name: Poás
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.08333000'
+  longitude: "-84.23333000"
+  wikiDataId: Q2610373
+- id: 21732
+  name: Pocosol
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.36667000'
+  longitude: "-84.61667000"
+  wikiDataId: Q3906875
+- id: 21739
+  name: Quesada
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.32381000'
+  longitude: "-84.42714000"
+  wikiDataId: Q196254
+- id: 21741
+  name: Río Segundo
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.24138000'
+  longitude: "-84.27933000"
+  wikiDataId: Q23736841
+- id: 21742
+  name: Sabanilla
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.07404000'
+  longitude: "-84.21551000"
+  wikiDataId: Q23736874
+- id: 21747
+  name: San Carlos
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.58333000'
+  longitude: "-84.41667000"
+  wikiDataId: Q931244
+- id: 21755
+  name: San José
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.95173000'
+  longitude: "-85.13610000"
+  wikiDataId: Q23736949
+- id: 21758
+  name: San Juan
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.10248000'
+  longitude: "-84.31694000"
+  wikiDataId: Q23736961
+- id: 21761
+  name: San Mateo
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.95000000'
+  longitude: "-84.51667000"
+  wikiDataId: Q1936056
+- id: 21766
+  name: San Rafael
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.06403000'
+  longitude: "-84.47281000"
+  wikiDataId: Q23736998
+- id: 21770
+  name: San Ramón
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.08718000'
+  longitude: "-84.47044000"
+  wikiDataId: Q1932227
+- id: 21777
+  name: Santiago
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.02275000'
+  longitude: "-84.44420000"
+  wikiDataId: Q23737052
+- id: 21795
+  name: Upala
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.85000000'
+  longitude: "-85.16667000"
+  wikiDataId: Q2223674
+- id: 21796
+  name: Valverde Vega
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.18721000'
+  longitude: "-84.30290000"
+  wikiDataId: Q2610105
+- id: 21798
+  name: Zarcero
+  state_id: 1215
+  state_code: A
+  state_name: Alajuela
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.20000000'
+  longitude: "-84.40000000"
+  wikiDataId: Q12856942
+- id: 21645
+  name: Alvarado
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.93333000'
+  longitude: "-83.80000000"
+  wikiDataId: Q2610378
+- id: 21659
+  name: Cartago
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.86444000'
+  longitude: "-83.91944000"
+  wikiDataId: Q30617
+- id: 21665
+  name: Concepción
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.93333000'
+  longitude: "-84.00000000"
+  wikiDataId: Q23745508
+- id: 21668
+  name: Cot
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.89449000'
+  longitude: "-83.87302000"
+  wikiDataId: Q23743515
+- id: 21675
+  name: El Guarco
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.75000000'
+  longitude: "-83.91667000"
+  wikiDataId: Q2614085
+- id: 21694
+  name: Jiménez
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.75000000'
+  longitude: "-83.68333000"
+  wikiDataId: Q2610255
+- id: 21699
+  name: La Suiza
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.85065000'
+  longitude: "-83.61690000"
+  wikiDataId: Q23740198
+- id: 21700
+  name: La Unión
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.91667000'
+  longitude: "-83.98333000"
+  wikiDataId: Q2610394
+- id: 21717
+  name: Oreamuno
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.00000000'
+  longitude: "-83.83333000"
+  wikiDataId: Q936794
+- id: 21718
+  name: Orosí
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.79617000'
+  longitude: "-83.85383000"
+  wikiDataId: Q936794
+- id: 21721
+  name: Pacayas
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.80709000'
+  longitude: "-84.04764000"
+  wikiDataId: Q23738480
+- id: 21725
+  name: Paraíso
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.75000000'
+  longitude: "-83.80000000"
+  wikiDataId: Q2618877
+- id: 21728
+  name: Pejibaye
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.81135000'
+  longitude: "-83.70336000"
+  wikiDataId: Q23738587
+- id: 21748
+  name: San Diego
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.89898000'
+  longitude: "-84.00287000"
+  wikiDataId: Q931244
+- id: 21790
+  name: Tobosi
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.83837000'
+  longitude: "-83.98391000"
+  wikiDataId: Q2517654
+- id: 21791
+  name: Tres Ríos
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.90644000'
+  longitude: "-83.98760000"
+  wikiDataId: Q23735189
+- id: 21792
+  name: Tucurrique
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.85336000'
+  longitude: "-83.72273000"
+  wikiDataId: Q23735189
+- id: 21793
+  name: Turrialba
+  state_id: 1211
+  state_code: C
+  state_name: Cartago
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.80000000'
+  longitude: "-83.53333000"
+  wikiDataId: Q2610150
+- id: 21641
+  name: Abangares
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.21667000'
+  longitude: "-85.00000000"
+  wikiDataId: Q2517638
+- id: 21648
+  name: Bagaces
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.50000000'
+  longitude: "-85.25000000"
+  wikiDataId: Q647978
+- id: 21651
+  name: Belén
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.40789000'
+  longitude: "-85.58836000"
+  wikiDataId: Q23746715
+- id: 21660
+  name: Cañas
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.48005000'
+  longitude: "-85.11349000"
+  wikiDataId: Q2225426
+- id: 21657
+  name: Carrillo
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.41667000'
+  longitude: "-85.58333000"
+  wikiDataId: Q2517601
+- id: 21680
+  name: Fortuna
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.67384000'
+  longitude: "-85.19984000"
+  wikiDataId: Q23741797
+- id: 21691
+  name: Hojancha
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.96667000'
+  longitude: "-85.41667000"
+  wikiDataId: Q2518200
+- id: 21695
+  name: Juntas
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.28089000'
+  longitude: "-84.95951000"
+  wikiDataId: Q23742046
+- id: 21697
+  name: La Cruz
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '11.00000000'
+  longitude: "-85.58333000"
+  wikiDataId: Q2518042
+- id: 21702
+  name: Liberia
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.63504000'
+  longitude: "-85.43772000"
+  wikiDataId: Q1387526
+- id: 21714
+  name: Nandayure
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.91667000'
+  longitude: "-85.28333000"
+  wikiDataId: Q2518031
+- id: 21716
+  name: Nicoya
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.08333000'
+  longitude: "-85.50000000"
+  wikiDataId: Q3656199
+- id: 21784
+  name: Sámara
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.88147000'
+  longitude: "-85.52809000"
+  wikiDataId: Q3438102
+- id: 21776
+  name: Santa Cruz
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.25000000'
+  longitude: "-85.66667000"
+  wikiDataId: Q2291051
+- id: 21781
+  name: Sardinal
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.51674000'
+  longitude: "-85.64748000"
+  wikiDataId: Q23734998
+- id: 21789
+  name: Tilarán
+  state_id: 1209
+  state_code: G
+  state_name: Guanacaste
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.45878000'
+  longitude: "-84.97513000"
+  wikiDataId: Q2517654
+- id: 21799
+  name: Ángeles
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.99591000'
+  longitude: "-84.05126000"
+  wikiDataId: Q23746564
+- id: 21649
+  name: Barva
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.08333000'
+  longitude: "-84.10000000"
+  wikiDataId: Q2614093
+- id: 21652
+  name: Belén
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.98333000'
+  longitude: "-84.16667000"
+  wikiDataId: Q2613791
+- id: 21679
+  name: Flores
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.00000000'
+  longitude: "-84.15000000"
+  wikiDataId: Q2610307
+- id: 21690
+  name: Heredia
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.00236000'
+  longitude: "-84.11651000"
+  wikiDataId: Q30616
+- id: 21696
+  name: La Asunción
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.97961000'
+  longitude: "-84.17281000"
+  wikiDataId: Q23742060
+- id: 21704
+  name: Llorente
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.99844000'
+  longitude: "-84.15448000"
+  wikiDataId: Q23740235
+- id: 21708
+  name: Mercedes
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.00695000'
+  longitude: "-84.13396000"
+  wikiDataId: Q3183475
+- id: 21746
+  name: San Antonio
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.98333000'
+  longitude: "-84.18333000"
+  wikiDataId: Q23736909
+- id: 21750
+  name: San Francisco
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.99299000'
+  longitude: "-84.12934000"
+  wikiDataId: Q23736933
+- id: 21753
+  name: San Isidro
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.03333000'
+  longitude: "-84.03333000"
+  wikiDataId: Q2610270
+- id: 21754
+  name: San Josecito
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.01667000'
+  longitude: "-84.10000000"
+  wikiDataId: Q23736957
+- id: 21763
+  name: San Pablo
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.00000000'
+  longitude: "-84.08333000"
+  wikiDataId: Q23736977
+- id: 21767
+  name: San Rafael
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.05000000'
+  longitude: "-84.06667000"
+  wikiDataId: Q587080
+- id: 21775
+  name: Santa Bárbara
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.08333000'
+  longitude: "-84.15000000"
+  wikiDataId: Q2610157
+- id: 21779
+  name: Santo Domingo
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.06389000'
+  longitude: "-84.15499000"
+  wikiDataId: Q23737055
+- id: 21780
+  name: Sarapiquí
+  state_id: 1212
+  state_code: H
+  state_name: Heredia
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.50000000'
+  longitude: "-84.00000000"
+  wikiDataId: Q2610385
+- id: 21650
+  name: Batán
+  state_id: 1213
+  state_code: L
+  state_name: Limón
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.08354000'
+  longitude: "-83.33413000"
+  wikiDataId: Q2614093
+- id: 21688
+  name: Guácimo
+  state_id: 1213
+  state_code: L
+  state_name: Limón
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.20000000'
+  longitude: "-83.66667000"
+  wikiDataId: Q609975
+- id: 21689
+  name: Guápiles
+  state_id: 1213
+  state_code: L
+  state_name: Limón
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.21682000'
+  longitude: "-83.78483000"
+  wikiDataId: Q609975
+- id: 21703
+  name: Limón
+  state_id: 1213
+  state_code: L
+  state_name: Limón
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.99074000'
+  longitude: "-83.03596000"
+  wikiDataId: Q30620
+- id: 21706
+  name: Matina
+  state_id: 1213
+  state_code: L
+  state_name: Limón
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.00000000'
+  longitude: "-83.25000000"
+  wikiDataId: Q2669000
+- id: 21730
+  name: Pococí
+  state_id: 1213
+  state_code: L
+  state_name: Limón
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.50000000'
+  longitude: "-83.63333000"
+  wikiDataId: Q1852750
+- id: 21731
+  name: Pocora
+  state_id: 1213
+  state_code: L
+  state_name: Limón
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.17185000'
+  longitude: "-83.60439000"
+  wikiDataId: Q23738674
+- id: 21740
+  name: Roxana
+  state_id: 1213
+  state_code: L
+  state_name: Limón
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.26712000'
+  longitude: "-83.75110000"
+  wikiDataId: Q23736864
+- id: 21782
+  name: Siquirres
+  state_id: 1213
+  state_code: L
+  state_name: Limón
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.11667000'
+  longitude: "-83.50000000"
+  wikiDataId: Q930152
+- id: 21783
+  name: Sixaola
+  state_id: 1213
+  state_code: L
+  state_name: Limón
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.52766000'
+  longitude: "-82.62185000"
+  wikiDataId: Q1759580
+- id: 21785
+  name: Talamanca
+  state_id: 1213
+  state_code: L
+  state_name: Limón
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.50000000'
+  longitude: "-83.08333000"
+  wikiDataId: Q2669009
+- id: 21654
+  name: Buenos Aires
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.11667000'
+  longitude: "-83.25000000"
+  wikiDataId: Q2669006
+- id: 21656
+  name: Canoas
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '8.53305000'
+  longitude: "-82.83844000"
+  wikiDataId: Q23745345
+- id: 21661
+  name: Chacarita
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.98424000'
+  longitude: "-84.77892000"
+  wikiDataId: Q23745417
+- id: 21662
+  name: Ciudad Cortés
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '8.95988000'
+  longitude: "-83.52381000"
+  wikiDataId: Q23745475
+- id: 21666
+  name: Corredor
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '8.64002000'
+  longitude: "-82.94600000"
+  wikiDataId: Q23743507
+- id: 21667
+  name: Corredores
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '8.58333000'
+  longitude: "-82.91667000"
+  wikiDataId: Q2610166
+- id: 21669
+  name: Coto Brus
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '8.88333000'
+  longitude: "-82.96667000"
+  wikiDataId: Q2610318
+- id: 21677
+  name: Esparza
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.00000000'
+  longitude: "-84.66667000"
+  wikiDataId: Q2610122
+- id: 21681
+  name: Garabito
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.61903000'
+  longitude: "-84.62013000"
+  wikiDataId: Q970097
+- id: 21683
+  name: Golfito
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '8.60000000'
+  longitude: "-83.12000000"
+  wikiDataId: Q2610281
+- id: 21693
+  name: Jacó
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.61497000'
+  longitude: "-84.62975000"
+  wikiDataId: Q23742002
+- id: 21709
+  name: Miramar
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.09250000'
+  longitude: "-84.72978000"
+  wikiDataId: Q23740335
+- id: 21711
+  name: Montes de Oro
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.10000000'
+  longitude: "-84.75000000"
+  wikiDataId: Q369259
+- id: 21720
+  name: Osa
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '8.83333000'
+  longitude: "-83.50000000"
+  wikiDataId: Q2610114
+- id: 21724
+  name: Paquera
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.82005000'
+  longitude: "-84.93513000"
+  wikiDataId: Q3894943
+- id: 21726
+  name: Parrita
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.55000000'
+  longitude: "-84.33333000"
+  wikiDataId: Q2610144
+- id: 21734
+  name: Puntarenas
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.97625000'
+  longitude: "-84.83836000"
+  wikiDataId: Q30687
+- id: 21738
+  name: Quepos
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.43187000'
+  longitude: "-84.16141000"
+  wikiDataId: Q196254
+- id: 21773
+  name: San Vito
+  state_id: 1210
+  state_code: P
+  state_name: Puntarenas
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '8.82079000'
+  longitude: "-82.97092000"
+  wikiDataId: Q23734994
+- id: 21642
+  name: Acosta
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.80000000'
+  longitude: "-84.20000000"
+  wikiDataId: Q1935173
+- id: 21644
+  name: Alajuelita
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.90000000'
+  longitude: "-84.10000000"
+  wikiDataId: Q37104
+- id: 21646
+  name: Aserrí
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.86667000'
+  longitude: "-84.10000000"
+  wikiDataId: Q1935231
+- id: 21655
+  name: Calle Blancos
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.95000000'
+  longitude: "-84.06667000"
+  wikiDataId: Q23745297
+- id: 21663
+  name: Colima
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.95091000'
+  longitude: "-84.08503000"
+  wikiDataId: Q23745491
+- id: 21664
+  name: Colón
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.91491000'
+  longitude: "-84.24170000"
+  wikiDataId: Q23745494
+- id: 21670
+  name: Curridabat
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.91667000'
+  longitude: "-84.03333000"
+  wikiDataId: Q1935162
+- id: 21671
+  name: Daniel Flores
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.33554000'
+  longitude: "-83.66940000"
+  wikiDataId: Q3701600
+- id: 21673
+  name: Desamparados
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.90000000'
+  longitude: "-84.06667000"
+  wikiDataId: Q1444404
+- id: 21674
+  name: Dota
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.65000000'
+  longitude: "-83.95000000"
+  wikiDataId: Q1935243
+- id: 21676
+  name: Escazú
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.93333000'
+  longitude: "-84.13333000"
+  wikiDataId: Q2221760
+- id: 21682
+  name: Goicoechea
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.94848000'
+  longitude: "-84.06365000"
+  wikiDataId: Q2406129
+- id: 21684
+  name: Granadilla
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.93491000'
+  longitude: "-84.01688000"
+  wikiDataId: Q23741849
+- id: 21686
+  name: Guadalupe
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.94805000'
+  longitude: "-84.05665000"
+  wikiDataId: Q2594049
+- id: 21692
+  name: Ipís
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.96745000'
+  longitude: "-84.01326000"
+  wikiDataId: Q23742002
+- id: 21701
+  name: León Cortés
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.68300000'
+  longitude: "-84.04781000"
+  wikiDataId: Q196346
+- id: 21707
+  name: Mercedes
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.26270000'
+  longitude: "-83.58202000"
+  wikiDataId: Q23740327
+- id: 21710
+  name: Montes de Oca
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.93960000'
+  longitude: "-84.03013000"
+  wikiDataId: Q2739710
+- id: 21712
+  name: Mora
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.91667000'
+  longitude: "-84.25000000"
+  wikiDataId: Q1935206
+- id: 21713
+  name: Moravia
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.04000000'
+  longitude: "-84.00000000"
+  wikiDataId: Q1935256
+- id: 21723
+  name: Palmichal
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.83778000'
+  longitude: "-84.20478000"
+  wikiDataId: Q23738505
+- id: 21727
+  name: Patarrá
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.88071000'
+  longitude: "-84.03501000"
+  wikiDataId: Q3897580
+- id: 21737
+  name: Pérez Zeledón
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.35473000'
+  longitude: "-83.63484000"
+  wikiDataId: Q196254
+- id: 21735
+  name: Puriscal
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.75000000'
+  longitude: "-84.41667000"
+  wikiDataId: Q196298
+- id: 21736
+  name: Purral
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.95808000'
+  longitude: "-84.03050000"
+  wikiDataId: Q531605
+- id: 21743
+  name: Sabanilla
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.94522000'
+  longitude: "-84.03927000"
+  wikiDataId: Q23736873
+- id: 21744
+  name: Salitral
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.91163000'
+  longitude: "-84.17835000"
+  wikiDataId: Q23736889
+- id: 21745
+  name: Salitrillos
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.85259000'
+  longitude: "-84.09062000"
+  wikiDataId: Q23736896
+- id: 21749
+  name: San Felipe
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.90488000'
+  longitude: "-84.10551000"
+  wikiDataId: Q23736930
+- id: 21751
+  name: San Ignacio
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.79853000'
+  longitude: "-84.16173000"
+  wikiDataId: Q3947359
+- id: 21752
+  name: San Isidro
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.36740000'
+  longitude: "-83.69713000"
+  wikiDataId: Q3947359
+- id: 21756
+  name: San José
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.93333000'
+  longitude: "-84.08333000"
+  wikiDataId: Q3070
+- id: 21757
+  name: San Juan
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.95974000'
+  longitude: "-84.08165000"
+  wikiDataId: Q23736960
+- id: 21759
+  name: San Juan de Dios
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.87730000'
+  longitude: "-84.08470000"
+  wikiDataId: Q23736963
+- id: 21760
+  name: San Marcos
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.66010000'
+  longitude: "-84.02026000"
+  wikiDataId: Q2410422
+- id: 21762
+  name: San Miguel
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.87121000'
+  longitude: "-84.06084000"
+  wikiDataId: Q23736977
+- id: 21764
+  name: San Pedro
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.92829000'
+  longitude: "-84.05074000"
+  wikiDataId: Q1815110
+- id: 21765
+  name: San Rafael
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.92787000'
+  longitude: "-84.13722000"
+  wikiDataId: Q23736995
+- id: 21768
+  name: San Rafael Abajo
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.83100000'
+  longitude: "-84.29008000"
+  wikiDataId: Q587080
+- id: 21769
+  name: San Rafael Arriba
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.87556000'
+  longitude: "-84.07661000"
+  wikiDataId: Q587080
+- id: 21771
+  name: San Vicente
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.96016000'
+  longitude: "-84.04762000"
+  wikiDataId: Q23734992
+- id: 21772
+  name: San Vicente de Moravia
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.96164000'
+  longitude: "-84.04880000"
+  wikiDataId: Q23734992
+- id: 21774
+  name: Santa Ana
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.93260000'
+  longitude: "-84.18255000"
+  wikiDataId: Q3948919
+- id: 21778
+  name: Santiago
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.84636000'
+  longitude: "-84.31428000"
+  wikiDataId: Q3556823
+- id: 21786
+  name: Tarrazú
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.65965000'
+  longitude: "-84.02138000"
+  wikiDataId: Q196260
+- id: 21787
+  name: Tejar
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.74622000'
+  longitude: "-84.23368000"
+  wikiDataId: Q23735108
+- id: 21788
+  name: Tibás
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.96667000'
+  longitude: "-84.08333000"
+  wikiDataId: Q23735108
+- id: 21794
+  name: Turrubares
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '9.75000000'
+  longitude: "-84.50000000"
+  wikiDataId: Q196257
+- id: 21797
+  name: Vázquez de Coronado
+  state_id: 1214
+  state_code: SJ
+  state_name: San José
+  country_id: 53
+  country_code: CR
+  country_name: Costa Rica
+  latitude: '10.06000000'
+  longitude: "-84.00000000"
+  wikiDataId: Q2610105

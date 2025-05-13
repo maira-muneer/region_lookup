@@ -1,0 +1,307 @@
+---
+- id: 2799
+  name: Ampara
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '52'
+  type: district
+  latitude: '7.29116850'
+  longitude: '81.67237610'
+- id: 2816
+  name: Anuradhapura
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '71'
+  type: district
+  latitude: '8.33183050'
+  longitude: '80.40290170'
+- id: 2790
+  name: Badulla
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '81'
+  type: district
+  latitude: '6.99340090'
+  longitude: '81.05498150'
+- id: 2818
+  name: Batticaloa
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '51'
+  type: district
+  latitude: '7.82927810'
+  longitude: '81.47183870'
+- id: 2798
+  name: Central
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '2'
+  type: province
+  latitude: '7.38164450'
+  longitude: '80.05812960'
+- id: 2815
+  name: Colombo
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '11'
+  type: district
+  latitude: '6.92695570'
+  longitude: '79.86173060'
+- id: 2808
+  name: Eastern
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '5'
+  type: province
+  latitude: '7.74871760'
+  longitude: '79.99362660'
+- id: 2792
+  name: Galle
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '31'
+  type: district
+  latitude: '6.05774900'
+  longitude: '80.21755720'
+- id: 2804
+  name: Gampaha
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '12'
+  type: district
+  latitude: '7.07126190'
+  longitude: '80.00877460'
+- id: 2791
+  name: Hambantota
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '33'
+  type: district
+  latitude: '6.15358160'
+  longitude: '81.12714900'
+- id: 2787
+  name: Jaffna
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '41'
+  type: district
+  latitude: '9.69304680'
+  longitude: '80.16518540'
+- id: 2789
+  name: Kalutara
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '13'
+  type: district
+  latitude: '6.60846860'
+  longitude: '80.14285840'
+- id: 2788
+  name: Kandy
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '21'
+  type: district
+  latitude: '7.29315880'
+  longitude: '80.63501070'
+- id: 2797
+  name: Kegalle
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '92'
+  type: district
+  latitude: '7.12040530'
+  longitude: '80.32131060'
+- id: 2793
+  name: Kilinochchi
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '42'
+  type: district
+  latitude: '9.36779710'
+  longitude: '80.32131060'
+- id: 5342
+  name: Kurunegala
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '61'
+  type: district
+  latitude: '7.72856470'
+  longitude: '79.90891700'
+- id: 2805
+  name: Mannar
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '43'
+  type: district
+  latitude: '8.98095310'
+  longitude: '79.90439750'
+- id: 2810
+  name: Matale
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '22'
+  type: district
+  latitude: '7.46596460'
+  longitude: '80.62342590'
+- id: 2806
+  name: Matara
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '32'
+  type: district
+  latitude: '5.94493480'
+  longitude: '80.54879970'
+- id: 2819
+  name: Monaragala
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '82'
+  type: district
+  latitude: '6.87277810'
+  longitude: '81.35068320'
+- id: 2814
+  name: Mullaitivu
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '45'
+  type: district
+  latitude: '9.26753880'
+  longitude: '80.81282540'
+- id: 2800
+  name: North Central
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '7'
+  type: province
+  latitude: '8.19956380'
+  longitude: '80.63269160'
+- id: 2817
+  name: North Western
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '6'
+  type: province
+  latitude: '7.75840910'
+  longitude: '80.18750650'
+- id: 2813
+  name: Northern
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '4'
+  type: province
+  latitude: '9.37238330'
+  longitude: '79.84713770'
+- id: 2794
+  name: Nuwara Eliya
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '23'
+  type: district
+  latitude: '6.96065320'
+  longitude: '80.76927580'
+- id: 2812
+  name: Polonnaruwa
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '72'
+  type: district
+  latitude: '7.93955670'
+  longitude: '81.00034030'
+- id: 2796
+  name: Puttalam
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '62'
+  type: district
+  latitude: '8.02599150'
+  longitude: '79.84712720'
+- id: 2807
+  name: Ratnapura
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '91'
+  type: district
+  latitude: '6.70551680'
+  longitude: '80.38483890'
+- id: 2803
+  name: Sabaragamuwa
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '9'
+  type: province
+  latitude: '6.73959410'
+  longitude: '80.36586500'
+- id: 2801
+  name: Southern
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '3'
+  type: province
+  latitude: '6.25036500'
+  longitude: '79.52503880'
+- id: 2795
+  name: Trincomalee
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '53'
+  type: district
+  latitude: '8.60130690'
+  longitude: '81.11960750'
+- id: 2811
+  name: Uva
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '8'
+  type: province
+  latitude: '6.84276120'
+  longitude: '81.33994140'
+- id: 2809
+  name: Vavuniya
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '44'
+  type: district
+  latitude: '8.75947390'
+  longitude: '80.50003340'
+- id: 2802
+  name: Western
+  country_id: 208
+  country_code: LK
+  country_name: Sri Lanka
+  state_code: '1'
+  type: province
+  latitude: '6.82823500'
+  longitude: '79.76864030'

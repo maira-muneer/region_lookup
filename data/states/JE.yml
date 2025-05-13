@@ -1,0 +1,109 @@
+---
+- id: 5309
+  name: Grouville
+  country_id: 110
+  country_code: JE
+  country_name: Jersey
+  state_code: '01'
+  type: parish
+  latitude: '49.18212570'
+  longitude: "-2.09419810"
+- id: 5310
+  name: St Brelade
+  country_id: 110
+  country_code: JE
+  country_name: Jersey
+  state_code: '02'
+  type: parish
+  latitude: '49.18488000'
+  longitude: "-2.24685080"
+- id: 5311
+  name: St Clement
+  country_id: 110
+  country_code: JE
+  country_name: Jersey
+  state_code: '03'
+  type: parish
+  latitude: '49.16965790'
+  longitude: "-2.08839340"
+- id: 5312
+  name: St Helier
+  country_id: 110
+  country_code: JE
+  country_name: Jersey
+  state_code: '04'
+  type: parish
+  latitude: '49.18115230'
+  longitude: "-2.12574260"
+- id: 5313
+  name: St John
+  country_id: 110
+  country_code: JE
+  country_name: Jersey
+  state_code: '05'
+  type: parish
+  latitude: '49.23912570'
+  longitude: "-2.18026840"
+- id: 5314
+  name: St Lawrence
+  country_id: 110
+  country_code: JE
+  country_name: Jersey
+  state_code: '06'
+  type: parish
+  latitude: '49.21527480'
+  longitude: "-2.18207700"
+- id: 5315
+  name: St Martin
+  country_id: 110
+  country_code: JE
+  country_name: Jersey
+  state_code: '07'
+  type: parish
+  latitude: '49.21641490'
+  longitude: "-2.08133390"
+- id: 5316
+  name: St Mary
+  country_id: 110
+  country_code: JE
+  country_name: Jersey
+  state_code: '08'
+  type: parish
+  latitude: '49.23781810'
+  longitude: "-2.19522130"
+- id: 5317
+  name: St Ouen
+  country_id: 110
+  country_code: JE
+  country_name: Jersey
+  state_code: '09'
+  type: parish
+  latitude: '49.23680760'
+  longitude: "-2.25835970"
+- id: 5318
+  name: St Peter
+  country_id: 110
+  country_code: JE
+  country_name: Jersey
+  state_code: '10'
+  type: parish
+  latitude: '49.21442780'
+  longitude: "-2.23234310"
+- id: 5319
+  name: St Saviour
+  country_id: 110
+  country_code: JE
+  country_name: Jersey
+  state_code: '11'
+  type: parish
+  latitude: '49.20119890'
+  longitude: "-2.11257390"
+- id: 5320
+  name: Trinity
+  country_id: 110
+  country_code: JE
+  country_name: Jersey
+  state_code: '12'
+  type: parish
+  latitude: '49.23059000'
+  longitude: "-2.11999360"

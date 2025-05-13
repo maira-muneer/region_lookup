@@ -1,0 +1,118 @@
+---
+- id: 2853
+  name: "'Asir"
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  state_code: '14'
+  type: region
+  latitude: '19.09690620'
+  longitude: '42.86378750'
+- id: 2859
+  name: Al Bahah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  state_code: '11'
+  type: region
+  latitude: '20.27227390'
+  longitude: '41.44125100'
+- id: 2857
+  name: Al Jawf
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  state_code: '12'
+  type: region
+  latitude: '29.88735600'
+  longitude: '39.32062410'
+- id: 2851
+  name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  state_code: '03'
+  type: region
+  latitude: '24.84039770'
+  longitude: '39.32062410'
+- id: 2861
+  name: Al-Qassim
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  state_code: '05'
+  type: region
+  latitude: '26.20782600'
+  longitude: '43.48373800'
+- id: 2856
+  name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  state_code: '04'
+  type: region
+  latitude: '24.04399320'
+  longitude: '45.65892250'
+- id: 2855
+  name: Ha'il
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  state_code: '06'
+  type: region
+  latitude: '27.70761430'
+  longitude: '41.91964710'
+- id: 2858
+  name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  state_code: '09'
+  type: region
+  latitude: '17.17381760'
+  longitude: '42.70761070'
+- id: 2850
+  name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  state_code: '02'
+  type: region
+  latitude: '21.52355840'
+  longitude: '41.91964710'
+- id: 2860
+  name: Najran
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  state_code: '10'
+  type: region
+  latitude: '18.35146640'
+  longitude: '45.60071080'
+- id: 2854
+  name: Northern Borders
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  state_code: '08'
+  type: region
+  latitude: '30.07991620'
+  longitude: '42.86378750'
+- id: 2849
+  name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  state_code: '01'
+  type: region
+  latitude: '22.75543850'
+  longitude: '46.20915470'
+- id: 2852
+  name: Tabuk
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  state_code: '07'
+  type: region
+  latitude: '28.24533350'
+  longitude: '37.63866220'

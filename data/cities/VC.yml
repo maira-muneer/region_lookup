@@ -1,0 +1,100 @@
+---
+- id: 130030
+  name: Biabou
+  state_id: 3389
+  state_code: '01'
+  state_name: Charlotte
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  latitude: '13.19430000'
+  longitude: "-61.13904000"
+  wikiDataId: Q767607
+- id: 130031
+  name: Byera Village
+  state_id: 3389
+  state_code: '01'
+  state_name: Charlotte
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  latitude: '13.25636000'
+  longitude: "-61.11954000"
+  wikiDataId: Q5004057
+- id: 130033
+  name: Georgetown
+  state_id: 3389
+  state_code: '01'
+  state_name: Charlotte
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  latitude: '13.28054000'
+  longitude: "-61.11850000"
+  wikiDataId: Q2495209
+- id: 130037
+  name: Port Elizabeth
+  state_id: 3388
+  state_code: '06'
+  state_name: Grenadines
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  latitude: '13.01102000'
+  longitude: "-61.23548000"
+  wikiDataId: Q2995389
+- id: 130036
+  name: Layou
+  state_id: 3386
+  state_code: '02'
+  state_name: Saint Andrew
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  latitude: '13.20175000'
+  longitude: "-61.27014000"
+  wikiDataId: Q2630835
+- id: 130032
+  name: Chateaubelair
+  state_id: 3387
+  state_code: '03'
+  state_name: Saint David
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  latitude: '13.29069000'
+  longitude: "-61.24043000"
+  wikiDataId: Q672197
+- id: 130034
+  name: Kingstown
+  state_id: 3384
+  state_code: '04'
+  state_name: Saint George
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  latitude: '13.15527000'
+  longitude: "-61.22742000"
+  wikiDataId: Q41474
+- id: 130035
+  name: Kingstown Park
+  state_id: 3384
+  state_code: '04'
+  state_name: Saint George
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  latitude: '13.15924000'
+  longitude: "-61.23161000"
+  wikiDataId: Q41474
+- id: 130029
+  name: Barrouallie
+  state_id: 3385
+  state_code: '05'
+  state_name: Saint Patrick
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  latitude: '13.23676000'
+  longitude: "-61.27275000"
+  wikiDataId: Q2885705

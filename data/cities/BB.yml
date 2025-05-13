@@ -1,0 +1,78 @@
+---
+- id: 8452
+  name: Oistins
+  state_id: 1228
+  state_code: '01'
+  state_name: Christ Church
+  country_id: 20
+  country_code: BB
+  country_name: Barbados
+  latitude: '13.07067000'
+  longitude: "-59.54637000"
+  wikiDataId: Q692475
+- id: 8450
+  name: Greenland
+  state_id: 1229
+  state_code: '02'
+  state_name: Saint Andrew
+  country_id: 20
+  country_code: BB
+  country_name: Barbados
+  latitude: '13.25808000'
+  longitude: "-59.57763000"
+  wikiDataId: Q3556018
+- id: 8451
+  name: Holetown
+  state_id: 1224
+  state_code: '04'
+  state_name: Saint James
+  country_id: 20
+  country_code: BB
+  country_name: Barbados
+  latitude: '13.18672000'
+  longitude: "-59.63808000"
+  wikiDataId: Q2290478
+- id: 8447
+  name: Bathsheba
+  state_id: 1223
+  state_code: '06'
+  state_name: Saint Joseph
+  country_id: 20
+  country_code: BB
+  country_name: Barbados
+  latitude: '13.21133000'
+  longitude: "-59.52596000"
+  wikiDataId: Q2114059
+- id: 8448
+  name: Bridgetown
+  state_id: 1230
+  state_code: '08'
+  state_name: Saint Michael
+  country_id: 20
+  country_code: BB
+  country_name: Barbados
+  latitude: '13.10732000'
+  longitude: "-59.62021000"
+  wikiDataId: Q36168
+- id: 8453
+  name: Speightstown
+  state_id: 1222
+  state_code: '09'
+  state_name: Saint Peter
+  country_id: 20
+  country_code: BB
+  country_name: Barbados
+  latitude: '13.25072000'
+  longitude: "-59.64396000"
+  wikiDataId: Q2544610
+- id: 8449
+  name: Crane
+  state_id: 1220
+  state_code: '10'
+  state_name: Saint Philip
+  country_id: 20
+  country_code: BB
+  country_name: Barbados
+  latitude: '13.10487000'
+  longitude: "-59.44861000"
+  wikiDataId: Q36168

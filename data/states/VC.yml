@@ -1,0 +1,55 @@
+---
+- id: 3389
+  name: Charlotte
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  state_code: '01'
+  type: parish
+  latitude: '13.21754510'
+  longitude: "-61.16362440"
+- id: 3388
+  name: Grenadines
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  state_code: '06'
+  type: parish
+  latitude: '13.01229650'
+  longitude: "-61.22773010"
+- id: 3386
+  name: Saint Andrew
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  state_code: '02'
+  type: parish
+  latitude: '43.02429990'
+  longitude: "-81.20250000"
+- id: 3387
+  name: Saint David
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  state_code: '03'
+  type: parish
+  latitude: '43.85230950'
+  longitude: "-79.52366540"
+- id: 3384
+  name: Saint George
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  state_code: '04'
+  type: parish
+  latitude: '42.95760900'
+  longitude: "-81.32670500"
+- id: 3385
+  name: Saint Patrick
+  country_id: 188
+  country_code: VC
+  country_name: Saint Vincent and the Grenadines
+  state_code: '05'
+  type: parish
+  latitude: '39.75091860'
+  longitude: "-94.84505560"

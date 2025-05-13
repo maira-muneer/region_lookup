@@ -1,0 +1,199 @@
+---
+- id: 3671
+  name: 'Alta Verapaz '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '16'
+  type: department
+  latitude: '15.59428830'
+  longitude: "-90.14949880"
+- id: 3674
+  name: 'Baja Verapaz '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '15'
+  type: department
+  latitude: '15.12558670'
+  longitude: "-90.37483540"
+- id: 3675
+  name: 'Chimaltenango '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '04'
+  type: department
+  latitude: '14.56347870'
+  longitude: "-90.98206680"
+- id: 3666
+  name: 'Chiquimula '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '20'
+  type: department
+  latitude: '14.75149990'
+  longitude: "-89.47421770"
+- id: 3662
+  name: 'El Progreso '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '02'
+  type: department
+  latitude: '14.93887320'
+  longitude: "-90.07467670"
+- id: 3677
+  name: 'Escuintla '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '05'
+  type: department
+  latitude: '14.19109120'
+  longitude: "-90.98206680"
+- id: 3672
+  name: 'Guatemala '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '01'
+  type: department
+  latitude: '14.56494010'
+  longitude: "-90.52578230"
+- id: 3670
+  name: 'Huehuetenango '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '13'
+  type: department
+  latitude: '15.58799140'
+  longitude: "-91.67606910"
+- id: 3659
+  name: 'Izabal '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '18'
+  type: department
+  latitude: '15.49765170'
+  longitude: "-88.86469800"
+- id: 3658
+  name: 'Jalapa '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '21'
+  type: department
+  latitude: '14.61214460'
+  longitude: "-89.96267990"
+- id: 3673
+  name: 'Jutiapa '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '22'
+  type: department
+  latitude: '14.19308020'
+  longitude: "-89.92532330"
+- id: 3669
+  name: 'Petén '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '17'
+  type: department
+  latitude: '16.91203300'
+  longitude: "-90.29957850"
+- id: 3668
+  name: 'Quetzaltenango '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '09'
+  type: department
+  latitude: '14.79243300'
+  longitude: "-91.71495800"
+- id: 3657
+  name: 'Quiché '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '14'
+  type: department
+  latitude: '15.49838080'
+  longitude: "-90.98206680"
+- id: 3664
+  name: 'Retalhuleu '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '11'
+  type: department
+  latitude: '14.52454850'
+  longitude: "-91.68578800"
+- id: 3676
+  name: 'Sacatepéquez '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '03'
+  type: department
+  latitude: '14.51783790'
+  longitude: "-90.71527490"
+- id: 3667
+  name: 'San Marcos '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '12'
+  type: department
+  latitude: '14.93095690'
+  longitude: "-91.90992380"
+- id: 3665
+  name: 'Santa Rosa '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '06'
+  type: department
+  latitude: '38.44057590'
+  longitude: "-122.70375430"
+- id: 3661
+  name: 'Sololá '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '07'
+  type: department
+  latitude: '14.74852300'
+  longitude: "-91.28910360"
+- id: 3660
+  name: 'Suchitepéquez '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '10'
+  type: department
+  latitude: '14.42159820'
+  longitude: "-91.40482490"
+- id: 3663
+  name: 'Totonicapán '
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '08'
+  type: department
+  latitude: '14.91734020'
+  longitude: "-91.36139230"
+- id: 5239
+  name: Zacapa
+  country_id: 90
+  country_code: GT
+  country_name: Guatemala
+  state_code: '19'
+  type: department
+  latitude: '15.00928280'
+  longitude: "-89.92532330"

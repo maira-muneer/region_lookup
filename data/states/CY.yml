@@ -1,0 +1,55 @@
+---
+- id: 749
+  name: Famagusta (Mağusa)
+  country_id: 57
+  country_code: CY
+  country_name: Cyprus
+  state_code: '04'
+  type: district
+  latitude: '35.28570230'
+  longitude: '33.84112880'
+- id: 744
+  name: Kyrenia (Keryneia)
+  country_id: 57
+  country_code: CY
+  country_name: Cyprus
+  state_code: '06'
+  type: district
+  latitude: '35.29919400'
+  longitude: '33.23632460'
+- id: 747
+  name: Larnaca (Larnaka)
+  country_id: 57
+  country_code: CY
+  country_name: Cyprus
+  state_code: '03'
+  type: district
+  latitude: '34.85072060'
+  longitude: '33.48319060'
+- id: 748
+  name: Limassol (Leymasun)
+  country_id: 57
+  country_code: CY
+  country_name: Cyprus
+  state_code: '02'
+  type: district
+  latitude: '34.70713010'
+  longitude: '33.02261740'
+- id: 745
+  name: Nicosia (Lefkoşa)
+  country_id: 57
+  country_code: CY
+  country_name: Cyprus
+  state_code: '01'
+  type: district
+  latitude: '35.18556590'
+  longitude: '33.38227640'
+- id: 746
+  name: Paphos (Pafos)
+  country_id: 57
+  country_code: CY
+  country_name: Cyprus
+  state_code: '05'
+  type: district
+  latitude: '34.91645940'
+  longitude: '32.49200880'

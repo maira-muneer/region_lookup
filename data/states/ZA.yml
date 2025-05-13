@@ -1,0 +1,82 @@
+---
+- id: 938
+  name: Eastern Cape
+  country_id: 204
+  country_code: ZA
+  country_name: South Africa
+  state_code: EC
+  type: province
+  latitude: "-32.29684020"
+  longitude: '26.41938900'
+- id: 932
+  name: Free State
+  country_id: 204
+  country_code: ZA
+  country_name: South Africa
+  state_code: FS
+  type: province
+  latitude: '37.68585250'
+  longitude: "-97.28112560"
+- id: 936
+  name: Gauteng
+  country_id: 204
+  country_code: ZA
+  country_name: South Africa
+  state_code: GP
+  type: province
+  latitude: "-26.27075930"
+  longitude: '28.11226790'
+- id: 935
+  name: KwaZulu-Natal
+  country_id: 204
+  country_code: ZA
+  country_name: South Africa
+  state_code: KZN
+  type: province
+  latitude: "-28.53055390"
+  longitude: '30.89582420'
+- id: 933
+  name: Limpopo
+  country_id: 204
+  country_code: ZA
+  country_name: South Africa
+  state_code: LP
+  type: province
+  latitude: "-23.40129460"
+  longitude: '29.41793240'
+- id: 937
+  name: Mpumalanga
+  country_id: 204
+  country_code: ZA
+  country_name: South Africa
+  state_code: MP
+  type: province
+  latitude: "-25.56533600"
+  longitude: '30.52790960'
+- id: 934
+  name: North West
+  country_id: 204
+  country_code: ZA
+  country_name: South Africa
+  state_code: NW
+  type: province
+  latitude: '32.75885200'
+  longitude: "-97.32880600"
+- id: 931
+  name: Northern Cape
+  country_id: 204
+  country_code: ZA
+  country_name: South Africa
+  state_code: NC
+  type: province
+  latitude: "-29.04668080"
+  longitude: '21.85685860'
+- id: 939
+  name: Western Cape
+  country_id: 204
+  country_code: ZA
+  country_name: South Africa
+  state_code: WC
+  type: province
+  latitude: "-33.22779180"
+  longitude: '21.85685860'

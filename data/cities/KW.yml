@@ -1,0 +1,276 @@
+---
+- id: 65572
+  name: Al Aḩmadī
+  state_id: 977
+  state_code: AH
+  state_name: Al Ahmadi
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.07694000'
+  longitude: '48.08389000'
+  wikiDataId: Q980396
+- id: 65574
+  name: Al Faḩāḩīl
+  state_id: 977
+  state_code: AH
+  state_name: Al Ahmadi
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.08250000'
+  longitude: '48.13028000'
+  wikiDataId: Q980396
+- id: 65575
+  name: Al Finţās
+  state_id: 977
+  state_code: AH
+  state_name: Al Ahmadi
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.17389000'
+  longitude: '48.12111000'
+  wikiDataId: Q980396
+- id: 65578
+  name: Al Mahbūlah
+  state_id: 977
+  state_code: AH
+  state_name: Al Ahmadi
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.14500000'
+  longitude: '48.13028000'
+  wikiDataId: Q980396
+- id: 65579
+  name: Al Manqaf
+  state_id: 977
+  state_code: AH
+  state_name: Al Ahmadi
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.09611000'
+  longitude: '48.13278000'
+  wikiDataId: Q980396
+- id: 65580
+  name: Al Wafrah
+  state_id: 977
+  state_code: AH
+  state_name: Al Ahmadi
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '28.63917000'
+  longitude: '47.93056000'
+  wikiDataId: Q27347097
+- id: 65582
+  name: Ar Riqqah
+  state_id: 977
+  state_code: AH
+  state_name: Al Ahmadi
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.14583000'
+  longitude: '48.09472000'
+  wikiDataId: Q27347097
+- id: 65571
+  name: Ad Dasmah
+  state_id: 976
+  state_code: KU
+  state_name: Al Asimah
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.36500000'
+  longitude: '48.00139000'
+  wikiDataId: Q50431
+- id: 65584
+  name: Ar Rābiyah
+  state_id: 976
+  state_code: KU
+  state_name: Al Asimah
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.29500000'
+  longitude: '47.93306000'
+  wikiDataId: Q27347097
+- id: 65586
+  name: Ash Shāmīyah
+  state_id: 976
+  state_code: KU
+  state_name: Al Asimah
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.34722000'
+  longitude: '47.96167000'
+  wikiDataId: Q3505782
+- id: 65587
+  name: Az Zawr
+  state_id: 976
+  state_code: KU
+  state_name: Al Asimah
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.44250000'
+  longitude: '48.27472000'
+  wikiDataId: Q3505782
+- id: 65590
+  name: Kuwait City
+  state_id: 976
+  state_code: KU
+  state_name: Al Asimah
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.36972000'
+  longitude: '47.97833000'
+  wikiDataId: Q35178
+- id: 65573
+  name: Al Farwānīyah
+  state_id: 975
+  state_code: FA
+  state_name: Al Farwaniyah
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.27750000'
+  longitude: '47.95861000'
+  wikiDataId: Q980396
+- id: 65589
+  name: Janūb as Surrah
+  state_id: 975
+  state_code: FA
+  state_name: Al Farwaniyah
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.26917000'
+  longitude: '47.97806000'
+  wikiDataId: Q3505782
+- id: 65577
+  name: Al Jahrā’
+  state_id: 972
+  state_code: JA
+  state_name: Al Jahra
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.33750000'
+  longitude: '47.65806000'
+  wikiDataId: Q980396
+- id: 65583
+  name: Ar Rumaythīyah
+  state_id: 973
+  state_code: HA
+  state_name: Hawalli
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.31167000'
+  longitude: '48.07417000'
+  wikiDataId: Q27347097
+- id: 65585
+  name: As Sālimīyah
+  state_id: 973
+  state_code: HA
+  state_name: Hawalli
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.33389000'
+  longitude: '48.07611000'
+  wikiDataId: Q3505782
+- id: 65588
+  name: Bayān
+  state_id: 973
+  state_code: HA
+  state_name: Hawalli
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.30320000'
+  longitude: '48.04881000'
+  wikiDataId: Q3505782
+- id: 65593
+  name: Ḩawallī
+  state_id: 973
+  state_code: HA
+  state_name: Hawalli
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.33278000'
+  longitude: '48.02861000'
+  wikiDataId: Q3235220
+- id: 65591
+  name: Salwá
+  state_id: 973
+  state_code: HA
+  state_name: Hawalli
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.29583000'
+  longitude: '48.07861000'
+  wikiDataId: Q1179881
+- id: 65569
+  name: Abu Al Hasaniya
+  state_id: 974
+  state_code: MU
+  state_name: Mubarak Al-Kabeer
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.19076000'
+  longitude: '48.11355000'
+  wikiDataId: Q50431
+- id: 65570
+  name: Abu Fatira
+  state_id: 974
+  state_code: MU
+  state_name: Mubarak Al-Kabeer
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.19746000'
+  longitude: '48.10278000'
+  wikiDataId: Q50431
+- id: 65576
+  name: Al Funayţīs
+  state_id: 974
+  state_code: MU
+  state_name: Mubarak Al-Kabeer
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.22528000'
+  longitude: '48.10167000'
+  wikiDataId: Q980396
+- id: 65581
+  name: Al-Masayel
+  state_id: 974
+  state_code: MU
+  state_name: Mubarak Al-Kabeer
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.23930000'
+  longitude: '48.08862000'
+  wikiDataId: Q27347097
+- id: 65592
+  name: Şabāḩ as Sālim
+  state_id: 974
+  state_code: MU
+  state_name: Mubarak Al-Kabeer
+  country_id: 117
+  country_code: KW
+  country_name: Kuwait
+  latitude: '29.25722000'
+  longitude: '48.05722000'
+  wikiDataId: Q1179881

@@ -1,0 +1,145 @@
+---
+- id: 5298
+  name: Brändö
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.41259080'
+  longitude: '21.02299420'
+- id: 5294
+  name: Eckerö
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.22318140'
+  longitude: '19.53893790'
+- id: 5289
+  name: Finström
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.22993210'
+  longitude: '19.96746360'
+- id: 5295
+  name: Föglö
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.01462770'
+  longitude: '20.39334070'
+- id: 5296
+  name: Geta
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.37497270'
+  longitude: '19.82659620'
+- id: 5292
+  name: Hammarland
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.21641830'
+  longitude: '19.71964030'
+- id: 5288
+  name: Jomala
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.15223910'
+  longitude: '19.87479810'
+- id: 5301
+  name: Kökar
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '59.92081700'
+  longitude: '20.88853020'
+- id: 5300
+  name: Kumlinge
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.25992720'
+  longitude: '20.75875000'
+- id: 5290
+  name: Lemland
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.06887050'
+  longitude: '20.06581400'
+- id: 5299
+  name: Lumparland
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.11523570'
+  longitude: '20.24142800'
+- id: 5287
+  name: Mariehamn
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.09455780'
+  longitude: '19.79505300'
+- id: 5291
+  name: Saltvik
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.27554460'
+  longitude: '20.04131920'
+- id: 5302
+  name: Sottunga
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.13079770'
+  longitude: '20.64598210'
+- id: 5293
+  name: Sund
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.23084760'
+  longitude: '19.82397050'
+- id: 5297
+  name: Vårdö
+  country_id: 2
+  country_code: AX
+  country_name: Aland Islands
+  state_code:
+  type: municipality
+  latitude: '60.24233960'
+  longitude: '20.35281050'

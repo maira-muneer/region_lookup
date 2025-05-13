@@ -1,0 +1,166 @@
+---
+- id: 89856
+  name: Al Ghuwayrīyah
+  state_id: 3183
+  state_code: KH
+  state_name: Al Khor
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '25.82882000'
+  longitude: '51.24567000'
+  wikiDataId: Q2475423
+- id: 89858
+  name: Al Khawr
+  state_id: 3183
+  state_code: KH
+  state_name: Al Khor
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '25.68389000'
+  longitude: '51.50583000'
+  wikiDataId: Q1156471
+- id: 89861
+  name: Ar Rayyān
+  state_id: 3177
+  state_code: RA
+  state_name: Al Rayyan
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '25.29194000'
+  longitude: '51.42444000'
+  wikiDataId: Q31876054
+- id: 89869
+  name: Umm Bāb
+  state_id: 3177
+  state_code: RA
+  state_name: Al Rayyan
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '25.21417000'
+  longitude: '50.80722000'
+  wikiDataId: Q3296219
+- id: 89859
+  name: Al Wakrah
+  state_id: 3179
+  state_code: WA
+  state_name: Al Wakrah
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '25.17151000'
+  longitude: '51.60337000'
+  wikiDataId: Q1156471
+- id: 89860
+  name: Al Wukayr
+  state_id: 3179
+  state_code: WA
+  state_name: Al Wakrah
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '25.15107000'
+  longitude: '51.53718000'
+  wikiDataId: Q31876054
+- id: 89868
+  name: Musay‘īd
+  state_id: 3179
+  state_code: WA
+  state_name: Al Wakrah
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '24.99226000'
+  longitude: '51.55067000'
+  wikiDataId: Q1069900
+- id: 89857
+  name: Al Jumaylīyah
+  state_id: 3178
+  state_code: SH
+  state_name: Al-Shahaniya
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '25.61068000'
+  longitude: '51.09108000'
+  wikiDataId: Q1147593
+- id: 89863
+  name: Ash Shīḩānīyah
+  state_id: 3178
+  state_code: SH
+  state_name: Al-Shahaniya
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '25.37088000'
+  longitude: '51.22264000'
+  wikiDataId: Q3298589
+- id: 89865
+  name: Dukhān
+  state_id: 3178
+  state_code: SH
+  state_name: Al-Shahaniya
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '25.42485000'
+  longitude: '50.78227000'
+  wikiDataId: Q3296633
+- id: 89864
+  name: Doha
+  state_id: 3181
+  state_code: DA
+  state_name: Doha
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '25.28545000'
+  longitude: '51.53096000'
+  wikiDataId: Q3861
+- id: 89862
+  name: Ar Ruways
+  state_id: 3180
+  state_code: MS
+  state_name: Madinat ash Shamal
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '26.13978000'
+  longitude: '51.21493000'
+  wikiDataId: Q3298589
+- id: 89866
+  name: Fuwayriţ
+  state_id: 3180
+  state_code: MS
+  state_name: Madinat ash Shamal
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '26.02565000'
+  longitude: '51.36971000'
+  wikiDataId: Q3296633
+- id: 89867
+  name: Madīnat ash Shamāl
+  state_id: 3180
+  state_code: MS
+  state_name: Madinat ash Shamal
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '26.12933000'
+  longitude: '51.20090000'
+  wikiDataId: Q310872
+- id: 89870
+  name: Umm Şalāl Muḩammad
+  state_id: 3184
+  state_code: US
+  state_name: Umm Salal
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  latitude: '25.41524000'
+  longitude: '51.40647000'
+  wikiDataId: Q3298627

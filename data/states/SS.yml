@@ -1,0 +1,91 @@
+---
+- id: 2092
+  name: Central Equatoria
+  country_id: 206
+  country_code: SS
+  country_name: South Sudan
+  state_code: EC
+  type: state
+  latitude: '4.61440630'
+  longitude: '31.26263660'
+- id: 2093
+  name: Eastern Equatoria
+  country_id: 206
+  country_code: SS
+  country_name: South Sudan
+  state_code: EE
+  type: state
+  latitude: '5.06929950'
+  longitude: '33.43835300'
+- id: 2094
+  name: Jonglei State
+  country_id: 206
+  country_code: SS
+  country_name: South Sudan
+  state_code: JG
+  type: state
+  latitude: '7.18196190'
+  longitude: '32.35609520'
+- id: 2090
+  name: Lakes
+  country_id: 206
+  country_code: SS
+  country_name: South Sudan
+  state_code: LK
+  type: state
+  latitude: '37.16282550'
+  longitude: "-95.69116230"
+- id: 2088
+  name: Northern Bahr el Ghazal
+  country_id: 206
+  country_code: SS
+  country_name: South Sudan
+  state_code: BN
+  type: state
+  latitude: '8.53604490'
+  longitude: '26.79678490'
+- id: 2085
+  name: Unity
+  country_id: 206
+  country_code: SS
+  country_name: South Sudan
+  state_code: UY
+  type: state
+  latitude: '37.78712760'
+  longitude: "-122.40340790"
+- id: 2086
+  name: Upper Nile
+  country_id: 206
+  country_code: SS
+  country_name: South Sudan
+  state_code: NU
+  type: state
+  latitude: '9.88942020'
+  longitude: '32.71813750'
+- id: 2087
+  name: Warrap
+  country_id: 206
+  country_code: SS
+  country_name: South Sudan
+  state_code: WR
+  type: state
+  latitude: '8.08862380'
+  longitude: '28.64106410'
+- id: 2091
+  name: Western Bahr el Ghazal
+  country_id: 206
+  country_code: SS
+  country_name: South Sudan
+  state_code: BW
+  type: state
+  latitude: '8.64523990'
+  longitude: '25.28375850'
+- id: 2089
+  name: Western Equatoria
+  country_id: 206
+  country_code: SS
+  country_name: South Sudan
+  state_code: EW
+  type: state
+  latitude: '5.34717990'
+  longitude: '28.29943500'

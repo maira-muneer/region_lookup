@@ -1,0 +1,37 @@
+---
+- id: 3399
+  name: Gorno-Badakhshan
+  country_id: 217
+  country_code: TJ
+  country_name: Tajikistan
+  state_code: GB
+  type: autonomous region
+  latitude: '38.41273200'
+  longitude: '73.08774900'
+- id: 3398
+  name: Khatlon
+  country_id: 217
+  country_code: TJ
+  country_name: Tajikistan
+  state_code: KT
+  type: region
+  latitude: '37.91135620'
+  longitude: '69.09702300'
+- id: 3397
+  name: 'Nohiyahoi Tobei Jumhurí '
+  country_id: 217
+  country_code: TJ
+  country_name: Tajikistan
+  state_code: RA
+  type: districts under republic administration
+  latitude: '39.08579020'
+  longitude: '70.24083250'
+- id: 3400
+  name: 'Sughd '
+  country_id: 217
+  country_code: TJ
+  country_name: Tajikistan
+  state_code: SU
+  type: region
+  latitude: '39.51553260'
+  longitude: '69.09702300'

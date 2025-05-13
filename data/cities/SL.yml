@@ -1,0 +1,991 @@
+---
+- id: 104606
+  name: Barma
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.34959000'
+  longitude: "-11.33059000"
+  wikiDataId: Q31911183
+- id: 104609
+  name: Blama
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.87481000'
+  longitude: "-11.34548000"
+  wikiDataId: Q31916963
+- id: 104612
+  name: Boajibu
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.18763000'
+  longitude: "-11.34026000"
+  wikiDataId: Q4931229
+- id: 104617
+  name: Buedu
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.27960000'
+  longitude: "-10.37135000"
+  wikiDataId: Q34783819
+- id: 104620
+  name: Bunumbu
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.17421000'
+  longitude: "-10.86432000"
+  wikiDataId: Q34784512
+- id: 104621
+  name: Daru
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.98976000'
+  longitude: "-10.84223000"
+  wikiDataId: Q34784512
+- id: 104627
+  name: Giehun
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.88405000'
+  longitude: "-11.04908000"
+  wikiDataId: Q3012892
+- id: 104628
+  name: Gorahun
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.46439000'
+  longitude: "-11.23952000"
+  wikiDataId: Q3012892
+- id: 104629
+  name: Hangha
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.93974000'
+  longitude: "-11.14132000"
+  wikiDataId: Q3012892
+- id: 104631
+  name: Jojoima
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.87815000'
+  longitude: "-10.78976000"
+  wikiDataId: Q3012892
+- id: 104633
+  name: Kailahun
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.27890000'
+  longitude: "-10.57300000"
+  wikiDataId: Q1721432
+- id: 104634
+  name: Kailahun District
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.10768000'
+  longitude: "-10.75146000"
+  wikiDataId: Q1721443
+- id: 104638
+  name: Kayima
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.88790000'
+  longitude: "-11.15932000"
+  wikiDataId: Q1722889
+- id: 104639
+  name: Kenema
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.87687000'
+  longitude: "-11.19025000"
+  wikiDataId: Q634698
+- id: 104640
+  name: Kenema District
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.95171000'
+  longitude: "-11.19004000"
+  wikiDataId: Q1738741
+- id: 104642
+  name: Koidu
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.64387000'
+  longitude: "-10.97140000"
+  wikiDataId: Q1002580
+- id: 104645
+  name: Kono District
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.70687000'
+  longitude: "-10.93368000"
+  wikiDataId: Q1781849
+- id: 104647
+  name: Koyima
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.70552000'
+  longitude: "-11.02241000"
+  wikiDataId: Q1781849
+- id: 104658
+  name: Manowa
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.17392000'
+  longitude: "-10.74834000"
+  wikiDataId: Q42678
+- id: 104662
+  name: Mobai
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.99343000'
+  longitude: "-10.75355000"
+  wikiDataId: Q42678
+- id: 104664
+  name: Motema
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.61427000'
+  longitude: "-11.01252000"
+  wikiDataId: Q42678
+- id: 104668
+  name: Panguma
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.18507000'
+  longitude: "-11.13290000"
+  wikiDataId: Q4843232
+- id: 104669
+  name: Pendembu
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.09807000'
+  longitude: "-10.69429000"
+  wikiDataId: Q2913209
+- id: 104677
+  name: Segbwema
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.99471000'
+  longitude: "-10.95020000"
+  wikiDataId: Q2946720
+- id: 104680
+  name: Simbakoro
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.61243000'
+  longitude: "-11.00755000"
+  wikiDataId: Q2946720
+- id: 104682
+  name: Tefeya
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.70395000'
+  longitude: "-11.21260000"
+  wikiDataId: Q49368461
+- id: 104684
+  name: Tombodu
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.13526000'
+  longitude: "-10.61960000"
+  wikiDataId: Q7818691
+- id: 104685
+  name: Tombu
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.53991000'
+  longitude: "-10.73132000"
+  wikiDataId: Q7818691
+- id: 104689
+  name: Wima
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.30052000'
+  longitude: "-11.20455000"
+  wikiDataId: Q623241
+- id: 104690
+  name: Yengema
+  state_id: 914
+  state_code: E
+  state_name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.71441000'
+  longitude: "-11.17057000"
+  wikiDataId: Q1000327
+- id: 104603
+  name: Alikalia
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '9.15356000'
+  longitude: "-11.38712000"
+  wikiDataId: Q4726610
+- id: 104607
+  name: Bindi
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '9.91376000'
+  longitude: "-11.44669000"
+  wikiDataId: Q31916070
+- id: 104608
+  name: Binkolo
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.95225000'
+  longitude: "-11.98029000"
+  wikiDataId: Q9298703
+- id: 104613
+  name: Bombali District
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '9.28444000'
+  longitude: "-12.16449000"
+  wikiDataId: Q891767
+- id: 104618
+  name: Bumbuna
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '9.04466000'
+  longitude: "-11.74576000"
+  wikiDataId: Q4817928
+- id: 104625
+  name: Gberia Fotombu
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '9.87852000'
+  longitude: "-11.16548000"
+  wikiDataId: Q3012892
+- id: 104632
+  name: Kabala
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '9.58893000'
+  longitude: "-11.55256000"
+  wikiDataId: Q930789
+- id: 104635
+  name: Kamakwie
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '9.49689000'
+  longitude: "-12.24061000"
+  wikiDataId: Q6355344
+- id: 104636
+  name: Kambia
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '9.12504000'
+  longitude: "-12.91816000"
+  wikiDataId: Q1722889
+- id: 104637
+  name: Kassiri
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.93814000'
+  longitude: "-13.11541000"
+  wikiDataId: Q1722889
+- id: 104643
+  name: Koinadugu District
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '9.50991000'
+  longitude: "-11.34601000"
+  wikiDataId: Q1778860
+- id: 104644
+  name: Konakridee
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.69778000'
+  longitude: "-13.23917000"
+  wikiDataId: Q1778860
+- id: 104648
+  name: Kukuna
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '9.39841000'
+  longitude: "-12.66476000"
+  wikiDataId: Q1781849
+- id: 104650
+  name: Loma
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '9.75931000'
+  longitude: "-12.03383000"
+  wikiDataId: Q1781849
+- id: 104651
+  name: Lunsar
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.68439000'
+  longitude: "-12.53499000"
+  wikiDataId: Q995392
+- id: 104652
+  name: Magburaka
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.72306000'
+  longitude: "-11.94880000"
+  wikiDataId: Q1883766
+- id: 104653
+  name: Makali
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.62964000'
+  longitude: "-11.66168000"
+  wikiDataId: Q1883766
+- id: 104654
+  name: Makeni
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.88605000'
+  longitude: "-12.04417000"
+  wikiDataId: Q42678
+- id: 104655
+  name: Mambolo
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.91860000'
+  longitude: "-13.03674000"
+  wikiDataId: Q42678
+- id: 104657
+  name: Mange
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.92262000'
+  longitude: "-12.85688000"
+  wikiDataId: Q42678
+- id: 104659
+  name: Masaka
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.66492000'
+  longitude: "-11.80260000"
+  wikiDataId: Q42678
+- id: 104660
+  name: Masingbi
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.78197000'
+  longitude: "-11.95171000"
+  wikiDataId: Q42678
+- id: 104661
+  name: Masoyila
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.61119000'
+  longitude: "-13.19101000"
+  wikiDataId: Q42678
+- id: 104670
+  name: Pepel
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.58611000'
+  longitude: "-13.05444000"
+  wikiDataId: Q3466506
+- id: 104674
+  name: Rokupr
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.67121000'
+  longitude: "-12.38497000"
+  wikiDataId: Q927464
+- id: 104676
+  name: Sawkta
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.63230000'
+  longitude: "-13.20250000"
+  wikiDataId: Q7370541
+- id: 104678
+  name: Seidu
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '9.01801000'
+  longitude: "-10.59496000"
+  wikiDataId: Q2946720
+- id: 104683
+  name: Tintafor
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.62667000'
+  longitude: "-13.21500000"
+  wikiDataId: Q49368461
+- id: 104687
+  name: Tonkolili District
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.61885000'
+  longitude: "-11.84173000"
+  wikiDataId: Q1852020
+- id: 104691
+  name: Yonibana
+  state_id: 911
+  state_code: "N"
+  state_name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.44347000'
+  longitude: "-12.23929000"
+  wikiDataId: Q289747
+- id: 104604
+  name: Baiima
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.10826000'
+  longitude: "-11.84772000"
+  wikiDataId: Q31898780
+- id: 104605
+  name: Baoma
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.99344000'
+  longitude: "-11.71468000"
+  wikiDataId: Q4857461
+- id: 104610
+  name: Bo
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.96472000'
+  longitude: "-11.73833000"
+  wikiDataId: Q844878
+- id: 104611
+  name: Bo District
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.98877000'
+  longitude: "-11.67340000"
+  wikiDataId: Q887317
+- id: 104614
+  name: Bomi
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.24611000'
+  longitude: "-11.52583000"
+  wikiDataId: Q31924184
+- id: 104615
+  name: Bonthe
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.52639000'
+  longitude: "-12.50500000"
+  wikiDataId: Q892886
+- id: 104616
+  name: Bonthe District
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.51622000'
+  longitude: "-12.33591000"
+  wikiDataId: Q892889
+- id: 104619
+  name: Bumpe
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.89209000'
+  longitude: "-11.90541000"
+  wikiDataId: Q2946676
+- id: 104622
+  name: Foindu
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.40906000'
+  longitude: "-11.54328000"
+  wikiDataId: Q34784512
+- id: 104624
+  name: Gandorhun
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.55502000'
+  longitude: "-11.69260000"
+  wikiDataId: Q3012892
+- id: 104626
+  name: Gbewebu
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.55091000'
+  longitude: "-11.60750000"
+  wikiDataId: Q3012892
+- id: 104646
+  name: Koribundu
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.70952000'
+  longitude: "-11.69354000"
+  wikiDataId: Q1781849
+- id: 104649
+  name: Largo
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.27903000'
+  longitude: "-12.15780000"
+  wikiDataId: Q1781849
+- id: 104656
+  name: Mamboma
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.08742000'
+  longitude: "-11.68841000"
+  wikiDataId: Q42678
+- id: 104663
+  name: Mogbwemo
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.76237000'
+  longitude: "-12.30864000"
+  wikiDataId: Q42678
+- id: 104665
+  name: Moyamba
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.15898000'
+  longitude: "-12.43168000"
+  wikiDataId: Q913292
+- id: 104666
+  name: Moyamba District
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.06290000'
+  longitude: "-12.44401000"
+  wikiDataId: Q597538
+- id: 104667
+  name: Palima
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.11996000'
+  longitude: "-11.50702000"
+  wikiDataId: Q4843232
+- id: 104671
+  name: Potoru
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.50596000'
+  longitude: "-11.47897000"
+  wikiDataId: Q3466506
+- id: 104672
+  name: Pujehun
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.35806000'
+  longitude: "-11.72083000"
+  wikiDataId: Q623298
+- id: 104673
+  name: Pujehun District
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.31855000'
+  longitude: "-11.57920000"
+  wikiDataId: Q927464
+- id: 104675
+  name: Rotifunk
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.22591000'
+  longitude: "-12.67760000"
+  wikiDataId: Q7370541
+- id: 104679
+  name: Serabu
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.79311000'
+  longitude: "-12.05294000"
+  wikiDataId: Q2946720
+- id: 104681
+  name: Sumbuya
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.64789000'
+  longitude: "-11.96060000"
+  wikiDataId: Q49368461
+- id: 104686
+  name: Tongole
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.45092000'
+  longitude: "-11.90071000"
+  wikiDataId: Q7818691
+- id: 104692
+  name: Zimmi
+  state_id: 912
+  state_code: S
+  state_name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '7.31356000'
+  longitude: "-11.30818000"
+  wikiDataId: Q289747
+- id: 104623
+  name: Freetown
+  state_id: 913
+  state_code: W
+  state_name: Western
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.48714000'
+  longitude: "-13.23560000"
+  wikiDataId: Q3780
+- id: 104630
+  name: Hastings
+  state_id: 913
+  state_code: W
+  state_name: Western
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.37994000'
+  longitude: "-13.13693000"
+  wikiDataId: Q3012892
+- id: 104641
+  name: Kent
+  state_id: 913
+  state_code: W
+  state_name: Western
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.33333000'
+  longitude: "-13.06667000"
+  wikiDataId: Q1738741
+- id: 104688
+  name: Waterloo
+  state_id: 913
+  state_code: W
+  state_name: Western
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  latitude: '8.33890000'
+  longitude: "-13.07091000"
+  wikiDataId: Q623241

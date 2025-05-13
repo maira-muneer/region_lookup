@@ -1,0 +1,127 @@
+---
+- id: 5273
+  name: Blowing Point
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.17655530'
+  longitude: "-63.10212960"
+- id: 5274
+  name: East End
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.23561730'
+  longitude: "-63.01497150"
+- id: 5275
+  name: George Hill
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.19978110'
+  longitude: "-63.07761140"
+- id: 5276
+  name: Island Harbour
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.25521250'
+  longitude: "-63.01405900"
+- id: 5277
+  name: North Hill
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.20508630'
+  longitude: "-63.08584570"
+- id: 5278
+  name: North Side
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.23005440'
+  longitude: "-63.05188900"
+- id: 5279
+  name: Sandy Ground
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.20185510'
+  longitude: "-63.09734710"
+- id: 5280
+  name: Sandy Hill
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.21892100'
+  longitude: "-63.01299160"
+- id: 5281
+  name: South Hill
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.18924750'
+  longitude: "-63.09763670"
+- id: 5282
+  name: Stoney Ground
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.21791010'
+  longitude: "-63.04969860"
+- id: 5283
+  name: The Farrington
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.21347010'
+  longitude: "-63.02721620"
+- id: 5284
+  name: The Quarter
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.21453340'
+  longitude: "-63.05644890"
+- id: 5285
+  name: The Valley
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.21521660'
+  longitude: "-63.07006280"
+- id: 5286
+  name: West End
+  country_id: 8
+  country_code: AI
+  country_name: Anguilla
+  state_code:
+  type: district
+  latitude: '18.17153940'
+  longitude: "-63.17191270"

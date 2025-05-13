@@ -1,0 +1,55 @@
+---
+- id: 2666
+  name: Banjul
+  country_id: 80
+  country_code: GM
+  country_name: 'The Gambia '
+  state_code: B
+  type: city
+  latitude: '13.45487610'
+  longitude: "-16.57903230"
+- id: 2669
+  name: Central River
+  country_id: 80
+  country_code: GM
+  country_name: 'The Gambia '
+  state_code: M
+  type: division
+  latitude: '13.59944690'
+  longitude: "-14.89216680"
+- id: 2670
+  name: Lower River
+  country_id: 80
+  country_code: GM
+  country_name: 'The Gambia '
+  state_code: L
+  type: division
+  latitude: '13.35533060'
+  longitude: "-15.92299000"
+- id: 2671
+  name: North Bank
+  country_id: 80
+  country_code: GM
+  country_name: 'The Gambia '
+  state_code: "N"
+  type: division
+  latitude: '13.52854360'
+  longitude: "-16.01699710"
+- id: 2668
+  name: Upper River
+  country_id: 80
+  country_code: GM
+  country_name: 'The Gambia '
+  state_code: U
+  type: division
+  latitude: '13.42573660'
+  longitude: "-14.00723480"
+- id: 2667
+  name: West Coast
+  country_id: 80
+  country_code: GM
+  country_name: 'The Gambia '
+  state_code: W
+  type: division
+  latitude: '5.97727980'
+  longitude: '116.07542880'

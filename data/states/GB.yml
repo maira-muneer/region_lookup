@@ -1,0 +1,2224 @@
+---
+- id: 2463
+  name: Aberdeen
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ABE
+  type: council area
+  latitude: '57.14971700'
+  longitude: "-2.09427800"
+- id: 2401
+  name: Aberdeenshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ABD
+  type: council area
+  latitude: '57.28687230'
+  longitude: "-2.38156840"
+- id: 2387
+  name: Angus
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ANS
+  type: council area
+  latitude: '37.27578860'
+  longitude: "-95.65010330"
+- id: 2533
+  name: Antrim
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ANT
+  type: unitary authority
+  latitude: '54.71953380'
+  longitude: "-6.20724980"
+- id: 2412
+  name: Antrim and Newtownabbey
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ANN
+  type: district
+  latitude: '54.69568870'
+  longitude: "-5.94810690"
+- id: 2498
+  name: Ards
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ARD
+  type: unitary authority
+  latitude: '42.13918510'
+  longitude: "-87.86149720"
+- id: 2523
+  name: Ards and North Down
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: AND
+  type: district
+  latitude: '54.58996450'
+  longitude: "-5.59849720"
+- id: 2392
+  name: Argyll and Bute
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: AGB
+  type: council area
+  latitude: '56.40062140'
+  longitude: "-5.48074800"
+- id: 2331
+  name: Armagh
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ARM
+  type: district council
+  latitude: '54.39325920'
+  longitude: "-6.45634010"
+- id: 2324
+  name: Armagh, Banbridge and Craigavon
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ABC
+  type: district
+  latitude: '54.39325920'
+  longitude: "-6.45634010"
+- id: 2378
+  name: Ascension Island
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SH-AC
+  type: unitary authority
+  latitude: "-7.94671660"
+  longitude: "-14.35591580"
+- id: 2363
+  name: Ballymena
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BLA
+  type: borough council
+  latitude: '54.86426000'
+  longitude: "-6.27910740"
+- id: 2361
+  name: Ballymoney
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BLY
+  type: unitary authority
+  latitude: '55.07048880'
+  longitude: "-6.51737080"
+- id: 2315
+  name: Banbridge
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BNB
+  type: unitary authority
+  latitude: '54.34872900'
+  longitude: "-6.27048030"
+- id: 2356
+  name: Barking and Dagenham
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BDG
+  type: london borough
+  latitude: '51.55406660'
+  longitude: '0.13401700'
+- id: 2520
+  name: Barnet
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BNE
+  type: london borough
+  latitude: '51.60496730'
+  longitude: "-0.20762950"
+- id: 2499
+  name: Barnsley
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BNS
+  type: metropolitan district
+  latitude: '34.29949560'
+  longitude: "-84.98458090"
+- id: 2339
+  name: Bath and North East Somerset
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BAS
+  type: unitary authority
+  latitude: '51.32501020'
+  longitude: "-2.47662410"
+- id: 2507
+  name: Bedford
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BDF
+  type: unitary authority
+  latitude: '32.84401700'
+  longitude: "-97.14306710"
+- id: 2311
+  name: Belfast
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BFS
+  type: district
+  latitude: '54.61703660'
+  longitude: "-5.95318610"
+- id: 2307
+  name: Bexley
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BEX
+  type: london borough
+  latitude: '51.45190210'
+  longitude: '0.11717860'
+- id: 2425
+  name: Birmingham
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BIR
+  type: metropolitan district
+  latitude: '33.51858920'
+  longitude: "-86.81035670"
+- id: 2329
+  name: Blackburn with Darwen
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BBD
+  type: unitary authority
+  latitude: '53.69575220'
+  longitude: "-2.46829850"
+- id: 2451
+  name: Blackpool
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BPL
+  type: unitary authority
+  latitude: '53.81750530'
+  longitude: "-3.03567480"
+- id: 2530
+  name: Blaenau Gwent
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BGW
+  type: borough council
+  latitude: '51.78757790'
+  longitude: "-3.20439310"
+- id: 2504
+  name: Bolton
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BOL
+  type: metropolitan district
+  latitude: '44.37264760'
+  longitude: "-72.87876250"
+- id: 2342
+  name: Bournemouth
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BMH
+  type: unitary authority
+  latitude: '50.71916400'
+  longitude: "-1.88076900"
+- id: 2470
+  name: Bracknell Forest
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BRC
+  type: unitary authority
+  latitude: '51.41538280'
+  longitude: "-0.75364950"
+- id: 2529
+  name: Bradford
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BRD
+  type: metropolitan district
+  latitude: '53.79598400'
+  longitude: "-1.75939800"
+- id: 2291
+  name: Brent
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BEN
+  type: london borough
+  latitude: '51.56728080'
+  longitude: "-0.27105680"
+- id: 2452
+  name: Bridgend
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BGE
+  type: borough council
+  latitude: '51.50831990'
+  longitude: "-3.58120750"
+- id: 2395
+  name: Brighton and Hove
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BNH
+  type: unitary authority
+  latitude: '50.82262880'
+  longitude: "-0.13704700"
+- id: 2413
+  name: Bristol
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BST
+  type: unitary authority
+  latitude: '41.67352200'
+  longitude: "-72.94653750"
+- id: 2490
+  name: Bromley
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BRY
+  type: london borough
+  latitude: '51.36797050'
+  longitude: '0.07006200'
+- id: 2405
+  name: Buckinghamshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BKM
+  type: unitary authority
+  latitude: '51.80722040'
+  longitude: "-0.81276640"
+- id: 2459
+  name: Bury
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: BUR
+  type: metropolitan district
+  latitude: '53.59334980'
+  longitude: "-2.29660540"
+- id: 2298
+  name: Caerphilly
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CAY
+  type: unitary authority
+  latitude: '51.66044650'
+  longitude: "-3.21787240"
+- id: 2517
+  name: Calderdale
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CLD
+  type: metropolitan district
+  latitude: '53.72478450'
+  longitude: "-1.86583570"
+- id: 2423
+  name: Cambridgeshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CAM
+  type: two-tier county
+  latitude: '52.20529730'
+  longitude: '0.12181950'
+- id: 2349
+  name: Camden
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CMD
+  type: london borough
+  latitude: '51.54547360'
+  longitude: "-0.16279020"
+- id: 2528
+  name: Cardiff
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CRF
+  type: unitary authority
+  latitude: '51.48158100'
+  longitude: "-3.17909000"
+- id: 2484
+  name: Carmarthenshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CMN
+  type: unitary authority
+  latitude: '51.85723090'
+  longitude: "-4.31159590"
+- id: 2439
+  name: Carrickfergus
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CKF
+  type: borough council
+  latitude: '54.72568430'
+  longitude: "-5.80937190"
+- id: 2525
+  name: Castlereagh
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CSR
+  type: unitary authority
+  latitude: '54.57567900'
+  longitude: "-5.88840280"
+- id: 2316
+  name: Causeway Coast and Glens
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CCG
+  type: district
+  latitude: '55.04318300'
+  longitude: "-6.67412880"
+- id: 2303
+  name: Central Bedfordshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CBF
+  type: unitary authority
+  latitude: '52.00297440'
+  longitude: "-0.46513890"
+- id: 2509
+  name: Ceredigion
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CGN
+  type: unitary authority
+  latitude: '52.21914290'
+  longitude: "-3.93212560"
+- id: 2444
+  name: Cheshire East
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CHE
+  type: unitary authority
+  latitude: '53.16104460'
+  longitude: "-2.21859320"
+- id: 2442
+  name: Cheshire West and Chester
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CHW
+  type: unitary authority
+  latitude: '53.23029740'
+  longitude: "-2.71511170"
+- id: 2475
+  name: City of Kingston upon Hull
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: KHL
+  type: unitary authority
+  latitude: '53.76762360'
+  longitude: "-0.32741980"
+- id: 2294
+  name: City of Southampton
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: STH
+  type: unitary authority
+  latitude: '50.90970040'
+  longitude: "-1.40435090"
+- id: 2450
+  name: Clackmannanshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CLK
+  type: council area
+  latitude: '56.10753510'
+  longitude: "-3.75294090"
+- id: 2461
+  name: Coleraine
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CLR
+  type: borough council
+  latitude: '55.14515700'
+  longitude: "-6.67598140"
+- id: 2352
+  name: Conwy
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CWY
+  type: unitary authority
+  latitude: '53.29350130'
+  longitude: "-3.72651610"
+- id: 2445
+  name: Cookstown
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CKT
+  type: district council
+  latitude: '54.64181580'
+  longitude: "-6.74438950"
+- id: 2312
+  name: Cornwall
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CON
+  type: unitary authority
+  latitude: '50.26604710'
+  longitude: "-5.05271250"
+- id: 2438
+  name: Coventry
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: COV
+  type: metropolitan district
+  latitude: '52.40682200'
+  longitude: "-1.51969300"
+- id: 2449
+  name: Craigavon
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CGV
+  type: borough council
+  latitude: '54.39325920'
+  longitude: "-6.45634010"
+- id: 2512
+  name: Croydon
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CRY
+  type: london borough
+  latitude: '51.38274460'
+  longitude: "-0.09851630"
+- id: 2334
+  name: Cumbria
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: CMA
+  type: two-tier county
+  latitude: '54.57723230'
+  longitude: "-2.79748350"
+- id: 2389
+  name: Darlington
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DAL
+  type: unitary authority
+  latitude: '34.29987620'
+  longitude: "-79.87617410"
+- id: 2497
+  name: Denbighshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DEN
+  type: unitary authority
+  latitude: '53.18422880'
+  longitude: "-3.42249850"
+- id: 2485
+  name: Derby
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DER
+  type: unitary authority
+  latitude: '37.54837550'
+  longitude: "-97.24851910"
+- id: 2403
+  name: Derbyshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DBY
+  type: two-tier county
+  latitude: '53.10467820'
+  longitude: "-1.56238850"
+- id: 2417
+  name: Derry
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DRY
+  type: unitary authority
+  latitude: '54.96907780'
+  longitude: "-7.19583510"
+- id: 2446
+  name: Derry City and Strabane
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DRS
+  type: district
+  latitude: '55.00474430'
+  longitude: "-7.32092220"
+- id: 2491
+  name: Devon
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DEV
+  type: two-tier county
+  latitude: '50.71555910'
+  longitude: "-3.53087500"
+- id: 2364
+  name: Doncaster
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DNC
+  type: metropolitan district
+  latitude: '53.52282000'
+  longitude: "-1.12846200"
+- id: 2345
+  name: Dorset
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DOR
+  type: two-tier county
+  latitude: '50.74876350'
+  longitude: "-2.34447860"
+- id: 2304
+  name: Down District Council
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DOW
+  type: unitary authority
+  latitude: '54.24342870'
+  longitude: "-5.95779590"
+- id: 2457
+  name: Dudley
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DUD
+  type: metropolitan district
+  latitude: '42.04336610'
+  longitude: "-71.92760330"
+- id: 2415
+  name: Dumfries and Galloway
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DGY
+  type: council area
+  latitude: '55.07010730'
+  longitude: "-3.60525810"
+- id: 2511
+  name: Dundee
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DND
+  type: council area
+  latitude: '56.46201800'
+  longitude: "-2.97072100"
+- id: 2508
+  name: Dungannon and South Tyrone
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DGN
+  type: borough council
+  latitude: '54.50826840'
+  longitude: "-6.76658910"
+- id: 2406
+  name: Durham
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: DUR
+  type: unitary authority
+  latitude: '54.72940990'
+  longitude: "-1.88115980"
+- id: 2532
+  name: Ealing
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: EAL
+  type: london borough
+  latitude: '51.52503660'
+  longitude: "-0.34139650"
+- id: 2374
+  name: East Ayrshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: EAY
+  type: council area
+  latitude: '55.45184960'
+  longitude: "-4.26444780"
+- id: 2454
+  name: East Dunbartonshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: EDU
+  type: council area
+  latitude: '55.97431620'
+  longitude: "-4.20229800"
+- id: 2462
+  name: East Lothian
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ELN
+  type: council area
+  latitude: '55.94933830'
+  longitude: "-2.77044640"
+- id: 2333
+  name: East Renfrewshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ERW
+  type: council area
+  latitude: '55.77047350'
+  longitude: "-4.33598210"
+- id: 2370
+  name: East Riding of Yorkshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ERY
+  type: unitary authority
+  latitude: '53.84161680'
+  longitude: "-0.43441060"
+- id: 2414
+  name: East Sussex
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ESX
+  type: two-tier county
+  latitude: '50.90859550'
+  longitude: '0.24941660'
+- id: 2428
+  name: Edinburgh
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: EDH
+  type: council area
+  latitude: '55.95325200'
+  longitude: "-3.18826700"
+- id: 2476
+  name: Enfield
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ENF
+  type: london borough
+  latitude: '51.66229090'
+  longitude: "-0.11806510"
+- id: 2336
+  name: England
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ENG
+  type: country
+  latitude: '52.35551770'
+  longitude: "-1.17431970"
+- id: 2410
+  name: Essex
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ESS
+  type: two-tier county
+  latitude: '51.57424470'
+  longitude: '0.48567810'
+- id: 2344
+  name: Falkirk
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: FAL
+  type: council area
+  latitude: '56.00187750'
+  longitude: "-3.78391310"
+- id: 2531
+  name: Fermanagh
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: FER
+  type: district council
+  latitude: '54.34479780'
+  longitude: "-7.63842180"
+- id: 2366
+  name: Fermanagh and Omagh
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: FMO
+  type: district
+  latitude: '54.45135240'
+  longitude: "-7.71250180"
+- id: 2479
+  name: Fife
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: FIF
+  type: council area
+  latitude: '56.20820780'
+  longitude: "-3.14951750"
+- id: 2437
+  name: Flintshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: FLN
+  type: unitary authority
+  latitude: '53.16686580'
+  longitude: "-3.14189080"
+- id: 2431
+  name: Gateshead
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: GAT
+  type: metropolitan district
+  latitude: '54.95268000'
+  longitude: "-1.60341100"
+- id: 2404
+  name: Glasgow
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: GLG
+  type: council area
+  latitude: '55.86423700'
+  longitude: "-4.25180600"
+- id: 2373
+  name: Gloucestershire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: GLS
+  type: two-tier county
+  latitude: '51.86421120'
+  longitude: "-2.23803350"
+- id: 2492
+  name: Greenwich
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: GRE
+  type: london borough
+  latitude: '51.48346270'
+  longitude: '0.05862020'
+- id: 2379
+  name: Gwynedd
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: GWN
+  type: unitary authority
+  latitude: '52.92772660'
+  longitude: "-4.13348360"
+- id: 2411
+  name: Hackney
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: HCK
+  type: london borough
+  latitude: '51.57344500'
+  longitude: "-0.07243760"
+- id: 2466
+  name: Halton
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: HAL
+  type: unitary authority
+  latitude: '43.53253720'
+  longitude: "-79.87448360"
+- id: 2448
+  name: Hammersmith and Fulham
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: HMF
+  type: london borough
+  latitude: '51.49901560'
+  longitude: "-0.22915000"
+- id: 2435
+  name: Hampshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: HAM
+  type: two-tier county
+  latitude: '51.05769480'
+  longitude: "-1.30806290"
+- id: 2306
+  name: Haringey
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: HRY
+  type: london borough
+  latitude: '51.59061130'
+  longitude: "-0.11097090"
+- id: 2385
+  name: Harrow
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: HRW
+  type: london borough
+  latitude: '51.58816270'
+  longitude: "-0.34228510"
+- id: 2309
+  name: Hartlepool
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: HPL
+  type: unitary authority
+  latitude: '54.69174500'
+  longitude: "-1.21292600"
+- id: 2347
+  name: Havering
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: HAV
+  type: london borough
+  latitude: '51.57792400'
+  longitude: '0.21208290'
+- id: 2500
+  name: Herefordshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: HEF
+  type: unitary authority
+  latitude: '52.07651640'
+  longitude: "-2.65441820"
+- id: 2369
+  name: Hertfordshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: HRT
+  type: two-tier county
+  latitude: '51.80978230'
+  longitude: "-0.23767440"
+- id: 2383
+  name: Highland
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: HLD
+  type: council area
+  latitude: '36.29675080'
+  longitude: "-95.83803660"
+- id: 2376
+  name: Hillingdon
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: HIL
+  type: london borough
+  latitude: '51.53518320'
+  longitude: "-0.44813780"
+- id: 2380
+  name: Hounslow
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: HNS
+  type: london borough
+  latitude: '51.48283580'
+  longitude: "-0.38820620"
+- id: 2388
+  name: Inverclyde
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: IVC
+  type: council area
+  latitude: '55.93165690'
+  longitude: "-4.68001580"
+- id: 2289
+  name: Isle of Wight
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: IOW
+  type: unitary authority
+  latitude: '50.69384790'
+  longitude: "-1.30473400"
+- id: 2343
+  name: Isles of Scilly
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: IOS
+  type: unitary authority
+  latitude: '49.92772610'
+  longitude: "-6.32749660"
+- id: 2319
+  name: Islington
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ISL
+  type: london borough
+  latitude: '51.54650630'
+  longitude: "-0.10580580"
+- id: 2368
+  name: Kensington and Chelsea
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: KEC
+  type: london borough
+  latitude: '51.49908050'
+  longitude: "-0.19382530"
+- id: 2464
+  name: Kent
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: KEN
+  type: two-tier county
+  latitude: '41.15366740'
+  longitude: "-81.35788590"
+- id: 2481
+  name: Kingston upon Thames
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: KTT
+  type: london borough
+  latitude: '51.37811700'
+  longitude: "-0.29270900"
+- id: 2371
+  name: Kirklees
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: KIR
+  type: metropolitan district
+  latitude: '53.59334320'
+  longitude: "-1.80095090"
+- id: 2330
+  name: Knowsley
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: KWL
+  type: metropolitan district
+  latitude: '53.45459400'
+  longitude: "-2.85290700"
+- id: 2396
+  name: Lambeth
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: LBH
+  type: london borough
+  latitude: '51.45714770'
+  longitude: "-0.12306810"
+- id: 2495
+  name: Lancashire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: LAN
+  type: two-tier county
+  latitude: '53.76322540'
+  longitude: "-2.70440520"
+- id: 2515
+  name: Larne
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: LRN
+  type: borough council
+  latitude: '54.85780030'
+  longitude: "-5.82362240"
+- id: 2503
+  name: Leeds
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: LDS
+  type: metropolitan district
+  latitude: '53.80075540'
+  longitude: "-1.54907740"
+- id: 2318
+  name: Leicester
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: LCE
+  type: unitary authority
+  latitude: '52.63687780'
+  longitude: "-1.13975920"
+- id: 2516
+  name: Leicestershire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: LEC
+  type: two-tier county
+  latitude: '52.77257100'
+  longitude: "-1.20521260"
+- id: 2358
+  name: Lewisham
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: LEW
+  type: london borough
+  latitude: '51.44145790'
+  longitude: "-0.01170060"
+- id: 2382
+  name: Limavady
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: LMV
+  type: borough council
+  latitude: '55.05168200'
+  longitude: "-6.94919440"
+- id: 2355
+  name: Lincolnshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: LIN
+  type: two-tier county
+  latitude: '52.94518890'
+  longitude: "-0.16012460"
+- id: 2494
+  name: Lisburn
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: LSB
+  type: unitary authority
+  latitude: '54.49815840'
+  longitude: "-6.13067910"
+- id: 2460
+  name: Lisburn and Castlereagh
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: LBC
+  type: district
+  latitude: '54.49815840'
+  longitude: "-6.13067910"
+- id: 2340
+  name: Liverpool
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: LIV
+  type: metropolitan district
+  latitude: '32.65649810'
+  longitude: "-115.47632410"
+- id: 2424
+  name: London
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: LND
+  type: city
+  latitude: '51.51234430'
+  longitude: "-0.09098520"
+- id: 2322
+  name: Magherafelt
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: MFT
+  type: district council
+  latitude: '54.75532790'
+  longitude: "-6.60774870"
+- id: 2398
+  name: Manchester
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: MAN
+  type: metropolitan district
+  latitude: '53.48075930'
+  longitude: "-2.24263050"
+- id: 2381
+  name: Medway
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: MDW
+  type: unitary authority
+  latitude: '42.14176410'
+  longitude: "-71.39672560"
+- id: 2328
+  name: Merthyr Tydfil
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: MTY
+  type: unitary authority
+  latitude: '51.74674740'
+  longitude: "-3.38132750"
+- id: 2483
+  name: Merton
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: MRT
+  type: london borough
+  latitude: '51.40977420'
+  longitude: "-0.21080840"
+- id: 2429
+  name: Mid and East Antrim
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: MEA
+  type: district
+  latitude: '54.93993410'
+  longitude: "-6.11374230"
+- id: 2399
+  name: Mid Ulster
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: MUL
+  type: district
+  latitude: '54.64113010'
+  longitude: "-6.75225490"
+- id: 2332
+  name: Middlesbrough
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: MDB
+  type: unitary authority
+  latitude: '54.57422700'
+  longitude: "-1.23495600"
+- id: 2519
+  name: Midlothian
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: MLN
+  type: council area
+  latitude: '32.47533500'
+  longitude: "-97.01031810"
+- id: 2416
+  name: Milton Keynes
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: MIK
+  type: unitary authority
+  latitude: '52.08520380'
+  longitude: "-0.73331330"
+- id: 2402
+  name: Monmouthshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: MON
+  type: unitary authority
+  latitude: '51.81161000'
+  longitude: "-2.71634170"
+- id: 2360
+  name: Moray
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: MRY
+  type: council area
+  latitude: '57.64984760'
+  longitude: "-3.31680390"
+- id: 2348
+  name: Moyle
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: MYL
+  type: district council
+  latitude: '55.20473270'
+  longitude: "-6.25317400"
+- id: 2351
+  name: Neath Port Talbot
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NTL
+  type: unitary authority
+  latitude: '51.59785190'
+  longitude: "-3.78396680"
+- id: 2458
+  name: Newcastle upon Tyne
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NET
+  type: metropolitan district
+  latitude: '54.97825200'
+  longitude: "-1.61778000"
+- id: 2418
+  name: Newham
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NWM
+  type: london borough
+  latitude: '51.52551620'
+  longitude: '0.03521630'
+- id: 2524
+  name: Newport
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NWP
+  type: unitary authority
+  latitude: '37.52782340'
+  longitude: "-94.10438760"
+- id: 2350
+  name: Newry and Mourne
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NYM
+  type: district council
+  latitude: '54.17425050'
+  longitude: "-6.33919920"
+- id: 2534
+  name: Newry, Mourne and Down
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NMD
+  type: district
+  latitude: '54.24342870'
+  longitude: "-5.95779590"
+- id: 2317
+  name: Newtownabbey
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NTA
+  type: borough council
+  latitude: '54.67924220'
+  longitude: "-5.95911020"
+- id: 2473
+  name: Norfolk
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NFK
+  type: two-tier county
+  latitude: '36.85076890'
+  longitude: "-76.28587260"
+- id: 2535
+  name: North Ayrshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NAY
+  type: council area
+  latitude: '55.64167310'
+  longitude: "-4.75946000"
+- id: 2513
+  name: North Down
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NDN
+  type: borough council
+  latitude: '54.65362970'
+  longitude: "-5.67249250"
+- id: 2384
+  name: North East Lincolnshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NEL
+  type: unitary authority
+  latitude: '53.56682010'
+  longitude: "-0.08150660"
+- id: 2487
+  name: North Lanarkshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NLK
+  type: council area
+  latitude: '55.86624320'
+  longitude: "-3.96131440"
+- id: 2453
+  name: North Lincolnshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NLN
+  type: unitary authority
+  latitude: '53.60555920'
+  longitude: "-0.55965820"
+- id: 2430
+  name: North Somerset
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NSM
+  type: unitary authority
+  latitude: '51.38790280'
+  longitude: "-2.77810910"
+- id: 2521
+  name: North Tyneside
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NTY
+  type: metropolitan district
+  latitude: '55.01823990'
+  longitude: "-1.48584360"
+- id: 2522
+  name: North Yorkshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NYK
+  type: two-tier county
+  latitude: '53.99150280'
+  longitude: "-1.54120150"
+- id: 2480
+  name: Northamptonshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NTH
+  type: unitary authority
+  latitude: '52.27299440'
+  longitude: "-0.87555150"
+- id: 2337
+  name: Northern Ireland
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NIR
+  type: province
+  latitude: '54.78771490'
+  longitude: "-6.49231450"
+- id: 2365
+  name: Northumberland
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NBL
+  type: unitary authority
+  latitude: '55.20825420'
+  longitude: "-2.07841380"
+- id: 2359
+  name: Nottingham
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NGM
+  type: unitary authority
+  latitude: '52.95478320'
+  longitude: "-1.15810860"
+- id: 2456
+  name: Nottinghamshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: NTT
+  type: two-tier county
+  latitude: '53.10031900'
+  longitude: "-0.99363060"
+- id: 2477
+  name: Oldham
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: OLD
+  type: metropolitan district
+  latitude: '42.20405980'
+  longitude: "-71.20481190"
+- id: 2314
+  name: Omagh
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: OMH
+  type: district council
+  latitude: '54.45135240'
+  longitude: "-7.71250180"
+- id: 2474
+  name: Orkney Islands
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ORK
+  type: council area
+  latitude: '58.98094010'
+  longitude: "-2.96052060"
+- id: 2353
+  name: Outer Hebrides
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ELS
+  type: council area
+  latitude: '57.75989180'
+  longitude: "-7.01940340"
+- id: 2321
+  name: Oxfordshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: OXF
+  type: two-tier county
+  latitude: '51.76120560'
+  longitude: "-1.24646740"
+- id: 2486
+  name: Pembrokeshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: PEM
+  type: unitary authority
+  latitude: '51.67407800'
+  longitude: "-4.90887850"
+- id: 2325
+  name: Perth and Kinross
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: PKN
+  type: council area
+  latitude: '56.39538170'
+  longitude: "-3.42835470"
+- id: 2297
+  name: Peterborough
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: PTE
+  type: unitary authority
+  latitude: '44.30936360'
+  longitude: "-78.32015300"
+- id: 2514
+  name: Plymouth
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: PLY
+  type: unitary authority
+  latitude: '42.37089410'
+  longitude: "-83.46971410"
+- id: 2302
+  name: Poole
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: POL
+  type: unitary authority
+  latitude: '50.71505000'
+  longitude: "-1.98724800"
+- id: 2305
+  name: Portsmouth
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: POR
+  type: unitary authority
+  latitude: '36.83291500'
+  longitude: "-76.29755490"
+- id: 2441
+  name: Powys
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: POW
+  type: unitary authority
+  latitude: '52.64642490'
+  longitude: "-3.32609040"
+- id: 2455
+  name: Reading
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: RDG
+  type: unitary authority
+  latitude: '36.14866590'
+  longitude: "-95.98400120"
+- id: 2397
+  name: Redbridge
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: RDB
+  type: london borough
+  latitude: '51.58861210'
+  longitude: '0.08239820'
+- id: 2527
+  name: Redcar and Cleveland
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: RCC
+  type: unitary authority
+  latitude: '54.59713440'
+  longitude: "-1.07759970"
+- id: 2443
+  name: Renfrewshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: RFW
+  type: council area
+  latitude: '55.84665400'
+  longitude: "-4.53312590"
+- id: 2301
+  name: Rhondda Cynon Taf
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: RCT
+  type: unitary authority
+  latitude: '51.64902070'
+  longitude: "-3.42886920"
+- id: 2501
+  name: Richmond upon Thames
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: RIC
+  type: london borough
+  latitude: '51.46130540'
+  longitude: "-0.30377090"
+- id: 2327
+  name: Rochdale
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: RCH
+  type: metropolitan district
+  latitude: '53.60971360'
+  longitude: "-2.15610000"
+- id: 2308
+  name: Rotherham
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ROT
+  type: metropolitan district
+  latitude: '53.43260350'
+  longitude: "-1.36350090"
+- id: 2472
+  name: Rutland
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: RUT
+  type: unitary authority
+  latitude: '43.61062370'
+  longitude: "-72.97260650"
+- id: 2502
+  name: Saint Helena
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SH-HL
+  type: unitary authority
+  latitude: "-15.96501040"
+  longitude: "-5.70892410"
+- id: 2493
+  name: Salford
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SLF
+  type: metropolitan district
+  latitude: '53.48752350'
+  longitude: "-2.29012640"
+- id: 2341
+  name: Sandwell
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SAW
+  type: metropolitan district
+  latitude: '52.53616740'
+  longitude: "-2.01079300"
+- id: 2335
+  name: Scotland
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SCT
+  type: country
+  latitude: '56.49067120'
+  longitude: "-4.20264580"
+- id: 2346
+  name: Scottish Borders
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SCB
+  type: council area
+  latitude: '55.54856970'
+  longitude: "-2.78613880"
+- id: 2518
+  name: Sefton
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SFT
+  type: metropolitan district
+  latitude: '53.50344490'
+  longitude: "-2.97035900"
+- id: 2295
+  name: Sheffield
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SHF
+  type: unitary authority
+  latitude: '36.09507430'
+  longitude: "-80.27884660"
+- id: 2300
+  name: Shetland Islands
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: ZET
+  type: council area
+  latitude: '60.52965070'
+  longitude: "-1.26594090"
+- id: 2407
+  name: Shropshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SHR
+  type: unitary authority
+  latitude: '52.70636570'
+  longitude: "-2.74178490"
+- id: 2427
+  name: Slough
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SLG
+  type: unitary authority
+  latitude: '51.51053840'
+  longitude: "-0.59504060"
+- id: 2469
+  name: Solihull
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SOL
+  type: metropolitan district
+  latitude: '52.41181100'
+  longitude: "-1.77761000"
+- id: 2386
+  name: Somerset
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SOM
+  type: two-tier county
+  latitude: '51.10509700'
+  longitude: "-2.92623070"
+- id: 2377
+  name: South Ayrshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SAY
+  type: council area
+  latitude: '55.45889880'
+  longitude: "-4.62919940"
+- id: 2400
+  name: South Gloucestershire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SGC
+  type: unitary authority
+  latitude: '51.52643610'
+  longitude: "-2.47284870"
+- id: 2362
+  name: South Lanarkshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SLK
+  type: council area
+  latitude: '55.67359090'
+  longitude: "-3.78196610"
+- id: 2409
+  name: South Tyneside
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: STY
+  type: metropolitan district
+  latitude: '54.96366930'
+  longitude: "-1.44186340"
+- id: 2323
+  name: Southend-on-Sea
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SOS
+  type: unitary authority
+  latitude: '51.54592690'
+  longitude: '0.70771230'
+- id: 2432
+  name: Southwark
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SWK
+  type: london borough
+  latitude: '51.48805720'
+  longitude: "-0.07628380"
+- id: 2290
+  name: St Helens
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SHN
+  type: metropolitan district
+  latitude: '45.85896100'
+  longitude: "-122.82123560"
+- id: 2447
+  name: Staffordshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: STS
+  type: two-tier county
+  latitude: '52.87927450'
+  longitude: "-2.05718680"
+- id: 2488
+  name: Stirling
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: STG
+  type: council area
+  latitude: '56.11652270'
+  longitude: "-3.93690290"
+- id: 2394
+  name: Stockport
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SKP
+  type: metropolitan district
+  latitude: '53.41063160'
+  longitude: "-2.15753320"
+- id: 2421
+  name: Stockton-on-Tees
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: STT
+  type: unitary authority
+  latitude: '54.57045510'
+  longitude: "-1.32898210"
+- id: 2506
+  name: Stoke-on-Trent
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: STE
+  type: unitary authority
+  latitude: '53.00266800'
+  longitude: "-2.17940400"
+- id: 2393
+  name: Strabane
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: STB
+  type: district council
+  latitude: '54.82738650'
+  longitude: "-7.46331030"
+- id: 2467
+  name: Suffolk
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SFK
+  type: two-tier county
+  latitude: '52.18724720'
+  longitude: '0.97078010'
+- id: 2372
+  name: Sunderland
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SND
+  type: metropolitan district
+  latitude: '54.88614890'
+  longitude: "-1.47857970"
+- id: 2526
+  name: Surrey
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SRY
+  type: two-tier county
+  latitude: '51.31475930'
+  longitude: "-0.55995010"
+- id: 2313
+  name: Sutton
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: STN
+  type: london borough
+  latitude: '51.35737620'
+  longitude: "-0.17527960"
+- id: 2433
+  name: Swansea
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SWA
+  type: unitary authority
+  latitude: '51.62144000'
+  longitude: "-3.94364600"
+- id: 2422
+  name: Swindon
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: SWD
+  type: unitary authority
+  latitude: '51.55577390'
+  longitude: "-1.77971760"
+- id: 2367
+  name: Tameside
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: TAM
+  type: metropolitan district
+  latitude: '53.48058280'
+  longitude: "-2.08098910"
+- id: 2310
+  name: Telford and Wrekin
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: TFW
+  type: unitary authority
+  latitude: '52.74099160'
+  longitude: "-2.48685860"
+- id: 2468
+  name: Thurrock
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: THR
+  type: unitary authority
+  latitude: '51.49345570'
+  longitude: '0.35291970'
+- id: 2478
+  name: Torbay
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: TOB
+  type: unitary authority
+  latitude: '50.43923290'
+  longitude: "-3.53698990"
+- id: 2496
+  name: Torfaen
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: TOF
+  type: unitary authority
+  latitude: '51.70022530'
+  longitude: "-3.04460150"
+- id: 2390
+  name: Tower Hamlets
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: TWH
+  type: london borough
+  latitude: '51.52026070'
+  longitude: "-0.02933960"
+- id: 2293
+  name: Trafford
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: TRF
+  type: metropolitan district
+  latitude: '40.38562460'
+  longitude: "-79.75893470"
+- id: 2375
+  name: United Kingdom
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: UKM
+  type: unitary authority
+  latitude: '55.37805100'
+  longitude: "-3.43597300"
+- id: 2299
+  name: Vale of Glamorgan
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: VGL
+  type: unitary authority
+  latitude: '51.40959580'
+  longitude: "-3.48481670"
+- id: 2465
+  name: Wakefield
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WKF
+  type: metropolitan district
+  latitude: '42.50393950'
+  longitude: "-71.07233910"
+- id: 2338
+  name: Wales
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WLS
+  type: unitary authority
+  latitude: '52.13066070'
+  longitude: "-3.78371170"
+- id: 2292
+  name: Walsall
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WLL
+  type: metropolitan district
+  latitude: '52.58621400'
+  longitude: "-1.98291900"
+- id: 2326
+  name: Waltham Forest
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WFT
+  type: london borough
+  latitude: '51.58863830'
+  longitude: "-0.01176250"
+- id: 2434
+  name: Wandsworth
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WND
+  type: london borough
+  latitude: '51.45682740'
+  longitude: "-0.18966380"
+- id: 2420
+  name: Warrington
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WRT
+  type: unitary authority
+  latitude: '40.24927410'
+  longitude: "-75.13406040"
+- id: 2505
+  name: Warwickshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WAR
+  type: two-tier county
+  latitude: '52.26713530'
+  longitude: "-1.46752160"
+- id: 2471
+  name: West Berkshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WBK
+  type: unitary authority
+  latitude: '51.43082550'
+  longitude: "-1.14449270"
+- id: 2440
+  name: West Dunbartonshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WDU
+  type: council area
+  latitude: '55.94509250'
+  longitude: "-4.56462590"
+- id: 2354
+  name: West Lothian
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WLN
+  type: council area
+  latitude: '55.90701980'
+  longitude: "-3.55171670"
+- id: 2296
+  name: West Sussex
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WSX
+  type: two-tier county
+  latitude: '50.92801430'
+  longitude: "-0.46170750"
+- id: 2357
+  name: Westminster
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WSM
+  type: london borough
+  latitude: '39.57659770'
+  longitude: "-76.99721260"
+- id: 2320
+  name: Wigan
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WGN
+  type: metropolitan district
+  latitude: '53.51348120'
+  longitude: "-2.61069990"
+- id: 2391
+  name: Wiltshire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WIL
+  type: unitary authority
+  latitude: '51.34919960'
+  longitude: "-1.99271050"
+- id: 2482
+  name: Windsor and Maidenhead
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WNM
+  type: unitary authority
+  latitude: '51.47997120'
+  longitude: "-0.62425650"
+- id: 2408
+  name: Wirral
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WRL
+  type: metropolitan district
+  latitude: '53.37271810'
+  longitude: "-3.07375400"
+- id: 2419
+  name: Wokingham
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WOK
+  type: unitary authority
+  latitude: '51.41045700'
+  longitude: "-0.83386100"
+- id: 2489
+  name: Wolverhampton
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WLV
+  type: metropolitan district
+  latitude: '52.58891200'
+  longitude: "-2.15646300"
+- id: 2510
+  name: Worcestershire
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WOR
+  type: two-tier county
+  latitude: '52.25452250'
+  longitude: "-2.26683820"
+- id: 2436
+  name: Wrexham
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: WRX
+  type: unitary authority
+  latitude: '53.03013780'
+  longitude: "-3.02614870"
+- id: 2426
+  name: York
+  country_id: 232
+  country_code: GB
+  country_name: United Kingdom
+  state_code: YOR
+  type: unitary authority
+  latitude: '53.95996510'
+  longitude: "-1.08729790"

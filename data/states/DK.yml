@@ -1,0 +1,46 @@
+---
+- id: 1531
+  name: Central Denmark
+  country_id: 59
+  country_code: DK
+  country_name: Denmark
+  state_code: '82'
+  type: region
+  latitude: '56.30213900'
+  longitude: '9.30277700'
+- id: 1530
+  name: Denmark
+  country_id: 59
+  country_code: DK
+  country_name: Denmark
+  state_code: '84'
+  type: region
+  latitude: '55.67518120'
+  longitude: '12.54932610'
+- id: 1532
+  name: North Denmark
+  country_id: 59
+  country_code: DK
+  country_name: Denmark
+  state_code: '81'
+  type: region
+  latitude: '56.83074160'
+  longitude: '9.49305270'
+- id: 1529
+  name: Southern Denmark
+  country_id: 59
+  country_code: DK
+  country_name: Denmark
+  state_code: '83'
+  type: region
+  latitude: '55.33077140'
+  longitude: '9.09249030'
+- id: 1528
+  name: Zealand
+  country_id: 59
+  country_code: DK
+  country_name: Denmark
+  state_code: '85'
+  type: region
+  latitude: '55.46325180'
+  longitude: '11.72149790'

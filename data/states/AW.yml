@@ -1,0 +1,82 @@
+---
+- id: 5243
+  name: Noord
+  country_id: 13
+  country_code: AW
+  country_name: Aruba
+  state_code:
+  type: region
+  latitude: '12.58243290'
+  longitude: "-70.06761180"
+- id: 5341
+  name: Oranjestad
+  country_id: 13
+  country_code: AW
+  country_name: Aruba
+  state_code:
+  type: capital city
+  latitude: '12.50837050'
+  longitude: "-70.05452530"
+- id: 5245
+  name: Oranjestad East
+  country_id: 13
+  country_code: AW
+  country_name: Aruba
+  state_code:
+  type: region
+  latitude: '12.51331810'
+  longitude: "-70.05048180"
+- id: 5244
+  name: Oranjestad West
+  country_id: 13
+  country_code: AW
+  country_name: Aruba
+  state_code:
+  type: region
+  latitude: '12.53522930'
+  longitude: "-70.06284040"
+- id: 5246
+  name: Paradera
+  country_id: 13
+  country_code: AW
+  country_name: Aruba
+  state_code:
+  type: region
+  latitude: '12.53628710'
+  longitude: "-70.01485110"
+- id: 5247
+  name: San Nicolaas Noord
+  country_id: 13
+  country_code: AW
+  country_name: Aruba
+  state_code:
+  type: region
+  latitude: '12.46427170'
+  longitude: "-69.94349390"
+- id: 5248
+  name: San Nicolaas Zuid
+  country_id: 13
+  country_code: AW
+  country_name: Aruba
+  state_code:
+  type: region
+  latitude: '12.42785580'
+  longitude: "-69.93810790"
+- id: 5249
+  name: Santa Cruz
+  country_id: 13
+  country_code: AW
+  country_name: Aruba
+  state_code:
+  type: region
+  latitude: '12.51128360'
+  longitude: "-69.98769660"
+- id: 5250
+  name: Savaneta
+  country_id: 13
+  country_code: AW
+  country_name: Aruba
+  state_code:
+  type: region
+  latitude: '12.46184190'
+  longitude: "-69.98558580"

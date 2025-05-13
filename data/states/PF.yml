@@ -1,0 +1,46 @@
+---
+- id: 5369
+  name: Austral Islands
+  country_id: 77
+  country_code: PF
+  country_name: French Polynesia
+  state_code: '01'
+  type: division
+  latitude: "-24.62108770"
+  longitude: "-154.79155860"
+- id: 5370
+  name: Leeward Islands
+  country_id: 77
+  country_code: PF
+  country_name: French Polynesia
+  state_code: '02'
+  type: division
+  latitude: "-16.33144420"
+  longitude: "-155.45770620"
+- id: 5371
+  name: Marquesas Islands
+  country_id: 77
+  country_code: PF
+  country_name: French Polynesia
+  state_code: '03'
+  type: division
+  latitude: "-9.17852990"
+  longitude: "-140.97670260"
+- id: 5372
+  name: Tuamotu-Gambier
+  country_id: 77
+  country_code: PF
+  country_name: French Polynesia
+  state_code: '04'
+  type: division
+  latitude: "-18.32071570"
+  longitude: "-152.44871660"
+- id: 5373
+  name: Windward Islands
+  country_id: 77
+  country_code: PF
+  country_name: French Polynesia
+  state_code: '05'
+  type: division
+  latitude: "-17.42539670"
+  longitude: "-150.67802270"

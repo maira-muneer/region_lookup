@@ -1,0 +1,738 @@
+---
+- id: 17225
+  name: Aketi
+  state_id: 2753
+  state_code: BU
+  state_name: Bas-Uélé
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '2.73877000'
+  longitude: '23.78326000'
+  wikiDataId: Q417523
+- id: 17232
+  name: Bondo
+  state_id: 2753
+  state_code: BU
+  state_name: Bas-Uélé
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '3.81461000'
+  longitude: '23.68665000'
+  wikiDataId: Q2909998
+- id: 17241
+  name: Buta
+  state_id: 2753
+  state_code: BU
+  state_name: Bas-Uélé
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '2.78582000'
+  longitude: '24.72997000'
+  wikiDataId: Q736905
+- id: 17245
+  name: Gemena
+  state_id: 2744
+  state_code: EQ
+  state_name: Équateur
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '3.25651000'
+  longitude: '19.77234000'
+  wikiDataId: Q1006116
+- id: 17269
+  name: Lisala
+  state_id: 2744
+  state_code: EQ
+  state_name: Équateur
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '2.15127000'
+  longitude: '21.51672000'
+  wikiDataId: Q371532
+- id: 17274
+  name: Lukolela
+  state_id: 2744
+  state_code: EQ
+  state_name: Équateur
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-1.06046000"
+  longitude: '17.18210000'
+  wikiDataId: Q3267167
+- id: 17279
+  name: Mbandaka
+  state_id: 2744
+  state_code: EQ
+  state_name: Équateur
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '0.04865000'
+  longitude: '18.26034000'
+  wikiDataId: Q211070
+- id: 17268
+  name: Likasi
+  state_id: 2750
+  state_code: HK
+  state_name: Haut-Katanga
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-10.98303000"
+  longitude: '26.73840000'
+  wikiDataId: Q18780
+- id: 17272
+  name: Lubumbashi
+  state_id: 2750
+  state_code: HK
+  state_name: Haut-Katanga
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-11.66089000"
+  longitude: '27.47938000'
+  wikiDataId: Q187593
+- id: 17235
+  name: Bukama
+  state_id: 2758
+  state_code: HL
+  state_name: Haut-Lomami
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-9.20443000"
+  longitude: '25.85475000'
+  wikiDataId: Q2915071
+- id: 17256
+  name: Kamina
+  state_id: 2758
+  state_code: HL
+  state_name: Haut-Lomami
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-8.73508000"
+  longitude: '24.99798000'
+  wikiDataId: Q581179
+- id: 17250
+  name: Isiro
+  state_id: 2734
+  state_code: HU
+  state_name: Haut-Uélé
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '2.77391000'
+  longitude: '27.61603000'
+  wikiDataId: Q899873
+- id: 17291
+  name: Wamba
+  state_id: 2734
+  state_code: HU
+  state_name: Haut-Uélé
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '2.14838000'
+  longitude: '27.99466000'
+  wikiDataId: Q277966
+- id: 17292
+  name: Watsa
+  state_id: 2734
+  state_code: HU
+  state_name: Haut-Uélé
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '3.03716000'
+  longitude: '29.53551000'
+  wikiDataId: Q3566727
+- id: 17239
+  name: Bunia
+  state_id: 2751
+  state_code: IT
+  state_name: Ituri
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '1.55941000'
+  longitude: '30.25224000'
+  wikiDataId: Q648298
+- id: 17248
+  name: Ilebo
+  state_id: 2757
+  state_code: KS
+  state_name: Kasaï
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-4.33111000"
+  longitude: '20.58638000'
+  wikiDataId: Q848403
+- id: 17273
+  name: Luebo
+  state_id: 2757
+  state_code: KS
+  state_name: Kasaï
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-5.35218000"
+  longitude: '21.42192000'
+  wikiDataId: Q187593
+- id: 17284
+  name: Mweka
+  state_id: 2757
+  state_code: KS
+  state_name: Kasaï
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-4.85187000"
+  longitude: '21.55950000'
+  wikiDataId: Q1024669
+- id: 17289
+  name: Tshikapa
+  state_id: 2757
+  state_code: KS
+  state_name: Kasaï
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-6.41621000"
+  longitude: '20.79995000'
+  wikiDataId: Q277966
+- id: 17243
+  name: Gandajika
+  state_id: 2735
+  state_code: KE
+  state_name: Kasaï Oriental
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-6.74504000"
+  longitude: '23.95328000'
+  wikiDataId: Q693554
+- id: 17253
+  name: Kabinda
+  state_id: 2735
+  state_code: KE
+  state_name: Kasaï Oriental
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-6.13791000"
+  longitude: '24.48179000'
+  wikiDataId: Q899873
+- id: 17281
+  name: Mbuji-Mayi
+  state_id: 2735
+  state_code: KE
+  state_name: Kasaï Oriental
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-6.13603000"
+  longitude: '23.58979000'
+  wikiDataId: Q857577
+- id: 17263
+  name: Kinshasa
+  state_id: 2741
+  state_code: KN
+  state_name: Kinshasa
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-4.32758000"
+  longitude: '15.31357000'
+  wikiDataId: Q3838
+- id: 17231
+  name: Boma
+  state_id: 2746
+  state_code: BC
+  state_name: Kongo Central
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-5.85098000"
+  longitude: '13.05364000'
+  wikiDataId: Q223917
+- id: 17258
+  name: Kasangulu
+  state_id: 2746
+  state_code: BC
+  state_name: Kongo Central
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-4.58330000"
+  longitude: '15.16554000'
+  wikiDataId: Q3193663
+- id: 17278
+  name: Matadi
+  state_id: 2746
+  state_code: BC
+  state_name: Kongo Central
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-5.83861000"
+  longitude: '13.46306000'
+  wikiDataId: Q3297273
+- id: 17280
+  name: Mbanza-Ngungu
+  state_id: 2746
+  state_code: BC
+  state_name: Kongo Central
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-5.25837000"
+  longitude: '14.85838000'
+  wikiDataId: Q857577
+- id: 17282
+  name: Moanda
+  state_id: 2746
+  state_code: BC
+  state_name: Kongo Central
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-5.92753000"
+  longitude: '12.37148000'
+  wikiDataId: Q1024669
+- id: 17288
+  name: Tshela
+  state_id: 2746
+  state_code: BC
+  state_name: Kongo Central
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-4.99707000"
+  longitude: '12.94840000'
+  wikiDataId: Q3090648
+- id: 17260
+  name: Kasongo-Lunda
+  state_id: 2740
+  state_code: KG
+  state_name: Kwango
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-6.47833000"
+  longitude: '16.81735000'
+  wikiDataId: Q3193717
+- id: 17226
+  name: Bandundu
+  state_id: 2759
+  state_code: KL
+  state_name: Kwilu
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-3.31687000"
+  longitude: '17.38063000'
+  wikiDataId: Q417523
+- id: 17237
+  name: Bulungu
+  state_id: 2759
+  state_code: KL
+  state_name: Kwilu
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-4.54437000"
+  longitude: '18.60364000'
+  wikiDataId: Q383736
+- id: 17261
+  name: Kikwit
+  state_id: 2759
+  state_code: KL
+  state_name: Kwilu
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-5.04098000"
+  longitude: '18.81619000'
+  wikiDataId: Q261887
+- id: 17276
+  name: Mangai
+  state_id: 2759
+  state_code: KL
+  state_name: Kwilu
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-4.02328000"
+  longitude: '19.53385000'
+  wikiDataId: Q6748616
+- id: 17271
+  name: Lubao
+  state_id: 2747
+  state_code: LO
+  state_name: Lomami
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-5.38771000"
+  longitude: '25.74885000'
+  wikiDataId: Q1006137
+- id: 17285
+  name: Mwene-Ditu
+  state_id: 2747
+  state_code: LO
+  state_name: Lomami
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-7.00906000"
+  longitude: '23.45278000'
+  wikiDataId: Q969880
+- id: 153949
+  name: Kasaji
+  state_id: 4953
+  state_code: '21'
+  state_name: Lualaba
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-10.38342000"
+  longitude: '23.44987000'
+  wikiDataId: Q22536905
+- id: 153948
+  name: Kolwezi
+  state_id: 4953
+  state_code: '21'
+  state_name: Lualaba
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-10.71666700"
+  longitude: '25.46666700'
+  wikiDataId: Q271404
+- id: 17230
+  name: Bolobo
+  state_id: 2755
+  state_code: MN
+  state_name: Mai-Ndombe
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-2.15800000"
+  longitude: '16.23249000'
+  wikiDataId: Q2594437
+- id: 17249
+  name: Inongo
+  state_id: 2755
+  state_code: MN
+  state_name: Mai-Ndombe
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-1.92750000"
+  longitude: '18.28810000'
+  wikiDataId: Q848403
+- id: 17283
+  name: Mushie
+  state_id: 2755
+  state_code: MN
+  state_name: Mai-Ndombe
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-3.01728000"
+  longitude: '16.92238000'
+  wikiDataId: Q1024669
+- id: 17286
+  name: Nioki
+  state_id: 2755
+  state_code: MN
+  state_name: Mai-Ndombe
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-2.72037000"
+  longitude: '17.69001000'
+  wikiDataId: Q969880
+- id: 17257
+  name: Kampene
+  state_id: 2745
+  state_code: MA
+  state_name: Maniema
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-3.59678000"
+  longitude: '26.66715000'
+  wikiDataId: Q581179
+- id: 17259
+  name: Kasongo
+  state_id: 2745
+  state_code: MA
+  state_name: Maniema
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-4.42741000"
+  longitude: '26.66656000'
+  wikiDataId: Q587152
+- id: 17262
+  name: Kindu
+  state_id: 2745
+  state_code: MA
+  state_name: Maniema
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-2.94373000"
+  longitude: '25.92237000'
+  wikiDataId: Q270225
+- id: 17238
+  name: Bumba
+  state_id: 2752
+  state_code: MO
+  state_name: Mongala
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '2.18771000'
+  longitude: '22.46827000'
+  wikiDataId: Q1004822
+- id: 17228
+  name: Beni
+  state_id: 2749
+  state_code: NK
+  state_name: Nord-Kivu
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '0.49113000'
+  longitude: '29.47306000'
+  wikiDataId: Q1101913
+- id: 17242
+  name: Butembo
+  state_id: 2749
+  state_code: NK
+  state_name: Nord-Kivu
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '0.14164000'
+  longitude: '29.29117000'
+  wikiDataId: Q518785
+- id: 17246
+  name: Goma
+  state_id: 2749
+  state_code: NK
+  state_name: Nord-Kivu
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-1.67409000"
+  longitude: '29.22845000'
+  wikiDataId: Q204381
+- id: 17287
+  name: Sake
+  state_id: 2749
+  state_code: NK
+  state_name: Nord-Kivu
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-1.57386000"
+  longitude: '29.04339000'
+  wikiDataId: Q84082
+- id: 17234
+  name: Bosobolo
+  state_id: 2739
+  state_code: NU
+  state_name: Nord-Ubangi
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '4.18980000'
+  longitude: '19.88330000'
+  wikiDataId: Q2911484
+- id: 17240
+  name: Businga
+  state_id: 2739
+  state_code: NU
+  state_name: Nord-Ubangi
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '3.33863000'
+  longitude: '20.88577000'
+  wikiDataId: Q581003
+- id: 17244
+  name: Gbadolite
+  state_id: 2739
+  state_code: NU
+  state_name: Nord-Ubangi
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '4.27900000'
+  longitude: '21.00284000'
+  wikiDataId: Q833866
+- id: 17270
+  name: Lodja
+  state_id: 2743
+  state_code: SA
+  state_name: Sankuru
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-3.52105000"
+  longitude: '23.60050000'
+  wikiDataId: Q1006137
+- id: 17275
+  name: Lusambo
+  state_id: 2743
+  state_code: SA
+  state_name: Sankuru
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-4.97503000"
+  longitude: '23.44391000'
+  wikiDataId: Q3267776
+- id: 17236
+  name: Bukavu
+  state_id: 2738
+  state_code: SK
+  state_name: Sud-Kivu
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-2.49077000"
+  longitude: '28.84281000'
+  wikiDataId: Q2915071
+- id: 17252
+  name: Kabare
+  state_id: 2738
+  state_code: SK
+  state_name: Sud-Kivu
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-2.49682000"
+  longitude: '28.79081000'
+  wikiDataId: Q899873
+- id: 17290
+  name: Uvira
+  state_id: 2738
+  state_code: SK
+  state_name: Sud-Kivu
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-3.39534000"
+  longitude: '29.13779000'
+  wikiDataId: Q277966
+- id: 17233
+  name: Bongandanga
+  state_id: 2748
+  state_code: SU
+  state_name: Sud-Ubangi
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '1.50695000'
+  longitude: '21.07260000'
+  wikiDataId: Q2909998
+- id: 17267
+  name: Libenge
+  state_id: 2748
+  state_code: SU
+  state_name: Sud-Ubangi
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '3.65332000'
+  longitude: '18.63566000'
+  wikiDataId: Q3088094
+- id: 17251
+  name: Kabalo
+  state_id: 2733
+  state_code: TA
+  state_name: Tanganyika
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-6.05255000"
+  longitude: '26.91430000'
+  wikiDataId: Q899873
+- id: 17254
+  name: Kalemie
+  state_id: 2733
+  state_code: TA
+  state_name: Tanganyika
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-5.94749000"
+  longitude: '29.19471000'
+  wikiDataId: Q732801
+- id: 17266
+  name: Kongolo
+  state_id: 2733
+  state_code: TA
+  state_name: Tanganyika
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-5.38532000"
+  longitude: '27.00029000'
+  wikiDataId: Q3088094
+- id: 17227
+  name: Basoko
+  state_id: 2756
+  state_code: TO
+  state_name: Tshopo
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '1.23909000'
+  longitude: '23.61598000'
+  wikiDataId: Q1101913
+- id: 17265
+  name: Kisangani
+  state_id: 2756
+  state_code: TO
+  state_name: Tshopo
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '0.51528000'
+  longitude: '25.19099000'
+  wikiDataId: Q146723
+- id: 17293
+  name: Yangambi
+  state_id: 2756
+  state_code: TO
+  state_name: Tshopo
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: '0.76755000'
+  longitude: '24.43973000'
+  wikiDataId: Q1102132
+- id: 17229
+  name: Boende
+  state_id: 2732
+  state_code: TU
+  state_name: Tshuapa
+  country_id: 51
+  country_code: CD
+  country_name: Democratic Republic of the Congo
+  latitude: "-0.28163000"
+  longitude: '20.88053000'
+  wikiDataId: Q616131

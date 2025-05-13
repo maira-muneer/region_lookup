@@ -1,0 +1,280 @@
+---
+- id: 4114
+  name: Azua
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '02'
+  type: province
+  latitude: '18.45527090'
+  longitude: "-70.73809280"
+- id: 4105
+  name: Baoruco
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '03'
+  type: province
+  latitude: '18.48798980'
+  longitude: "-71.41822490"
+- id: 4090
+  name: Barahona
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '04'
+  type: province
+  latitude: '18.21390660'
+  longitude: "-71.10437590"
+- id: 4107
+  name: Dajabón
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '05'
+  type: province
+  latitude: '19.54992410'
+  longitude: "-71.70865140"
+- id: 4095
+  name: Distrito Nacional
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '01'
+  type: district
+  latitude: '18.48605750'
+  longitude: "-69.93121170"
+- id: 4113
+  name: Duarte
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '06'
+  type: province
+  latitude: '19.20908230'
+  longitude: "-70.02700040"
+- id: 4086
+  name: El Seibo
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '08'
+  type: province
+  latitude: '18.76584960'
+  longitude: "-69.04066800"
+- id: 4102
+  name: Espaillat
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '09'
+  type: province
+  latitude: '19.62776580'
+  longitude: "-70.27867750"
+- id: 4106
+  name: Hato Mayor
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '30'
+  type: province
+  latitude: '18.76357990'
+  longitude: "-69.25576370"
+- id: 4089
+  name: Hermanas Mirabal
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '19'
+  type: province
+  latitude: '19.37475590'
+  longitude: "-70.35132350"
+- id: 4097
+  name: Independencia
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '10'
+  type: province
+  latitude: '32.63357480'
+  longitude: "-115.42892940"
+- id: 4109
+  name: La Altagracia
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '11'
+  type: province
+  latitude: '18.58502360'
+  longitude: "-68.62010720"
+- id: 4087
+  name: La Romana
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '12'
+  type: province
+  latitude: '18.43102710'
+  longitude: "-68.98373730"
+- id: 4116
+  name: La Vega
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '13'
+  type: province
+  latitude: '19.22115540'
+  longitude: "-70.52887530"
+- id: 4094
+  name: María Trinidad Sánchez
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '14'
+  type: province
+  latitude: '19.37345970'
+  longitude: "-69.85144390"
+- id: 4099
+  name: Monseñor Nouel
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '28'
+  type: province
+  latitude: '18.92152340'
+  longitude: "-70.38368150"
+- id: 4115
+  name: Monte Cristi
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '15'
+  type: province
+  latitude: '19.73968990'
+  longitude: "-71.44339840"
+- id: 4111
+  name: Monte Plata
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '29'
+  type: province
+  latitude: '18.80808780'
+  longitude: "-69.78691460"
+- id: 4101
+  name: Pedernales
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '16'
+  type: province
+  latitude: '17.85376260'
+  longitude: "-71.33032090"
+- id: 4096
+  name: Peravia
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '17'
+  type: province
+  latitude: '18.27865940'
+  longitude: "-70.33358870"
+- id: 4092
+  name: Puerto Plata
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '18'
+  type: province
+  latitude: '19.75432250'
+  longitude: "-70.83328470"
+- id: 4103
+  name: Samaná
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '20'
+  type: province
+  latitude: '19.20583710'
+  longitude: "-69.33629490"
+- id: 4091
+  name: San Cristóbal
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '21'
+  type: province
+  latitude: '18.41804140'
+  longitude: "-70.10658490"
+- id: 4112
+  name: San José de Ocoa
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '31'
+  type: province
+  latitude: '18.54385800'
+  longitude: "-70.50418160"
+- id: 4098
+  name: San Juan
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '22'
+  type: province
+  latitude: "-31.52871270"
+  longitude: "-68.53604030"
+- id: 4110
+  name: San Pedro de Macorís
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '23'
+  type: province
+  latitude: '18.46266000'
+  longitude: "-69.30512340"
+- id: 4088
+  name: Sánchez Ramírez
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '24'
+  type: province
+  latitude: '19.05270600'
+  longitude: "-70.14922640"
+- id: 4108
+  name: Santiago
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '25'
+  type: province
+  latitude: "-33.45000000"
+  longitude: "-70.66670000"
+- id: 4100
+  name: Santiago Rodríguez
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '26'
+  type: province
+  latitude: '19.47131810'
+  longitude: "-71.33958010"
+- id: 4093
+  name: Santo Domingo
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '32'
+  type: province
+  latitude: '18.51042530'
+  longitude: "-69.84040540"
+- id: 4104
+  name: Valverde
+  country_id: 62
+  country_code: DO
+  country_name: Dominican Republic
+  state_code: '27'
+  type: province
+  latitude: '19.58812210'
+  longitude: "-70.98033100"

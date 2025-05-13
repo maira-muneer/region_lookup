@@ -1,0 +1,19 @@
+---
+- id: 270
+  name: Príncipe
+  country_id: 193
+  country_code: ST
+  country_name: Sao Tome and Principe
+  state_code: P
+  type: province
+  latitude: '1.61393810'
+  longitude: '7.40569280'
+- id: 271
+  name: São Tomé
+  country_id: 193
+  country_code: ST
+  country_name: Sao Tome and Principe
+  state_code: S
+  type: province
+  latitude: '0.33019240'
+  longitude: '6.73334300'

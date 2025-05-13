@@ -1,0 +1,177 @@
+---
+- id: 154082
+  name: Andreas
+  state_id: 5303
+  state_code: '01'
+  state_name: Ayre
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.36841400'
+  longitude: "-4.52114630"
+  wikiDataId: Q2484746
+- id: 154083
+  name: Bride
+  state_id: 5303
+  state_code: '01'
+  state_name: Ayre
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.38316570'
+  longitude: "-4.40803560"
+  wikiDataId: Q2925151
+- id: 154084
+  name: Lezayre
+  state_id: 5303
+  state_code: '01'
+  state_name: Ayre
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.29621930'
+  longitude: "-4.53110150"
+  wikiDataId: Q3237456
+- id: 154085
+  name: Lonan
+  state_id: 5304
+  state_code: '02'
+  state_name: Garff
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.22104520'
+  longitude: "-4.50103060"
+  wikiDataId: Q3258914
+- id: 154086
+  name: Maughold
+  state_id: 5304
+  state_code: '02'
+  state_name: Garff
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.25494540'
+  longitude: "-4.51223490"
+  wikiDataId: Q2734578
+- id: 154087
+  name: Onchan
+  state_id: 5304
+  state_code: '02'
+  state_name: Garff
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.19815080'
+  longitude: "-4.54908980"
+  wikiDataId: Q7091958
+- id: 154088
+  name: German
+  state_id: 5305
+  state_code: '03'
+  state_name: Glenfaba
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.21871450'
+  longitude: "-4.70652730"
+  wikiDataId: Q2734574
+- id: 154089
+  name: Ballaugh
+  state_id: 5306
+  state_code: '04'
+  state_name: Michael
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.30481210'
+  longitude: "-4.62075260"
+  wikiDataId: Q2734562
+- id: 154090
+  name: Jurby
+  state_id: 5306
+  state_code: '04'
+  state_name: Michael
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.35905280'
+  longitude: "-4.54065860"
+  wikiDataId: Q2734559
+- id: 154091
+  name: Michael
+  state_id: 5306
+  state_code: '04'
+  state_name: Michael
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.27427780'
+  longitude: "-4.64273250"
+  wikiDataId: Q2734562
+- id: 154092
+  name: Braddan
+  state_id: 5307
+  state_code: '05'
+  state_name: Middle
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.16328280'
+  longitude: "-4.52585060"
+  wikiDataId: Q2734571
+- id: 154093
+  name: Marown
+  state_id: 5307
+  state_code: '05'
+  state_name: Middle
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.18462420'
+  longitude: "-4.64952180"
+  wikiDataId: Q3294687
+- id: 154094
+  name: Santon
+  state_id: 5307
+  state_code: '05'
+  state_name: Middle
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.12054890'
+  longitude: "-4.64937750"
+  wikiDataId: Q3472980
+- id: 154095
+  name: Arbory
+  state_id: 5308
+  state_code: '06'
+  state_name: Rushen
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.10878070'
+  longitude: "-4.83564540"
+  wikiDataId: Q2859727
+- id: 154097
+  name: Malew
+  state_id: 5308
+  state_code: '06'
+  state_name: Rushen
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.11180490'
+  longitude: "-4.80138270"
+  wikiDataId: Q3281889
+- id: 154096
+  name: Rushen
+  state_id: 5308
+  state_code: '06'
+  state_name: Rushen
+  country_id: 136
+  country_code: IM
+  country_name: Man (Isle of)
+  latitude: '54.09084920'
+  longitude: "-4.84149820"
+  wikiDataId: Q3453376

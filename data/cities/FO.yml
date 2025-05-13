@@ -1,0 +1,320 @@
+---
+- id: 153758
+  name: Eiði
+  state_id: 5229
+  state_code: EY
+  state_name: Eysturoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.27890000'
+  longitude: "-7.01230000"
+  wikiDataId: Q691775
+- id: 153748
+  name: Eystur
+  state_id: 5229
+  state_code: EY
+  state_name: Eysturoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.15670000'
+  longitude: "-6.82330000"
+  wikiDataId: Q548193
+- id: 153752
+  name: Fuglafjørður
+  state_id: 5229
+  state_code: EY
+  state_name: Eysturoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.21010000'
+  longitude: "-6.81230000"
+  wikiDataId: Q731990
+- id: 153754
+  name: Nes
+  state_id: 5229
+  state_code: EY
+  state_name: Eysturoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.09870000'
+  longitude: "-6.76540000"
+  wikiDataId: Q295184
+- id: 153747
+  name: Runavík
+  state_id: 5229
+  state_code: EY
+  state_name: Eysturoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.13230000'
+  longitude: "-6.78900000"
+  wikiDataId: Q754664
+- id: 153757
+  name: Sjóvar
+  state_id: 5229
+  state_code: EY
+  state_name: Eysturoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.12340000'
+  longitude: "-6.87650000"
+  wikiDataId: Q1187370
+- id: 153773
+  name: Fugloy
+  state_id: 5230
+  state_code: 'NO'
+  state_name: Northern Isles
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.45670000'
+  longitude: "-6.72340000"
+  wikiDataId: Q210313
+- id: 153763
+  name: Hvannasund
+  state_id: 5230
+  state_code: 'NO'
+  state_name: Northern Isles
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.34560000'
+  longitude: "-6.78900000"
+  wikiDataId: Q933117
+- id: 153746
+  name: Klaksvík
+  state_id: 5230
+  state_code: 'NO'
+  state_name: Northern Isles
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.22100000'
+  longitude: "-6.58000000"
+  wikiDataId: Q189361
+- id: 153767
+  name: Kunoy
+  state_id: 5230
+  state_code: 'NO'
+  state_name: Northern Isles
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.34560000'
+  longitude: "-6.89010000"
+  wikiDataId: Q212033
+- id: 153765
+  name: Viðareiði
+  state_id: 5230
+  state_code: 'NO'
+  state_name: Northern Isles
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.45670000'
+  longitude: "-6.72340000"
+  wikiDataId: Q901774
+- id: 153769
+  name: Húsavík
+  state_id: 5231
+  state_code: SA
+  state_name: Sandoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '61.90120000'
+  longitude: "-6.84560000"
+  wikiDataId: Q219417
+- id: 153761
+  name: Sandur
+  state_id: 5231
+  state_code: SA
+  state_name: Sandoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '61.90120000'
+  longitude: "-6.84560000"
+  wikiDataId: Q439116
+- id: 153768
+  name: Skálavík
+  state_id: 5231
+  state_code: SA
+  state_name: Sandoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '61.98760000'
+  longitude: "-6.76540000"
+  wikiDataId: Q1093560
+- id: 153762
+  name: Skopun
+  state_id: 5231
+  state_code: SA
+  state_name: Sandoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.01230000'
+  longitude: "-6.98760000"
+  wikiDataId: Q944256
+- id: 153772
+  name: Skúvoy
+  state_id: 5231
+  state_code: SA
+  state_name: Sandoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '61.98760000'
+  longitude: "-6.76540000"
+  wikiDataId: Q216849
+- id: 153760
+  name: Kvívík
+  state_id: 5232
+  state_code: ST
+  state_name: Streymoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.14560000'
+  longitude: "-7.20980000"
+  wikiDataId: Q933130
+- id: 153750
+  name: Sunda
+  state_id: 5232
+  state_code: ST
+  state_name: Streymoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.13450000'
+  longitude: "-7.09870000"
+  wikiDataId: Q1723899
+- id: 153745
+  name: Tórshavn
+  state_id: 5232
+  state_code: ST
+  state_name: Streymoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.00000000'
+  longitude: "-7.00000000"
+  wikiDataId: Q10704
+- id: 153755
+  name: Vestmanna
+  state_id: 5232
+  state_code: ST
+  state_name: Streymoy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.15670000'
+  longitude: "-7.23450000"
+  wikiDataId: Q608352
+- id: 153771
+  name: Fámjin
+  state_id: 5233
+  state_code: SU
+  state_name: Suðuroy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '61.45670000'
+  longitude: "-6.89010000"
+  wikiDataId: Q932433
+- id: 153770
+  name: Hov
+  state_id: 5233
+  state_code: SU
+  state_name: Suðuroy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '61.45670000'
+  longitude: "-6.89010000"
+  wikiDataId: Q164159
+- id: 153759
+  name: Hvalba
+  state_id: 5233
+  state_code: SU
+  state_name: Suðuroy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '61.59870000'
+  longitude: "-6.98760000"
+  wikiDataId: Q666627
+- id: 153766
+  name: Porkeri
+  state_id: 5233
+  state_code: SU
+  state_name: Suðuroy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '61.54320000'
+  longitude: "-6.98760000"
+  wikiDataId: Q943723
+- id: 153764
+  name: Sumba
+  state_id: 5233
+  state_code: SU
+  state_name: Suðuroy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '61.45670000'
+  longitude: "-6.89010000"
+  wikiDataId: Q206368
+- id: 153751
+  name: Tvøroyri
+  state_id: 5233
+  state_code: SU
+  state_name: Suðuroy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '61.56230000'
+  longitude: "-6.77800000"
+  wikiDataId: Q754666
+- id: 153753
+  name: Vágur
+  state_id: 5233
+  state_code: SU
+  state_name: Suðuroy
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '61.47890000'
+  longitude: "-6.81010000"
+  wikiDataId: Q754670
+- id: 153756
+  name: Sørvágur
+  state_id: 5234
+  state_code: VA
+  state_name: Vágar
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.06540000'
+  longitude: "-7.37870000"
+  wikiDataId: Q906365
+- id: 153749
+  name: Vágar
+  state_id: 5234
+  state_code: VA
+  state_name: Vágar
+  country_id: 72
+  country_code: FO
+  country_name: Faroe Islands
+  latitude: '62.06670000'
+  longitude: "-7.10000000"
+  wikiDataId: Q207675

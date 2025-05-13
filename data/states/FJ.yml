@@ -1,0 +1,172 @@
+---
+- id: 1917
+  name: Ba
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '01'
+  type: province
+  latitude: '36.06138930'
+  longitude: "-95.80058720"
+- id: 1930
+  name: Bua
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '02'
+  type: province
+  latitude: '43.09645840'
+  longitude: "-89.50088000"
+- id: 1924
+  name: Cakaudrove
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '03'
+  type: province
+  latitude: "-16.58141050"
+  longitude: '179.51200840'
+- id: 1929
+  name: Central
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: C
+  type: division
+  latitude: '34.04400660'
+  longitude: "-118.24727380"
+- id: 1932
+  name: Eastern
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: E
+  type: division
+  latitude: '32.80943050'
+  longitude: "-117.12899370"
+- id: 1934
+  name: Kadavu
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '04'
+  type: province
+  latitude: "-19.01271220"
+  longitude: '178.18766760'
+- id: 1933
+  name: Lau
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '05'
+  type: province
+  latitude: '31.66870150'
+  longitude: "-106.39557630"
+- id: 1916
+  name: Lomaiviti
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '06'
+  type: province
+  latitude: "-17.70900000"
+  longitude: '179.09100000'
+- id: 1922
+  name: Macuata
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '07'
+  type: province
+  latitude: "-16.48649220"
+  longitude: '179.28472510'
+- id: 1919
+  name: Nadroga-Navosa
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '08'
+  type: province
+  latitude: "-17.98652780"
+  longitude: '177.65811300'
+- id: 1927
+  name: Naitasiri
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '09'
+  type: province
+  latitude: "-17.89757540"
+  longitude: '178.20715980'
+- id: 1928
+  name: Namosi
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '10'
+  type: province
+  latitude: "-18.08641760"
+  longitude: '178.12913870'
+- id: 1921
+  name: Northern
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: "N"
+  type: division
+  latitude: '32.87687660'
+  longitude: "-117.21563450"
+- id: 1926
+  name: Ra
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '11'
+  type: province
+  latitude: '37.10031530'
+  longitude: "-95.67442460"
+- id: 1920
+  name: Rewa
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '12'
+  type: province
+  latitude: '34.79235170'
+  longitude: "-82.36092640"
+- id: 1931
+  name: Rotuma
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: R
+  type: dependency
+  latitude: "-12.50250690"
+  longitude: '177.07241640'
+- id: 1925
+  name: Serua
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '13'
+  type: province
+  latitude: "-18.18047490"
+  longitude: '178.05097900'
+- id: 1918
+  name: Tailevu
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: '14'
+  type: province
+  latitude: "-17.82691110"
+  longitude: '178.29324800'
+- id: 1923
+  name: Western
+  country_id: 73
+  country_code: FJ
+  country_name: Fiji Islands
+  state_code: W
+  type: division
+  latitude: '42.96621980'
+  longitude: "-78.70211340"

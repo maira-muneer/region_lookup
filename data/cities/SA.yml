@@ -1,0 +1,4203 @@
+---
+- id: 102804
+  name: Abha
+  state_id: 2853
+  state_code: '14'
+  state_name: "'Asir"
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '18.21639000'
+  longitude: '42.50528000'
+  wikiDataId: Q190948
+- id: 102827
+  name: Al Majāridah
+  state_id: 2853
+  state_code: '14'
+  state_name: "'Asir"
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '19.12361000'
+  longitude: '41.91111000'
+  wikiDataId: Q31874518
+- id: 148594
+  name: Al Qahab
+  state_id: 2853
+  state_code: '14'
+  state_name: "'Asir"
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '18.92560000'
+  longitude: '41.95500000'
+  wikiDataId: Q15178975
+- id: 102861
+  name: Khamis Mushait
+  state_id: 2853
+  state_code: '14'
+  state_name: "'Asir"
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '18.30000000'
+  longitude: '42.73333000'
+  wikiDataId: Q759381
+- id: 148596
+  name: Ma`riyah
+  state_id: 2853
+  state_code: '14'
+  state_name: "'Asir"
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '18.85000000'
+  longitude: '41.96670000'
+  wikiDataId: Q15243285
+- id: 148597
+  name: Mifa
+  state_id: 2853
+  state_code: '14'
+  state_name: "'Asir"
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '18.89170000'
+  longitude: '41.96330000'
+  wikiDataId: Q6843982
+- id: 148598
+  name: Munayzir
+  state_id: 2853
+  state_code: '14'
+  state_name: "'Asir"
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '18.94640000'
+  longitude: '41.91640000'
+  wikiDataId: Q6935631
+- id: 102882
+  name: Tabālah
+  state_id: 2853
+  state_code: '14'
+  state_name: "'Asir"
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '19.95000000'
+  longitude: '42.40000000'
+  wikiDataId: Q32189185
+- id: 102815
+  name: Al Bahah
+  state_id: 2859
+  state_code: '11'
+  state_name: Al Bahah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '20.01288000'
+  longitude: '41.46767000'
+  wikiDataId: Q27176
+- id: 102829
+  name: Al Mindak
+  state_id: 2859
+  state_code: '11'
+  state_name: Al Bahah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '20.15880000'
+  longitude: '41.28337000'
+  wikiDataId: Q31875144
+- id: 148708
+  name: Hajrah
+  state_id: 2859
+  state_code: '11'
+  state_name: Al Bahah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '20.23333333'
+  longitude: '41.05000000'
+  wikiDataId: Q3545550
+- id: 148588
+  name: Al Isawiyah
+  state_id: 2857
+  state_code: '12'
+  state_name: Al Jawf
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '30.71681000'
+  longitude: '37.97767000'
+  wikiDataId: Q12190610
+- id: 148589
+  name: Al-Haditha
+  state_id: 2857
+  state_code: '12'
+  state_name: Al Jawf
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '31.45601100'
+  longitude: '37.14814000'
+  wikiDataId: Q4702445
+- id: 148590
+  name: Halat Ammar
+  state_id: 2857
+  state_code: '12'
+  state_name: Al Jawf
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '29.15944444'
+  longitude: '36.07500000'
+  wikiDataId: Q1570226
+- id: 102872
+  name: Qurayyat
+  state_id: 2857
+  state_code: '12'
+  state_name: Al Jawf
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '31.33176000'
+  longitude: '37.34282000'
+  wikiDataId: Q2829401
+- id: 102877
+  name: Sakakah
+  state_id: 2857
+  state_code: '12'
+  state_name: Al Jawf
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '29.96974000'
+  longitude: '40.20641000'
+  wikiDataId: Q27469
+- id: 102896
+  name: Şuwayr
+  state_id: 2857
+  state_code: '12'
+  state_name: Al Jawf
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '30.11713000'
+  longitude: '40.38925000'
+  wikiDataId: Q32219471
+- id: 148591
+  name: Tabarjal
+  state_id: 2857
+  state_code: '12'
+  state_name: Al Jawf
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '30.50000000'
+  longitude: '38.21670000'
+  wikiDataId: Q7672929
+- id: 102898
+  name: Ţubarjal
+  state_id: 2857
+  state_code: '12'
+  state_name: Al Jawf
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '30.49987000'
+  longitude: '38.21603000'
+  wikiDataId: Q4164177
+- id: 148866
+  name: "`Ajmiyah"
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.21670000'
+  longitude: '38.50000000'
+  wikiDataId: Q8076276
+- id: 148867
+  name: "`Alya'"
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.82360000'
+  longitude: '38.88330000'
+  wikiDataId: Q8076282
+- id: 148868
+  name: "`Ushash"
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.50000000'
+  longitude: '38.91670000'
+  wikiDataId: Q8076332
+- id: 148869
+  name: "`Ushayrah"
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.01860000'
+  longitude: '39.67310000'
+  wikiDataId: Q8076333
+- id: 148804
+  name: Abū Shayţānah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.86670000'
+  longitude: '38.36670000'
+  wikiDataId: Q4670812
+- id: 148803
+  name: Abyar 'Ali
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.41666667'
+  longitude: '39.55000000'
+  wikiDataId: Q4670723
+- id: 148805
+  name: Ad Dulu`
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.76670000'
+  longitude: '39.53330000'
+  wikiDataId: Q4678141
+- id: 148823
+  name: Al `Awali
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.45000000'
+  longitude: '39.61670000'
+  wikiDataId: Q4705033
+- id: 148824
+  name: Al `Uqul
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.50000000'
+  longitude: '39.81670000'
+  wikiDataId: Q4705038
+- id: 148806
+  name: Al Akhal
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.31560000'
+  longitude: '39.85940000'
+  wikiDataId: Q4703457
+- id: 148807
+  name: Al Bardiyah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.04390000'
+  longitude: '39.60610000'
+  wikiDataId: Q4703547
+- id: 148808
+  name: Al Biqa'
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.38861111'
+  longitude: '38.59888889'
+  wikiDataId: Q4703590
+- id: 148809
+  name: Al Bustan
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.27830000'
+  longitude: '39.24280000'
+  wikiDataId: Q4703635
+- id: 148810
+  name: Al Faqirah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.42170000'
+  longitude: '39.70970000'
+  wikiDataId: Q4703805
+- id: 148811
+  name: Al Furaysh
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.22000000'
+  longitude: '39.28140000'
+  wikiDataId: Q4703843
+- id: 148813
+  name: Al Jabriyah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.25000000'
+  longitude: '38.51670000'
+  wikiDataId: Q4704094
+- id: 148814
+  name: Al Jissah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.33330000'
+  longitude: '40.30000000'
+  wikiDataId: Q4704151
+- id: 148815
+  name: Al Kharma'
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.90000000'
+  longitude: '38.90000000'
+  wikiDataId: Q4704219
+- id: 148817
+  name: Al Malbanah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.18330000'
+  longitude: '39.51670000'
+  wikiDataId: Q4704363
+- id: 148818
+  name: Al Mufrihat
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.35000000'
+  longitude: '39.41670000'
+  wikiDataId: Q4704482
+- id: 148819
+  name: Al Multasa
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.08330000'
+  longitude: '38.15000000'
+  wikiDataId: Q4704487
+- id: 148820
+  name: Al Musayjid
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.08330000'
+  longitude: '39.10000000'
+  wikiDataId: Q4704512
+- id: 148822
+  name: Al Wuday
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.17890000'
+  longitude: '39.54810000'
+  wikiDataId: Q4704992
+- id: 148825
+  name: Al-Jafr
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.41666667'
+  longitude: '49.61666667'
+  wikiDataId: Q4702579
+- id: 102839
+  name: Al-Ula
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.60853000'
+  longitude: '37.92316000'
+  wikiDataId: Q27242
+- id: 148827
+  name: As Sadayir
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.25000000'
+  longitude: '39.18330000'
+  wikiDataId: Q4802960
+- id: 148828
+  name: As Safra'
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.01277778'
+  longitude: '38.92277778'
+  wikiDataId: Q12250506
+- id: 148829
+  name: As Sumariyah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.92140000'
+  longitude: '39.61780000'
+  wikiDataId: Q4803011
+- id: 148830
+  name: As Suwayriqiyah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.35000000'
+  longitude: '40.31670000'
+  wikiDataId: Q4803020
+- id: 148831
+  name: Ash Shufayyah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.81670000'
+  longitude: '39.15000000'
+  wikiDataId: Q4804459
+- id: 148832
+  name: Asira
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.33330000'
+  longitude: '38.63330000'
+  wikiDataId: Q4807024
+- id: 148833
+  name: Baq`a'
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.21666667'
+  longitude: '38.71666667'
+  wikiDataId: Q4857758
+- id: 148834
+  name: Bartiyah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.28330000'
+  longitude: '38.58330000'
+  wikiDataId: Q4865330
+- id: 148835
+  name: Bi'r al Mashi
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.21666667'
+  longitude: '39.55000000'
+  wikiDataId: Q4902324
+- id: 148836
+  name: Birkah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.82030000'
+  longitude: '38.85970000'
+  wikiDataId: Q4916378
+- id: 148839
+  name: Far`
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.81670000'
+  longitude: '38.86670000'
+  wikiDataId: Q5434665
+- id: 148840
+  name: Fiji
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.26666667'
+  longitude: '38.56666667'
+  wikiDataId: Q3809954
+- id: 148841
+  name: Harthiyah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.25000000'
+  longitude: '38.55000000'
+  wikiDataId: Q15223121
+- id: 148843
+  name: Haylat Radi al Baham
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.08390000'
+  longitude: '39.72500000'
+  wikiDataId: Q5686781
+- id: 148844
+  name: Husayniyah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.86666667'
+  longitude: '38.90000000'
+  wikiDataId: Q15227083
+- id: 148845
+  name: Jadidah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.81670000'
+  longitude: '38.83330000'
+  wikiDataId: Q6121469
+- id: 148846
+  name: Khayf Fadil
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.26670000'
+  longitude: '38.56670000'
+  wikiDataId: Q6401091
+- id: 148847
+  name: Madsus
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.35000000'
+  longitude: '38.55000000'
+  wikiDataId: Q6728746
+- id: 148848
+  name: Mahattat al Hafah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.75000000'
+  longitude: '39.30000000'
+  wikiDataId: Q6733548
+- id: 148849
+  name: Maqrah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.41670000'
+  longitude: '38.70000000'
+  wikiDataId: Q6754281
+- id: 148850
+  name: Maqshush
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.58330000'
+  longitude: '38.60000000'
+  wikiDataId: Q6754284
+- id: 148851
+  name: Masahili
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.03330000'
+  longitude: '38.23330000'
+  wikiDataId: Q6782355
+- id: 148853
+  name: Mawarah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.20000000'
+  longitude: '38.43330000'
+  wikiDataId: Q6794357
+- id: 102865
+  name: Medina
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.46861000'
+  longitude: '39.61417000'
+  wikiDataId: Q35484
+- id: 148854
+  name: Milhah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.05000000'
+  longitude: '38.30000000'
+  wikiDataId: Q6851804
+- id: 148855
+  name: Nujayl
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.26670000'
+  longitude: '38.65000000'
+  wikiDataId: Q7068824
+- id: 148856
+  name: Qaba'
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.40000000'
+  longitude: '39.65000000'
+  wikiDataId: Q7265682
+- id: 148858
+  name: Rayyis
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.56670000'
+  longitude: '38.60000000'
+  wikiDataId: Q7299423
+- id: 148859
+  name: Sha`tha'
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.23333333'
+  longitude: '38.53333333'
+  wikiDataId: Q15276595
+- id: 148860
+  name: Sidi Hamzah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.50000000'
+  longitude: '39.61670000'
+  wikiDataId: Q7508734
+- id: 148861
+  name: Suq Suwayq
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.36670000'
+  longitude: '38.45000000'
+  wikiDataId: Q7645175
+- id: 148862
+  name: Suqubiya
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.23330000'
+  longitude: '38.50000000'
+  wikiDataId: Q7645190
+- id: 148863
+  name: Suwadah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.03330000'
+  longitude: '38.20000000'
+  wikiDataId: Q7650546
+- id: 148865
+  name: Wasitah
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.88330000'
+  longitude: '38.90000000'
+  wikiDataId: Q7972673
+- id: 102892
+  name: Yanbu
+  state_id: 2851
+  state_code: '03'
+  state_name: Al Madinah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.08954000'
+  longitude: '38.06180000'
+  wikiDataId: Q466027
+- id: 102810
+  name: Adh Dhibiyah
+  state_id: 2861
+  state_code: '05'
+  state_name: Al-Qassim
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.02700000'
+  longitude: '43.15700000'
+  wikiDataId: Q31868886
+- id: 102817
+  name: Al Bukayrīyah
+  state_id: 2861
+  state_code: '05'
+  state_name: Al-Qassim
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.13915000'
+  longitude: '43.65782000'
+  wikiDataId: Q31872259
+- id: 102818
+  name: Al Fuwayliq
+  state_id: 2861
+  state_code: '05'
+  state_name: Al-Qassim
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.44360000'
+  longitude: '43.25164000'
+  wikiDataId: Q31872595
+- id: 102830
+  name: Al Mithnab
+  state_id: 2861
+  state_code: '05'
+  state_name: Al-Qassim
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.86012000'
+  longitude: '44.22228000'
+  wikiDataId: Q31875144
+- id: 148575
+  name: Al Thybiyah
+  state_id: 2861
+  state_code: '05'
+  state_name: Al-Qassim
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.02700000'
+  longitude: '43.15700000'
+  wikiDataId: Q20400963
+- id: 102841
+  name: Ar Rass
+  state_id: 2861
+  state_code: '05'
+  state_name: Al-Qassim
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.86944000'
+  longitude: '43.49730000'
+  wikiDataId: Q1878991
+- id: 148577
+  name: Buraidah
+  state_id: 2861
+  state_code: '05'
+  state_name: Al-Qassim
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.33333333'
+  longitude: '43.96666667'
+  wikiDataId: Q259253
+- id: 102850
+  name: Buraydah
+  state_id: 2861
+  state_code: '05'
+  state_name: Al-Qassim
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.32599000'
+  longitude: '43.97497000'
+  wikiDataId: Q259253
+- id: 148578
+  name: Dukhnah
+  state_id: 2861
+  state_code: '05'
+  state_name: Al-Qassim
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.35621000'
+  longitude: '43.62268000'
+  wikiDataId: Q6768386
+- id: 148580
+  name: Qiba
+  state_id: 2861
+  state_code: '05'
+  state_name: Al-Qassim
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '27.40285000'
+  longitude: '44.32770000'
+  wikiDataId: Q12241875
+- id: 102883
+  name: Tanūmah
+  state_id: 2861
+  state_code: '05'
+  state_name: Al-Qassim
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '27.10000000'
+  longitude: '44.13333000'
+  wikiDataId: Q32189686
+- id: 102891
+  name: Wed Alnkil
+  state_id: 2861
+  state_code: '05'
+  state_name: Al-Qassim
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.42670000'
+  longitude: '42.83430000'
+  wikiDataId: Q32190880
+- id: 102805
+  name: Abqaiq
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.93402000'
+  longitude: '49.66880000'
+  wikiDataId: Q27177
+- id: 102814
+  name: Al Awjām
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.56324000'
+  longitude: '49.94331000'
+  wikiDataId: Q4164621
+- id: 102816
+  name: Al Baţţālīyah
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.43333000'
+  longitude: '49.63333000'
+  wikiDataId: Q31872122
+- id: 102820
+  name: Al Hufūf
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.36467000'
+  longitude: '49.58764000'
+  wikiDataId: Q27136
+- id: 102821
+  name: Al Jafr
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.37736000'
+  longitude: '49.72154000'
+  wikiDataId: Q31873138
+- id: 102823
+  name: Al Jubayl
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '27.01740000'
+  longitude: '49.62251000'
+  wikiDataId: Q27430
+- id: 102825
+  name: Al Khafjī
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '28.43905000'
+  longitude: '48.49132000'
+  wikiDataId: Q31873774
+- id: 102828
+  name: Al Markaz
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.40000000'
+  longitude: '49.73333000'
+  wikiDataId: Q31874729
+- id: 102831
+  name: Al Mubarraz
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.40768000'
+  longitude: '49.59028000'
+  wikiDataId: Q31875209
+- id: 102832
+  name: Al Munayzilah
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.38333000'
+  longitude: '49.66667000'
+  wikiDataId: Q31875344
+- id: 102834
+  name: Al Muţayrifī
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.47878000'
+  longitude: '49.55824000'
+  wikiDataId: Q31875523
+- id: 102837
+  name: Al Qārah
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.41667000'
+  longitude: '49.66667000'
+  wikiDataId: Q31875851
+- id: 102835
+  name: Al Qaţīf
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.56542000'
+  longitude: '50.00890000'
+  wikiDataId: Q31875721
+- id: 102836
+  name: Al Qurayn
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.48333000'
+  longitude: '49.60000000'
+  wikiDataId: Q31875811
+- id: 148560
+  name: Al Ubaylah
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.98417000'
+  longitude: '50.93966000'
+  wikiDataId: Q16909166
+- id: 148561
+  name: Al-Awamiyah
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.58333300'
+  longitude: '49.98333300'
+  wikiDataId: Q288287
+- id: 148562
+  name: Al-Awjam
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.55830000'
+  longitude: '49.95030000'
+  wikiDataId: Q4164621
+- id: 148563
+  name: Al-Mubarraz
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.44160000'
+  longitude: '49.66420000'
+  wikiDataId: Q794958
+- id: 102843
+  name: As Saffānīyah
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '27.97083000'
+  longitude: '48.73000000'
+  wikiDataId: Q31890141
+- id: 102848
+  name: Aţ Ţaraf
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.36232000'
+  longitude: '49.72757000'
+  wikiDataId: Q20381582
+- id: 102846
+  name: At Tūbī
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.55778000'
+  longitude: '49.99167000'
+  wikiDataId: Q31892461
+- id: 102851
+  name: Dammam
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.43442000'
+  longitude: '50.10326000'
+  wikiDataId: Q160320
+- id: 102852
+  name: Dhahran
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.28864000'
+  longitude: '50.11396000'
+  wikiDataId: Q268915
+- id: 148564
+  name: 'Ha''il '
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '27.51666667'
+  longitude: '41.68333333'
+  wikiDataId: Q675568
+- id: 102857
+  name: Hafar Al-Batin
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '28.43279000'
+  longitude: '45.97077000'
+  wikiDataId: Q27400
+- id: 148565
+  name: Haradh
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.14555556'
+  longitude: '49.06527778'
+  wikiDataId: Q3127238
+- id: 102860
+  name: Julayjilah
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.50000000'
+  longitude: '49.60000000'
+  wikiDataId: Q32130900
+- id: 102862
+  name: Khobar
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.27944000'
+  longitude: '50.20833000'
+  wikiDataId: Q311266
+- id: 102868
+  name: Mulayjah
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '27.27103000'
+  longitude: '48.42419000'
+  wikiDataId: Q32141302
+- id: 148568
+  name: Nariyah
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '27.46990000'
+  longitude: '48.48440000'
+  wikiDataId: Q6965995
+- id: 102870
+  name: Qaisumah
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '28.31117000'
+  longitude: '46.12729000'
+  wikiDataId: Q3543647
+- id: 102873
+  name: Raḩīmah
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.70791000'
+  longitude: '50.06194000'
+  wikiDataId: Q2829401
+- id: 102895
+  name: Şafwá
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.64970000'
+  longitude: '49.95522000'
+  wikiDataId: Q27234
+- id: 148571
+  name: Sayhāt
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.47500000'
+  longitude: '50.04166667'
+  wikiDataId: Q2744182
+- id: 102888
+  name: Tārūt
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.57330000'
+  longitude: '50.04028000'
+  wikiDataId: Q32190514
+- id: 148573
+  name: Udhailiyah
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.13330000'
+  longitude: '49.30000000'
+  wikiDataId: Q3072061
+- id: 102890
+  name: Umm as Sāhik
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.65361000'
+  longitude: '49.91639000'
+  wikiDataId: Q32190880
+- id: 148574
+  name: Uqair
+  state_id: 2856
+  state_code: '04'
+  state_name: Eastern Province
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.64310000'
+  longitude: '50.21440000'
+  wikiDataId: Q3546517
+- id: 148582
+  name: Jubbah
+  state_id: 2855
+  state_code: '06'
+  state_name: Ha'il
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '28.00620000'
+  longitude: '40.94160000'
+  wikiDataId: Q3187889
+- id: 148583
+  name: Mawqaq
+  state_id: 2855
+  state_code: '06'
+  state_name: Ha'il
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '27.38398000'
+  longitude: '41.17635000'
+  wikiDataId: Q6874886
+- id: 148584
+  name: Qufar
+  state_id: 2855
+  state_code: '06'
+  state_name: Ha'il
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '27.41534000'
+  longitude: '41.61903000'
+  wikiDataId: Q25449809
+- id: 148585
+  name: Simira
+  state_id: 2855
+  state_code: '06'
+  state_name: Ha'il
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.49418000'
+  longitude: '42.12494000'
+  wikiDataId: Q12216905
+- id: 102806
+  name: Abū ‘Arīsh
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.96887000'
+  longitude: '42.83251000'
+  wikiDataId: Q2821731
+- id: 148745
+  name: Abu Radif
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.61860000'
+  longitude: '43.13110000'
+  wikiDataId: Q4670320
+- id: 102807
+  name: Ad Darb
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '17.72285000'
+  longitude: '42.25261000'
+  wikiDataId: Q31868833
+- id: 148746
+  name: Ad Dur`iyah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.58420000'
+  longitude: '42.84310000'
+  wikiDataId: Q4678145
+- id: 148747
+  name: Adh Dhagharir
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.67780000'
+  longitude: '42.95920000'
+  wikiDataId: Q4682447
+- id: 148775
+  name: Al `Ulayin
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '17.15000000'
+  longitude: '43.17080000'
+  wikiDataId: Q4705036
+- id: 148776
+  name: Al `Usaylah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.92030000'
+  longitude: '42.73530000'
+  wikiDataId: Q4705042
+- id: 148748
+  name: Al Badawi
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.63330000'
+  longitude: '42.86500000'
+  wikiDataId: Q4703523
+- id: 148749
+  name: Al Hadrur
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.54360000'
+  longitude: '42.86720000'
+  wikiDataId: Q4703936
+- id: 148750
+  name: Al Hanashah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.55810000'
+  longitude: '42.76530000'
+  wikiDataId: Q4703979
+- id: 148751
+  name: Al Harani
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.77500000'
+  longitude: '42.90970000'
+  wikiDataId: Q4703982
+- id: 148752
+  name: Al Hasamah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.68333333'
+  longitude: '42.92694444'
+  wikiDataId: Q4703995
+- id: 148753
+  name: Al Hijfar
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.54440000'
+  longitude: '42.84720000'
+  wikiDataId: Q4704031
+- id: 148754
+  name: Al Jadi
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.64500000'
+  longitude: '42.99470000'
+  wikiDataId: Q4704098
+- id: 102822
+  name: Al Jarādīyah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.57946000'
+  longitude: '42.91240000'
+  wikiDataId: Q4704123
+- id: 148755
+  name: Al Jawah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.95670000'
+  longitude: '43.02970000'
+  wikiDataId: Q4704124
+- id: 148756
+  name: Al Jirbah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.92640000'
+  longitude: '42.88610000'
+  wikiDataId: Q4704149
+- id: 148757
+  name: Al Karbus
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.87330000'
+  longitude: '42.63170000'
+  wikiDataId: Q4704179
+- id: 148758
+  name: Al Kawahilah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.96140000'
+  longitude: '42.67250000'
+  wikiDataId: Q4704184
+- id: 148759
+  name: Al Khadra' Jizan
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.58583333'
+  longitude: '42.96333333'
+  wikiDataId: Q4704199
+- id: 148760
+  name: Al Kharabah Jizan
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.75580000'
+  longitude: '42.95470000'
+  wikiDataId: Q4704215
+- id: 148761
+  name: Al Kharadilah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.92720000'
+  longitude: '42.62640000'
+  wikiDataId: Q4704218
+- id: 148762
+  name: Al Khashabiyah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.94030000'
+  longitude: '42.64310000'
+  wikiDataId: Q4704221
+- id: 148763
+  name: Al Khubah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.78860000'
+  longitude: '43.22190000'
+  wikiDataId: Q4704234
+- id: 148764
+  name: Al Kirs
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.57720000'
+  longitude: '42.94750000'
+  wikiDataId: Q4704248
+- id: 148765
+  name: Al Luqiyah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.66060000'
+  longitude: '43.04000000'
+  wikiDataId: Q4704316
+- id: 148766
+  name: Al Ma`ayin
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.61080000'
+  longitude: '43.14720000'
+  wikiDataId: Q4704322
+- id: 148767
+  name: Al Madaya
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.76970000'
+  longitude: '42.73110000'
+  wikiDataId: Q4704336
+- id: 148768
+  name: Al Mali
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.79530000'
+  longitude: '42.95360000'
+  wikiDataId: Q4704365
+- id: 148769
+  name: Al Mayasam
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.94780000'
+  longitude: '42.72110000'
+  wikiDataId: Q4704411
+- id: 148770
+  name: Al Qa'im
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.71944444'
+  longitude: '42.97666667'
+  wikiDataId: Q4704618
+- id: 148771
+  name: Al Quful
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.67330000'
+  longitude: '43.07890000'
+  wikiDataId: Q4704656
+- id: 148772
+  name: Al Qurayb
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.97500000'
+  longitude: '42.72530000'
+  wikiDataId: Q4704659
+- id: 148773
+  name: Al Quwah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.79940000'
+  longitude: '43.22500000'
+  wikiDataId: Q4704665
+- id: 148774
+  name: Al Wasili
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.94690000'
+  longitude: '42.69030000'
+  wikiDataId: Q4704944
+- id: 148777
+  name: An Najamiyah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.56470000'
+  longitude: '42.94390000'
+  wikiDataId: Q4750152
+- id: 148778
+  name: Ar Rukubah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.62220000'
+  longitude: '42.96750000'
+  wikiDataId: Q4783078
+- id: 148779
+  name: Ash Shuqayq
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '17.70305556'
+  longitude: '42.02944444'
+  wikiDataId: Q6728515
+- id: 148780
+  name: Bakhshat Yamani
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.89860000'
+  longitude: '42.59890000'
+  wikiDataId: Q4849388
+- id: 102854
+  name: Farasān
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.70222000'
+  longitude: '42.11833000'
+  wikiDataId: Q268915
+- id: 148781
+  name: Ghawiyah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.56500000'
+  longitude: '43.11080000'
+  wikiDataId: Q5555962
+- id: 148782
+  name: Hamayyah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.98940000'
+  longitude: '43.16030000'
+  wikiDataId: Q5644176
+- id: 148783
+  name: Hamdah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.76190000'
+  longitude: '42.92220000'
+  wikiDataId: Q5644364
+- id: 102859
+  name: Jizan
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.88917000'
+  longitude: '42.55111000'
+  wikiDataId: Q27660
+- id: 148784
+  name: Juha Saudi Arabia
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.66940000'
+  longitude: '42.89220000'
+  wikiDataId: Q6304998
+- id: 148785
+  name: Ka`lul
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.89750000'
+  longitude: '42.84670000'
+  wikiDataId: Q6343192
+- id: 148786
+  name: Khabath Sa`id
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.99780000'
+  longitude: '42.73220000'
+  wikiDataId: Q6398784
+- id: 148787
+  name: Khalfah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.55470000'
+  longitude: '43.08940000'
+  wikiDataId: Q6399426
+- id: 148788
+  name: Khatib Saudi Arabia
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.89610000'
+  longitude: '41.85750000'
+  wikiDataId: Q6400912
+- id: 148789
+  name: Khumsiyah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.77140000'
+  longitude: '42.80190000'
+  wikiDataId: Q6402967
+- id: 148790
+  name: Khushaym
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.88000000'
+  longitude: '43.13720000'
+  wikiDataId: Q6403178
+- id: 148791
+  name: Mahatah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.83330000'
+  longitude: '43.16670000'
+  wikiDataId: Q6733466
+- id: 148792
+  name: Malgocta
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.99777778'
+  longitude: '42.67388889'
+  wikiDataId: Q15244192
+- id: 102866
+  name: Mislīyah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '17.45988000'
+  longitude: '42.55720000'
+  wikiDataId: Q32140978
+- id: 102867
+  name: Mizhirah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.82611000'
+  longitude: '42.73333000'
+  wikiDataId: Q32141037
+- id: 148793
+  name: Mukambal
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.59360000'
+  longitude: '43.03280000'
+  wikiDataId: Q6933393
+- id: 148794
+  name: Mundaraq
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.75420000'
+  longitude: '43.14890000'
+  wikiDataId: Q6935735
+- id: 148795
+  name: Muwassam
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.41670000'
+  longitude: '42.82580000'
+  wikiDataId: Q6944289
+- id: 148796
+  name: Qitabir
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '17.33330000'
+  longitude: '43.25000000'
+  wikiDataId: Q7267934
+- id: 148797
+  name: Quwayda'
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.73333333'
+  longitude: '42.89027778'
+  wikiDataId: Q7273029
+- id: 148798
+  name: Rahwan
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.83330000'
+  longitude: '43.21670000'
+  wikiDataId: Q7283635
+- id: 148799
+  name: Rawkhah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.94780000'
+  longitude: '42.79330000'
+  wikiDataId: Q7297005
+- id: 102894
+  name: Şabyā
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '17.14950000'
+  longitude: '42.62537000'
+  wikiDataId: Q32219237
+- id: 148800
+  name: Sadiliyah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.92640000'
+  longitude: '42.83000000'
+  wikiDataId: Q7397951
+- id: 148801
+  name: Salamah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.97530000'
+  longitude: '42.75640000'
+  wikiDataId: Q7403534
+- id: 102897
+  name: Şāmitah
+  state_id: 2858
+  state_code: '09'
+  state_name: Jizan
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '16.59601000'
+  longitude: '42.94435000'
+  wikiDataId: Q4164177
+- id: 148874
+  name: Abu `Urwah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.65000000'
+  longitude: '39.70000000'
+  wikiDataId: Q4670431
+- id: 148871
+  name: Abu Hisani
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.73060000'
+  longitude: '39.78330000'
+  wikiDataId: Q4670217
+- id: 148872
+  name: Abu Qirfah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.76670000'
+  longitude: '39.68330000'
+  wikiDataId: Q4670317
+- id: 148873
+  name: Abu Shu`ayb
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.58330000'
+  longitude: '39.70000000'
+  wikiDataId: Q4670358
+- id: 148875
+  name: Ad Dabbah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.71670000'
+  longitude: '39.83330000'
+  wikiDataId: Q4678115
+- id: 148876
+  name: Ad Dawh
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.77220000'
+  longitude: '39.70140000'
+  wikiDataId: Q4678126
+- id: 148877
+  name: Ad Dur
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.81670000'
+  longitude: '39.76670000'
+  wikiDataId: Q4678143
+- id: 148935
+  name: Al Ābār
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.09810000'
+  longitude: '39.91030000'
+  wikiDataId: Q4705077
+- id: 148878
+  name: Al Adl
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.44361000'
+  longitude: '39.85611000'
+  wikiDataId: Q4703441
+- id: 148879
+  name: Al Ashraf
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.52360000'
+  longitude: '39.61670000'
+  wikiDataId: Q4703499
+- id: 148880
+  name: Al Balad
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.48780000'
+  longitude: '39.19360000'
+  wikiDataId: Q4703540
+- id: 148881
+  name: Al Barabir
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.52030000'
+  longitude: '39.63250000'
+  wikiDataId: Q4703545
+- id: 148882
+  name: Al Bi'ar
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.64972222'
+  longitude: '39.67027778'
+  wikiDataId: Q4703587
+- id: 148883
+  name: Al Birk
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '18.21631000'
+  longitude: '41.53593000'
+  wikiDataId: Q12184391
+- id: 148884
+  name: Al Buraykah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.78610000'
+  longitude: '39.71670000'
+  wikiDataId: Q4703627
+- id: 148885
+  name: Al Fawwarah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.83280000'
+  longitude: '40.16110000'
+  wikiDataId: Q4703819
+- id: 148886
+  name: Al Faydah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.98440000'
+  longitude: '39.38470000'
+  wikiDataId: Q4703821
+- id: 148887
+  name: Al Fazz
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.98330000'
+  longitude: '39.52220000'
+  wikiDataId: Q4703822
+- id: 148888
+  name: Al Gharith
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.60000000'
+  longitude: '41.88330000'
+  wikiDataId: Q4703868
+- id: 148889
+  name: Al Ghassalah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.45000000'
+  longitude: '39.86670000'
+  wikiDataId: Q4703870
+- id: 148890
+  name: Al Ghulah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.95000000'
+  longitude: '39.31670000'
+  wikiDataId: Q4703874
+- id: 102819
+  name: Al Hadā
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.36753000'
+  longitude: '40.28694000'
+  wikiDataId: Q4703935
+- id: 148891
+  name: Al Halaqah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.35000000'
+  longitude: '40.45000000'
+  wikiDataId: Q4703953
+- id: 148892
+  name: Al Hamimah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.51670000'
+  longitude: '39.63330000'
+  wikiDataId: Q4703969
+- id: 148893
+  name: Al Harra' Makkah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.95000000'
+  longitude: '39.48333333'
+  wikiDataId: Q4703987
+- id: 148894
+  name: Al Hawiyah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.42415000'
+  longitude: '40.49303000'
+  wikiDataId: Q4120519
+- id: 148895
+  name: Al Iskan
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.40000000'
+  longitude: '39.78330000'
+  wikiDataId: Q4704077
+- id: 148896
+  name: Al Jadidah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.67030000'
+  longitude: '40.12640000'
+  wikiDataId: Q4704099
+- id: 148897
+  name: Al Jami`ah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.46670000'
+  longitude: '39.25000000'
+  wikiDataId: Q4704116
+- id: 148898
+  name: Al Jid`
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.93330000'
+  longitude: '39.58330000'
+  wikiDataId: Q4704147
+- id: 148899
+  name: Al Ju`ranah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.56670000'
+  longitude: '39.95000000'
+  wikiDataId: Q4704166
+- id: 102824
+  name: Al Jumūm
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.61694000'
+  longitude: '39.69806000'
+  wikiDataId: Q12185747
+- id: 148900
+  name: Al Khadra' Makkah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.46777778'
+  longitude: '39.90472222'
+  wikiDataId: Q4704201
+- id: 148901
+  name: Al Khalas
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.70000000'
+  longitude: '39.80000000'
+  wikiDataId: Q4704205
+- id: 148902
+  name: Al Khamrah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.43330000'
+  longitude: '39.46670000'
+  wikiDataId: Q4704211
+- id: 148903
+  name: Al Khaydar
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.46940000'
+  longitude: '40.63060000'
+  wikiDataId: Q4704228
+- id: 148904
+  name: Al Khayf
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.68330000'
+  longitude: '39.73330000'
+  wikiDataId: Q4704230
+- id: 148905
+  name: Al Khulasah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.68330000'
+  longitude: '39.91670000'
+  wikiDataId: Q4704235
+- id: 148906
+  name: Al Kidwah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.78330000'
+  longitude: '39.68330000'
+  wikiDataId: Q4704242
+- id: 148907
+  name: Al Kura`
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.80000000'
+  longitude: '39.13330000'
+  wikiDataId: Q4704265
+- id: 148908
+  name: Al Ma`rash
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.13330000'
+  longitude: '40.60000000'
+  wikiDataId: Q4704324
+- id: 148909
+  name: Al Madiq Makkah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.67580000'
+  longitude: '40.13080000'
+  wikiDataId: Q4704334
+- id: 148910
+  name: Al Maghal
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.96670000'
+  longitude: '39.55000000'
+  wikiDataId: Q4704340
+- id: 148911
+  name: Al Mahjar
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.43330000'
+  longitude: '39.20000000'
+  wikiDataId: Q4704353
+- id: 148913
+  name: Al Maqrah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.26670000'
+  longitude: '39.95000000'
+  wikiDataId: Q4704381
+- id: 148914
+  name: Al Masarrah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.36670000'
+  longitude: '40.46670000'
+  wikiDataId: Q4704398
+- id: 148915
+  name: Al Masfalah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.41670000'
+  longitude: '39.81670000'
+  wikiDataId: Q4704396
+- id: 148916
+  name: Al Mashayikh
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.35000000'
+  longitude: '40.33330000'
+  wikiDataId: Q4704400
+- id: 148917
+  name: Al Mathnah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.26666667'
+  longitude: '40.38333333'
+  wikiDataId: Q15178969
+- id: 148918
+  name: Al Mubarak
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.70000000'
+  longitude: '39.90000000'
+  wikiDataId: Q4704478
+- id: 148919
+  name: Al Mudawwarah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.26670000'
+  longitude: '39.96670000'
+  wikiDataId: Q4704479
+- id: 148920
+  name: Al Mulayha'
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.80000000'
+  longitude: '40.35000000'
+  wikiDataId: Q4704486
+- id: 148921
+  name: Al Mundassah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.63330000'
+  longitude: '39.74860000'
+  wikiDataId: Q4704488
+- id: 148922
+  name: Al Muqayti`
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.54860000'
+  longitude: '39.78610000'
+  wikiDataId: Q4704493
+- id: 148923
+  name: Al Muqr
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.00000000'
+  longitude: '39.38330000'
+  wikiDataId: Q4704494
+- id: 102833
+  name: Al Muwayh
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.43333000'
+  longitude: '41.75829000'
+  wikiDataId: Q31875487
+- id: 148924
+  name: Al Qadimah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.35000000'
+  longitude: '39.15000000'
+  wikiDataId: Q4704627
+- id: 148926
+  name: Al Qararah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.42890000'
+  longitude: '39.82810000'
+  wikiDataId: Q4704637
+- id: 148927
+  name: Al Qaryat
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.46670000'
+  longitude: '39.20000000'
+  wikiDataId: Q4704639
+- id: 148928
+  name: Al Qawba`iyah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.66670000'
+  longitude: '39.98330000'
+  wikiDataId: Q4704642
+- id: 148929
+  name: Al Qirshan
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.56670000'
+  longitude: '39.70000000'
+  wikiDataId: Q4704644
+- id: 148930
+  name: Al Qu`tubah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.93330000'
+  longitude: '40.36670000'
+  wikiDataId: Q4704647
+- id: 148931
+  name: Al Qufayf
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.83330000'
+  longitude: '40.45000000'
+  wikiDataId: Q4704653
+- id: 148932
+  name: Al Qushashiyah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.43330000'
+  longitude: '39.83330000'
+  wikiDataId: Q4704664
+- id: 148933
+  name: Al Ukhaydir
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.93330000'
+  longitude: '40.01670000'
+  wikiDataId: Q4704903
+- id: 148934
+  name: Al Waht
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.23330000'
+  longitude: '40.35000000'
+  wikiDataId: Q4704937
+- id: 148936
+  name: Ar Rabwah as Sufla
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.95530000'
+  longitude: '39.43670000'
+  wikiDataId: Q4783044
+- id: 148937
+  name: Ar Rafah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.51670000'
+  longitude: '40.20000000'
+  wikiDataId: Q4783045
+- id: 148938
+  name: Ar Rawdah ash Shamaliyah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.73330000'
+  longitude: '39.96670000'
+  wikiDataId: Q4783057
+- id: 148939
+  name: Ar Rudaymah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.76670000'
+  longitude: '39.68330000'
+  wikiDataId: Q4783070
+- id: 148940
+  name: Arya`
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.08560000'
+  longitude: '40.62390000'
+  wikiDataId: Q4802620
+- id: 148941
+  name: As Sadr
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.51890000'
+  longitude: '40.19750000'
+  wikiDataId: Q4802961
+- id: 148942
+  name: As Samd ash Shamali
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.67500000'
+  longitude: '39.75000000'
+  wikiDataId: Q4802968
+- id: 148943
+  name: As Sayl al Kabir
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.62640000'
+  longitude: '40.41530000'
+  wikiDataId: Q4802980
+- id: 148944
+  name: As Sayl as Saghir
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.50640000'
+  longitude: '40.48220000'
+  wikiDataId: Q4802979
+- id: 148945
+  name: As Sifyani
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.47560000'
+  longitude: '39.84310000'
+  wikiDataId: Q4802992
+- id: 148946
+  name: As Sudayrah Makkah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.36190000'
+  longitude: '40.85470000'
+  wikiDataId: Q4803006
+- id: 148947
+  name: As Suwadah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.13390000'
+  longitude: '40.51170000'
+  wikiDataId: Q4803017
+- id: 102845
+  name: Ash Shafā
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.07210000'
+  longitude: '40.31185000'
+  wikiDataId: Q4804436
+- id: 148948
+  name: Ash Shajwah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.66440000'
+  longitude: '40.01140000'
+  wikiDataId: Q4804441
+- id: 148949
+  name: Ash Shamiyah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.84110000'
+  longitude: '39.52440000'
+  wikiDataId: Q4804445
+- id: 148950
+  name: Ash Shara'i`
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.46305556'
+  longitude: '39.94611111'
+  wikiDataId: Q4804446
+- id: 148951
+  name: Ash Shaybi
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.69580000'
+  longitude: '39.94170000'
+  wikiDataId: Q4804456
+- id: 148952
+  name: Ash Shi`b
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.96890000'
+  longitude: '39.48610000'
+  wikiDataId: Q4804455
+- id: 148953
+  name: Ash Shishah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.35030000'
+  longitude: '39.89190000'
+  wikiDataId: Q4804457
+- id: 148954
+  name: Ash Shumaysi
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.58330000'
+  longitude: '39.68330000'
+  wikiDataId: Q4804460
+- id: 148955
+  name: Ash Shuwaybit
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.37970000'
+  longitude: '40.51940000'
+  wikiDataId: Q4804464
+- id: 148956
+  name: At Tan`im
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.48250000'
+  longitude: '39.80500000'
+  wikiDataId: Q4812408
+- id: 148957
+  name: At Tarfa'
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.70638889'
+  longitude: '39.87138889'
+  wikiDataId: Q4812410
+- id: 148958
+  name: At Turqi
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.94920000'
+  longitude: '39.41310000'
+  wikiDataId: Q4812427
+- id: 148959
+  name: Az Zaymah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.61860000'
+  longitude: '40.11330000'
+  wikiDataId: Q4831983
+- id: 148960
+  name: Az Zilal
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.48890000'
+  longitude: '39.59420000'
+  wikiDataId: Q4831984
+- id: 148961
+  name: Az Zughbah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.71670000'
+  longitude: '39.94580000'
+  wikiDataId: Q4831986
+- id: 148962
+  name: Az Zurra`
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.91060000'
+  longitude: '39.40000000'
+  wikiDataId: Q4831989
+- id: 148963
+  name: Az Zuwayb
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.91670000'
+  longitude: '39.96940000'
+  wikiDataId: Q4831988
+- id: 148964
+  name: Bahrat al Qadimah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.41330000'
+  longitude: '39.49390000'
+  wikiDataId: Q4842875
+- id: 148965
+  name: Bahwil
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.42940000'
+  longitude: '39.42940000'
+  wikiDataId: Q4842941
+- id: 148966
+  name: Baranah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.55420000'
+  longitude: '39.82220000'
+  wikiDataId: Q4858330
+- id: 148967
+  name: Barzah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.98000000'
+  longitude: '39.67560000'
+  wikiDataId: Q4866071
+- id: 148968
+  name: Bashm
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.48220000'
+  longitude: '39.82080000'
+  wikiDataId: Q4866889
+- id: 148969
+  name: Buraykah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.34440000'
+  longitude: '39.32000000'
+  wikiDataId: Q4998135
+- id: 148970
+  name: Burayman
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.63750000'
+  longitude: '39.22640000'
+  wikiDataId: Q4998136
+- id: 148971
+  name: CITY GHRAN
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.97380000'
+  longitude: '39.36820000'
+  wikiDataId: Q4704997
+- id: 148972
+  name: Dabyah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.42470000'
+  longitude: '39.44610000'
+  wikiDataId: Q5207569
+- id: 148973
+  name: Dahaban
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.93333333'
+  longitude: '39.11666667'
+  wikiDataId: Q5208711
+- id: 148974
+  name: Dughaybjah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.59030000'
+  longitude: '41.35970000'
+  wikiDataId: Q5312551
+- id: 148975
+  name: Fayd
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.91720000'
+  longitude: '39.38830000'
+  wikiDataId: Q5438958
+- id: 102855
+  name: Ghran
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.98027000'
+  longitude: '39.36521000'
+  wikiDataId: Q65065367
+- id: 148976
+  name: Hadda'
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.45027778'
+  longitude: '39.55444444'
+  wikiDataId: Q5637618
+- id: 148977
+  name: Haddat ash Sham
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.79670000'
+  longitude: '39.68330000'
+  wikiDataId: Q5637639
+- id: 148978
+  name: Hadhah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.65250000'
+  longitude: '40.01420000'
+  wikiDataId: Q5637800
+- id: 148979
+  name: Hajur
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.01780000'
+  longitude: '39.73030000'
+  wikiDataId: Q5640273
+- id: 148980
+  name: Halamah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.95420000'
+  longitude: '39.70280000'
+  wikiDataId: Q5641075
+- id: 148981
+  name: Husnah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.80000000'
+  longitude: '39.59166667'
+  wikiDataId: Q15227105
+- id: 148982
+  name: Jarwal
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.43330000'
+  longitude: '39.81670000'
+  wikiDataId: Q6161287
+- id: 102858
+  name: Jeddah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.54238000'
+  longitude: '39.19797000'
+  wikiDataId: Q374365
+- id: 148983
+  name: Julayyil
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.95830000'
+  longitude: '39.75830000'
+  wikiDataId: Q6305617
+- id: 148985
+  name: Khumrah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.37280000'
+  longitude: '39.22610000'
+  wikiDataId: Q6402964
+- id: 148986
+  name: Kulakh
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.29640000'
+  longitude: '40.79690000'
+  wikiDataId: Q6442758
+- id: 148988
+  name: Madrakah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.97970000'
+  longitude: '39.98750000'
+  wikiDataId: Q6728463
+- id: 148989
+  name: Mafruq
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.52220000'
+  longitude: '40.17940000'
+  wikiDataId: Q6729524
+- id: 148990
+  name: Malakan
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.21580000'
+  longitude: '39.95030000'
+  wikiDataId: Q6741148
+- id: 148991
+  name: Mashajji
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.73890000'
+  longitude: '39.96670000'
+  wikiDataId: Q6783061
+- id: 148992
+  name: Masihat Mahd al Hayl
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.94170000'
+  longitude: '39.88610000'
+  wikiDataId: Q6783262
+- id: 148993
+  name: Maskar
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.75000000'
+  longitude: '40.31640000'
+  wikiDataId: Q2737548
+- id: 148994
+  name: Matiyah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.54170000'
+  longitude: '39.81940000'
+  wikiDataId: Q6787621
+- id: 102864
+  name: Mecca
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.42664000'
+  longitude: '39.82563000'
+  wikiDataId: Q5806
+- id: 148996
+  name: Mina
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.41333333'
+  longitude: '39.89333333'
+  wikiDataId: Q753276
+- id: 148998
+  name: Murshidiyah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.48890000'
+  longitude: '39.79440000'
+  wikiDataId: Q6939687
+- id: 148999
+  name: Mushrif
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.62920000'
+  longitude: '41.35670000'
+  wikiDataId: Q6941288
+- id: 149000
+  name: Nughayshiyah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.21670000'
+  longitude: '40.75000000'
+  wikiDataId: Q7068770
+- id: 149001
+  name: Nuzlat al Faqin
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.00000000'
+  longitude: '39.41670000'
+  wikiDataId: Q7070701
+- id: 149002
+  name: Qiya
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.06670000'
+  longitude: '41.01670000'
+  wikiDataId: Q7267978
+- id: 149003
+  name: Quwayzah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.49030000'
+  longitude: '39.27670000'
+  wikiDataId: Q7273030
+- id: 102875
+  name: Rābigh
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.79856000'
+  longitude: '39.03493000'
+  wikiDataId: Q27274
+- id: 149004
+  name: Rabwah Ghran
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.98330000'
+  longitude: '39.41670000'
+  wikiDataId: Q4783041
+- id: 149005
+  name: Raqiyah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.76670000'
+  longitude: '40.35000000'
+  wikiDataId: Q7294413
+- id: 149006
+  name: Sabuhah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.58330000'
+  longitude: '40.11670000'
+  wikiDataId: Q7396475
+- id: 149007
+  name: Shi`b `amir
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.43330000'
+  longitude: '39.83330000'
+  wikiDataId: Q7495948
+- id: 149008
+  name: Shira`ayn
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.28330000'
+  longitude: '40.78330000'
+  wikiDataId: Q7498213
+- id: 149009
+  name: Sulaym
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.58330000'
+  longitude: '39.63330000'
+  wikiDataId: Q7636043
+- id: 149010
+  name: Sumaymah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.25000000'
+  longitude: '39.16670000'
+  wikiDataId: Q7637030
+- id: 149011
+  name: Suways
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.95000000'
+  longitude: '39.96670000'
+  wikiDataId: Q7650593
+- id: 102884
+  name: Ta'if
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.27028000'
+  longitude: '40.41583000'
+  wikiDataId: Q182640
+- id: 149013
+  name: Tharwah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.51670000'
+  longitude: '39.61670000'
+  wikiDataId: Q7710846
+- id: 149014
+  name: Thuwal
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.28333333'
+  longitude: '39.10000000'
+  wikiDataId: Q4120103
+- id: 102886
+  name: Turabah
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.21406000'
+  longitude: '41.63310000'
+  wikiDataId: Q32190427
+- id: 149015
+  name: Usfan
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.92306000'
+  longitude: '39.35594000'
+  wikiDataId: Q16121224
+- id: 149016
+  name: Wadi al Jalil
+  state_id: 2850
+  state_code: '02'
+  state_name: Makkah
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '21.46670000'
+  longitude: '39.85000000'
+  wikiDataId: Q7959262
+- id: 102869
+  name: Najrān
+  state_id: 2860
+  state_code: '10'
+  state_name: Najran
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '17.49326000'
+  longitude: '44.12766000'
+  wikiDataId: Q27174
+- id: 102842
+  name: Arar
+  state_id: 2854
+  state_code: '08'
+  state_name: Northern Borders
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '30.97531000'
+  longitude: '41.03808000'
+  wikiDataId: Q626199
+- id: 148586
+  name: Nisab
+  state_id: 2854
+  state_code: '08'
+  state_name: Northern Borders
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '29.19274000'
+  longitude: '44.71598000'
+  wikiDataId: Q12218844
+- id: 102887
+  name: Turaif
+  state_id: 2854
+  state_code: '08'
+  state_name: Northern Borders
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '31.67252000'
+  longitude: '38.66374000'
+  wikiDataId: Q32190427
+- id: 148587
+  name: Umm Radamah
+  state_id: 2854
+  state_code: '08'
+  state_name: Northern Borders
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '28.67985000'
+  longitude: '44.69549000'
+  wikiDataId: Q16117430
+- id: 102808
+  name: Ad Dawādimī
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.50772000'
+  longitude: '44.39237000'
+  wikiDataId: Q27258
+- id: 102809
+  name: Ad Dilam
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.99104000'
+  longitude: '47.16181000'
+  wikiDataId: Q31868886
+- id: 102811
+  name: Afif
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.90650000'
+  longitude: '42.91724000'
+  wikiDataId: Q27139
+- id: 102812
+  name: Ain AlBaraha
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.75806000'
+  longitude: '43.77389000'
+  wikiDataId: Q20394853
+- id: 102813
+  name: Al Arţāwīyah
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.50387000'
+  longitude: '45.34813000'
+  wikiDataId: Q31871949
+- id: 149017
+  name: Al Bir
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.30000000'
+  longitude: '45.96670000'
+  wikiDataId: Q12184747
+- id: 149018
+  name: Al Hair
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.39072000'
+  longitude: '46.98677000'
+  wikiDataId: Q23048600
+- id: 149019
+  name: Al Jurayfah
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.52932000'
+  longitude: '45.25644000'
+  wikiDataId: Q6722656
+- id: 102826
+  name: Al Kharj
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.15541000'
+  longitude: '47.33457000'
+  wikiDataId: Q2162128
+- id: 149020
+  name: Ar Rayn
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '23.54995000'
+  longitude: '45.50463000'
+  wikiDataId: Q12241891
+- id: 149021
+  name: As Salamiyah
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.20154000'
+  longitude: '47.28872000'
+  wikiDataId: Q12192365
+- id: 102844
+  name: As Sulayyil
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '20.46067000'
+  longitude: '45.57792000'
+  wikiDataId: Q27221
+- id: 102847
+  name: Az Zulfī
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.29945000'
+  longitude: '44.81542000'
+  wikiDataId: Q31894563
+- id: 149022
+  name: Dawadmi
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.50772000'
+  longitude: '44.39237000'
+  wikiDataId: Q97290974
+- id: 149023
+  name: Diriyah
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.75187000'
+  longitude: '46.53874000'
+  wikiDataId: Q277505
+- id: 149024
+  name: Harmah
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.91666667'
+  longitude: '45.33333333'
+  wikiDataId: Q3543429
+- id: 149025
+  name: Jalajil
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.66666667'
+  longitude: '45.45000000'
+  wikiDataId: Q3543658
+- id: 149026
+  name: Layla
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '22.28330000'
+  longitude: '46.73330000'
+  wikiDataId: Q26958
+- id: 149027
+  name: Manfuha
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.59611111'
+  longitude: '46.72722222'
+  wikiDataId: Q2051873
+- id: 102863
+  name: Marāt
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.07064000'
+  longitude: '45.45775000'
+  wikiDataId: Q32139417
+- id: 149028
+  name: Najan
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.07746000'
+  longitude: '47.16590000'
+  wikiDataId: Q12248676
+- id: 102874
+  name: Riyadh
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.68773000'
+  longitude: '46.72185000'
+  wikiDataId: Q3692
+- id: 102880
+  name: Sājir
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.18251000'
+  longitude: '44.59964000'
+  wikiDataId: Q32188864
+- id: 102893
+  name: shokhaibٍ
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '24.49023000'
+  longitude: '46.26871000'
+  wikiDataId: Q466027
+- id: 102885
+  name: Tumayr
+  state_id: 2849
+  state_code: '01'
+  state_name: Riyadh
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.70347000'
+  longitude: '45.86835000'
+  wikiDataId: Q32190410
+- id: 102838
+  name: Al Wajh
+  state_id: 2852
+  state_code: '07'
+  state_name: Tabuk
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '26.24551000'
+  longitude: '36.45249000'
+  wikiDataId: Q27251
+- id: 102853
+  name: Duba
+  state_id: 2852
+  state_code: '07'
+  state_name: Tabuk
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '27.35134000'
+  longitude: '35.69014000'
+  wikiDataId: Q268915
+- id: 102881
+  name: Tabuk
+  state_id: 2852
+  state_code: '07'
+  state_name: Tabuk
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '28.39980000'
+  longitude: '36.57151000'
+  wikiDataId: Q244232
+- id: 102889
+  name: Umm Lajj
+  state_id: 2852
+  state_code: '07'
+  state_name: Tabuk
+  country_id: 194
+  country_code: SA
+  country_name: Saudi Arabia
+  latitude: '25.02126000'
+  longitude: '37.26850000'
+  wikiDataId: Q32190969

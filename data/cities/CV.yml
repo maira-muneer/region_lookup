@@ -1,0 +1,265 @@
+---
+- id: 22003
+  name: Sal Rei
+  state_id: 2999
+  state_code: BV
+  state_name: Boa Vista
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '16.17611000'
+  longitude: "-22.91722000"
+  wikiDataId: Q501656
+- id: 21995
+  name: Nova Sintra
+  state_id: 2996
+  state_code: BR
+  state_name: Brava
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '14.87139000'
+  longitude: "-24.69556000"
+  wikiDataId: Q493634
+- id: 22010
+  name: Vila do Maio
+  state_id: 2991
+  state_code: MA
+  state_name: Maio
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '15.13823000'
+  longitude: "-23.21158000"
+  wikiDataId: Q489776
+- id: 21992
+  name: Igreja
+  state_id: 2987
+  state_code: MO
+  state_name: Mosteiros
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '15.03389000'
+  longitude: "-24.32500000"
+  wikiDataId: Q498968
+- id: 21997
+  name: Pombas
+  state_id: 2997
+  state_code: PA
+  state_name: Paul
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '17.15026000'
+  longitude: "-25.02007000"
+  wikiDataId: Q768920
+- id: 21999
+  name: Porto Novo
+  state_id: 2989
+  state_code: PN
+  state_name: Porto Novo
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '17.01969000'
+  longitude: "-25.06471000"
+  wikiDataId: Q768314
+- id: 22000
+  name: Praia
+  state_id: 2988
+  state_code: PR
+  state_name: Praia
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '14.93152000'
+  longitude: "-23.51254000"
+  wikiDataId: Q3751
+- id: 22001
+  name: Ribeira Brava
+  state_id: 2982
+  state_code: RB
+  state_name: Ribeira Brava
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '16.61583000'
+  longitude: "-24.29833000"
+  wikiDataId: Q3136127
+- id: 21998
+  name: Ponta do Sol
+  state_id: 3002
+  state_code: RG
+  state_name: Ribeira Grande
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '17.20171000'
+  longitude: "-25.09217000"
+  wikiDataId: Q768314
+- id: 22002
+  name: Ribeira Grande
+  state_id: 3002
+  state_code: RG
+  state_name: Ribeira Grande
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '17.18250000'
+  longitude: "-25.06500000"
+  wikiDataId: Q3122689
+- id: 21989
+  name: Cidade Velha
+  state_id: 2984
+  state_code: RS
+  state_name: Ribeira Grande de Santiago
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '14.91531000'
+  longitude: "-23.60527000"
+  wikiDataId: Q464913
+- id: 21991
+  name: Espargos
+  state_id: 2998
+  state_code: SL
+  state_name: Sal
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '16.75524000'
+  longitude: "-22.94460000"
+  wikiDataId: Q498968
+- id: 22005
+  name: Santa Maria
+  state_id: 2998
+  state_code: SL
+  state_name: Sal
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '16.59796000'
+  longitude: "-22.90509000"
+  wikiDataId: Q497445
+- id: 21987
+  name: Assomada
+  state_id: 2985
+  state_code: CA
+  state_name: Santa Catarina
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '15.10000000'
+  longitude: "-23.68333000"
+  wikiDataId: Q490573
+- id: 21990
+  name: Cova Figueira
+  state_id: 2995
+  state_code: CF
+  state_name: Santa Catarina do Fogo
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '14.89054000'
+  longitude: "-24.29343000"
+  wikiDataId: Q485198
+- id: 21996
+  name: Pedra Badejo
+  state_id: 3004
+  state_code: CR
+  state_name: Santa Cruz
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '15.13750000'
+  longitude: "-23.53083000"
+  wikiDataId: Q490579
+- id: 22004
+  name: Santa Cruz
+  state_id: 3004
+  state_code: CR
+  state_name: Santa Cruz
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '15.13333000'
+  longitude: "-23.56667000"
+  wikiDataId: Q501656
+- id: 22006
+  name: São Domingos
+  state_id: 2986
+  state_code: SD
+  state_name: São Domingos
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '15.02438000'
+  longitude: "-23.56250000"
+  wikiDataId: Q2718745
+- id: 22007
+  name: São Filipe
+  state_id: 3000
+  state_code: SF
+  state_name: São Filipe
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '14.89610000'
+  longitude: "-24.49556000"
+  wikiDataId: Q13957085
+- id: 21993
+  name: João Teves
+  state_id: 2993
+  state_code: SO
+  state_name: São Lourenço dos Órgãos
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '15.06694000'
+  longitude: "-23.58917000"
+  wikiDataId: Q3077671
+- id: 21988
+  name: Calheta
+  state_id: 2990
+  state_code: SM
+  state_name: São Miguel
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '15.18613000'
+  longitude: "-23.59228000"
+  wikiDataId: Q2539817
+- id: 21994
+  name: Mindelo
+  state_id: 3001
+  state_code: SV
+  state_name: São Vicente
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '16.89014000'
+  longitude: "-24.98042000"
+  wikiDataId: Q495547
+- id: 22008
+  name: Tarrafal
+  state_id: 2983
+  state_code: TA
+  state_name: Tarrafal
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '15.27881000'
+  longitude: "-23.75192000"
+  wikiDataId: Q2311253
+- id: 22009
+  name: Tarrafal de São Nicolau
+  state_id: 3003
+  state_code: TS
+  state_name: Tarrafal de São Nicolau
+  country_id: 40
+  country_code: CV
+  country_name: Cape Verde
+  latitude: '16.56622000'
+  longitude: "-24.35793000"
+  wikiDataId: Q2311253

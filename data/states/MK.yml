@@ -1,0 +1,757 @@
+---
+- id: 703
+  name: Aerodrom
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '01'
+  type: municipality
+  latitude: '41.94643630'
+  longitude: '21.49317130'
+- id: 656
+  name: Aračinovo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '02'
+  type: municipality
+  latitude: '42.02473810'
+  longitude: '21.57664070'
+- id: 716
+  name: Berovo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '03'
+  type: municipality
+  latitude: '41.66619290'
+  longitude: '22.76288300'
+- id: 679
+  name: Bitola
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '04'
+  type: municipality
+  latitude: '41.03633020'
+  longitude: '21.33219740'
+- id: 649
+  name: Bogdanci
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '05'
+  type: municipality
+  latitude: '41.18696160'
+  longitude: '22.59602680'
+- id: 721
+  name: Bogovinje
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '06'
+  type: municipality
+  latitude: '41.92363710'
+  longitude: '20.91638870'
+- id: 652
+  name: Bosilovo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '07'
+  type: municipality
+  latitude: '41.49048640'
+  longitude: '22.78671740'
+- id: 660
+  name: Brvenica
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '08'
+  type: municipality
+  latitude: '41.96814820'
+  longitude: '20.98195860'
+- id: 694
+  name: Butel
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '09'
+  type: municipality
+  latitude: '42.08950680'
+  longitude: '21.46336100'
+- id: 704
+  name: Čair
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '79'
+  type: municipality
+  latitude: '41.99303550'
+  longitude: '21.43653180'
+- id: 676
+  name: Čaška
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '80'
+  type: municipality
+  latitude: '41.64743800'
+  longitude: '21.69141150'
+- id: 702
+  name: Centar
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '77'
+  type: municipality
+  latitude: '41.96989340'
+  longitude: '21.42162670'
+- id: 720
+  name: Centar Župa
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '78'
+  type: municipality
+  latitude: '41.46522590'
+  longitude: '20.59305480'
+- id: 644
+  name: Češinovo-Obleševo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '81'
+  type: municipality
+  latitude: '41.86393160'
+  longitude: '22.26224600'
+- id: 715
+  name: Čučer-Sandevo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '82'
+  type: municipality
+  latitude: '42.14839460'
+  longitude: '21.40374070'
+- id: 645
+  name: Debarca
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '22'
+  type: municipality
+  latitude: '41.35840770'
+  longitude: '20.85529190'
+- id: 695
+  name: Delčevo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '23'
+  type: municipality
+  latitude: '41.96843870'
+  longitude: '22.76288300'
+- id: 687
+  name: Demir Hisar
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '25'
+  type: municipality
+  latitude: '41.22708300'
+  longitude: '21.14142260'
+- id: 655
+  name: Demir Kapija
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '24'
+  type: municipality
+  latitude: '41.37955380'
+  longitude: '22.21455710'
+- id: 697
+  name: Dojran
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '26'
+  type: municipality
+  latitude: '41.24366720'
+  longitude: '22.69137640'
+- id: 675
+  name: Dolneni
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '27'
+  type: municipality
+  latitude: '41.46409350'
+  longitude: '21.40374070'
+- id: 657
+  name: Drugovo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '28'
+  type: municipality
+  latitude: '41.44081530'
+  longitude: '20.92682010'
+- id: 707
+  name: Gazi Baba
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '17'
+  type: municipality
+  latitude: '42.01629610'
+  longitude: '21.49913340'
+- id: 648
+  name: Gevgelija
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '18'
+  type: municipality
+  latitude: '41.21186060'
+  longitude: '22.38146240'
+- id: 722
+  name: Gjorče Petrov
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '29'
+  type: municipality
+  latitude: '42.06063740'
+  longitude: '21.32027360'
+- id: 693
+  name: Gostivar
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '19'
+  type: municipality
+  latitude: '41.80255410'
+  longitude: '20.90893780'
+- id: 708
+  name: Gradsko
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '20'
+  type: municipality
+  latitude: '41.59916080'
+  longitude: '21.88070640'
+- id: 684
+  name: Greater Skopje
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '85'
+  type: capital city
+  latitude: '41.99812940'
+  longitude: '21.42543550'
+- id: 690
+  name: Ilinden
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '34'
+  type: municipality
+  latitude: '41.99574430'
+  longitude: '21.56769750'
+- id: 678
+  name: Jegunovce
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '35'
+  type: municipality
+  latitude: '42.07407200'
+  longitude: '21.12204780'
+- id: 674
+  name: Karbinci
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '37'
+  type: municipality
+  latitude: '41.81801590'
+  longitude: '22.23247580'
+- id: 681
+  name: Karpoš
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '38'
+  type: municipality
+  latitude: '41.97096610'
+  longitude: '21.39181680'
+- id: 713
+  name: Kavadarci
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '36'
+  type: municipality
+  latitude: '41.28900680'
+  longitude: '21.99994350'
+- id: 688
+  name: Kičevo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '40'
+  type: municipality
+  latitude: '41.51291120'
+  longitude: '20.95250650'
+- id: 686
+  name: Kisela Voda
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '39'
+  type: municipality
+  latitude: '41.92748000'
+  longitude: '21.49317130'
+- id: 723
+  name: Kočani
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '42'
+  type: municipality
+  latitude: '41.98583740'
+  longitude: '22.40530460'
+- id: 665
+  name: Konče
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '41'
+  type: municipality
+  latitude: '41.51710110'
+  longitude: '22.38146240'
+- id: 641
+  name: Kratovo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '43'
+  type: municipality
+  latitude: '42.05371410'
+  longitude: '22.07148350'
+- id: 677
+  name: Kriva Palanka
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '44'
+  type: municipality
+  latitude: '42.20584540'
+  longitude: '22.33079650'
+- id: 647
+  name: Krivogaštani
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '45'
+  type: municipality
+  latitude: '41.30823060'
+  longitude: '21.36796890'
+- id: 714
+  name: Kruševo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '46'
+  type: municipality
+  latitude: '41.37693310'
+  longitude: '21.26065540'
+- id: 683
+  name: Kumanovo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '47'
+  type: municipality
+  latitude: '42.07326130'
+  longitude: '21.78531430'
+- id: 659
+  name: Lipkovo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '48'
+  type: municipality
+  latitude: '42.20066260'
+  longitude: '21.61837550'
+- id: 705
+  name: Lozovo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '49'
+  type: municipality
+  latitude: '41.78181390'
+  longitude: '21.90008270'
+- id: 701
+  name: Makedonska Kamenica
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '51'
+  type: municipality
+  latitude: '42.06946040'
+  longitude: '22.54834900'
+- id: 692
+  name: Makedonski Brod
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '52'
+  type: municipality
+  latitude: '41.51330880'
+  longitude: '21.21743290'
+- id: 669
+  name: Mavrovo and Rostuša
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '50'
+  type: municipality
+  latitude: '41.60924270'
+  longitude: '20.60124880'
+- id: 653
+  name: Mogila
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '53'
+  type: municipality
+  latitude: '41.14796450'
+  longitude: '21.45143690'
+- id: 664
+  name: Negotino
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '54'
+  type: municipality
+  latitude: '41.49899850'
+  longitude: '22.09532970'
+- id: 696
+  name: Novaci
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '55'
+  type: municipality
+  latitude: '41.04426610'
+  longitude: '21.45888940'
+- id: 718
+  name: Novo Selo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '56'
+  type: municipality
+  latitude: '41.43255800'
+  longitude: '22.88204890'
+- id: 699
+  name: Ohrid
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '58'
+  type: municipality
+  latitude: '41.06820880'
+  longitude: '20.75992660'
+- id: 682
+  name: 'Oslomej '
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '57'
+  type: municipality
+  latitude: '41.57583910'
+  longitude: '21.02219600'
+- id: 685
+  name: Pehčevo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '60'
+  type: municipality
+  latitude: '41.77371320'
+  longitude: '22.88204890'
+- id: 698
+  name: Petrovec
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '59'
+  type: municipality
+  latitude: '41.90298970'
+  longitude: '21.68992100'
+- id: 670
+  name: Plasnica
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '61'
+  type: municipality
+  latitude: '41.45463490'
+  longitude: '21.10565390'
+- id: 666
+  name: Prilep
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '62'
+  type: municipality
+  latitude: '41.26931420'
+  longitude: '21.71376940'
+- id: 646
+  name: Probištip
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '63'
+  type: municipality
+  latitude: '41.95891460'
+  longitude: '22.16686700'
+- id: 709
+  name: Radoviš
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '64'
+  type: municipality
+  latitude: '41.64955310'
+  longitude: '22.47682870'
+- id: 717
+  name: Rankovce
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '65'
+  type: municipality
+  latitude: '42.18081410'
+  longitude: '22.09532970'
+- id: 712
+  name: Resen
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '66'
+  type: municipality
+  latitude: '40.93680930'
+  longitude: '21.04604070'
+- id: 691
+  name: Rosoman
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '67'
+  type: municipality
+  latitude: '41.48480060'
+  longitude: '21.88070640'
+- id: 667
+  name: Saraj
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '68'
+  type: municipality
+  latitude: '41.98694960'
+  longitude: '21.26065540'
+- id: 719
+  name: Sopište
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '70'
+  type: municipality
+  latitude: '41.86384920'
+  longitude: '21.30834990'
+- id: 643
+  name: Staro Nagoričane
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '71'
+  type: municipality
+  latitude: '42.21916920'
+  longitude: '21.90455410'
+- id: 661
+  name: Štip
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '83'
+  type: municipality
+  latitude: '41.70792970'
+  longitude: '22.19071220'
+- id: 700
+  name: Struga
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '72'
+  type: municipality
+  latitude: '41.31737440'
+  longitude: '20.66456830'
+- id: 710
+  name: Strumica
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '73'
+  type: municipality
+  latitude: '41.43780040'
+  longitude: '22.64274280'
+- id: 711
+  name: Studeničani
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '74'
+  type: municipality
+  latitude: '41.92256390'
+  longitude: '21.53639650'
+- id: 680
+  name: Šuto Orizari
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '84'
+  type: municipality
+  latitude: '42.02904160'
+  longitude: '21.40970270'
+- id: 640
+  name: Sveti Nikole
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '69'
+  type: municipality
+  latitude: '41.89803120'
+  longitude: '21.99994350'
+- id: 654
+  name: Tearce
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '75'
+  type: municipality
+  latitude: '42.07775110'
+  longitude: '21.05349230'
+- id: 663
+  name: Tetovo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '76'
+  type: municipality
+  latitude: '42.02748600'
+  longitude: '20.95066360'
+- id: 671
+  name: Valandovo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '10'
+  type: municipality
+  latitude: '41.32119090'
+  longitude: '22.50066930'
+- id: 658
+  name: Vasilevo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '11'
+  type: municipality
+  latitude: '41.47416990'
+  longitude: '22.64221280'
+- id: 651
+  name: Veles
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '13'
+  type: municipality
+  latitude: '41.72744260'
+  longitude: '21.71376940'
+- id: 662
+  name: Vevčani
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '12'
+  type: municipality
+  latitude: '41.24075430'
+  longitude: '20.59156490'
+- id: 672
+  name: Vinica
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '14'
+  type: municipality
+  latitude: '41.85710200'
+  longitude: '22.57218810'
+- id: 650
+  name: Vraneštica
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '15'
+  type: municipality
+  latitude: '41.48290870'
+  longitude: '21.05796320'
+- id: 689
+  name: Vrapčište
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '16'
+  type: municipality
+  latitude: '41.87911600'
+  longitude: '20.83145000'
+- id: 642
+  name: Zajas
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '31'
+  type: municipality
+  latitude: '41.60303280'
+  longitude: '20.87913430'
+- id: 706
+  name: Zelenikovo
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '32'
+  type: municipality
+  latitude: '41.87338120'
+  longitude: '21.60272500'
+- id: 668
+  name: Želino
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '30'
+  type: municipality
+  latitude: '41.90065310'
+  longitude: '21.11757670'
+- id: 673
+  name: Zrnovci
+  country_id: 129
+  country_code: MK
+  country_name: North Macedonia
+  state_code: '33'
+  type: municipality
+  latitude: '41.82282210'
+  longitude: '22.41722560'

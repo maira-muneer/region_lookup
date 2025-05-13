@@ -1,0 +1,388 @@
+---
+- id: 1048
+  name: Bács-Kiskun
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: BK
+  type: county
+  latitude: '46.56614370'
+  longitude: '19.42724640'
+- id: 1055
+  name: Baranya
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: BA
+  type: county
+  latitude: '46.04845850'
+  longitude: '18.27191730'
+- id: 1060
+  name: Békés
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: BE
+  type: county
+  latitude: '46.67048990'
+  longitude: '21.04349960'
+- id: 1036
+  name: Békéscsaba
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: BC
+  type: city with county rights
+  latitude: '46.67359390'
+  longitude: '21.08773090'
+- id: 1058
+  name: Borsod-Abaúj-Zemplén
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: BZ
+  type: county
+  latitude: '48.29394010'
+  longitude: '20.69341120'
+- id: 1064
+  name: Budapest
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: BU
+  type: capital city
+  latitude: '47.49791200'
+  longitude: '19.04023500'
+- id: 1031
+  name: Csongrád County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: CS
+  type: county
+  latitude: '46.41670500'
+  longitude: '20.25661610'
+- id: 1032
+  name: Debrecen
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: DE
+  type: city with county rights
+  latitude: '47.53160490'
+  longitude: '21.62731240'
+- id: 1049
+  name: Dunaújváros
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: DU
+  type: city with county rights
+  latitude: '46.96190590'
+  longitude: '18.93552270'
+- id: 1037
+  name: Eger
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: EG
+  type: city with county rights
+  latitude: '47.90253480'
+  longitude: '20.37722840'
+- id: 1028
+  name: Érd
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: ER
+  type: city with county rights
+  latitude: '47.39197180'
+  longitude: '18.90454400'
+- id: 1044
+  name: Fejér County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: FE
+  type: county
+  latitude: '47.12179320'
+  longitude: '18.52948150'
+- id: 1041
+  name: Győr
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: GY
+  type: city with county rights
+  latitude: '47.68745690'
+  longitude: '17.65039740'
+- id: 1042
+  name: Győr-Moson-Sopron County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: GS
+  type: county
+  latitude: '47.65092850'
+  longitude: '17.25058830'
+- id: 1063
+  name: Hajdú-Bihar County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: HB
+  type: county
+  latitude: '47.46883550'
+  longitude: '21.54532270'
+- id: 1040
+  name: Heves County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: HE
+  type: county
+  latitude: '47.80576170'
+  longitude: '20.20385590'
+- id: 1027
+  name: Hódmezővásárhely
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: HV
+  type: city with county rights
+  latitude: '46.41812620'
+  longitude: '20.33003150'
+- id: 1043
+  name: Jász-Nagykun-Szolnok County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: JN
+  type: county
+  latitude: '47.25555790'
+  longitude: '20.52324560'
+- id: 1067
+  name: Kaposvár
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: KV
+  type: city with county rights
+  latitude: '46.35936060'
+  longitude: '17.79676390'
+- id: 1056
+  name: Kecskemét
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: KM
+  type: city with county rights
+  latitude: '46.89637110'
+  longitude: '19.68968610'
+- id: 5085
+  name: Komárom-Esztergom
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: KE
+  type: county
+  latitude: '47.57797860'
+  longitude: '18.12568550'
+- id: 1065
+  name: Miskolc
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: MI
+  type: city with county rights
+  latitude: '48.10347750'
+  longitude: '20.77843840'
+- id: 1030
+  name: Nagykanizsa
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: NK
+  type: city with county rights
+  latitude: '46.45902180'
+  longitude: '16.98967960'
+- id: 1051
+  name: Nógrád County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: 'NO'
+  type: county
+  latitude: '47.90410310'
+  longitude: '19.04985040'
+- id: 1034
+  name: Nyíregyháza
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: NY
+  type: city with county rights
+  latitude: '47.94953240'
+  longitude: '21.72440530'
+- id: 1053
+  name: Pécs
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: PS
+  type: city with county rights
+  latitude: '46.07273450'
+  longitude: '18.23226600'
+- id: 1059
+  name: Pest County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: PE
+  type: county
+  latitude: '47.44800010'
+  longitude: '19.46181280'
+- id: 1068
+  name: Salgótarján
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: ST
+  type: city with county rights
+  latitude: '48.09352370'
+  longitude: '19.79998130'
+- id: 1035
+  name: Somogy County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: SO
+  type: county
+  latitude: '46.55485900'
+  longitude: '17.58667320'
+- id: 1057
+  name: Sopron
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: SN
+  type: city with county rights
+  latitude: '47.68166190'
+  longitude: '16.58447950'
+- id: 1045
+  name: Szabolcs-Szatmár-Bereg County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: SZ
+  type: county
+  latitude: '48.03949540'
+  longitude: '22.00333000'
+- id: 1029
+  name: Szeged
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: SD
+  type: city with county rights
+  latitude: '46.25301020'
+  longitude: '20.14142530'
+- id: 1033
+  name: Székesfehérvár
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: SF
+  type: city with county rights
+  latitude: '47.18602620'
+  longitude: '18.42213580'
+- id: 1061
+  name: Szekszárd
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: SS
+  type: city with county rights
+  latitude: '46.34743260'
+  longitude: '18.70622930'
+- id: 1047
+  name: Szolnok
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: SK
+  type: city with county rights
+  latitude: '47.16213550'
+  longitude: '20.18247120'
+- id: 1052
+  name: Szombathely
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: SH
+  type: city with county rights
+  latitude: '47.23068510'
+  longitude: '16.62184410'
+- id: 1066
+  name: Tatabánya
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: TB
+  type: city with county rights
+  latitude: '47.56924600'
+  longitude: '18.40481800'
+- id: 1038
+  name: Tolna County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: TO
+  type: county
+  latitude: '46.47627540'
+  longitude: '18.55706270'
+- id: 1039
+  name: Vas County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: VA
+  type: county
+  latitude: '47.09291110'
+  longitude: '16.68121830'
+- id: 1062
+  name: Veszprém
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: VM
+  type: city with county rights
+  latitude: '47.10280870'
+  longitude: '17.90930190'
+- id: 1054
+  name: Veszprém County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: VE
+  type: county
+  latitude: '47.09309740'
+  longitude: '17.91007630'
+- id: 1046
+  name: Zala County
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: ZA
+  type: county
+  latitude: '46.73844040'
+  longitude: '16.91522520'
+- id: 1050
+  name: Zalaegerszeg
+  country_id: 99
+  country_code: HU
+  country_name: Hungary
+  state_code: ZE
+  type: county
+  latitude: '46.84169360'
+  longitude: '16.84163220'

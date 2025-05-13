@@ -1,0 +1,73 @@
+---
+- id: 3182
+  name: Al Daayen
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  state_code: ZA
+  type: municipality
+  latitude: '25.57845590'
+  longitude: '51.48213870'
+- id: 3183
+  name: Al Khor
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  state_code: KH
+  type: municipality
+  latitude: '25.68040780'
+  longitude: '51.49685020'
+- id: 3177
+  name: Al Rayyan
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  state_code: RA
+  type: municipality
+  latitude: '25.25225510'
+  longitude: '51.43887130'
+- id: 3179
+  name: Al Wakrah
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  state_code: WA
+  type: municipality
+  latitude: '25.16593140'
+  longitude: '51.59755240'
+- id: 3178
+  name: Al-Shahaniya
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  state_code: SH
+  type: municipality
+  latitude: '25.41063860'
+  longitude: '51.18460250'
+- id: 3181
+  name: Doha
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  state_code: DA
+  type: municipality
+  latitude: '25.28544730'
+  longitude: '51.53103980'
+- id: 3180
+  name: Madinat ash Shamal
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  state_code: MS
+  type: municipality
+  latitude: '26.11827430'
+  longitude: '51.21572650'
+- id: 3184
+  name: Umm Salal
+  country_id: 179
+  country_code: QA
+  country_name: Qatar
+  state_code: US
+  type: municipality
+  latitude: '25.48752420'
+  longitude: '51.39656800'

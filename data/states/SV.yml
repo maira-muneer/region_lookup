@@ -1,0 +1,127 @@
+---
+- id: 4139
+  name: Ahuachapán
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: AH
+  type: department
+  latitude: '13.82161480'
+  longitude: "-89.92532330"
+- id: 4132
+  name: Cabañas
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: CA
+  type: department
+  latitude: '13.86482880'
+  longitude: "-88.74939980"
+- id: 4131
+  name: Chalatenango
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: CH
+  type: department
+  latitude: '14.19166480'
+  longitude: "-89.17059980"
+- id: 4137
+  name: Cuscatlán
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: CU
+  type: department
+  latitude: '13.86619570'
+  longitude: "-89.05615320"
+- id: 4134
+  name: La Libertad
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: LI
+  type: department
+  latitude: '13.68176610'
+  longitude: "-89.36062980"
+- id: 4136
+  name: La Paz
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: PA
+  type: department
+  latitude:
+  longitude:
+- id: 4138
+  name: 'La Unión '
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: UN
+  type: department
+  latitude: '13.48864430'
+  longitude: "-87.89424510"
+- id: 4130
+  name: Morazán
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: MO
+  type: department
+  latitude: '13.76820000'
+  longitude: "-88.12913870"
+- id: 4135
+  name: San Miguel
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: SM
+  type: department
+  latitude: '13.44510410'
+  longitude: "-88.24611830"
+- id: 4133
+  name: San Salvador
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: SS
+  type: department
+  latitude: '13.77399970'
+  longitude: "-89.20867730"
+- id: 4127
+  name: San Vicente
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: SV
+  type: department
+  latitude: '13.58685610'
+  longitude: "-88.74939980"
+- id: 4128
+  name: Santa Ana
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: SA
+  type: department
+  latitude: '14.14611210'
+  longitude: "-89.51200840"
+- id: 4140
+  name: Sonsonate
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: SO
+  type: department
+  latitude: '13.68235800'
+  longitude: "-89.66281110"
+- id: 4129
+  name: Usulután
+  country_id: 66
+  country_code: SV
+  country_name: El Salvador
+  state_code: US
+  type: department
+  latitude: '13.44706340'
+  longitude: "-88.55653100"

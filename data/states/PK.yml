@@ -1,0 +1,73 @@
+---
+- id: 3172
+  name: Azad Kashmir
+  country_id: 167
+  country_code: PK
+  country_name: Pakistan
+  state_code: JK
+  type: administered area
+  latitude: '33.92590550'
+  longitude: '73.78103340'
+- id: 3174
+  name: Balochistan
+  country_id: 167
+  country_code: PK
+  country_name: Pakistan
+  state_code: BA
+  type: province
+  latitude: '28.49073320'
+  longitude: '65.09577920'
+- id: 3173
+  name: Federally Administered Tribal Areas
+  country_id: 167
+  country_code: PK
+  country_name: Pakistan
+  state_code: TA
+  type: administered area
+  latitude: '32.66747600'
+  longitude: '69.85974060'
+- id: 3170
+  name: Gilgit-Baltistan
+  country_id: 167
+  country_code: PK
+  country_name: Pakistan
+  state_code: GB
+  type: administered area
+  latitude: '35.80256670'
+  longitude: '74.98318080'
+- id: 3169
+  name: Islamabad
+  country_id: 167
+  country_code: PK
+  country_name: Pakistan
+  state_code: IS
+  type: federal capital territory
+  latitude: '33.72049970'
+  longitude: '73.04052770'
+- id: 3171
+  name: Khyber Pakhtunkhwa
+  country_id: 167
+  country_code: PK
+  country_name: Pakistan
+  state_code: KP
+  type: province
+  latitude: '34.95262050'
+  longitude: '72.33111300'
+- id: 3176
+  name: Punjab
+  country_id: 167
+  country_code: PK
+  country_name: Pakistan
+  state_code: PB
+  type: province
+  latitude: '31.14713050'
+  longitude: '75.34121790'
+- id: 3175
+  name: Sindh
+  country_id: 167
+  country_code: PK
+  country_name: Pakistan
+  state_code: SD
+  type: province
+  latitude: '25.89430180'
+  longitude: '68.52471490'

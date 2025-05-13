@@ -1,0 +1,265 @@
+---
+- id: 52397
+  name: San Antonio de Palé
+  state_id: 3444
+  state_code: AN
+  state_name: Annobón
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: "-1.40680000"
+  longitude: '5.63178000'
+  wikiDataId: Q1001897
+- id: 52387
+  name: Malabo
+  state_id: 3446
+  state_code: BN
+  state_name: Bioko Norte
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '3.75578000'
+  longitude: '8.78166000'
+  wikiDataId: Q3818
+- id: 52395
+  name: Rebola
+  state_id: 3446
+  state_code: BN
+  state_name: Bioko Norte
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '3.71667000'
+  longitude: '8.83333000'
+  wikiDataId: Q2720928
+- id: 52398
+  name: Santiago de Baney
+  state_id: 3446
+  state_code: BN
+  state_name: Bioko Norte
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '3.69920000'
+  longitude: '8.90840000'
+  wikiDataId: Q962164
+- id: 52385
+  name: Luba
+  state_id: 3443
+  state_code: BS
+  state_name: Bioko Sur
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '3.45683000'
+  longitude: '8.55465000'
+  wikiDataId: Q985548
+- id: 52376
+  name: Acurenam
+  state_id: 3445
+  state_code: CS
+  state_name: Centro Sur
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.03225000'
+  longitude: '10.64882000'
+  wikiDataId: Q2249718
+- id: 52380
+  name: Bicurga
+  state_id: 3445
+  state_code: CS
+  state_name: Centro Sur
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.58113000'
+  longitude: '10.46716000'
+  wikiDataId: Q3639735
+- id: 52384
+  name: Evinayong
+  state_id: 3445
+  state_code: CS
+  state_name: Centro Sur
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.43677000'
+  longitude: '10.55124000'
+  wikiDataId: Q1988320
+- id: 52383
+  name: Ebebiyin
+  state_id: 3439
+  state_code: KN
+  state_name: Kié-Ntem
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '2.15106000'
+  longitude: '11.33528000'
+  wikiDataId: Q911358
+- id: 52390
+  name: Mikomeseng
+  state_id: 3439
+  state_code: KN
+  state_name: Kié-Ntem
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '2.13609000'
+  longitude: '10.61322000'
+  wikiDataId: Q2720623
+- id: 52392
+  name: Ncue
+  state_id: 3439
+  state_code: KN
+  state_name: Kié-Ntem
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '2.01643000'
+  longitude: '10.47066000'
+  wikiDataId: Q3874055
+- id: 52393
+  name: Nsang
+  state_id: 3439
+  state_code: KN
+  state_name: Kié-Ntem
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '2.02475000'
+  longitude: '10.94599000'
+  wikiDataId: Q3879165
+- id: 52379
+  name: Bata
+  state_id: 3441
+  state_code: LI
+  state_name: Litoral
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.86391000'
+  longitude: '9.76582000'
+  wikiDataId: Q320792
+- id: 52381
+  name: Bitica
+  state_id: 3441
+  state_code: LI
+  state_name: Litoral
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.42610000'
+  longitude: '9.62316000'
+  wikiDataId: Q3640495
+- id: 52382
+  name: Cogo
+  state_id: 3441
+  state_code: LI
+  state_name: Litoral
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.08425000'
+  longitude: '9.69300000'
+  wikiDataId: Q2549060
+- id: 52386
+  name: Machinda
+  state_id: 3441
+  state_code: LI
+  state_name: Litoral
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.88262000'
+  longitude: '9.95133000'
+  wikiDataId: Q924793
+- id: 52388
+  name: Mbini
+  state_id: 3441
+  state_code: LI
+  state_name: Litoral
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.58267000'
+  longitude: '9.61478000'
+  wikiDataId: Q980895
+- id: 52396
+  name: Río Campo
+  state_id: 3441
+  state_code: LI
+  state_name: Litoral
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '2.33812000'
+  longitude: '9.82212000'
+  wikiDataId: Q15273982
+- id: 52375
+  name: Aconibe
+  state_id: 3440
+  state_code: WN
+  state_name: Wele-Nzas
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.29683000'
+  longitude: '10.93691000'
+  wikiDataId: Q2549481
+- id: 52378
+  name: Añisoc
+  state_id: 3440
+  state_code: WN
+  state_name: Wele-Nzas
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.86580000'
+  longitude: '10.76892000'
+  wikiDataId: Q2720938
+- id: 52377
+  name: Ayene
+  state_id: 3440
+  state_code: WN
+  state_name: Wele-Nzas
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.85592000'
+  longitude: '10.68994000'
+  wikiDataId: Q1647475
+- id: 52389
+  name: Mengomeyén
+  state_id: 3440
+  state_code: WN
+  state_name: Wele-Nzas
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.69439000'
+  longitude: '11.03422000'
+  wikiDataId: Q980895
+- id: 52391
+  name: Mongomo
+  state_id: 3440
+  state_code: WN
+  state_name: Wele-Nzas
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.62742000'
+  longitude: '11.31346000'
+  wikiDataId: Q526539
+- id: 52394
+  name: Nsok
+  state_id: 3440
+  state_code: WN
+  state_name: Wele-Nzas
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  latitude: '1.12985000'
+  longitude: '11.26603000'
+  wikiDataId: Q2604881

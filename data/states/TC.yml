@@ -1,0 +1,55 @@
+---
+- id: 5367
+  name: Grand Turk
+  country_id: 227
+  country_code: TC
+  country_name: Turks and Caicos Islands
+  state_code: '05'
+  type: district
+  latitude: '21.46808660'
+  longitude: "-71.18102580"
+- id: 5365
+  name: Middle Caicos
+  country_id: 227
+  country_code: TC
+  country_name: Turks and Caicos Islands
+  state_code: '03'
+  type: district
+  latitude: '21.77850560'
+  longitude: "-71.93797700"
+- id: 5364
+  name: North Caicos
+  country_id: 227
+  country_code: TC
+  country_name: Turks and Caicos Islands
+  state_code: '02'
+  type: district
+  latitude: '21.87591620'
+  longitude: "-72.03820280"
+- id: 5363
+  name: Providenciales
+  country_id: 227
+  country_code: TC
+  country_name: Turks and Caicos Islands
+  state_code: '01'
+  type: district
+  latitude: '21.80156180'
+  longitude: "-72.40832920"
+- id: 5368
+  name: Salt Cay
+  country_id: 227
+  country_code: TC
+  country_name: Turks and Caicos Islands
+  state_code: '06'
+  type: district
+  latitude: '21.32425360'
+  longitude: "-71.22076060"
+- id: 5366
+  name: South Caicos
+  country_id: 227
+  country_code: TC
+  country_name: Turks and Caicos Islands
+  state_code: '04'
+  type: district
+  latitude: '21.53024870'
+  longitude: "-71.56044860"

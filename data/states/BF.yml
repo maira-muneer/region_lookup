@@ -1,0 +1,523 @@
+---
+- id: 3160
+  name: Balé
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: BAL
+  type: province
+  latitude: '11.78206020'
+  longitude: "-3.01757120"
+- id: 3155
+  name: Bam
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: BAM
+  type: province
+  latitude: '13.44613300'
+  longitude: "-1.59839590"
+- id: 3120
+  name: Banwa
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: BAN
+  type: province
+  latitude: '12.13230530'
+  longitude: "-4.15137640"
+- id: 3152
+  name: Bazèga
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: BAZ
+  type: province
+  latitude: '11.97676920'
+  longitude: "-1.44346900"
+- id: 3138
+  name: Boucle du Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: '01'
+  type: region
+  latitude: '12.41660000'
+  longitude: "-3.41955270"
+- id: 3121
+  name: Bougouriba
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: BGR
+  type: province
+  latitude: '10.87226460'
+  longitude: "-3.33889170"
+- id: 3131
+  name: Boulgou
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: BLG
+  type: province
+  latitude: '11.43367660'
+  longitude: "-0.37483540"
+- id: 5343
+  name: Boulkiemde
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: BLK
+  type: province
+  latitude: '12.32244190'
+  longitude: "-2.47380520"
+- id: 3153
+  name: Cascades
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: '02'
+  type: region
+  latitude: '10.40729920'
+  longitude: "-4.56244260"
+- id: 3136
+  name: Centre
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: '03'
+  type: region
+  latitude:
+  longitude:
+- id: 3162
+  name: Centre-Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: '04'
+  type: region
+  latitude: '11.52476740'
+  longitude: "-0.14949880"
+- id: 3127
+  name: Centre-Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: '05'
+  type: region
+  latitude: '13.17244640'
+  longitude: "-0.90566230"
+- id: 3115
+  name: Centre-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: '06'
+  type: region
+  latitude: '11.87984660'
+  longitude: "-2.30244600"
+- id: 3149
+  name: Centre-Sud
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: '07'
+  type: region
+  latitude: '11.52289110'
+  longitude: "-1.05861350"
+- id: 3167
+  name: Comoé
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: COM
+  type: province
+  latitude: '10.40729920'
+  longitude: "-4.56244260"
+- id: 3158
+  name: Est
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: '08'
+  type: region
+  latitude: '12.43655260'
+  longitude: '0.90566230'
+- id: 3148
+  name: Ganzourgou
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: GAN
+  type: province
+  latitude: '12.25376480'
+  longitude: "-0.75328090"
+- id: 3122
+  name: Gnagna
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: GNA
+  type: province
+  latitude: '12.89749920'
+  longitude: '0.07467670'
+- id: 3143
+  name: Gourma
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: GOU
+  type: province
+  latitude: '12.16244730'
+  longitude: '0.67730460'
+- id: 3165
+  name: Hauts-Bassins
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: '09'
+  type: region
+  latitude: '11.49420030'
+  longitude: "-4.23333550"
+- id: 3129
+  name: Houet
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: HOU
+  type: province
+  latitude: '11.13204470'
+  longitude: "-4.23333550"
+- id: 3135
+  name: Ioba
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: IOB
+  type: province
+  latitude: '11.05620340'
+  longitude: "-3.01757120"
+- id: 3168
+  name: Kadiogo
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: KAD
+  type: province
+  latitude: '12.34258970'
+  longitude: "-1.44346900"
+- id: 3112
+  name: Kénédougou
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: KEN
+  type: province
+  latitude: '11.39193950'
+  longitude: "-4.97665400"
+- id: 3132
+  name: Komondjari
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: KMD
+  type: province
+  latitude: '12.71265270'
+  longitude: '0.67730460'
+- id: 3157
+  name: Kompienga
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: KMP
+  type: province
+  latitude: '11.52383620'
+  longitude: '0.75328090'
+- id: 3146
+  name: Kossi
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: KOS
+  type: province
+  latitude: '12.96045800'
+  longitude: "-3.90626880"
+- id: 3133
+  name: Koulpélogo
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: KOP
+  type: province
+  latitude: '11.52476740'
+  longitude: '0.14949880'
+- id: 3161
+  name: Kouritenga
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: KOT
+  type: province
+  latitude: '12.16318130'
+  longitude: "-0.22446620"
+- id: 3147
+  name: Kourwéogo
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: KOW
+  type: province
+  latitude: '12.70774950'
+  longitude: "-1.75388170"
+- id: 3159
+  name: Léraba
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: LER
+  type: province
+  latitude: '10.66487850'
+  longitude: "-5.31025050"
+- id: 3151
+  name: Loroum
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: LOR
+  type: province
+  latitude: '13.81298140'
+  longitude: "-2.06651970"
+- id: 3123
+  name: Mouhoun
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: MOU
+  type: province
+  latitude: '12.14323810'
+  longitude: "-3.33889170"
+- id: 3116
+  name: Nahouri
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: NAO
+  type: province
+  latitude: '11.25022670'
+  longitude: "-1.13530200"
+- id: 3113
+  name: Namentenga
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: NAM
+  type: province
+  latitude: '13.08125840'
+  longitude: "-0.52578230"
+- id: 3142
+  name: Nayala
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: NAY
+  type: province
+  latitude: '12.69645580'
+  longitude: "-3.01757120"
+- id: 3164
+  name: Nord
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: '10'
+  type: region
+  latitude: '13.71825200'
+  longitude: "-2.30244600"
+- id: 3156
+  name: Noumbiel
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: NOU
+  type: province
+  latitude: '9.84409460'
+  longitude: "-2.97755580"
+- id: 3141
+  name: Oubritenga
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: OUB
+  type: province
+  latitude: '12.70960870'
+  longitude: "-1.44346900"
+- id: 3144
+  name: Oudalan
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: OUD
+  type: province
+  latitude: '14.47190200'
+  longitude: "-0.45023680"
+- id: 3117
+  name: Passoré
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: PAS
+  type: province
+  latitude: '12.88812210'
+  longitude: "-2.22366670"
+- id: 3125
+  name: Plateau-Central
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: '11'
+  type: region
+  latitude: '12.25376480'
+  longitude: "-0.75328090"
+- id: 3163
+  name: Poni
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: PON
+  type: province
+  latitude: '10.33259960'
+  longitude: "-3.33889170"
+- id: 3114
+  name: Sahel
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: '12'
+  type: region
+  latitude: '14.10008650'
+  longitude: "-0.14949880"
+- id: 3154
+  name: Sanguié
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: SNG
+  type: province
+  latitude: '12.15018610'
+  longitude: "-2.69838680"
+- id: 3126
+  name: Sanmatenga
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: SMT
+  type: province
+  latitude: '13.35653040'
+  longitude: "-1.05861350"
+- id: 3139
+  name: Séno
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: SEN
+  type: province
+  latitude: '14.00722340'
+  longitude: "-0.07467670"
+- id: 3119
+  name: Sissili
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: SIS
+  type: province
+  latitude: '11.24412190'
+  longitude: "-2.22366670"
+- id: 3166
+  name: Soum
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: SOM
+  type: province
+  latitude: '14.09628410'
+  longitude: "-1.36621600"
+- id: 3137
+  name: Sourou
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: SOR
+  type: province
+  latitude: '13.34180300'
+  longitude: "-2.93757390"
+- id: 3140
+  name: Sud-Ouest
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: '13'
+  type: region
+  latitude: '10.42314930'
+  longitude: "-3.25836260"
+- id: 3128
+  name: Tapoa
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: TAP
+  type: province
+  latitude: '12.24970720'
+  longitude: '1.67606910'
+- id: 3134
+  name: Tuy
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: TUI
+  type: province
+  latitude: '38.88868400'
+  longitude: "-77.00471900"
+- id: 3124
+  name: Yagha
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: YAG
+  type: province
+  latitude: '13.35761570'
+  longitude: '0.75328090'
+- id: 3150
+  name: Yatenga
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: YAT
+  type: province
+  latitude: '13.62493440'
+  longitude: "-2.38136210"
+- id: 3145
+  name: Ziro
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: ZIR
+  type: province
+  latitude: '11.60949950'
+  longitude: "-1.90992380"
+- id: 3130
+  name: Zondoma
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: ZON
+  type: province
+  latitude: '13.11659260'
+  longitude: "-2.42087130"
+- id: 3118
+  name: Zoundwéogo
+  country_id: 35
+  country_code: BF
+  country_name: Burkina Faso
+  state_code: ZOU
+  type: province
+  latitude: '11.61411740'
+  longitude: "-0.98206680"

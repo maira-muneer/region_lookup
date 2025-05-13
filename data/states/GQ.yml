@@ -1,0 +1,82 @@
+---
+- id: 3444
+  name: Annobón
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  state_code: AN
+  type: province
+  latitude: "-1.42687820"
+  longitude: '5.63528010'
+- id: 3446
+  name: Bioko Norte
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  state_code: BN
+  type: province
+  latitude: '3.65950720'
+  longitude: '8.79218360'
+- id: 3443
+  name: Bioko Sur
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  state_code: BS
+  type: province
+  latitude: '3.42097850'
+  longitude: '8.61606740'
+- id: 3445
+  name: Centro Sur
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  state_code: CS
+  type: province
+  latitude: '1.34360840'
+  longitude: '10.43965600'
+- id: 3442
+  name: Insular
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  state_code: I
+  type: region
+  latitude: '37.09024000'
+  longitude: "-95.71289100"
+- id: 3439
+  name: Kié-Ntem
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  state_code: KN
+  type: province
+  latitude: '2.02809300'
+  longitude: '11.07117580'
+- id: 3441
+  name: Litoral
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  state_code: LI
+  type: province
+  latitude: '1.57502440'
+  longitude: '9.81249350'
+- id: 3438
+  name: Río Muni
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  state_code: C
+  type: region
+  latitude: '1.46106060'
+  longitude: '9.67868940'
+- id: 3440
+  name: Wele-Nzas
+  country_id: 67
+  country_code: GQ
+  country_name: Equatorial Guinea
+  state_code: WN
+  type: province
+  latitude: '1.41661620'
+  longitude: '11.07117580'

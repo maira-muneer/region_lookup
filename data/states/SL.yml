@@ -1,0 +1,37 @@
+---
+- id: 914
+  name: Eastern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  state_code: E
+  type: province
+  latitude:
+  longitude:
+- id: 911
+  name: Northern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  state_code: "N"
+  type: province
+  latitude:
+  longitude:
+- id: 912
+  name: Southern
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  state_code: S
+  type: province
+  latitude:
+  longitude:
+- id: 913
+  name: Western
+  country_id: 198
+  country_code: SL
+  country_name: Sierra Leone
+  state_code: W
+  type: area
+  latitude: '40.25459690'
+  longitude: "-80.24554440"

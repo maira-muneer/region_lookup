@@ -1,0 +1,163 @@
+---
+- id: 885
+  name: Al Jazirah
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: GZ
+  type: state
+  latitude: '14.88596110'
+  longitude: '33.43835300'
+- id: 886
+  name: Al Qadarif
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: GD
+  type: state
+  latitude: '14.02430700'
+  longitude: '35.36856790'
+- id: 887
+  name: Blue Nile
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: NB
+  type: state
+  latitude: '47.59867300'
+  longitude: "-122.33441900"
+- id: 896
+  name: Central Darfur
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: DC
+  type: state
+  latitude: '14.37827470'
+  longitude: '24.90422080'
+- id: 892
+  name: East Darfur
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: DE
+  type: state
+  latitude: '14.37827470'
+  longitude: '24.90422080'
+- id: 884
+  name: Kassala
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: KA
+  type: state
+  latitude: '15.45813320'
+  longitude: '36.40396290'
+- id: 881
+  name: Khartoum
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: KH
+  type: state
+  latitude: '15.50065440'
+  longitude: '32.55989940'
+- id: 890
+  name: North Darfur
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: DN
+  type: state
+  latitude: '15.76619690'
+  longitude: '24.90422080'
+- id: 893
+  name: North Kordofan
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: KN
+  type: state
+  latitude: '13.83064410'
+  longitude: '29.41793240'
+- id: 895
+  name: Northern
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: 'NO'
+  type: state
+  latitude: '38.06381700'
+  longitude: "-84.46286480"
+- id: 880
+  name: Red Sea
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: RS
+  type: state
+  latitude: '20.28023200'
+  longitude: '38.51257300'
+- id: 891
+  name: River Nile
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: NR
+  type: state
+  latitude: '23.97275950'
+  longitude: '32.87492060'
+- id: 882
+  name: Sennar
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: SI
+  type: state
+  latitude: '13.56746900'
+  longitude: '33.56720450'
+- id: 894
+  name: South Darfur
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: DS
+  type: state
+  latitude: '11.64886390'
+  longitude: '24.90422080'
+- id: 883
+  name: South Kordofan
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: KS
+  type: state
+  latitude: '11.19901920'
+  longitude: '29.41793240'
+- id: 888
+  name: West Darfur
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: DW
+  type: state
+  latitude: '12.84635610'
+  longitude: '23.00119890'
+- id: 889
+  name: West Kordofan
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: GK
+  type: state
+  latitude: '11.19901920'
+  longitude: '29.41793240'
+- id: 879
+  name: White Nile
+  country_id: 209
+  country_code: SD
+  country_name: Sudan
+  state_code: NW
+  type: state
+  latitude: '9.33215160'
+  longitude: '31.46153000'

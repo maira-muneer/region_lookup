@@ -1,0 +1,298 @@
+---
+- id: 153484
+  name: Admiralty
+  state_id: 4889
+  state_code: HCW
+  state_name: Central and Western
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.27800000'
+  longitude: '114.16400000'
+  wikiDataId: Q485380
+- id: 153483
+  name: Central
+  state_id: 4889
+  state_code: HCW
+  state_name: Central and Western
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.28100000'
+  longitude: '114.15900000'
+  wikiDataId: Q562441
+- id: 153508
+  name: Tai O
+  state_id: 4888
+  state_code: NIS
+  state_name: Islands
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.24700000'
+  longitude: '113.86900000'
+  wikiDataId: Q321022
+- id: 153500
+  name: Kowloon Tong
+  state_id: 4895
+  state_code: KKC
+  state_name: Kowloon City
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.33700000'
+  longitude: '114.17900000'
+  wikiDataId: Q193903
+- id: 153505
+  name: Kwun Tong
+  state_id: 4897
+  state_code: KKT
+  state_name: Kwun Tong
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.31000000'
+  longitude: '114.22500000'
+  wikiDataId: Q205927
+- id: 153504
+  name: Lam Tin
+  state_id: 4897
+  state_code: KKT
+  state_name: Kwun Tong
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.30700000'
+  longitude: '114.23500000'
+  wikiDataId: Q1496131
+- id: 153497
+  name: Sheung Shui
+  state_id: 4900
+  state_code: NNO
+  state_name: North
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.50100000'
+  longitude: '114.12300000'
+  wikiDataId: Q194166
+- id: 153493
+  name: Sai Kung
+  state_id: 4887
+  state_code: NSK
+  state_name: Sai Kung
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.38400000'
+  longitude: '114.27300000'
+  wikiDataId: Q206377
+- id: 153498
+  name: Tseung Kwan O
+  state_id: 4887
+  state_code: NSK
+  state_name: Sai Kung
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.31900000'
+  longitude: '114.26300000'
+  wikiDataId: Q205802
+- id: 153494
+  name: Ma On Shan
+  state_id: 4901
+  state_code: NST
+  state_name: Sha Tin
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.42200000'
+  longitude: '114.23000000'
+  wikiDataId: Q193904
+- id: 153489
+  name: Sha Tin
+  state_id: 4901
+  state_code: NST
+  state_name: Sha Tin
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.38300000'
+  longitude: '114.18800000'
+  wikiDataId: Q194161
+- id: 153499
+  name: Sha Tin Wai
+  state_id: 4901
+  state_code: NST
+  state_name: Sha Tin
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.38000000'
+  longitude: '114.19100000'
+  wikiDataId: Q1496060
+- id: 153501
+  name: Cheung Sha Wan
+  state_id: 4894
+  state_code: KSS
+  state_name: Sham Shui Po
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.33600000'
+  longitude: '114.15100000'
+  wikiDataId: Q486324
+- id: 153502
+  name: Lai Chi Kok
+  state_id: 4894
+  state_code: KSS
+  state_name: Sham Shui Po
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.33700000'
+  longitude: '114.14600000'
+  wikiDataId: Q486325
+- id: 153506
+  name: Aberdeen
+  state_id: 4892
+  state_code: HSO
+  state_name: Southern
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.24700000'
+  longitude: '114.15200000'
+  wikiDataId: Q49116
+- id: 153496
+  name: Stanley
+  state_id: 4892
+  state_code: HSO
+  state_name: Southern
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.22000000'
+  longitude: '114.21400000'
+  wikiDataId: Q199028
+- id: 153507
+  name: Stanley Peninsula
+  state_id: 4892
+  state_code: HSO
+  state_name: Southern
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.21000000'
+  longitude: '114.21700000'
+  wikiDataId: Q1133959
+- id: 153509
+  name: Tai Mei Tuk
+  state_id: 4885
+  state_code: NTP
+  state_name: Tai Po
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.45700000'
+  longitude: '114.18400000'
+  wikiDataId: Q2154029
+- id: 153495
+  name: Tai Po
+  state_id: 4885
+  state_code: NTP
+  state_name: Tai Po
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.44900000'
+  longitude: '114.16000000'
+  wikiDataId: Q193906
+- id: 153490
+  name: Tsuen Wan
+  state_id: 4884
+  state_code: NTW
+  state_name: Tsuen Wan
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.37100000'
+  longitude: '114.11400000'
+  wikiDataId: Q206451
+- id: 153491
+  name: "Tuen Mun\t"
+  state_id: 4884
+  state_code: NTW
+  state_name: Tsuen Wan
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.39500000'
+  longitude: '113.97300000'
+  wikiDataId: Q193918
+- id: 153486
+  name: Causeway Bay
+  state_id: 4890
+  state_code: HWC
+  state_name: Wan Chai
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.28000000'
+  longitude: '114.18500000'
+  wikiDataId: Q192682
+- id: 153485
+  name: Wan Chai
+  state_id: 4890
+  state_code: HWC
+  state_name: Wan Chai
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.27800000'
+  longitude: '114.18200000'
+  wikiDataId: Q5921
+- id: 153503
+  name: Wong Tai Sin
+  state_id: 4896
+  state_code: KWT
+  state_name: Wong Tai Sin
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.34100000'
+  longitude: '114.19300000'
+  wikiDataId: Q193910
+- id: 153488
+  name: Mong Kok
+  state_id: 4893
+  state_code: KYT
+  state_name: Yau Tsim Mong
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.31900000'
+  longitude: '114.16900000'
+  wikiDataId: Q85764
+- id: 153487
+  name: Tsim Sha Tsui
+  state_id: 4893
+  state_code: KYT
+  state_name: Yau Tsim Mong
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.29800000'
+  longitude: '114.17200000'
+  wikiDataId: Q747942
+- id: 153492
+  name: Yuen Long
+  state_id: 4883
+  state_code: NYL
+  state_name: Yuen Long
+  country_id: 98
+  country_code: HK
+  country_name: Hong Kong S.A.R.
+  latitude: '22.44400000'
+  longitude: '114.02700000'
+  wikiDataId: Q222122

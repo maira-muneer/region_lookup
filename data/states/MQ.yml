@@ -1,0 +1,37 @@
+---
+- id: 5398
+  name: Fort-de-France
+  country_id: 138
+  country_code: MQ
+  country_name: Martinique
+  state_code: '01'
+  type: district
+  latitude: '14.64349950'
+  longitude: "-61.11431890"
+- id: 5399
+  name: La Trinité
+  country_id: 138
+  country_code: MQ
+  country_name: Martinique
+  state_code: '02'
+  type: district
+  latitude: '14.75519490'
+  longitude: "-61.20281970"
+- id: 5400
+  name: Le Marin
+  country_id: 138
+  country_code: MQ
+  country_name: Martinique
+  state_code: '03'
+  type: district
+  latitude: '14.52205810'
+  longitude: "-61.12011970"
+- id: 5401
+  name: Saint-Pierre
+  country_id: 138
+  country_code: MQ
+  country_name: Martinique
+  state_code: '04'
+  type: district
+  latitude: '14.74505200'
+  longitude: "-61.23631840"

@@ -1,0 +1,154 @@
+---
+- id: 1259
+  name: Bamingui-Bangoran
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: BB
+  type: prefecture
+  latitude: '8.27334550'
+  longitude: '20.71224650'
+- id: 1262
+  name: Bangui
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: BGF
+  type: commune
+  latitude: '4.39467350'
+  longitude: '18.55818990'
+- id: 1264
+  name: Basse-Kotto
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: BK
+  type: prefecture
+  latitude: '4.87193190'
+  longitude: '21.28450250'
+- id: 1258
+  name: Haut-Mbomou
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: HM
+  type: prefecture
+  latitude: '6.25371340'
+  longitude: '25.47335540'
+- id: 1268
+  name: Haute-Kotto
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: HK
+  type: prefecture
+  latitude: '7.79643790'
+  longitude: '23.38235450'
+- id: 1263
+  name: Kémo
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: KG
+  type: prefecture
+  latitude: '5.88677940'
+  longitude: '19.37832060'
+- id: 1256
+  name: Lobaye
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: LB
+  type: prefecture
+  latitude: '4.35259810'
+  longitude: '17.47951730'
+- id: 1257
+  name: Mambéré-Kadéï
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: HS
+  type: prefecture
+  latitude: '4.70556530'
+  longitude: '15.96998780'
+- id: 1266
+  name: Mbomou
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: MB
+  type: prefecture
+  latitude: '5.55683700'
+  longitude: '23.76328280'
+- id: 1253
+  name: Nana-Grébizi
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: KB
+  type: economic prefecture
+  latitude: '7.18486070'
+  longitude: '19.37832060'
+- id: 1260
+  name: Nana-Mambéré
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: NM
+  type: prefecture
+  latitude: '5.69321350'
+  longitude: '15.21948080'
+- id: 1255
+  name: Ombella-M'Poko
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: MP
+  type: prefecture
+  latitude: '5.11888250'
+  longitude: '18.42760470'
+- id: 1265
+  name: Ouaka
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: UK
+  type: prefecture
+  latitude: '6.31682160'
+  longitude: '20.71224650'
+- id: 1254
+  name: Ouham
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: AC
+  type: prefecture
+  latitude: '7.09091100'
+  longitude: '17.66888700'
+- id: 1267
+  name: Ouham-Pendé
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: OP
+  type: prefecture
+  latitude: '6.48509840'
+  longitude: '16.15809370'
+- id: 1252
+  name: Sangha-Mbaéré
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: SE
+  type: prefecture
+  latitude: '3.43686070'
+  longitude: '16.34637910'
+- id: 1261
+  name: Vakaga
+  country_id: 42
+  country_code: CF
+  country_name: Central African Republic
+  state_code: VK
+  type: prefecture
+  latitude: '9.51132960'
+  longitude: '22.23840170'
