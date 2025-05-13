@@ -25,6 +25,6 @@ module GeoData
   end
 
   def self.get_city(country_code, city_name)
-    cities(country_code).find{ |city| city.name == city_name }
+    cities(country_code).find{ |city| city['name'] == city_name }
   end
 end
