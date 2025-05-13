@@ -5,7 +5,7 @@ module GeoData
     end
 
     def self.states(country_code)
-      Loader.states[country_code.to_sym]
+      Loader.states(country_code)
     end
 
     def self.cities(country_code)
