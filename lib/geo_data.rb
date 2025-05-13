@@ -14,17 +14,21 @@ module GeoData
 
   def self.states(country_code)
     Query.states(country_code)
+  rescue => e
   end
 
   def self.cities(country_code)
     Query.cities(country_code)
+  rescue => e
   end
 
   def self.cities_based_on_state_name(country_code, state_name)
     Query.cities_based_on_state_name(country_code, state_name)
+  rescue => e
   end
 
   def self.get_city(country_code, city_name)
     cities(country_code).find{ |city| city['name'] == city_name }
+  rescue => e
   end
 end
