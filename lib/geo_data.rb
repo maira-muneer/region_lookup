@@ -31,4 +31,9 @@ module GeoData
     cities(country_code).find{ |city| city['name'] == city_name }
   rescue => e
   end
+
+  def self.get_country(country_code)
+    countries.find{ |country| country['iso2'] == country_code }
+  rescue => e
+  end
 end
