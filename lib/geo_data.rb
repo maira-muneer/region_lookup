@@ -9,7 +9,7 @@ module GeoData
   class Error < StandardError; end
   
   def self.countries
-    @countries ||= Query.countries["country"]
+    Query.countries
   end
 
   def self.states(country_code)
