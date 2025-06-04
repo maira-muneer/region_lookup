@@ -1,14 +1,16 @@
 # frozen_string_literal: true
 
-require_relative "lib/geo_data/version"
+require_relative "lib/geo_lookup/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "geo_data"
-  spec.version = GeoData::VERSION
+  spec.name = "geo_lookup"
+  spec.version = GeoLookup::VERSION
   spec.authors = ["Maira Muneer"]
-  spec.email = ["maira.muneer39@gmail.com"]
+  spec.email = ["maira.muneer@itnoadevs.com"]
 
   spec.summary = "This gem gives list of all countries along with states and cities."
+  spec.homepage    = "https://github.com/maira-muneer/geo_lookup"
+  spec.license     = "MIT"
   #spec.homepage = "TODO: Put your gem's website or public repo URL here."
   spec.required_ruby_version = ">= 3.1.0"
 
@@ -17,11 +19,14 @@ Gem::Specification.new do |spec|
   # spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
 
 
-  spec.files = Dir.glob("lib/**/*.rb") + Dir.glob("data/**/*") + ["geo_data.gemspec", "README.md"]
+  spec.files = Dir.glob("lib/**/*.rb") + Dir.glob("data/**/*") + ["geo_lookup.gemspec", "README.md"]
 
   spec.bindir = "exe"
   spec.executables = spec.files.grep(%r{\Aexe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
+
+  spec.metadata["homepage_uri"] = spec.homepage
+  spec.metadata["source_code_uri"] = spec.homepage
 
   # Uncomment to register a new dependency of your gem
   # spec.add_dependency "example-gem", "~> 1.0"

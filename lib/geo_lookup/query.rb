@@ -1,4 +1,4 @@
-module GeoData
+module GeoLookup
   module Query
     def self.countries
       Loader.countries

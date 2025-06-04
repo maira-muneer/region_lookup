@@ -1,6 +1,6 @@
-# GeoData
+# GeoLookup
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/geo_data`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/geo_lookup`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
 
@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'geo_data'
+gem 'geo_lookup'
 ```
 
 And then execute:
@@ -18,29 +18,29 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install geo_data
+    $ gem install geo_lookup
 
 ## Usage
 
 To get list of all countries 
 ```ruby
-GeoData.countries
+GeoLookup.countries
 ```
 
 To get list of cities of specific country 
 ```ruby
-GeoData.cities("PK")
+GeoLookup.cities("PK")
 ```
 
 
 To get list of states of specific country 
 ```ruby
-GeoData.states("PK")
+GeoLookup.states("PK")
 ```
 
 To get list of cities of specific state 
 ```ruby
-GeoData.states("PK", "Azad Kashmir")
+GeoLookup.states("PK", "Azad Kashmir")
 ```
 
 ## Development
@@ -51,8 +51,8 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/geo_data. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/geo_data/blob/main/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/geo_lookup. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/geo_lookup/blob/main/CODE_OF_CONDUCT.md).
 
 ## Code of Conduct
 
-Everyone interacting in the GeoData project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/geo_data/blob/main/CODE_OF_CONDUCT.md).
+Everyone interacting in the GeoLookup project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/geo_lookup/blob/main/CODE_OF_CONDUCT.md).
