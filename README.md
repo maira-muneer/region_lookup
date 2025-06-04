@@ -40,8 +40,14 @@ RegionLookup.states("PK")
 
 To get list of cities of specific state 
 ```ruby
-RegionLookup.states("PK", "Azad Kashmir")
+RegionLookup.cities_based_on_state_name("PK", "Azad Kashmir")
 ```
+
+To get list of cities of specific state 
+```ruby
+RegionLookup.get_city("PK", "Lahore")
+```
+
 
 ## Development
 
@@ -56,3 +62,11 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## Code of Conduct
 
 Everyone interacting in the RegionLookup project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/region_lookup/blob/main/CODE_OF_CONDUCT.md).
+
+
+## 🌍 Data Source Credits
+This gem uses country, state, and city data from:
+
+- [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)
+
+Special thanks to [@dr5hn](https://github.com/dr5hn) for maintaining this comprehensive dataset.

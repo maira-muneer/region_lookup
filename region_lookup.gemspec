@@ -15,6 +15,7 @@ Gem::Specification.new do |spec|
   spec.license     = "MIT"
   #spec.homepage = "TODO: Put your gem's website or public repo URL here."
   spec.required_ruby_version = ">= 3.1.0"
+  spec.description = "Provides region-based data (countries, states, cities) using the open dataset from github.com/dr5hn/countries-states-cities-database."
 
   # spec.metadata["homepage_uri"] = spec.homepage
   # spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
