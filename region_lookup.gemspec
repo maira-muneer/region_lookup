@@ -5,6 +5,8 @@ require_relative "lib/region_lookup/version"
 Gem::Specification.new do |spec|
   spec.name = "region_lookup"
   spec.version = RegionLookup::VERSION
+  puts "Loaded version: #{RegionLookup::VERSION}"
+
   spec.authors = ["Maira Muneer"]
   spec.email = ["maira.muneer@itnoadevs.com"]
 
