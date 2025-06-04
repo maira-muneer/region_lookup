@@ -1,4 +1,4 @@
-module GeoLookup
+module RegionLookup
   module Loader
     DATA_PATH = File.expand_path("../../data", __dir__)
 

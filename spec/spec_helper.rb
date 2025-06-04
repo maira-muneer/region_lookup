@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "geo_lookup"
+require "region_lookup"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

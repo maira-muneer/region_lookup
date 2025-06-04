@@ -1,4 +1,4 @@
-module GeoLookup
+module RegionLookup
   module Query
     def self.countries
       Loader.countries

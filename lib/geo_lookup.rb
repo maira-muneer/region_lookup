@@ -1,11 +1,11 @@
 # frozen_string_literal: true
 require "yaml"
 
-require_relative "geo_lookup/version"
-require_relative "geo_lookup/loader"
-require_relative "geo_lookup/query"
+require_relative "region_lookup/version"
+require_relative "region_lookup/loader"
+require_relative "region_lookup/query"
 
-module GeoLookup
+module RegionLookup
   class Error < StandardError; end
   
   def self.countries

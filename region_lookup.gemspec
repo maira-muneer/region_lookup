@@ -1,15 +1,15 @@
 # frozen_string_literal: true
 
-require_relative "lib/geo_lookup/version"
+require_relative "lib/region_lookup/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "geo_lookup"
-  spec.version = GeoLookup::VERSION
+  spec.name = "region_lookup"
+  spec.version = RegionLookup::VERSION
   spec.authors = ["Maira Muneer"]
   spec.email = ["maira.muneer@itnoadevs.com"]
 
   spec.summary = "This gem gives list of all countries along with states and cities."
-  spec.homepage    = "https://github.com/maira-muneer/geo_lookup"
+  spec.homepage    = "https://github.com/maira-muneer/region_lookup"
   spec.license     = "MIT"
   #spec.homepage = "TODO: Put your gem's website or public repo URL here."
   spec.required_ruby_version = ">= 3.1.0"
@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   # spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
 
 
-  spec.files = Dir.glob("lib/**/*.rb") + Dir.glob("data/**/*") + ["geo_lookup.gemspec", "README.md"]
+  spec.files = Dir.glob("lib/**/*.rb") + Dir.glob("data/**/*") + ["region_lookup.gemspec", "README.md"]
 
   spec.bindir = "exe"
   spec.executables = spec.files.grep(%r{\Aexe/}) { |f| File.basename(f) }
