@@ -1,507 +1,231 @@
 ---
-- id: 104815
-  name: Tayeeglow
-  state_id: 917
+- name: Tayeeglow
   state_code: BK
   state_name: Bakool
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '4.01897000'
   longitude: '44.51111000'
-  wikiDataId: Q3991272
-- id: 104816
-  name: Waajid
-  state_id: 917
+- name: Waajid
   state_code: BK
   state_name: Bakool
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '3.80958000'
   longitude: '43.24627000'
-  wikiDataId: Q2064657
-- id: 104819
-  name: Xuddur
-  state_id: 917
+- name: Xuddur
   state_code: BK
   state_name: Bakool
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '4.12129000'
   longitude: '43.88945000'
-  wikiDataId: Q1017160
-- id: 104820
-  name: Yeed
-  state_id: 917
+- name: Yeed
   state_code: BK
   state_name: Bakool
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '4.55000000'
   longitude: '43.03333000'
-  wikiDataId: Q1017160
-- id: 104810
-  name: Mogadishu
-  state_id: 927
+- name: Mogadishu
   state_code: BN
   state_name: Banaadir
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '2.03711000'
   longitude: '45.34375000'
-  wikiDataId: Q2449
-- id: 104778
-  name: Bandarbeyla
-  state_id: 930
+- name: Bandarbeyla
   state_code: BR
   state_name: Bari
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '9.49420000'
   longitude: '50.81220000'
-  wikiDataId: Q2737490
-- id: 104779
-  name: Bargaal
-  state_id: 930
+- name: Bargaal
   state_code: BR
   state_name: Bari
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '11.28636000'
   longitude: '51.07730000'
-  wikiDataId: Q808131
-- id: 104781
-  name: Bereeda
-  state_id: 930
+- name: Bereeda
   state_code: BR
   state_name: Bari
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '11.87037000'
   longitude: '51.05795000'
-  wikiDataId: Q15873036
-- id: 104782
-  name: Bosaso
-  state_id: 930
+- name: Bosaso
   state_code: BR
   state_name: Bari
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '11.28421000'
   longitude: '49.18158000'
-  wikiDataId: Q331556
-- id: 104788
-  name: Caluula
-  state_id: 930
+- name: Caluula
   state_code: BR
   state_name: Bari
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '11.96611000'
   longitude: '50.75694000'
-  wikiDataId: Q448076
-- id: 104800
-  name: Iskushuban
-  state_id: 930
+- name: Iskushuban
   state_code: BR
   state_name: Bari
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '10.28370000'
   longitude: '50.23000000'
-  wikiDataId: Q1017200
-- id: 104812
-  name: Qandala
-  state_id: 930
+- name: Qandala
   state_code: BR
   state_name: Bari
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '11.47197000'
   longitude: '49.87282000'
-  wikiDataId: Q1668870
-- id: 104777
-  name: Baidoa
-  state_id: 926
+- name: Baidoa
   state_code: BY
   state_name: Bay
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '3.11383000'
   longitude: '43.64980000'
-  wikiDataId: Q506578
-- id: 104786
-  name: Buurhakaba
-  state_id: 926
+- name: Buurhakaba
   state_code: BY
   state_name: Bay
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '2.80257000'
   longitude: '44.07805000'
-  wikiDataId: Q1018270
-- id: 104790
-  name: Ceelbuur
-  state_id: 918
+- name: Ceelbuur
   state_code: GA
   state_name: Galguduud
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '4.68501000'
   longitude: '46.61760000'
-  wikiDataId: Q2737496
-- id: 104791
-  name: Ceeldheer
-  state_id: 918
+- name: Ceeldheer
   state_code: GA
   state_name: Galguduud
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '3.84878000'
   longitude: '47.18064000'
-  wikiDataId: Q1325602
-- id: 104793
-  name: Dhuusamarreeb
-  state_id: 918
+- name: Dhuusamarreeb
   state_code: GA
   state_name: Galguduud
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '5.53597000'
   longitude: '46.38666000'
-  wikiDataId: Q634063
-- id: 104776
-  name: Baardheere
-  state_id: 928
+- name: Baardheere
   state_code: GE
   state_name: Gedo
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '2.34464000'
   longitude: '42.27644000'
-  wikiDataId: Q383218
-- id: 104797
-  name: Garbahaarrey
-  state_id: 928
+- name: Garbahaarrey
   state_code: GE
   state_name: Gedo
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '3.32892000'
   longitude: '42.22091000'
-  wikiDataId: Q1017167
-- id: 104807
-  name: Luuq
-  state_id: 928
+- name: Luuq
   state_code: GE
   state_name: Gedo
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '3.80315000'
   longitude: '42.54417000'
-  wikiDataId: Q1878274
-- id: 104780
-  name: Beledweyne
-  state_id: 915
+- name: Beledweyne
   state_code: HI
   state_name: Hiran
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '4.73583000'
   longitude: '45.20361000'
-  wikiDataId: Q815370
-- id: 104784
-  name: Buulobarde
-  state_id: 915
+- name: Buulobarde
   state_code: HI
   state_name: Hiran
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '3.85375000'
   longitude: '45.56744000'
-  wikiDataId: Q1018265
-- id: 104801
-  name: Jalalaqsi
-  state_id: 915
+- name: Jalalaqsi
   state_code: HI
   state_name: Hiran
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '3.37660000'
   longitude: '45.59960000'
-  wikiDataId: Q694851
-- id: 104785
-  name: Buur Gaabo
-  state_id: 924
+- name: Buur Gaabo
   state_code: JH
   state_name: Lower Juba
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: "-1.21917000"
   longitude: '41.83725000'
-  wikiDataId: Q1018265
-- id: 104802
-  name: Jamaame
-  state_id: 924
+- name: Jamaame
   state_code: JH
   state_name: Lower Juba
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '0.06968000'
   longitude: '42.74497000'
-  wikiDataId: Q1017154
-- id: 104805
-  name: Kismayo
-  state_id: 924
+- name: Kismayo
   state_code: JH
   state_name: Lower Juba
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: "-0.35817000"
   longitude: '42.54536000'
-  wikiDataId: Q270787
-- id: 104775
-  name: Afgooye
-  state_id: 921
+- name: Afgooye
   state_code: SH
   state_name: Lower Shebelle
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '2.13810000'
   longitude: '45.12120000'
-  wikiDataId: Q383218
-- id: 104809
-  name: Marka
-  state_id: 921
+- name: Marka
   state_code: SH
   state_name: Lower Shebelle
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '1.71594000'
   longitude: '44.77166000'
-  wikiDataId: Q657428
-- id: 104813
-  name: Qoryooley
-  state_id: 921
+- name: Qoryooley
   state_code: SH
   state_name: Lower Shebelle
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '1.78784000'
   longitude: '44.52999000'
-  wikiDataId: Q2054709
-- id: 104817
-  name: Wanlaweyn
-  state_id: 921
+- name: Wanlaweyn
   state_code: SH
   state_name: Lower Shebelle
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '2.61850000'
   longitude: '44.89380000'
-  wikiDataId: Q1444410
-- id: 104794
-  name: Dujuuma
-  state_id: 922
+- name: Dujuuma
   state_code: JD
   state_name: Middle Juba
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '1.25311000'
   longitude: '42.57377000'
-  wikiDataId: Q634063
-- id: 104804
-  name: Jilib
-  state_id: 922
+- name: Jilib
   state_code: JD
   state_name: Middle Juba
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '0.48829000'
   longitude: '42.78535000'
-  wikiDataId: Q1509787
-- id: 104814
-  name: Saacow
-  state_id: 922
+- name: Saacow
   state_code: JD
   state_name: Middle Juba
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '1.62794000'
   longitude: '42.44067000'
-  wikiDataId: Q2054709
-- id: 104787
-  name: Cadale
-  state_id: 923
+- name: Cadale
   state_code: SD
   state_name: Middle Shebelle
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '2.76030000'
   longitude: '46.32220000'
-  wikiDataId: Q348107
-- id: 104803
-  name: Jawhar
-  state_id: 923
+- name: Jawhar
   state_code: SD
   state_name: Middle Shebelle
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '2.78087000'
   longitude: '45.50048000'
-  wikiDataId: Q646574
-- id: 104808
-  name: Mahaddayweyne
-  state_id: 923
+- name: Mahaddayweyne
   state_code: SD
   state_name: Middle Shebelle
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '2.97260000'
   longitude: '45.53470000'
-  wikiDataId: Q1878274
-- id: 104796
-  name: Gaalkacyo
-  state_id: 916
+- name: Gaalkacyo
   state_code: MU
   state_name: Mudug
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '6.76972000'
   longitude: '47.43083000'
-  wikiDataId: Q865586
-- id: 104799
-  name: Hobyo
-  state_id: 916
+- name: Hobyo
   state_code: MU
   state_name: Mudug
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '5.35050000'
   longitude: '48.52680000'
-  wikiDataId: Q1016908
-- id: 104818
-  name: Xarardheere
-  state_id: 916
+- name: Xarardheere
   state_code: MU
   state_name: Mudug
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '4.65440000'
   longitude: '47.85750000'
-  wikiDataId: Q598676
-- id: 104795
-  name: Eyl
-  state_id: 920
+- name: Eyl
   state_code: NU
   state_name: Nugal
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '7.98030000'
   longitude: '49.81640000'
-  wikiDataId: Q1019060
-- id: 104798
-  name: Garoowe
-  state_id: 920
+- name: Garoowe
   state_code: NU
   state_name: Nugal
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '8.40207000'
   longitude: '48.48284000'
-  wikiDataId: Q822679
-- id: 104792
-  name: Ceerigaabo
-  state_id: 919
+- name: Ceerigaabo
   state_code: SA
   state_name: Sanaag
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '10.61616000'
   longitude: '47.36795000'
-  wikiDataId: Q1325602
-- id: 104806
-  name: Las Khorey
-  state_id: 919
+- name: Las Khorey
   state_code: SA
   state_name: Sanaag
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '11.15950000'
   longitude: '48.19670000'
-  wikiDataId: Q1017225
-- id: 104783
-  name: Burao
-  state_id: 929
+- name: Burao
   state_code: TO
   state_name: Togdheer
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '9.52213000'
   longitude: '45.53363000'
-  wikiDataId: Q948448
-- id: 104789
-  name: Ceek
-  state_id: 929
+- name: Ceek
   state_code: TO
   state_name: Togdheer
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '8.99907000'
   longitude: '45.35824000'
-  wikiDataId: Q448076
-- id: 104811
-  name: Oodweyne
-  state_id: 929
+- name: Oodweyne
   state_code: TO
   state_name: Togdheer
-  country_id: 203
-  country_code: SO
-  country_name: Somalia
   latitude: '9.40920000'
   longitude: '45.06397000'
-  wikiDataId: Q7095260

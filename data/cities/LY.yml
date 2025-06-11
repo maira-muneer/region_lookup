@@ -1,562 +1,256 @@
 ---
-- id: 66993
-  name: Ajdabiya
-  state_id: 2964
+- name: Ajdabiya
   state_code: WA
   state_name: Al Wahat
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '30.75545000'
   longitude: '20.22625000'
-  wikiDataId: Q202991
-- id: 66997
-  name: Al Burayqah
-  state_id: 2964
+- name: Al Burayqah
   state_code: WA
   state_name: Al Wahat
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '30.40624000'
   longitude: '19.57386000'
-  wikiDataId: Q36219
-- id: 67006
-  name: Awjilah
-  state_id: 2964
+- name: Awjilah
   state_code: WA
   state_name: Al Wahat
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '29.10806000'
   longitude: '21.28694000'
-  wikiDataId: Q137320
-- id: 67007
-  name: Az Zuwaytīnah
-  state_id: 2964
+- name: Az Zuwaytīnah
   state_code: WA
   state_name: Al Wahat
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '30.95220000'
   longitude: '20.12022000'
-  wikiDataId: Q3645598
-- id: 67017
-  name: Gialo
-  state_id: 2964
+- name: Gialo
   state_code: WA
   state_name: Al Wahat
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '29.03333000'
   longitude: '21.55000000'
-  wikiDataId: Q117712
-- id: 67020
-  name: Marādah
-  state_id: 2964
+- name: Marādah
   state_code: WA
   state_name: Al Wahat
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '29.22054000'
   longitude: '19.20454000'
-  wikiDataId: Q3646468
-- id: 67010
-  name: Benghazi
-  state_id: 2981
+- name: Benghazi
   state_code: BA
   state_name: Benghazi
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.11486000'
   longitude: '20.06859000'
-  wikiDataId: Q244230
-- id: 67026
-  name: Qaryat Sulūq
-  state_id: 2981
+- name: Qaryat Sulūq
   state_code: BA
   state_name: Benghazi
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '31.66818000'
   longitude: '20.25205000'
-  wikiDataId: Q36060
-- id: 67003
-  name: Al Qubbah
-  state_id: 2966
+- name: Al Qubbah
   state_code: DR
   state_name: Derna
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.75684000'
   longitude: '22.24106000'
-  wikiDataId: Q2552984
-- id: 67012
-  name: Darnah
-  state_id: 2966
+- name: Darnah
   state_code: DR
   state_name: Derna
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.76704000'
   longitude: '22.63669000'
-  wikiDataId: Q211866
-- id: 67015
-  name: Ghat
-  state_id: 2969
+- name: Ghat
   state_code: GT
   state_name: Ghat
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '24.96334000'
   longitude: '10.18003000'
-  wikiDataId: Q209393
-- id: 66996
-  name: Al Bayḑā’
-  state_id: 2980
+- name: Al Bayḑā’
   state_code: JA
   state_name: Jabal al Akhdar
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.76272000'
   longitude: '21.75506000'
-  wikiDataId: Q35784
-- id: 67014
-  name: Gharyan
-  state_id: 2974
+- name: Gharyan
   state_code: JG
   state_name: Jabal al Gharbi
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.17222000'
   longitude: '13.02028000'
-  wikiDataId: Q867102
-- id: 67016
-  name: Giado
-  state_id: 2974
+- name: Giado
   state_code: JG
   state_name: Jabal al Gharbi
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '31.95506000'
   longitude: '12.02901000'
-  wikiDataId: Q117712
-- id: 67022
-  name: Mizdah
-  state_id: 2974
+- name: Mizdah
   state_code: JG
   state_name: Jabal al Gharbi
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '31.44934000'
   longitude: '12.98530000'
-  wikiDataId: Q3646468
-- id: 67036
-  name: Yafran
-  state_id: 2974
+- name: Yafran
   state_code: JG
   state_name: Jabal al Gharbi
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.06329000'
   longitude: '12.52859000'
-  wikiDataId: Q1018215
-- id: 67039
-  name: Zintan
-  state_id: 2974
+- name: Zintan
   state_code: JG
   state_name: Jabal al Gharbi
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '31.93155000'
   longitude: '12.25291000'
-  wikiDataId: Q221503
-- id: 67004
-  name: Al ‘Azīzīyah
-  state_id: 2979
+- name: Al ‘Azīzīyah
   state_code: JI
   state_name: Jafara
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.53194000'
   longitude: '13.01750000'
-  wikiDataId: Q312307
-- id: 67018
-  name: Hūn
-  state_id: 2970
+- name: Hūn
   state_code: JU
   state_name: Jufra
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '29.12684000'
   longitude: '15.94772000'
-  wikiDataId: Q1991249
-- id: 67035
-  name: Waddān
-  state_id: 2970
+- name: Waddān
   state_code: JU
   state_name: Jufra
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '29.16140000'
   longitude: '16.13904000'
-  wikiDataId: Q679352
-- id: 66999
-  name: Al Jawf
-  state_id: 2972
+- name: Al Jawf
   state_code: KF
   state_name: Kufra
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '24.19890000'
   longitude: '23.29093000'
-  wikiDataId: Q134086
-- id: 67005
-  name: At Tāj
-  state_id: 2972
+- name: At Tāj
   state_code: KF
   state_name: Kufra
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '24.20487000'
   longitude: '23.28570000'
-  wikiDataId: Q5352218
-- id: 66994
-  name: Al Abyār
-  state_id: 2968
+- name: Al Abyār
   state_code: MJ
   state_name: Marj
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.19000000'
   longitude: '20.59653000'
-  wikiDataId: Q1050731
-- id: 67001
-  name: Al Marj
-  state_id: 2968
+- name: Al Marj
   state_code: MJ
   state_name: Marj
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.49257000'
   longitude: '20.82909000'
-  wikiDataId: Q427646
-- id: 67033
-  name: Tūkrah
-  state_id: 2968
+- name: Tūkrah
   state_code: MJ
   state_name: Marj
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.53414000'
   longitude: '20.57911000'
-  wikiDataId: Q1788306
-- id: 67009
-  name: Bani Walid
-  state_id: 2978
+- name: Bani Walid
   state_code: MI
   state_name: Misrata
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '31.74554000'
   longitude: '13.98354000'
-  wikiDataId: Q244230
-- id: 67023
-  name: Mişrātah
-  state_id: 2978
+- name: Mişrātah
   state_code: MI
   state_name: Misrata
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.37535000'
   longitude: '15.09254000'
-  wikiDataId: Q131323
-- id: 67040
-  name: Zliten
-  state_id: 2978
+- name: Zliten
   state_code: MI
   state_name: Misrata
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.46739000'
   longitude: '14.56874000'
-  wikiDataId: Q207259
-- id: 67000
-  name: Al Khums
-  state_id: 2961
+- name: Al Khums
   state_code: MB
   state_name: Murqub
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.64861000'
   longitude: '14.26191000'
-  wikiDataId: Q310381
-- id: 67021
-  name: Masallātah
-  state_id: 2961
+- name: Masallātah
   state_code: MB
   state_name: Murqub
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.61667000'
   longitude: '14.00000000'
-  wikiDataId: Q3646468
-- id: 67031
-  name: Tarhuna
-  state_id: 2961
+- name: Tarhuna
   state_code: MB
   state_name: Murqub
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.43501000'
   longitude: '13.63320000'
-  wikiDataId: Q1642670
-- id: 67002
-  name: Al Qaţrūn
-  state_id: 2967
+- name: Al Qaţrūn
   state_code: MQ
   state_name: Murzuq
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '24.95139000'
   longitude: '14.64861000'
-  wikiDataId: Q285287
-- id: 67024
-  name: Murzuq
-  state_id: 2967
+- name: Murzuq
   state_code: MQ
   state_name: Murzuq
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '25.91552000'
   longitude: '13.91839000'
-  wikiDataId: Q526822
-- id: 67013
-  name: Ghadāmis
-  state_id: 2976
+- name: Ghadāmis
   state_code: NL
   state_name: Nalut
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '30.13366000'
   longitude: '9.50072000'
-  wikiDataId: Q192237
-- id: 67025
-  name: Nālūt
-  state_id: 2976
+- name: Nālūt
   state_code: NL
   state_name: Nalut
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '31.86848000'
   longitude: '10.98120000'
-  wikiDataId: Q526822
-- id: 66995
-  name: Al Ajaylat
-  state_id: 2962
+- name: Al Ajaylat
   state_code: NQ
   state_name: Nuqat al Khams
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.75718000'
   longitude: '12.37633000'
-  wikiDataId: Q1050731
-- id: 67037
-  name: Zalţan
-  state_id: 2962
+- name: Zalţan
   state_code: NQ
   state_name: Nuqat al Khams
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.94699000'
   longitude: '11.86668000'
-  wikiDataId: Q3123958
-- id: 67041
-  name: Zuwārah
-  state_id: 2962
+- name: Zuwārah
   state_code: NQ
   state_name: Nuqat al Khams
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.93120000'
   longitude: '12.08199000'
-  wikiDataId: Q231167
-- id: 66998
-  name: Al Jadīd
-  state_id: 2965
+- name: Al Jadīd
   state_code: SB
   state_name: Sabha
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '27.05000000'
   longitude: '14.40000000'
-  wikiDataId: Q36219
-- id: 67028
-  name: Sabhā
-  state_id: 2965
+- name: Sabhā
   state_code: SB
   state_name: Sabha
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '27.03766000'
   longitude: '14.42832000'
-  wikiDataId: Q208389
-- id: 67027
-  name: Qasr Abu Hadi
-  state_id: 2977
+- name: Qasr Abu Hadi
   state_code: SR
   state_name: Sirte
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '31.05926000'
   longitude: '16.65905000'
-  wikiDataId: Q68301
-- id: 67029
-  name: Sirte
-  state_id: 2977
+- name: Sirte
   state_code: SR
   state_name: Sirte
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '31.20892000'
   longitude: '16.58866000'
-  wikiDataId: Q162413
-- id: 67030
-  name: Tagiura
-  state_id: 2971
+- name: Tagiura
   state_code: TB
   state_name: Tripoli
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.88167000'
   longitude: '13.35056000'
-  wikiDataId: Q2271093
-- id: 67032
-  name: Tripoli
-  state_id: 2971
+- name: Tripoli
   state_code: TB
   state_name: Tripoli
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.88743000'
   longitude: '13.18733000'
-  wikiDataId: Q3579
-- id: 67034
-  name: Ubari
-  state_id: 2973
+- name: Ubari
   state_code: WD
   state_name: Wadi al Hayaa
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '26.59034000'
   longitude: '12.77511000'
-  wikiDataId: Q1424460
-- id: 67011
-  name: Brak
-  state_id: 2975
+- name: Brak
   state_code: WS
   state_name: Wadi al Shatii
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '27.54956000'
   longitude: '14.27139000'
-  wikiDataId: Q1196877
-- id: 67019
-  name: Idrī
-  state_id: 2975
+- name: Idrī
   state_code: WS
   state_name: Wadi al Shatii
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '27.44707000'
   longitude: '13.05173000'
-  wikiDataId: Q68382
-- id: 67008
-  name: Az Zāwīyah
-  state_id: 2963
+- name: Az Zāwīyah
   state_code: ZA
   state_name: Zawiya
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.75710000'
   longitude: '12.72764000'
-  wikiDataId: Q3645598
-- id: 67042
-  name: Şabrātah
-  state_id: 2963
+- name: Şabrātah
   state_code: ZA
   state_name: Zawiya
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.79335000'
   longitude: '12.48845000'
-  wikiDataId: Q231167
-- id: 67043
-  name: Şurmān
-  state_id: 2963
+- name: Şurmān
   state_code: ZA
   state_name: Zawiya
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.75668000'
   longitude: '12.57159000'
-  wikiDataId: Q2075535
-- id: 67038
-  name: Zawiya
-  state_id: 2963
+- name: Zawiya
   state_code: ZA
   state_name: Zawiya
-  country_id: 124
-  country_code: LY
-  country_name: Libya
   latitude: '32.75222000'
   longitude: '12.72778000'
-  wikiDataId: Q221503

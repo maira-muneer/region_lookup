@@ -1,2168 +1,986 @@
 ---
-- id: 67574
-  name: Арачиново
-  state_id: 656
+- name: Арачиново
   state_code: '02'
   state_name: Aračinovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.02639000'
   longitude: '21.56194000'
-  wikiDataId: Q626840
-- id: 67390
-  name: Berovo
-  state_id: 716
+- name: Berovo
   state_code: '03'
   state_name: Berovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.70306000'
   longitude: '22.85778000'
-  wikiDataId: Q827047
-- id: 67519
-  name: Rusinovo
-  state_id: 716
+- name: Rusinovo
   state_code: '03'
   state_name: Berovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.68728000'
   longitude: '22.80849000'
-  wikiDataId: Q221320
-- id: 67556
-  name: Vladimirovo
-  state_id: 716
+- name: Vladimirovo
   state_code: '03'
   state_name: Berovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.71000000'
   longitude: '22.79278000'
-  wikiDataId: Q1042326
-- id: 67391
-  name: Bistrica
-  state_id: 679
+- name: Bistrica
   state_code: '04'
   state_name: Bitola
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '40.97892000'
   longitude: '21.36580000'
-  wikiDataId: Q804083
-- id: 67392
-  name: Bitola
-  state_id: 679
+- name: Bitola
   state_code: '04'
   state_name: Bitola
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.03143000'
   longitude: '21.33474000'
-  wikiDataId: Q157246
-- id: 67403
-  name: Capari
-  state_id: 679
+- name: Capari
   state_code: '04'
   state_name: Bitola
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.05656000'
   longitude: '21.17884000'
-  wikiDataId: Q608807
-- id: 67420
-  name: Dolno Orizari
-  state_id: 679
+- name: Dolno Orizari
   state_code: '04'
   state_name: Bitola
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.05028000'
   longitude: '21.37944000'
-  wikiDataId: Q3034238
-- id: 67430
-  name: Gorno Orizari
-  state_id: 679
+- name: Gorno Orizari
   state_code: '04'
   state_name: Bitola
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.05188000'
   longitude: '21.34548000'
-  wikiDataId: Q3073867
-- id: 67464
-  name: Kukurečani
-  state_id: 679
+- name: Kukurečani
   state_code: '04'
   state_name: Bitola
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.09562000'
   longitude: '21.32454000'
-  wikiDataId: Q568011
-- id: 67472
-  name: Logovardi
-  state_id: 679
+- name: Logovardi
   state_code: '04'
   state_name: Bitola
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.03096000'
   longitude: '21.40967000'
-  wikiDataId: Q3039706
-- id: 67394
-  name: Bogdanci
-  state_id: 649
+- name: Bogdanci
   state_code: '05'
   state_name: Bogdanci
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.20306000'
   longitude: '22.57556000'
-  wikiDataId: Q751948
-- id: 67534
-  name: Stojakovo
-  state_id: 649
+- name: Stojakovo
   state_code: '05'
   state_name: Bogdanci
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.15556000'
   longitude: '22.57750000'
-  wikiDataId: Q3135158
-- id: 67396
-  name: Bogovinje
-  state_id: 721
+- name: Bogovinje
   state_code: '06'
   state_name: Bogovinje
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.92361000'
   longitude: '20.91361000'
-  wikiDataId: Q890640
-- id: 67421
-  name: Dolno Palčište
-  state_id: 721
+- name: Dolno Palčište
   state_code: '06'
   state_name: Bogovinje
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.96859000'
   longitude: '20.92899000'
-  wikiDataId: Q20935923
-- id: 67434
-  name: Gradec
-  state_id: 721
+- name: Gradec
   state_code: '06'
   state_name: Bogovinje
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.89611000'
   longitude: '20.90417000'
-  wikiDataId: Q20932143
-- id: 67447
-  name: Kamenjane
-  state_id: 721
+- name: Kamenjane
   state_code: '06'
   state_name: Bogovinje
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.94568000'
   longitude: '20.92894000'
-  wikiDataId: Q3039686
-- id: 67398
-  name: Bosilovo
-  state_id: 652
+- name: Bosilovo
   state_code: '07'
   state_name: Bosilovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.44056000'
   longitude: '22.72778000'
-  wikiDataId: Q2740543
-- id: 67441
-  name: Ilovica
-  state_id: 652
+- name: Ilovica
   state_code: '07'
   state_name: Bosilovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.47224000'
   longitude: '22.80480000'
-  wikiDataId: Q20932180
-- id: 67523
-  name: Sekirnik
-  state_id: 652
+- name: Sekirnik
   state_code: '07'
   state_name: Bosilovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.43999000'
   longitude: '22.79536000'
-  wikiDataId: Q667351
-- id: 67399
-  name: Brvenica
-  state_id: 660
+- name: Brvenica
   state_code: '08'
   state_name: Brvenica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.96722000'
   longitude: '20.98083000'
-  wikiDataId: Q850382
-- id: 67568
-  name: Čelopek
-  state_id: 660
+- name: Čelopek
   state_code: '08'
   state_name: Brvenica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.93167000'
   longitude: '21.01333000'
-  wikiDataId: Q20935802
-- id: 67439
-  name: Gurgurnica
-  state_id: 660
+- name: Gurgurnica
   state_code: '08'
   state_name: Brvenica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.84508000'
   longitude: '21.10538000'
-  wikiDataId: Q3084341
-- id: 67483
-  name: Miletino
-  state_id: 660
+- name: Miletino
   state_code: '08'
   state_name: Brvenica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.90753000'
   longitude: '21.01601000'
-  wikiDataId: Q980976
-- id: 67401
-  name: Butel
-  state_id: 694
+- name: Butel
   state_code: '09'
   state_name: Butel
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.03083000'
   longitude: '21.44667000'
-  wikiDataId: Q20935773
-- id: 67512
-  name: Radishani
-  state_id: 694
+- name: Radishani
   state_code: '09'
   state_name: Butel
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.06111000'
   longitude: '21.44778000'
-  wikiDataId: Q20936042
-- id: 67566
-  name: Čair
-  state_id: 704
+- name: Čair
   state_code: '79'
   state_name: Čair
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.01528000'
   longitude: '21.44111000'
-  wikiDataId: Q2990830
-- id: 67395
-  name: Bogomila
-  state_id: 676
+- name: Bogomila
   state_code: '80'
   state_name: Čaška
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.59306000'
   longitude: '21.47167000'
-  wikiDataId: Q890640
-- id: 67567
-  name: Čaška
-  state_id: 676
+- name: Čaška
   state_code: '80'
   state_name: Čaška
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.65056000'
   longitude: '21.66222000'
-  wikiDataId: Q2990817
-- id: 67405
-  name: Centar Župa
-  state_id: 720
+- name: Centar Župa
   state_code: '78'
   state_name: Centar Župa
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.47849000'
   longitude: '20.55945000'
-  wikiDataId: Q1053477
-- id: 67569
-  name: Češinovo
-  state_id: 644
+- name: Češinovo
   state_code: '81'
   state_name: Češinovo-Obleševo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.87148000'
   longitude: '22.28961000'
-  wikiDataId: Q20935802
-- id: 67494
-  name: Oblesevo
-  state_id: 644
+- name: Oblesevo
   state_code: '81'
   state_name: Češinovo-Obleševo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.88333000'
   longitude: '22.33389000'
-  wikiDataId: Q20932489
-- id: 67582
-  name: Чучер - Сандево
-  state_id: 715
+- name: Чучер - Сандево
   state_code: '82'
   state_name: Čučer-Sandevo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.10361000'
   longitude: '21.38222000'
-  wikiDataId: Q341735
-- id: 67388
-  name: Belčišta
-  state_id: 645
+- name: Belčišta
   state_code: '22'
   state_name: Debarca
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.30278000'
   longitude: '20.83028000'
-  wikiDataId: Q2895145
-- id: 67481
-  name: Mešeišta
-  state_id: 645
+- name: Mešeišta
   state_code: '22'
   state_name: Debarca
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.23814000'
   longitude: '20.77414000'
-  wikiDataId: Q3136344
-- id: 67408
-  name: Delcevo
-  state_id: 695
+- name: Delcevo
   state_code: '23'
   state_name: Delčevo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.96722000'
   longitude: '22.76944000'
-  wikiDataId: Q157738
-- id: 67410
-  name: Demir Hisar
-  state_id: 687
+- name: Demir Hisar
   state_code: '25'
   state_name: Demir Hisar
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.22097000'
   longitude: '21.20302000'
-  wikiDataId: Q1996455
-- id: 67528
-  name: Slepče
-  state_id: 687
+- name: Slepče
   state_code: '25'
   state_name: Demir Hisar
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.23333000'
   longitude: '21.17500000'
-  wikiDataId: Q20936136
-- id: 67529
-  name: Sopotnica
-  state_id: 687
+- name: Sopotnica
   state_code: '25'
   state_name: Demir Hisar
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.29594000'
   longitude: '21.15357000'
-  wikiDataId: Q20936155
-- id: 67411
-  name: Demir Kapija
-  state_id: 655
+- name: Demir Kapija
   state_code: '24'
   state_name: Demir Kapija
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.40613000'
   longitude: '22.24631000'
-  wikiDataId: Q1014699
-- id: 67533
-  name: Star Dojran
-  state_id: 697
+- name: Star Dojran
   state_code: '26'
   state_name: Dojran
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.18647000'
   longitude: '22.72030000'
-  wikiDataId: Q956963
-- id: 67407
-  name: Crnilište
-  state_id: 675
+- name: Crnilište
   state_code: '27'
   state_name: Dolneni
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.53025000'
   longitude: '21.41416000'
-  wikiDataId: Q339762
-- id: 67412
-  name: Desovo
-  state_id: 675
+- name: Desovo
   state_code: '27'
   state_name: Dolneni
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.46278000'
   longitude: '21.49111000'
-  wikiDataId: Q3024547
-- id: 67418
-  name: Dolneni
-  state_id: 675
+- name: Dolneni
   state_code: '27'
   state_name: Dolneni
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.42579000'
   longitude: '21.45402000'
-  wikiDataId: Q3034185
-- id: 67468
-  name: Lažani
-  state_id: 675
+- name: Lažani
   state_code: '27'
   state_name: Dolneni
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.44222000'
   longitude: '21.31583000'
-  wikiDataId: Q2507299
-- id: 67572
-  name: Žitoše
-  state_id: 675
+- name: Žitoše
   state_code: '27'
   state_name: Dolneni
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.41991000'
   longitude: '21.29078000'
-  wikiDataId: Q3074920
-- id: 67406
-  name: Cresevo
-  state_id: 707
+- name: Cresevo
   state_code: '17'
   state_name: Gazi Baba
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.05083000'
   longitude: '21.50972000'
-  wikiDataId: Q20935821
-- id: 67427
-  name: Gevgelija
-  state_id: 648
+- name: Gevgelija
   state_code: '18'
   state_name: Gevgelija
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.14166000'
   longitude: '22.50141000'
-  wikiDataId: Q157061
-- id: 67484
-  name: Miravci
-  state_id: 648
+- name: Miravci
   state_code: '18'
   state_name: Gevgelija
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.30925000'
   longitude: '22.43641000'
-  wikiDataId: Q3084593
-- id: 67428
-  name: Gjorče Petro
-  state_id: 722
+- name: Gjorče Petro
   state_code: '29'
   state_name: Gjorče Petrov
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.00778000'
   longitude: '21.35306000'
-  wikiDataId: Q157061
-- id: 67404
-  name: Cegrane
-  state_id: 693
+- name: Cegrane
   state_code: '19'
   state_name: Gostivar
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.83889000'
   longitude: '20.97583000'
-  wikiDataId: Q338216
-- id: 67417
-  name: Dolna Banjica
-  state_id: 693
+- name: Dolna Banjica
   state_code: '19'
   state_name: Gostivar
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.78611000'
   longitude: '20.90611000'
-  wikiDataId: Q3034185
-- id: 67426
-  name: Forino
-  state_id: 693
+- name: Forino
   state_code: '19'
   state_name: Gostivar
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.82334000'
   longitude: '20.96174000'
-  wikiDataId: Q20935974
-- id: 67433
-  name: Gostivar
-  state_id: 693
+- name: Gostivar
   state_code: '19'
   state_name: Gostivar
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.79601000'
   longitude: '20.90819000'
-  wikiDataId: Q157058
-- id: 67531
-  name: Srbinovo
-  state_id: 693
+- name: Srbinovo
   state_code: '19'
   state_name: Gostivar
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.70586000'
   longitude: '20.95859000'
-  wikiDataId: Q1007540
-- id: 67560
-  name: Vrutok
-  state_id: 693
+- name: Vrutok
   state_code: '19'
   state_name: Gostivar
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.76861000'
   longitude: '20.83917000'
-  wikiDataId: Q915991
-- id: 67436
-  name: Gradsko
-  state_id: 708
+- name: Gradsko
   state_code: '20'
   state_name: Gradsko
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.57750000'
   longitude: '21.94278000'
-  wikiDataId: Q20932142
-- id: 67397
-  name: Bojane
-  state_id: 684
+- name: Bojane
   state_code: '85'
   state_name: Greater Skopje
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.00009000'
   longitude: '21.19265000'
-  wikiDataId: Q2922998
-- id: 67423
-  name: Dračevo
-  state_id: 684
+- name: Dračevo
   state_code: '85'
   state_name: Greater Skopje
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.93667000'
   longitude: '21.52167000'
-  wikiDataId: Q1026744
-- id: 67471
-  name: Ljubin
-  state_id: 684
+- name: Ljubin
   state_code: '85'
   state_name: Greater Skopje
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.00139000'
   longitude: '21.30917000'
-  wikiDataId: Q20932376
-- id: 67521
-  name: Saraj
-  state_id: 684
+- name: Saraj
   state_code: '85'
   state_name: Greater Skopje
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.00000000'
   longitude: '21.32778000'
-  wikiDataId: Q3409927
-- id: 67546
-  name: Usje
-  state_id: 684
+- name: Usje
   state_code: '85'
   state_name: Greater Skopje
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.95871000'
   longitude: '21.45835000'
-  wikiDataId: Q20931808
-- id: 67440
-  name: Ilinden
-  state_id: 690
+- name: Ilinden
   state_code: '34'
   state_name: Ilinden
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.99451000'
   longitude: '21.58002000'
-  wikiDataId: Q3044844
-- id: 67446
-  name: Kadino
-  state_id: 690
+- name: Kadino
   state_code: '34'
   state_name: Ilinden
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.96889000'
   longitude: '21.60139000'
-  wikiDataId: Q20932216
-- id: 67478
-  name: Marino
-  state_id: 690
+- name: Marino
   state_code: '34'
   state_name: Ilinden
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.98776000'
   longitude: '21.59148000'
-  wikiDataId: Q21052605
-- id: 67482
-  name: Miladinovci
-  state_id: 690
+- name: Miladinovci
   state_code: '34'
   state_name: Ilinden
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.98029000'
   longitude: '21.64982000'
-  wikiDataId: Q20932441
-- id: 67575
-  name: Идризово
-  state_id: 690
+- name: Идризово
   state_code: '34'
   state_name: Ilinden
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.96083000'
   longitude: '21.57556000'
-  wikiDataId: Q1027709
-- id: 67573
-  name: Јурумлери
-  state_id: 690
+- name: Јурумлери
   state_code: '34'
   state_name: Ilinden
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.96722000'
   longitude: '21.55694000'
-  wikiDataId: Q3070894
-- id: 67445
-  name: Jegunovce
-  state_id: 678
+- name: Jegunovce
   state_code: '35'
   state_name: Jegunovce
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.07238000'
   longitude: '21.12367000'
-  wikiDataId: Q3084391
-- id: 67559
-  name: Vratnica
-  state_id: 678
+- name: Vratnica
   state_code: '35'
   state_name: Jegunovce
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.14333000'
   longitude: '21.11694000'
-  wikiDataId: Q3039697
-- id: 67449
-  name: Karbinci
-  state_id: 674
+- name: Karbinci
   state_code: '37'
   state_name: Karbinci
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.81758000'
   longitude: '22.23529000'
-  wikiDataId: Q2990706
-- id: 67526
-  name: Skopje
-  state_id: 681
+- name: Skopje
   state_code: '38'
   state_name: Karpoš
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.99646000'
   longitude: '21.43141000'
-  wikiDataId: Q384
-- id: 67450
-  name: Kavadarci
-  state_id: 713
+- name: Kavadarci
   state_code: '36'
   state_name: Kavadarci
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.43306000'
   longitude: '22.01194000'
-  wikiDataId: Q158088
-- id: 67550
-  name: Vataša
-  state_id: 713
+- name: Vataša
   state_code: '36'
   state_name: Kavadarci
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.41694000'
   longitude: '22.01889000'
-  wikiDataId: Q20931817
-- id: 67424
-  name: Drugovo
-  state_id: 688
+- name: Drugovo
   state_code: '40'
   state_name: Kičevo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.48490000'
   longitude: '20.92636000'
-  wikiDataId: Q3298739
-- id: 67452
-  name: Kičevo
-  state_id: 688
+- name: Kičevo
   state_code: '40'
   state_name: Kičevo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.51267000'
   longitude: '20.95886000'
-  wikiDataId: Q158079
-- id: 67530
-  name: Srbica
-  state_id: 688
+- name: Srbica
   state_code: '40'
   state_name: Kičevo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.58672000'
   longitude: '21.03027000'
-  wikiDataId: Q20936156
-- id: 67535
-  name: Strelci
-  state_id: 688
+- name: Strelci
   state_code: '40'
   state_name: Kičevo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.54046000'
   longitude: '21.00563000'
-  wikiDataId: Q20936199
-- id: 67545
-  name: Tuin
-  state_id: 688
+- name: Tuin
   state_code: '40'
   state_name: Kičevo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.61944000'
   longitude: '21.04528000'
-  wikiDataId: Q3137042
-- id: 67557
-  name: Vraneštica
-  state_id: 688
+- name: Vraneštica
   state_code: '40'
   state_name: Kičevo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.44496000'
   longitude: '21.02683000'
-  wikiDataId: Q3084373
-- id: 67561
-  name: Zajas
-  state_id: 688
+- name: Zajas
   state_code: '40'
   state_name: Kičevo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.60722000'
   longitude: '20.93833000'
-  wikiDataId: Q144465
-- id: 67451
-  name: Kisela Voda
-  state_id: 686
+- name: Kisela Voda
   state_code: '39'
   state_name: Kisela Voda
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.94889000'
   longitude: '21.50278000'
-  wikiDataId: Q158088
-- id: 67453
-  name: Kochani
-  state_id: 723
+- name: Kochani
   state_code: '42'
   state_name: Kočani
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.91639000'
   longitude: '22.41278000'
-  wikiDataId: Q214344
-- id: 67501
-  name: Orizari
-  state_id: 723
+- name: Orizari
   state_code: '42'
   state_name: Kočani
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.92262000'
   longitude: '22.44628000'
-  wikiDataId: Q20932509
-- id: 67455
-  name: Konče
-  state_id: 665
+- name: Konče
   state_code: '41'
   state_name: Konče
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.49511000'
   longitude: '22.38359000'
-  wikiDataId: Q3040677
-- id: 67458
-  name: Kratovo
-  state_id: 641
+- name: Kratovo
   state_code: '43'
   state_name: Kratovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.07838000'
   longitude: '22.18070000'
-  wikiDataId: Q1977737
-- id: 67459
-  name: Kriva Palanka
-  state_id: 677
+- name: Kriva Palanka
   state_code: '44'
   state_name: Kriva Palanka
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.20088000'
   longitude: '22.33244000'
-  wikiDataId: Q1977737
-- id: 67460
-  name: Krivogashtani
-  state_id: 647
+- name: Krivogashtani
   state_code: '45'
   state_name: Krivogaštani
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.33611000'
   longitude: '21.33306000'
-  wikiDataId: Q2603928
-- id: 67495
-  name: Obršani
-  state_id: 647
+- name: Obršani
   state_code: '45'
   state_name: Krivogaštani
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.28168000'
   longitude: '21.36150000'
-  wikiDataId: Q3074771
-- id: 67576
-  name: Клечовце
-  state_id: 647
+- name: Клечовце
   state_code: '45'
   state_name: Krivogaštani
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.11611000'
   longitude: '21.85722000'
-  wikiDataId: Q3072576
-- id: 67402
-  name: Bučin
-  state_id: 714
+- name: Bučin
   state_code: '46'
   state_name: Kruševo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.27377000'
   longitude: '21.31692000'
-  wikiDataId: Q2922590
-- id: 67461
-  name: Krusevo
-  state_id: 714
+- name: Krusevo
   state_code: '46'
   state_name: Kruševo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.36889000'
   longitude: '21.24889000'
-  wikiDataId: Q157034
-- id: 67387
-  name: Bedinje
-  state_id: 683
+- name: Bedinje
   state_code: '47'
   state_name: Kumanovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.14167000'
   longitude: '21.69639000'
-  wikiDataId: Q2929743
-- id: 67465
-  name: Kumanovo
-  state_id: 683
+- name: Kumanovo
   state_code: '47'
   state_name: Kumanovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.13222000'
   longitude: '21.71444000'
-  wikiDataId: Q54452
-- id: 67516
-  name: Romanovci
-  state_id: 683
+- name: Romanovci
   state_code: '47'
   state_name: Kumanovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.09472000'
   longitude: '21.69306000'
-  wikiDataId: Q3071683
-- id: 67443
-  name: Izvor
-  state_id: 659
+- name: Izvor
   state_code: '48'
   state_name: Lipkovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.20322000'
   longitude: '21.57812000'
-  wikiDataId: Q20932189
-- id: 67469
-  name: Lipkovo
-  state_id: 659
+- name: Lipkovo
   state_code: '48'
   state_name: Lipkovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.15639000'
   longitude: '21.58528000'
-  wikiDataId: Q3044293
-- id: 67473
-  name: Lojane
-  state_id: 659
+- name: Lojane
   state_code: '48'
   state_name: Lipkovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.23276000'
   longitude: '21.66550000'
-  wikiDataId: Q1007469
-- id: 67480
-  name: Matejce
-  state_id: 659
+- name: Matejce
   state_code: '48'
   state_name: Lipkovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.12556000'
   longitude: '21.59778000'
-  wikiDataId: Q3133697
-- id: 67502
-  name: Otlja
-  state_id: 659
+- name: Otlja
   state_code: '48'
   state_name: Lipkovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.14315000'
   longitude: '21.58675000'
-  wikiDataId: Q3071709
-- id: 67547
-  name: Vaksince
-  state_id: 659
+- name: Vaksince
   state_code: '48'
   state_name: Lipkovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.20611000'
   longitude: '21.66306000'
-  wikiDataId: Q1007227
-- id: 67579
-  name: Слупчане
-  state_id: 659
+- name: Слупчане
   state_code: '48'
   state_name: Lipkovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.17333000'
   longitude: '21.62778000'
-  wikiDataId: Q3072536
-- id: 67474
-  name: Lozovo
-  state_id: 705
+- name: Lozovo
   state_code: '49'
   state_name: Lozovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.78389000'
   longitude: '21.90556000'
-  wikiDataId: Q1007469
-- id: 67476
-  name: Makedonska Kamenica
-  state_id: 701
+- name: Makedonska Kamenica
   state_code: '51'
   state_name: Makedonska Kamenica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.02079000'
   longitude: '22.58760000'
-  wikiDataId: Q20932388
-- id: 67477
-  name: Makedonski Brod
-  state_id: 692
+- name: Makedonski Brod
   state_code: '52'
   state_name: Makedonski Brod
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.51361000'
   longitude: '21.21528000'
-  wikiDataId: Q162009
-- id: 67520
-  name: Samokov
-  state_id: 692
+- name: Samokov
   state_code: '52'
   state_name: Makedonski Brod
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.68331000'
   longitude: '21.14625000'
-  wikiDataId: Q20936094
-- id: 67518
-  name: Rostusa
-  state_id: 669
+- name: Rostusa
   state_code: '50'
   state_name: Mavrovo and Rostuša
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.61000000'
   longitude: '20.60000000'
-  wikiDataId: Q3040250
-- id: 67389
-  name: Beranci
-  state_id: 653
+- name: Beranci
   state_code: '53'
   state_name: Mogila
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.15969000'
   longitude: '21.35963000'
-  wikiDataId: Q2896871
-- id: 67416
-  name: Dobruševo
-  state_id: 653
+- name: Dobruševo
   state_code: '53'
   state_name: Mogila
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.16861000'
   longitude: '21.48250000'
-  wikiDataId: Q3033415
-- id: 67422
-  name: Dolno Srpci
-  state_id: 653
+- name: Dolno Srpci
   state_code: '53'
   state_name: Mogila
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.17480000'
   longitude: '21.36464000'
-  wikiDataId: Q1026744
-- id: 67486
-  name: Mogila
-  state_id: 653
+- name: Mogila
   state_code: '53'
   state_name: Mogila
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.10833000'
   longitude: '21.37861000'
-  wikiDataId: Q3084463
-- id: 67490
-  name: Negotino
-  state_id: 664
+- name: Negotino
   state_code: '54'
   state_name: Negotino
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.48456000'
   longitude: '22.09056000'
-  wikiDataId: Q164954
-- id: 67492
-  name: Novaci
-  state_id: 696
+- name: Novaci
   state_code: '55'
   state_name: Novaci
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.04197000'
   longitude: '21.45866000'
-  wikiDataId: Q20932467
-- id: 67493
-  name: Novo Selo
-  state_id: 718
+- name: Novo Selo
   state_code: '56'
   state_name: Novo Selo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.41486000'
   longitude: '22.88164000'
-  wikiDataId: Q2027841
-- id: 67540
-  name: Sušica
-  state_id: 718
+- name: Sušica
   state_code: '56'
   state_name: Novo Selo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.43982000'
   longitude: '22.83676000'
-  wikiDataId: Q20931924
-- id: 67456
-  name: Kosel
-  state_id: 699
+- name: Kosel
   state_code: '58'
   state_name: Ohrid
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.17444000'
   longitude: '20.83556000'
-  wikiDataId: Q3136230
-- id: 67496
-  name: Ohrid
-  state_id: 699
+- name: Ohrid
   state_code: '58'
   state_name: Ohrid
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.11722000'
   longitude: '20.80194000'
-  wikiDataId: Q1223508
-- id: 67497
-  name: Ohrid Opština
-  state_id: 699
+- name: Ohrid Opština
   state_code: '58'
   state_name: Ohrid
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.16667000'
   longitude: '20.83333000'
-  wikiDataId: Q1125333
-- id: 67503
-  name: Pehčevo
-  state_id: 685
+- name: Pehčevo
   state_code: '60'
   state_name: Pehčevo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.76226000'
   longitude: '22.88921000'
-  wikiDataId: Q162952
-- id: 67532
-  name: Sredno Konjare
-  state_id: 698
+- name: Sredno Konjare
   state_code: '59'
   state_name: Petrovec
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.95743000'
   longitude: '21.71494000'
-  wikiDataId: Q20936157
-- id: 67577
-  name: Петровец
-  state_id: 698
+- name: Петровец
   state_code: '59'
   state_name: Petrovec
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.93889000'
   longitude: '21.61500000'
-  wikiDataId: Q3087537
-- id: 67470
-  name: Lisičani
-  state_id: 670
+- name: Lisičani
   state_code: '61'
   state_name: Plasnica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.46139000'
   longitude: '21.05444000'
-  wikiDataId: Q673934
-- id: 67506
-  name: Plasnica
-  state_id: 670
+- name: Plasnica
   state_code: '61'
   state_name: Plasnica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.46722000'
   longitude: '21.12306000'
-  wikiDataId: Q3040262
-- id: 67448
-  name: Kanatlarci
-  state_id: 666
+- name: Kanatlarci
   state_code: '62'
   state_name: Prilep
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.21028000'
   longitude: '21.50333000'
-  wikiDataId: Q932777
-- id: 67479
-  name: Markov Grad
-  state_id: 666
+- name: Markov Grad
   state_code: '62'
   state_name: Prilep
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.35722000'
   longitude: '21.53250000'
-  wikiDataId: Q21052605
-- id: 67509
-  name: Prilep
-  state_id: 666
+- name: Prilep
   state_code: '62'
   state_name: Prilep
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.34514000'
   longitude: '21.55504000'
-  wikiDataId: Q157032
-- id: 67544
-  name: Topolčani
-  state_id: 666
+- name: Topolčani
   state_code: '62'
   state_name: Prilep
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.22772000'
   longitude: '21.43113000'
-  wikiDataId: Q3136314
-- id: 67510
-  name: Probishtip
-  state_id: 646
+- name: Probishtip
   state_code: '63'
   state_name: Probištip
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.00306000'
   longitude: '22.17861000'
-  wikiDataId: Q1991722
-- id: 67564
-  name: Zletovo
-  state_id: 646
+- name: Zletovo
   state_code: '63'
   state_name: Probištip
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.98861000'
   longitude: '22.23611000'
-  wikiDataId: Q2731405
-- id: 67499
-  name: Oraovica
-  state_id: 709
+- name: Oraovica
   state_code: '64'
   state_name: Radoviš
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.62583000'
   longitude: '22.51333000'
-  wikiDataId: Q20932501
-- id: 67507
-  name: Podareš
-  state_id: 709
+- name: Podareš
   state_code: '64'
   state_name: Radoviš
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.61389000'
   longitude: '22.54222000'
-  wikiDataId: Q3134776
-- id: 67514
-  name: Radovis
-  state_id: 709
+- name: Radovis
   state_code: '64'
   state_name: Radoviš
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.63833000'
   longitude: '22.46472000'
-  wikiDataId: Q991318
-- id: 67578
-  name: Ранковце
-  state_id: 717
+- name: Ранковце
   state_code: '65'
   state_name: Rankovce
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.16964000'
   longitude: '22.11617000'
-  wikiDataId: Q2990795
-- id: 67437
-  name: Grnčari
-  state_id: 712
+- name: Grnčari
   state_code: '66'
   state_name: Resen
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.01722000'
   longitude: '21.05333000'
-  wikiDataId: Q3074420
-- id: 67444
-  name: Jankovec
-  state_id: 712
+- name: Jankovec
   state_code: '66'
   state_name: Resen
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.11028000'
   longitude: '21.01139000'
-  wikiDataId: Q3135656
-- id: 67457
-  name: Krani
-  state_id: 712
+- name: Krani
   state_code: '66'
   state_name: Resen
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '40.93934000'
   longitude: '21.10911000'
-  wikiDataId: Q3135769
-- id: 67515
-  name: Resen
-  state_id: 712
+- name: Resen
   state_code: '66'
   state_name: Resen
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.08934000'
   longitude: '21.01092000'
-  wikiDataId: Q161827
-- id: 67517
-  name: Rosoman
-  state_id: 691
+- name: Rosoman
   state_code: '67'
   state_name: Rosoman
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.51671000'
   longitude: '21.94585000'
-  wikiDataId: Q2990800
-- id: 67400
-  name: Bukovik
-  state_id: 667
+- name: Bukovik
   state_code: '68'
   state_name: Saraj
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.96833000'
   longitude: '21.23694000'
-  wikiDataId: Q20935773
-- id: 67438
-  name: Grčec
-  state_id: 667
+- name: Grčec
   state_code: '68'
   state_name: Saraj
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.98806000'
   longitude: '21.33028000'
-  wikiDataId: Q3071274
-- id: 67454
-  name: Kondovo
-  state_id: 667
+- name: Kondovo
   state_code: '68'
   state_name: Saraj
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.01167000'
   longitude: '21.31361000'
-  wikiDataId: Q20932274
-- id: 67462
-  name: Krušopek
-  state_id: 667
+- name: Krušopek
   state_code: '68'
   state_name: Saraj
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.97833000'
   longitude: '21.35444000'
-  wikiDataId: Q20932326
-- id: 67580
-  name: Сопиште
-  state_id: 719
+- name: Сопиште
   state_code: '70'
   state_name: Sopište
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.95472000'
   longitude: '21.42750000'
-  wikiDataId: Q2564102
-- id: 67581
-  name: Старо Нагоричане
-  state_id: 643
+- name: Старо Нагоричане
   state_code: '71'
   state_name: Staro Nagoričane
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.19806000'
   longitude: '21.82861000'
-  wikiDataId: Q2731411
-- id: 67525
-  name: Shtip
-  state_id: 661
+- name: Shtip
   state_code: '83'
   state_name: Štip
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.74583000'
   longitude: '22.19583000'
-  wikiDataId: Q147243
-- id: 67409
-  name: Delogožda
-  state_id: 700
+- name: Delogožda
   state_code: '72'
   state_name: Struga
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.25728000'
   longitude: '20.72180000'
-  wikiDataId: Q1184573
-- id: 67466
-  name: Labunista
-  state_id: 700
+- name: Labunista
   state_code: '72'
   state_name: Struga
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.26861000'
   longitude: '20.59611000'
-  wikiDataId: Q20932344
-- id: 67475
-  name: Lukovo
-  state_id: 700
+- name: Lukovo
   state_code: '72'
   state_name: Struga
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.35339000'
   longitude: '20.60637000'
-  wikiDataId: Q20932388
-- id: 67485
-  name: Mislesevo
-  state_id: 700
+- name: Mislesevo
   state_code: '72'
   state_name: Struga
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.18500000'
   longitude: '20.70861000'
-  wikiDataId: Q20932446
-- id: 67498
-  name: Oktisi
-  state_id: 700
+- name: Oktisi
   state_code: '72'
   state_name: Struga
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.23250000'
   longitude: '20.60722000'
-  wikiDataId: Q2017632
-- id: 67513
-  name: Radolista
-  state_id: 700
+- name: Radolista
   state_code: '72'
   state_name: Struga
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.16417000'
   longitude: '20.62333000'
-  wikiDataId: Q1021618
-- id: 67537
-  name: Struga
-  state_id: 700
+- name: Struga
   state_code: '72'
   state_name: Struga
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.17799000'
   longitude: '20.67784000'
-  wikiDataId: Q156858
-- id: 67552
-  name: Velesta
-  state_id: 700
+- name: Velesta
   state_code: '72'
   state_name: Struga
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.24083000'
   longitude: '20.64389000'
-  wikiDataId: Q20931820
-- id: 67463
-  name: Kuklis
-  state_id: 710
+- name: Kuklis
   state_code: '73'
   state_name: Strumica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.40528000'
   longitude: '22.66528000'
-  wikiDataId: Q6442528
-- id: 67488
-  name: Murtino
-  state_id: 710
+- name: Murtino
   state_code: '73'
   state_name: Strumica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.41537000'
   longitude: '22.72589000'
-  wikiDataId: Q3135323
-- id: 67538
-  name: Strumica
-  state_id: 710
+- name: Strumica
   state_code: '73'
   state_name: Strumica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.43750000'
   longitude: '22.64333000'
-  wikiDataId: Q48814
-- id: 67553
-  name: Veljusa
-  state_id: 710
+- name: Veljusa
   state_code: '73'
   state_name: Strumica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.47611000'
   longitude: '22.56750000'
-  wikiDataId: Q3135127
-- id: 67386
-  name: Batinci
-  state_id: 711
+- name: Batinci
   state_code: '74'
   state_name: Studeničani
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.91909000'
   longitude: '21.47978000'
-  wikiDataId: Q2891397
-- id: 67419
-  name: Dolno Količani
-  state_id: 711
+- name: Dolno Količani
   state_code: '74'
   state_name: Studeničani
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.88639000'
   longitude: '21.48556000'
-  wikiDataId: Q3034212
-- id: 67487
-  name: Morani
-  state_id: 711
+- name: Morani
   state_code: '74'
   state_name: Studeničani
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.90978000'
   longitude: '21.54997000'
-  wikiDataId: Q20932450
-- id: 67539
-  name: Studeničane
-  state_id: 711
+- name: Studeničane
   state_code: '74'
   state_name: Studeničani
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.92208000'
   longitude: '21.53483000'
-  wikiDataId: Q48814
-- id: 67571
-  name: Šuto Orizare
-  state_id: 680
+- name: Šuto Orizare
   state_code: '84'
   state_name: Šuto Orizari
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.04000000'
   longitude: '21.42500000'
-  wikiDataId: Q391691
-- id: 67432
-  name: Gorobinci
-  state_id: 640
+- name: Gorobinci
   state_code: '69'
   state_name: Sveti Nikole
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.87507000'
   longitude: '21.87599000'
-  wikiDataId: Q982917
-- id: 67541
-  name: Sveti Nikole
-  state_id: 640
+- name: Sveti Nikole
   state_code: '69'
   state_name: Sveti Nikole
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.86956000'
   longitude: '21.95274000'
-  wikiDataId: Q366907
-- id: 67491
-  name: Nerašte
-  state_id: 654
+- name: Nerašte
   state_code: '75'
   state_name: Tearce
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.10711000'
   longitude: '21.10810000'
-  wikiDataId: Q20932467
-- id: 67500
-  name: Orashac
-  state_id: 654
+- name: Orashac
   state_code: '75'
   state_name: Tearce
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.06250000'
   longitude: '21.79972000'
-  wikiDataId: Q20932502
-- id: 67511
-  name: Pršovce
-  state_id: 654
+- name: Pršovce
   state_code: '75'
   state_name: Tearce
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.08336000'
   longitude: '21.05994000'
-  wikiDataId: Q1991722
-- id: 67527
-  name: Slatino
-  state_id: 654
+- name: Slatino
   state_code: '75'
   state_name: Tearce
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.06784000'
   longitude: '21.03902000'
-  wikiDataId: Q20936134
-- id: 67542
-  name: Tearce
-  state_id: 654
+- name: Tearce
   state_code: '75'
   state_name: Tearce
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.07666000'
   longitude: '21.05310000'
-  wikiDataId: Q653186
-- id: 67415
-  name: Dobrošte
-  state_id: 663
+- name: Dobrošte
   state_code: '76'
   state_name: Tetovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.10333000'
   longitude: '21.07778000'
-  wikiDataId: Q3033396
-- id: 67425
-  name: Džepčište
-  state_id: 663
+- name: Džepčište
   state_code: '76'
   state_name: Tetovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.03287000'
   longitude: '20.99817000'
-  wikiDataId: Q1272807
-- id: 67429
-  name: Golema Rečica
-  state_id: 663
+- name: Golema Rečica
   state_code: '76'
   state_name: Tetovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.98803000'
   longitude: '20.94517000'
-  wikiDataId: Q628610
-- id: 67505
-  name: Pirok
-  state_id: 663
+- name: Pirok
   state_code: '76'
   state_name: Tetovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.91083000'
   longitude: '20.91056000'
-  wikiDataId: Q3039876
-- id: 67508
-  name: Poroj
-  state_id: 663
+- name: Poroj
   state_code: '76'
   state_name: Tetovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.02913000'
   longitude: '20.99266000'
-  wikiDataId: Q20933185
-- id: 67524
-  name: Selce
-  state_id: 663
+- name: Selce
   state_code: '76'
   state_name: Tetovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.03482000'
   longitude: '20.94035000'
-  wikiDataId: Q20936109
-- id: 67570
-  name: Šipkovica
-  state_id: 663
+- name: Šipkovica
   state_code: '76'
   state_name: Tetovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.03500000'
   longitude: '20.91556000'
-  wikiDataId: Q391691
-- id: 67543
-  name: Tetovo
-  state_id: 663
+- name: Tetovo
   state_code: '76'
   state_name: Tetovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '42.00973000'
   longitude: '20.97155000'
-  wikiDataId: Q157024
-- id: 67504
-  name: Pirava
-  state_id: 671
+- name: Pirava
   state_code: '10'
   state_name: Valandovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.32042000'
   longitude: '22.53047000'
-  wikiDataId: Q3135030
-- id: 67548
-  name: Valandovo
-  state_id: 671
+- name: Valandovo
   state_code: '10'
   state_name: Valandovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.31744000'
   longitude: '22.56002000'
-  wikiDataId: Q756645
-- id: 67549
-  name: Vasilevo
-  state_id: 658
+- name: Vasilevo
   state_code: '11'
   state_name: Vasilevo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.47408000'
   longitude: '22.64301000'
-  wikiDataId: Q2006315
-- id: 67431
-  name: Gorno Orizari
-  state_id: 651
+- name: Gorno Orizari
   state_code: '13'
   state_name: Veles
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.68583000'
   longitude: '21.73475000'
-  wikiDataId: Q20932132
-- id: 67442
-  name: Ivankovci
-  state_id: 651
+- name: Ivankovci
   state_code: '13'
   state_name: Veles
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.84889000'
   longitude: '21.82028000'
-  wikiDataId: Q3072906
-- id: 67551
-  name: Veles
-  state_id: 651
+- name: Veles
   state_code: '13'
   state_name: Veles
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.71556000'
   longitude: '21.77556000'
-  wikiDataId: Q157050
-- id: 67554
-  name: Vevčani
-  state_id: 662
+- name: Vevčani
   state_code: '12'
   state_name: Vevčani
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.24056000'
   longitude: '20.59333000'
-  wikiDataId: Q3135127
-- id: 67393
-  name: Blatec
-  state_id: 672
+- name: Blatec
   state_code: '14'
   state_name: Vinica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.83668000'
   longitude: '22.57909000'
-  wikiDataId: Q20933280
-- id: 67435
-  name: Gradec
-  state_id: 672
+- name: Gradec
   state_code: '14'
   state_name: Vinica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.85068000'
   longitude: '22.51132000'
-  wikiDataId: Q20932142
-- id: 67555
-  name: Vinica
-  state_id: 672
+- name: Vinica
   state_code: '14'
   state_name: Vinica
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.88278000'
   longitude: '22.50917000'
-  wikiDataId: Q928405
-- id: 67414
-  name: Dobri Dol
-  state_id: 689
+- name: Dobri Dol
   state_code: '16'
   state_name: Vrapčište
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.86520000'
   longitude: '20.89009000'
-  wikiDataId: Q20935897
-- id: 67489
-  name: Negotino
-  state_id: 689
+- name: Negotino
   state_code: '16'
   state_name: Vrapčište
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.87792000'
   longitude: '20.88389000'
-  wikiDataId: Q20932464
-- id: 67558
-  name: Vrapčište
-  state_id: 689
+- name: Vrapčište
   state_code: '16'
   state_name: Vrapčište
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.83439000'
   longitude: '20.88563000'
-  wikiDataId: Q2535034
-- id: 67562
-  name: Zelenikovo
-  state_id: 706
+- name: Zelenikovo
   state_code: '32'
   state_name: Zelenikovo
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.88413000'
   longitude: '21.58848000'
-  wikiDataId: Q2479406
-- id: 67413
-  name: Dobarce
-  state_id: 668
+- name: Dobarce
   state_code: '30'
   state_name: Želino
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.95530000'
   longitude: '21.08875000'
-  wikiDataId: Q3033274
-- id: 67467
-  name: Larce
-  state_id: 668
+- name: Larce
   state_code: '30'
   state_name: Želino
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.93319000'
   longitude: '21.12628000'
-  wikiDataId: Q3077575
-- id: 67522
-  name: Sedlarevo
-  state_id: 668
+- name: Sedlarevo
   state_code: '30'
   state_name: Želino
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.88306000'
   longitude: '21.12750000'
-  wikiDataId: Q3077503
-- id: 67536
-  name: Strimnica
-  state_id: 668
+- name: Strimnica
   state_code: '30'
   state_name: Želino
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.96719000'
   longitude: '21.03598000'
-  wikiDataId: Q3077647
-- id: 67563
-  name: Zelino
-  state_id: 668
+- name: Zelino
   state_code: '30'
   state_name: Želino
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.98028000'
   longitude: '21.06417000'
-  wikiDataId: Q2740572
-- id: 67565
-  name: Zrnovci
-  state_id: 673
+- name: Zrnovci
   state_code: '33'
   state_name: Zrnovci
-  country_id: 129
-  country_code: MK
-  country_name: North Macedonia
   latitude: '41.85417000'
   longitude: '22.44444000'
-  wikiDataId: Q2990830

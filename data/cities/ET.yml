@@ -1,1585 +1,721 @@
 ---
-- id: 38587
-  name: Addis Ababa
-  state_id: 11
+- name: Addis Ababa
   state_code: AA
   state_name: Addis Ababa
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.02497000'
   longitude: '38.74689000'
-  wikiDataId: Q3624
-- id: 38589
-  name: Administrative Zone 2
-  state_id: 6
+- name: Administrative Zone 2
   state_code: AF
   state_name: Afar
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '13.68513000'
   longitude: '40.05615000'
-  wikiDataId: Q3444683
-- id: 38590
-  name: Administrative Zone 3
-  state_id: 6
+- name: Administrative Zone 3
   state_code: AF
   state_name: Afar
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '10.00902000'
   longitude: '40.47394000'
-  wikiDataId: Q3444674
-- id: 38595
-  name: Asaita
-  state_id: 6
+- name: Asaita
   state_code: AF
   state_name: Afar
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '11.56838000'
   longitude: '41.43869000'
-  wikiDataId: Q720557
-- id: 38729
-  name: Āwash
-  state_id: 6
+- name: Āwash
   state_code: AF
   state_name: Afar
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.98333000'
   longitude: '40.16667000'
-  wikiDataId: Q791636
-- id: 38624
-  name: Dubti
-  state_id: 6
+- name: Dubti
   state_code: AF
   state_name: Afar
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '11.73292000'
   longitude: '41.08200000'
-  wikiDataId: Q3033674
-- id: 38637
-  name: Gewanē
-  state_id: 6
+- name: Gewanē
   state_code: AF
   state_name: Afar
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '10.16658000'
   longitude: '40.64689000'
-  wikiDataId: Q585723
-- id: 38691
-  name: Semera
-  state_id: 6
+- name: Semera
   state_code: AF
   state_name: Afar
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '11.79342000'
   longitude: '41.00578000'
-  wikiDataId: Q2750619
-- id: 38585
-  name: Abomsa
-  state_id: 3
+- name: Abomsa
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.98333000'
   longitude: '39.98333000'
-  wikiDataId: Q329984
-- id: 38586
-  name: Addiet Canna
-  state_id: 3
+- name: Addiet Canna
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '11.26667000'
   longitude: '37.48333000'
-  wikiDataId: Q2824323
-- id: 38722
-  name: Ādīs Zemen
-  state_id: 3
+- name: Ādīs Zemen
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '12.11667000'
   longitude: '37.78333000'
-  wikiDataId: Q2472273
-- id: 38598
-  name: Bahir Dar
-  state_id: 3
+- name: Bahir Dar
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '11.59364000'
   longitude: '37.39077000'
-  wikiDataId: Q464699
-- id: 38600
-  name: Batī
-  state_id: 3
+- name: Batī
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '11.19152000'
   longitude: '40.01675000'
-  wikiDataId: Q2891356
-- id: 38604
-  name: Bichena
-  state_id: 3
+- name: Bichena
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '10.45000000'
   longitude: '38.20000000'
-  wikiDataId: Q2901625
-- id: 38608
-  name: Burē
-  state_id: 3
+- name: Burē
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '10.70000000'
   longitude: '37.06667000'
-  wikiDataId: Q2928324
-- id: 38610
-  name: Dabat
-  state_id: 3
+- name: Dabat
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '12.98417000'
   longitude: '37.76500000'
-  wikiDataId: Q5207434
-- id: 38611
-  name: Debark’
-  state_id: 3
+- name: Debark’
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '13.15611000'
   longitude: '37.89806000'
-  wikiDataId: Q1067464
-- id: 38612
-  name: Debre Birhan
-  state_id: 3
+- name: Debre Birhan
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.67954000'
   longitude: '39.53262000'
-  wikiDataId: Q1181637
-- id: 38613
-  name: Debre Mark’os
-  state_id: 3
+- name: Debre Mark’os
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '10.35000000'
   longitude: '37.73333000'
-  wikiDataId: Q1024659
-- id: 38614
-  name: Debre Sīna
-  state_id: 3
+- name: Debre Sīna
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.84752000'
   longitude: '39.76027000'
-  wikiDataId: Q1024659
-- id: 38615
-  name: Debre Tabor
-  state_id: 3
+- name: Debre Tabor
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '11.85000000'
   longitude: '38.01667000'
-  wikiDataId: Q163619
-- id: 38616
-  name: Debre Werk’
-  state_id: 3
+- name: Debre Werk’
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '10.66667000'
   longitude: '38.16667000'
-  wikiDataId: Q163619
-- id: 38619
-  name: Dejen
-  state_id: 3
+- name: Dejen
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '10.16667000'
   longitude: '38.13333000'
-  wikiDataId: Q5252725
-- id: 38621
-  name: Desē
-  state_id: 3
+- name: Desē
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '11.13333000'
   longitude: '39.63333000'
-  wikiDataId: Q755752
-- id: 38631
-  name: Finote Selam
-  state_id: 3
+- name: Finote Selam
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '10.70000000'
   longitude: '37.26667000'
-  wikiDataId: Q2354276
-- id: 38642
-  name: Gondar
-  state_id: 3
+- name: Gondar
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '12.60000000'
   longitude: '37.46667000'
-  wikiDataId: Q218861
-- id: 38664
-  name: Kemisē
-  state_id: 3
+- name: Kemisē
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '10.71668000'
   longitude: '39.86997000'
-  wikiDataId: Q3194972
-- id: 38667
-  name: Kombolcha
-  state_id: 3
+- name: Kombolcha
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '11.08155000'
   longitude: '39.74339000'
-  wikiDataId: Q222420
-- id: 38671
-  name: Lalībela
-  state_id: 3
+- name: Lalībela
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '12.03219000'
   longitude: '39.04756000'
-  wikiDataId: Q207590
-- id: 38686
-  name: North Shewa Zone
-  state_id: 3
+- name: North Shewa Zone
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.76900000'
   longitude: '39.66800000'
-  wikiDataId: Q1070780
-- id: 38688
-  name: North Wollo Zone
-  state_id: 3
+- name: North Wollo Zone
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '11.92000000'
   longitude: '39.10000000'
-  wikiDataId: Q2916300
-- id: 38689
-  name: Robīt
-  state_id: 3
+- name: Robīt
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '12.01667000'
   longitude: '39.63333000'
-  wikiDataId: Q2916300
-- id: 38701
-  name: South Gondar Zone
-  state_id: 3
+- name: South Gondar Zone
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '11.83850000'
   longitude: '38.09954000'
-  wikiDataId: Q1070727
-- id: 38702
-  name: South Wollo Zone
-  state_id: 3
+- name: South Wollo Zone
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '11.00000000'
   longitude: '39.25000000'
-  wikiDataId: Q2919962
-- id: 38708
-  name: Wag Hemra Zone
-  state_id: 3
+- name: Wag Hemra Zone
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '12.76500000'
   longitude: '38.84300000'
-  wikiDataId: Q1070687
-- id: 38712
-  name: Were Īlu
-  state_id: 3
+- name: Were Īlu
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '10.58964000'
   longitude: '39.43767000'
-  wikiDataId: Q3567301
-- id: 38713
-  name: Werota
-  state_id: 3
+- name: Werota
   state_code: AM
   state_name: Amhara
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '11.91667000'
   longitude: '37.70000000'
-  wikiDataId: Q3567308
-- id: 38596
-  name: Asosa
-  state_id: 9
+- name: Asosa
   state_code: BE
   state_name: Benishangul-Gumuz
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '10.00000000'
   longitude: '34.50000000'
-  wikiDataId: Q2866757
-- id: 38679
-  name: Metekel
-  state_id: 9
+- name: Metekel
   state_code: BE
   state_name: Benishangul-Gumuz
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '10.42673000'
   longitude: '35.71975000'
-  wikiDataId: Q742955
-- id: 38622
-  name: Dire Dawa
-  state_id: 8
+- name: Dire Dawa
   state_code: DD
   state_name: Dire Dawa
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.59306000'
   longitude: '41.86611000'
-  wikiDataId: Q755752
-- id: 38588
-  name: Administrative Zone 1
-  state_id: 10
+- name: Administrative Zone 1
   state_code: GA
   state_name: Gambela
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.14699000'
   longitude: '33.97335000'
-  wikiDataId: Q3575755
-- id: 38632
-  name: Gambēla
-  state_id: 10
+- name: Gambēla
   state_code: GA
   state_name: Gambela
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.25000000'
   longitude: '34.58333000'
-  wikiDataId: Q762656
-- id: 38650
-  name: Harar
-  state_id: 7
+- name: Harar
   state_code: HA
   state_name: Harari
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.31387000'
   longitude: '42.11815000'
-  wikiDataId: Q190184
-- id: 38723
-  name: Ādīs ‘Alem
-  state_id: 5
+- name: Ādīs ‘Alem
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.03333000'
   longitude: '38.40000000'
-  wikiDataId: Q353038
-- id: 38724
-  name: Āgaro
-  state_id: 5
+- name: Āgaro
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.85000000'
   longitude: '36.65000000'
-  wikiDataId: Q1110037
-- id: 38594
-  name: Arsi Zone
-  state_id: 5
+- name: Arsi Zone
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.50000000'
   longitude: '39.50000000'
-  wikiDataId: Q646859
-- id: 38726
-  name: Āsasa
-  state_id: 5
+- name: Āsasa
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.10000000'
   longitude: '39.20000000'
-  wikiDataId: Q2866322
-- id: 38727
-  name: Āsbe Teferī
-  state_id: 5
+- name: Āsbe Teferī
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.08569000'
   longitude: '40.86708000'
-  wikiDataId: Q764231
-- id: 38601
-  name: Bedelē
-  state_id: 5
+- name: Bedelē
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.45600000'
   longitude: '36.35302000'
-  wikiDataId: Q2893561
-- id: 38602
-  name: Bedēsa
-  state_id: 5
+- name: Bedēsa
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.90000000'
   longitude: '40.78333000'
-  wikiDataId: Q2893571
-- id: 38605
-  name: Bishoftu
-  state_id: 5
+- name: Bishoftu
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.75225000'
   longitude: '38.97846000'
-  wikiDataId: Q740499
-- id: 38617
-  name: Deder
-  state_id: 5
+- name: Deder
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.31168000'
   longitude: '41.44301000'
-  wikiDataId: Q163619
-- id: 38620
-  name: Dembī Dolo
-  state_id: 5
+- name: Dembī Dolo
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.53333000'
   longitude: '34.80000000'
-  wikiDataId: Q2563156
-- id: 38623
-  name: Dodola
-  state_id: 5
+- name: Dodola
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.98333000'
   longitude: '39.18333000'
-  wikiDataId: Q3033674
-- id: 38626
-  name: East Harerghe Zone
-  state_id: 5
+- name: East Harerghe Zone
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.70114000'
   longitude: '42.00241000'
-  wikiDataId: Q3113831
-- id: 38627
-  name: East Shewa Zone
-  state_id: 5
+- name: East Shewa Zone
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.21353000'
   longitude: '38.84809000'
-  wikiDataId: Q1109846
-- id: 38628
-  name: East Wellega Zone
-  state_id: 5
+- name: East Wellega Zone
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.51928000'
   longitude: '36.75762000'
-  wikiDataId: Q1109870
-- id: 38630
-  name: Fichē
-  state_id: 5
+- name: Fichē
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.80000000'
   longitude: '38.73333000'
-  wikiDataId: Q3073074
-- id: 38633
-  name: Gebre Guracha
-  state_id: 5
+- name: Gebre Guracha
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.80000000'
   longitude: '38.40000000'
-  wikiDataId: Q3100037
-- id: 38646
-  name: Gēdo
-  state_id: 5
+- name: Gēdo
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.01667000'
   longitude: '37.45000000'
-  wikiDataId: Q1070678
-- id: 38635
-  name: Gelemso
-  state_id: 5
+- name: Gelemso
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.81667000'
   longitude: '40.51667000'
-  wikiDataId: Q3100278
-- id: 38636
-  name: Genet
-  state_id: 5
+- name: Genet
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.06667000'
   longitude: '38.50000000'
-  wikiDataId: Q3139315
-- id: 38638
-  name: Gimbi
-  state_id: 5
+- name: Gimbi
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.17031000'
   longitude: '35.83491000'
-  wikiDataId: Q987235
-- id: 38639
-  name: Ginir
-  state_id: 5
+- name: Ginir
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.13952000'
   longitude: '40.71083000'
-  wikiDataId: Q3106775
-- id: 38640
-  name: Goba
-  state_id: 5
+- name: Goba
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.01667000'
   longitude: '39.98333000'
-  wikiDataId: Q745871
-- id: 38643
-  name: Gorē
-  state_id: 5
+- name: Gorē
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.15000000'
   longitude: '35.53333000'
-  wikiDataId: Q3110215
-- id: 38644
-  name: Guji Zone
-  state_id: 5
+- name: Guji Zone
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '5.58800000'
   longitude: '39.06700000'
-  wikiDataId: Q5617057
-- id: 38654
-  name: Hāgere Hiywet
-  state_id: 5
+- name: Hāgere Hiywet
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.98333000'
   longitude: '37.85000000'
-  wikiDataId: Q1266796
-- id: 38649
-  name: Hagere Maryam
-  state_id: 5
+- name: Hagere Maryam
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '5.63418000'
   longitude: '38.23603000'
-  wikiDataId: Q3125692
-- id: 38656
-  name: Hīrna
-  state_id: 5
+- name: Hīrna
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.21667000'
   longitude: '41.10000000'
-  wikiDataId: Q5769883
-- id: 38653
-  name: Huruta
-  state_id: 5
+- name: Huruta
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.15000000'
   longitude: '39.35000000'
-  wikiDataId: Q3143438
-- id: 38657
-  name: Illubabor Zone
-  state_id: 5
+- name: Illubabor Zone
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.27526000'
   longitude: '35.75596000'
-  wikiDataId: Q768586
-- id: 38660
-  name: Jimma
-  state_id: 5
+- name: Jimma
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.67344000'
   longitude: '36.83441000'
-  wikiDataId: Q385341
-- id: 38661
-  name: Jimma Zone
-  state_id: 5
+- name: Jimma Zone
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.66667000'
   longitude: '37.00000000'
-  wikiDataId: Q1109877
-- id: 38665
-  name: Kibre Mengist
-  state_id: 5
+- name: Kibre Mengist
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '5.88333000'
   longitude: '38.98333000'
-  wikiDataId: Q3194972
-- id: 38666
-  name: Kofelē
-  state_id: 5
+- name: Kofelē
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.06667000'
   longitude: '38.78333000'
-  wikiDataId: Q934205
-- id: 38682
-  name: Mēga
-  state_id: 5
+- name: Mēga
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '4.05000000'
   longitude: '38.30000000'
-  wikiDataId: Q3304215
-- id: 38677
-  name: Mendī
-  state_id: 5
+- name: Mendī
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.80000000'
   longitude: '35.10000000'
-  wikiDataId: Q3305771
-- id: 38678
-  name: Metahāra
-  state_id: 5
+- name: Metahāra
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.90000000'
   longitude: '39.91667000'
-  wikiDataId: Q3305771
-- id: 38680
-  name: Metu
-  state_id: 5
+- name: Metu
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.30000000'
   longitude: '35.58333000'
-  wikiDataId: Q742955
-- id: 38681
-  name: Mojo
-  state_id: 5
+- name: Mojo
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.58679000'
   longitude: '39.12111000'
-  wikiDataId: Q3319332
-- id: 38684
-  name: Nazrēt
-  state_id: 5
+- name: Nazrēt
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.55000000'
   longitude: '39.26667000'
-  wikiDataId: Q3317332
-- id: 38685
-  name: Nejo
-  state_id: 5
+- name: Nejo
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.50000000'
   longitude: '35.50000000'
-  wikiDataId: Q3337871
-- id: 38687
-  name: North Shewa Zone
-  state_id: 5
+- name: North Shewa Zone
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.66915000'
   longitude: '38.81240000'
-  wikiDataId: Q3478428
-- id: 38690
-  name: Sebeta
-  state_id: 5
+- name: Sebeta
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.91667000'
   longitude: '38.61667000'
-  wikiDataId: Q3476942
-- id: 38692
-  name: Sendafa
-  state_id: 5
+- name: Sendafa
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.15203000'
   longitude: '39.02335000'
-  wikiDataId: Q3478522
-- id: 38693
-  name: Shakiso
-  state_id: 5
+- name: Shakiso
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '5.76494000'
   longitude: '38.91006000'
-  wikiDataId: Q3481278
-- id: 38694
-  name: Shambu
-  state_id: 5
+- name: Shambu
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.56667000'
   longitude: '37.10000000'
-  wikiDataId: Q3481302
-- id: 38695
-  name: Shashemenē
-  state_id: 5
+- name: Shashemenē
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.20000000'
   longitude: '38.60000000'
-  wikiDataId: Q731020
-- id: 38699
-  name: Sirre
-  state_id: 5
+- name: Sirre
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.31667000'
   longitude: '39.48333000'
-  wikiDataId: Q1070673
-- id: 38706
-  name: Tulu Bolo
-  state_id: 5
+- name: Tulu Bolo
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.66667000'
   longitude: '38.21667000'
-  wikiDataId: Q4465171
-- id: 38709
-  name: Waliso
-  state_id: 5
+- name: Waliso
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.53417000'
   longitude: '37.96515000'
-  wikiDataId: Q3565377
-- id: 38711
-  name: Wenjī
-  state_id: 5
+- name: Wenjī
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.45000000'
   longitude: '39.28333000'
-  wikiDataId: Q3565377
-- id: 38714
-  name: West Harerghe Zone
-  state_id: 5
+- name: West Harerghe Zone
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.67245000'
   longitude: '40.84885000'
-  wikiDataId: Q1109889
-- id: 38715
-  name: West Wellega Zone
-  state_id: 5
+- name: West Wellega Zone
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.17283000'
   longitude: '35.05279000'
-  wikiDataId: Q1709377
-- id: 38717
-  name: Yabēlo
-  state_id: 5
+- name: Yabēlo
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '4.88333000'
   longitude: '38.08333000'
-  wikiDataId: Q1067172
-- id: 38720
-  name: Ziway
-  state_id: 5
+- name: Ziway
   state_code: OR
   state_name: Oromia
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.93333000'
   longitude: '38.71667000'
-  wikiDataId: Q2570767
-- id: 38591
-  name: Afder Zone
-  state_id: 2
+- name: Afder Zone
   state_code: SO
   state_name: Somali
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '5.25000000'
   longitude: '43.00000000'
-  wikiDataId: Q382135
-- id: 38618
-  name: Degehabur Zone
-  state_id: 2
+- name: Degehabur Zone
   state_code: SO
   state_name: Somali
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.25000000'
   longitude: '43.75000000'
-  wikiDataId: Q1182808
-- id: 38641
-  name: Gode Zone
-  state_id: 2
+- name: Gode Zone
   state_code: SO
   state_name: Somali
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.00000000'
   longitude: '43.75000000'
-  wikiDataId: Q1435849
-- id: 38659
-  name: Jijiga
-  state_id: 2
+- name: Jijiga
   state_code: SO
   state_name: Somali
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '9.35000000'
   longitude: '42.80000000'
-  wikiDataId: Q755763
-- id: 38673
-  name: Liben zone
-  state_id: 2
+- name: Liben zone
   state_code: SO
   state_name: Somali
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '4.75000000'
   longitude: '40.50000000'
-  wikiDataId: Q1822845
-- id: 38697
-  name: Shinile Zone
-  state_id: 2
+- name: Shinile Zone
   state_code: SO
   state_name: Somali
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '10.17097000'
   longitude: '41.83748000'
-  wikiDataId: Q2279103
-- id: 38592
-  name: Alaba Special Wereda
-  state_id: 1
+- name: Alaba Special Wereda
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.45347000'
   longitude: '38.21189000'
-  wikiDataId: Q2829448
-- id: 38593
-  name: Arba Minch
-  state_id: 1
+- name: Arba Minch
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.03333000'
   longitude: '37.55000000'
-  wikiDataId: Q626861
-- id: 38725
-  name: Āreka
-  state_id: 1
+- name: Āreka
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.06667000'
   longitude: '37.70000000'
-  wikiDataId: Q4788771
-- id: 38599
-  name: Bako
-  state_id: 1
+- name: Bako
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '5.78333000'
   longitude: '36.56667000'
-  wikiDataId: Q464699
-- id: 38603
-  name: Bench Maji Zone
-  state_id: 1
+- name: Bench Maji Zone
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.45994000'
   longitude: '35.30549000'
-  wikiDataId: Q2895686
-- id: 38606
-  name: Bodītī
-  state_id: 1
+- name: Bodītī
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.96667000'
   longitude: '37.86667000'
-  wikiDataId: Q965112
-- id: 38607
-  name: Bonga
-  state_id: 1
+- name: Bonga
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.28333000'
   longitude: '36.23333000'
-  wikiDataId: Q965112
-- id: 38609
-  name: Butajīra
-  state_id: 1
+- name: Butajīra
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.11667000'
   longitude: '38.36667000'
-  wikiDataId: Q2928812
-- id: 38625
-  name: Dīla
-  state_id: 1
+- name: Dīla
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.41667000'
   longitude: '38.31667000'
-  wikiDataId: Q3033674
-- id: 38629
-  name: Felege Neway
-  state_id: 1
+- name: Felege Neway
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.30000000'
   longitude: '36.88333000'
-  wikiDataId: Q1109870
-- id: 38634
-  name: Gedeo Zone
-  state_id: 1
+- name: Gedeo Zone
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.12727000'
   longitude: '38.27716000'
-  wikiDataId: Q500213
-- id: 38647
-  name: Gīdolē
-  state_id: 1
+- name: Gīdolē
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '5.65000000'
   longitude: '37.36667000'
-  wikiDataId: Q3105416
-- id: 38645
-  name: Guraghe Zone
-  state_id: 1
+- name: Guraghe Zone
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '8.25000000'
   longitude: '38.00000000'
-  wikiDataId: Q1070678
-- id: 38648
-  name: Hadiya Zone
-  state_id: 1
+- name: Hadiya Zone
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.50000000'
   longitude: '37.75000000'
-  wikiDataId: Q3125547
-- id: 38655
-  name: Hāgere Selam
-  state_id: 1
+- name: Hāgere Selam
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.48333000'
   longitude: '38.51667000'
-  wikiDataId: Q3125693
-- id: 38651
-  name: Hawassa
-  state_id: 1
+- name: Hawassa
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.06205000'
   longitude: '38.47635000'
-  wikiDataId: Q755765
-- id: 38652
-  name: Hosa’ina
-  state_id: 1
+- name: Hosa’ina
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.54978000'
   longitude: '37.85374000'
-  wikiDataId: Q2754082
-- id: 38662
-  name: Jinka
-  state_id: 1
+- name: Jinka
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '5.65000000'
   longitude: '36.65000000'
-  wikiDataId: Q3110186
-- id: 38670
-  name: K’olīto
-  state_id: 1
+- name: K’olīto
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.31667000'
   longitude: '38.08333000'
-  wikiDataId: Q3198925
-- id: 38663
-  name: Kembata Alaba Tembaro Zone
-  state_id: 1
+- name: Kembata Alaba Tembaro Zone
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.27039000'
   longitude: '37.77887000'
-  wikiDataId: Q3194972
-- id: 38668
-  name: Konso
-  state_id: 1
+- name: Konso
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '5.25000000'
   longitude: '37.48333000'
-  wikiDataId: Q575352
-- id: 38672
-  name: Leku
-  state_id: 1
+- name: Leku
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.87309000'
   longitude: '38.44425000'
-  wikiDataId: Q207590
-- id: 38674
-  name: Lobuni
-  state_id: 1
+- name: Lobuni
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '4.83333000'
   longitude: '36.10000000'
-  wikiDataId: Q1822845
-- id: 38683
-  name: Mīzan Teferī
-  state_id: 1
+- name: Mīzan Teferī
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.99865000'
   longitude: '35.58879000'
-  wikiDataId: Q3317332
-- id: 38696
-  name: Sheka Zone
-  state_id: 1
+- name: Sheka Zone
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.56166000'
   longitude: '35.40174000'
-  wikiDataId: Q7493221
-- id: 38698
-  name: Sidama Zone
-  state_id: 1
+- name: Sidama Zone
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.71800000'
   longitude: '38.44800000'
-  wikiDataId: Q1070673
-- id: 38700
-  name: Sodo
-  state_id: 1
+- name: Sodo
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.86000000'
   longitude: '37.76159000'
-  wikiDataId: Q1070673
-- id: 38705
-  name: Tippi
-  state_id: 1
+- name: Tippi
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.20000000'
   longitude: '35.45000000'
-  wikiDataId: Q1067163
-- id: 38707
-  name: Turmi
-  state_id: 1
+- name: Turmi
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '4.96667000'
   longitude: '36.48333000'
-  wikiDataId: Q991408
-- id: 38710
-  name: Wendo
-  state_id: 1
+- name: Wendo
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.60000000'
   longitude: '38.41667000'
-  wikiDataId: Q3565377
-- id: 38716
-  name: Wolayita Zone
-  state_id: 1
+- name: Wolayita Zone
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.84312000'
   longitude: '37.70051000'
-  wikiDataId: Q8029709
-- id: 38718
-  name: Yem
-  state_id: 1
+- name: Yem
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '7.83333000'
   longitude: '37.50000000'
-  wikiDataId: Q1067172
-- id: 38719
-  name: Yirga ‘Alem
-  state_id: 1
+- name: Yirga ‘Alem
   state_code: SN
   state_name: Southern Nations, Nationalities, and Peoples'
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '6.75000000'
   longitude: '38.41667000'
-  wikiDataId: Q2189137
-- id: 38721
-  name: Ādīgrat
-  state_id: 4
+- name: Ādīgrat
   state_code: TI
   state_name: Tigray
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '14.27700000'
   longitude: '39.46200000'
-  wikiDataId: Q357101
-- id: 38597
-  name: Axum
-  state_id: 4
+- name: Axum
   state_code: TI
   state_name: Tigray
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '14.12109000'
   longitude: '38.72337000'
-  wikiDataId: Q5832
-- id: 38658
-  name: Inda Silasē
-  state_id: 4
+- name: Inda Silasē
   state_code: TI
   state_name: Tigray
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '14.10307000'
   longitude: '38.28289000'
-  wikiDataId: Q743859
-- id: 38669
-  name: Korem
-  state_id: 4
+- name: Korem
   state_code: TI
   state_name: Tigray
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '12.50583000'
   longitude: '39.52278000'
-  wikiDataId: Q3198925
-- id: 38675
-  name: Maych’ew
-  state_id: 4
+- name: Maych’ew
   state_code: TI
   state_name: Tigray
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '12.78750000'
   longitude: '39.54222000'
-  wikiDataId: Q3111786
-- id: 38676
-  name: Mek'ele
-  state_id: 4
+- name: Mek'ele
   state_code: TI
   state_name: Tigray
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '13.49667000'
   longitude: '39.47528000'
-  wikiDataId: Q332319
-- id: 38703
-  name: Southeastern Tigray Zone
-  state_id: 4
+- name: Southeastern Tigray Zone
   state_code: TI
   state_name: Tigray
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '13.24797000'
   longitude: '39.53156000'
-  wikiDataId: Q2919962
-- id: 38704
-  name: Southern Tigray Zone
-  state_id: 4
+- name: Southern Tigray Zone
   state_code: TI
   state_name: Tigray
-  country_id: 70
-  country_code: ET
-  country_name: Ethiopia
   latitude: '12.96033000'
   longitude: '39.52831000'
-  wikiDataId: Q3020955

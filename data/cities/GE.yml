@@ -1,1233 +1,561 @@
 ---
-- id: 52054
-  name: Bich’vinta
-  state_id: 901
+- name: Bich’vinta
   state_code: AB
   state_name: Abkhazia
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '43.16197000'
   longitude: '40.34102000'
-  wikiDataId: Q211318
-- id: 52063
-  name: Dranda
-  state_id: 901
+- name: Dranda
   state_code: AB
   state_name: Abkhazia
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.87167000'
   longitude: '41.15333000'
-  wikiDataId: Q3951176
-- id: 52065
-  name: Gagra
-  state_id: 901
+- name: Gagra
   state_code: AB
   state_name: Abkhazia
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '43.27858000'
   longitude: '40.27124000'
-  wikiDataId: Q44811
-- id: 52066
-  name: Gali
-  state_id: 901
+- name: Gali
   state_code: AB
   state_name: Abkhazia
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.62655000'
   longitude: '41.73808000'
-  wikiDataId: Q236673
-- id: 52067
-  name: Gantiadi
-  state_id: 901
+- name: Gantiadi
   state_code: AB
   state_name: Abkhazia
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '43.38111000'
   longitude: '40.07944000'
-  wikiDataId: Q2508003
-- id: 52073
-  name: Gudauta
-  state_id: 901
+- name: Gudauta
   state_code: AB
   state_name: Abkhazia
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '43.10547000'
   longitude: '40.62067000'
-  wikiDataId: Q1553013
-- id: 52078
-  name: Kelasuri
-  state_id: 901
+- name: Kelasuri
   state_code: AB
   state_name: Abkhazia
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.97877000'
   longitude: '41.07067000'
-  wikiDataId: Q956954
-- id: 52105
-  name: Och’amch’ire
-  state_id: 901
+- name: Och’amch’ire
   state_code: AB
   state_name: Abkhazia
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.71232000'
   longitude: '41.46863000'
-  wikiDataId: Q211600
-- id: 52111
-  name: P’rimorsk’oe
-  state_id: 901
+- name: P’rimorsk’oe
   state_code: AB
   state_name: Abkhazia
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '43.09236000'
   longitude: '40.69650000'
-  wikiDataId: Q185345
-- id: 52122
-  name: Sokhumi
-  state_id: 901
+- name: Sokhumi
   state_code: AB
   state_name: Abkhazia
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '43.00697000'
   longitude: '40.98930000'
-  wikiDataId: Q40811
-- id: 52123
-  name: Stantsiya Novyy Afon
-  state_id: 901
+- name: Stantsiya Novyy Afon
   state_code: AB
   state_name: Abkhazia
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '43.08056000'
   longitude: '40.83833000'
-  wikiDataId: Q42194
-- id: 52130
-  name: Tqvarch'eli
-  state_id: 901
+- name: Tqvarch'eli
   state_code: AB
   state_name: Abkhazia
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.84035000'
   longitude: '41.68007000'
-  wikiDataId: Q270535
-- id: 52040
-  name: Akhaldaba
-  state_id: 900
+- name: Akhaldaba
   state_code: AJ
   state_name: Adjara
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.65395000'
   longitude: '42.15163000'
-  wikiDataId: Q31845177
-- id: 52053
-  name: Batumi
-  state_id: 900
+- name: Batumi
   state_code: AJ
   state_name: Adjara
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.64228000'
   longitude: '41.63392000'
-  wikiDataId: Q25475
-- id: 52058
-  name: Chakvi
-  state_id: 900
+- name: Chakvi
   state_code: AJ
   state_name: Adjara
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.72528000'
   longitude: '41.73278000'
-  wikiDataId: Q3646262
-- id: 52061
-  name: Dioknisi
-  state_id: 900
+- name: Dioknisi
   state_code: AJ
   state_name: Adjara
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.62933000'
   longitude: '42.39171000'
-  wikiDataId: Q4161357
-- id: 52081
-  name: Khelvachauri
-  state_id: 900
+- name: Khelvachauri
   state_code: AJ
   state_name: Adjara
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.58556000'
   longitude: '41.66889000'
-  wikiDataId: Q1025120
-- id: 52084
-  name: Khulo
-  state_id: 900
+- name: Khulo
   state_code: AJ
   state_name: Adjara
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.64353000'
   longitude: '42.30397000'
-  wikiDataId: Q1089456
-- id: 52085
-  name: Kobuleti
-  state_id: 900
+- name: Kobuleti
   state_code: AJ
   state_name: Adjara
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.82143000'
   longitude: '41.77921000'
-  wikiDataId: Q328975
-- id: 52093
-  name: Makhinjauri
-  state_id: 900
+- name: Makhinjauri
   state_code: AJ
   state_name: Adjara
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.67385000'
   longitude: '41.69401000'
-  wikiDataId: Q3646259
-- id: 52104
-  name: Ochkhamuri
-  state_id: 900
+- name: Ochkhamuri
   state_code: AJ
   state_name: Adjara
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.85975000'
   longitude: '41.85309000'
-  wikiDataId: Q10600995
-- id: 52119
-  name: Shuakhevi
-  state_id: 900
+- name: Shuakhevi
   state_code: AJ
   state_name: Adjara
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.63000000'
   longitude: '42.19083000'
-  wikiDataId: Q161941
-- id: 52134
-  name: Tsikhisdziri
-  state_id: 900
+- name: Tsikhisdziri
   state_code: AJ
   state_name: Adjara
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.76659000'
   longitude: '41.75517000'
-  wikiDataId: Q145127
-- id: 52091
-  name: Lanchkhuti
-  state_id: 907
+- name: Lanchkhuti
   state_code: GU
   state_name: Guria
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.09027000'
   longitude: '42.03239000'
-  wikiDataId: Q956922
-- id: 52102
-  name: Naruja
-  state_id: 907
+- name: Naruja
   state_code: GU
   state_name: Guria
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.90694000'
   longitude: '41.95417000'
-  wikiDataId: Q1898132
-- id: 52108
-  name: Ozurgeti
-  state_id: 907
+- name: Ozurgeti
   state_code: GU
   state_name: Guria
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.92442000'
   longitude: '42.00682000'
-  wikiDataId: Q317145
-- id: 52141
-  name: Urek’i
-  state_id: 907
+- name: Urek’i
   state_code: GU
   state_name: Guria
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.99556000'
   longitude: '41.77861000'
-  wikiDataId: Q3651285
-- id: 52051
-  name: Baghdatis Munitsip’alit’et’i
-  state_id: 905
+- name: Baghdatis Munitsip’alit’et’i
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.00000000'
   longitude: '42.90000000'
-  wikiDataId: Q2018619
-- id: 52059
-  name: Chiat’ura
-  state_id: 905
+- name: Chiat’ura
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.29806000'
   longitude: '43.29889000'
-  wikiDataId: Q217443
-- id: 52088
-  name: K’alak’i Chiat’ura
-  state_id: 905
+- name: K’alak’i Chiat’ura
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.28333000'
   longitude: '43.25000000'
-  wikiDataId: Q269506
-- id: 52089
-  name: K’ulashi
-  state_id: 905
+- name: K’ulashi
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.20405000'
   longitude: '42.34289000'
-  wikiDataId: Q2245433
-- id: 52079
-  name: Kharagauli
-  state_id: 905
+- name: Kharagauli
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.02137000'
   longitude: '43.19773000'
-  wikiDataId: Q14645211
-- id: 52083
-  name: Khoni
-  state_id: 905
+- name: Khoni
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.32260000'
   longitude: '42.42061000'
-  wikiDataId: Q1011011
-- id: 52086
-  name: Kutaisi
-  state_id: 905
+- name: Kutaisi
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.26791000'
   longitude: '42.69459000'
-  wikiDataId: Q328975
-- id: 52114
-  name: Sach’khere
-  state_id: 905
+- name: Sach’khere
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.34528000'
   longitude: '43.41944000'
-  wikiDataId: Q474669
-- id: 52116
-  name: Samtredia
-  state_id: 905
+- name: Samtredia
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.15370000'
   longitude: '42.33517000'
-  wikiDataId: Q956932
-- id: 52118
-  name: Shorapani
-  state_id: 905
+- name: Shorapani
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.08980000'
   longitude: '43.08662000'
-  wikiDataId: Q1944249
-- id: 52129
-  name: Tqibuli
-  state_id: 905
+- name: Tqibuli
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.35121000'
   longitude: '42.99874000'
-  wikiDataId: Q1954407
-- id: 52137
-  name: Tsqaltubo
-  state_id: 905
+- name: Tsqaltubo
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.34129000'
   longitude: '42.59760000'
-  wikiDataId: Q217990
-- id: 52143
-  name: Vani
-  state_id: 905
+- name: Vani
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.08320000'
   longitude: '42.52163000'
-  wikiDataId: Q1011003
-- id: 52144
-  name: Zestap’oni
-  state_id: 905
+- name: Zestap’oni
   state_code: IM
   state_name: Imereti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.11000000'
   longitude: '43.05250000'
-  wikiDataId: Q734315
-- id: 52045
-  name: Akhmet’a
-  state_id: 910
+- name: Akhmet’a
   state_code: KA
   state_name: Kakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.03111000'
   longitude: '45.20750000'
-  wikiDataId: Q2513568
-- id: 52046
-  name: Akhmet’is Munitsip’alit’et’i
-  state_id: 910
+- name: Akhmet’is Munitsip’alit’et’i
   state_code: KA
   state_name: Kakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.25000000'
   longitude: '45.33333000'
-  wikiDataId: Q748753
-- id: 52074
-  name: Gurjaani
-  state_id: 910
+- name: Gurjaani
   state_code: KA
   state_name: Kakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.74292000'
   longitude: '45.80111000'
-  wikiDataId: Q1011047
-- id: 52090
-  name: Lagodekhi
-  state_id: 910
+- name: Lagodekhi
   state_code: KA
   state_name: Kakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.82681000'
   longitude: '46.27667000'
-  wikiDataId: Q956966
-- id: 52112
-  name: Qvareli
-  state_id: 910
+- name: Qvareli
   state_code: KA
   state_name: Kakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.95493000'
   longitude: '45.81716000'
-  wikiDataId: Q1011016
-- id: 52115
-  name: Sagarejo
-  state_id: 910
+- name: Sagarejo
   state_code: KA
   state_name: Kakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.73397000'
   longitude: '45.33149000'
-  wikiDataId: Q956932
-- id: 52120
-  name: Sighnaghi
-  state_id: 910
+- name: Sighnaghi
   state_code: KA
   state_name: Kakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.62046000'
   longitude: '45.92198000'
-  wikiDataId: Q946143
-- id: 52121
-  name: Sighnaghis Munitsip’alit’et’i
-  state_id: 910
+- name: Sighnaghis Munitsip’alit’et’i
   state_code: KA
   state_name: Kakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.56667000'
   longitude: '45.85000000'
-  wikiDataId: Q1953363
-- id: 52127
-  name: Telavi
-  state_id: 910
+- name: Telavi
   state_code: KA
   state_name: Kakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.91978000'
   longitude: '45.47315000'
-  wikiDataId: Q2474275
-- id: 52135
-  name: Tsinandali
-  state_id: 910
+- name: Tsinandali
   state_code: KA
   state_name: Kakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.89315000'
   longitude: '45.57129000'
-  wikiDataId: Q118953
-- id: 52136
-  name: Tsnori
-  state_id: 910
+- name: Tsnori
   state_code: KA
   state_name: Kakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.62088000'
   longitude: '45.96943000'
-  wikiDataId: Q217990
-- id: 52055
-  name: Bolnisi
-  state_id: 904
+- name: Bolnisi
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.44794000'
   longitude: '44.53838000'
-  wikiDataId: Q653420
-- id: 52056
-  name: Bolnisis Munitsip’alit’et’i
-  state_id: 904
+- name: Bolnisis Munitsip’alit’et’i
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.36667000'
   longitude: '44.51667000'
-  wikiDataId: Q2513580
-- id: 52060
-  name: Didi Lilo
-  state_id: 904
+- name: Didi Lilo
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.73611000'
   longitude: '44.96472000'
-  wikiDataId: Q4161357
-- id: 52062
-  name: Dmanisis Munitsip’alit’et’i
-  state_id: 904
+- name: Dmanisis Munitsip’alit’et’i
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.35000000'
   longitude: '44.13333000'
-  wikiDataId: Q681371
-- id: 52068
-  name: Gardabani
-  state_id: 904
+- name: Gardabani
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.46054000'
   longitude: '45.09283000'
-  wikiDataId: Q1010960
-- id: 52069
-  name: Gardabnis Munitsip’alit’et’i
-  state_id: 904
+- name: Gardabnis Munitsip’alit’et’i
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.61667000'
   longitude: '45.00000000'
-  wikiDataId: Q2512996
-- id: 52094
-  name: Manglisi
-  state_id: 904
+- name: Manglisi
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.69698000'
   longitude: '44.38448000'
-  wikiDataId: Q2029774
-- id: 52095
-  name: Marneuli
-  state_id: 904
+- name: Marneuli
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.47588000'
   longitude: '44.80895000'
-  wikiDataId: Q2029774
-- id: 52096
-  name: Marneulis Munitsip’alit’et’i
-  state_id: 904
+- name: Marneulis Munitsip’alit’et’i
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.38333000'
   longitude: '44.85000000'
-  wikiDataId: Q2410306
-- id: 52101
-  name: Naghvarevi
-  state_id: 904
+- name: Naghvarevi
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.35272000'
   longitude: '44.76178000'
-  wikiDataId: Q3653114
-- id: 52113
-  name: Rust’avi
-  state_id: 904
+- name: Rust’avi
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.54949000'
   longitude: '44.99323000'
-  wikiDataId: Q182521
-- id: 52140
-  name: T’et’ri Tsqaro
-  state_id: 904
+- name: T’et’ri Tsqaro
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.54448000'
   longitude: '44.46153000'
-  wikiDataId: Q1010985
-- id: 52128
-  name: Tetrits’q’alos Munitsip’alit’et’i
-  state_id: 904
+- name: Tetrits’q’alos Munitsip’alit’et’i
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.60000000'
   longitude: '44.50000000'
-  wikiDataId: Q1954407
-- id: 52138
-  name: Ts’alk’is Munitsip’alit’et’i
-  state_id: 904
+- name: Ts’alk’is Munitsip’alit’et’i
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.63333000'
   longitude: '43.96667000'
-  wikiDataId: Q2238147
-- id: 52133
-  name: Tsalka
-  state_id: 904
+- name: Tsalka
   state_code: KK
   state_name: Kvemo Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.59460000'
   longitude: '44.08909000'
-  wikiDataId: Q145127
-- id: 52041
-  name: Akhalgori
-  state_id: 902
+- name: Akhalgori
   state_code: MM
   state_name: Mtskheta-Mtianeti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.12597000'
   longitude: '44.48333000'
-  wikiDataId: Q1010939
-- id: 52064
-  name: Dzegvi
-  state_id: 902
+- name: Dzegvi
   state_code: MM
   state_name: Mtskheta-Mtianeti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.84569000'
   longitude: '44.60097000'
-  wikiDataId: Q3951176
-- id: 52072
-  name: Gudauri
-  state_id: 902
+- name: Gudauri
   state_code: MM
   state_name: Mtskheta-Mtianeti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.47797000'
   longitude: '44.47616000'
-  wikiDataId: Q1553013
-- id: 52075
-  name: Java
-  state_id: 902
+- name: Java
   state_code: MM
   state_name: Mtskheta-Mtianeti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.39972000'
   longitude: '43.93667000'
-  wikiDataId: Q1025834
-- id: 52100
-  name: Mtskheta
-  state_id: 902
+- name: Mtskheta
   state_code: MM
   state_name: Mtskheta-Mtianeti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.84514000'
   longitude: '44.71875000'
-  wikiDataId: Q180810
-- id: 52109
-  name: P’asanauri
-  state_id: 902
+- name: P’asanauri
   state_code: MM
   state_name: Mtskheta-Mtianeti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.35060000'
   longitude: '44.68912000'
-  wikiDataId: Q317145
-- id: 52124
-  name: Step’antsminda
-  state_id: 902
+- name: Step’antsminda
   state_code: MM
   state_name: Mtskheta-Mtianeti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.65667000'
   longitude: '44.64333000'
-  wikiDataId: Q1025823
-- id: 52145
-  name: Zhinvali
-  state_id: 902
+- name: Zhinvali
   state_code: MM
   state_name: Mtskheta-Mtianeti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.13181000'
   longitude: '44.77264000'
-  wikiDataId: Q2073374
-- id: 52047
-  name: Ambrolauri
-  state_id: 909
+- name: Ambrolauri
   state_code: RL
   state_name: Racha-Lechkhumi and Kvemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.52111000'
   longitude: '43.16222000'
-  wikiDataId: Q456842
-- id: 52048
-  name: Ambrolauris Munitsip’alit’et’i
-  state_id: 909
+- name: Ambrolauris Munitsip’alit’et’i
   state_code: RL
   state_name: Racha-Lechkhumi and Kvemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.56667000'
   longitude: '43.10000000'
-  wikiDataId: Q2464159
-- id: 52092
-  name: Lent’ekhi
-  state_id: 909
+- name: Lent’ekhi
   state_code: RL
   state_name: Racha-Lechkhumi and Kvemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.78893000'
   longitude: '42.72226000'
-  wikiDataId: Q956922
-- id: 52106
-  name: Oni
-  state_id: 909
+- name: Oni
   state_code: RL
   state_name: Racha-Lechkhumi and Kvemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.57944000'
   longitude: '43.44250000'
-  wikiDataId: Q941948
-- id: 52035
-  name: Abasha
-  state_id: 908
+- name: Abasha
   state_code: SZ
   state_name: Samegrelo-Zemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.20000000'
   longitude: '42.20000000'
-  wikiDataId: Q2513666
-- id: 52076
-  name: Jvari
-  state_id: 908
+- name: Jvari
   state_code: SZ
   state_name: Samegrelo-Zemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.71693000'
   longitude: '42.05200000'
-  wikiDataId: Q853261
-- id: 52082
-  name: Khobi
-  state_id: 908
+- name: Khobi
   state_code: SZ
   state_name: Samegrelo-Zemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.31558000'
   longitude: '41.89871000'
-  wikiDataId: Q1989822
-- id: 52087
-  name: Kveda Chkhorots’q’u
-  state_id: 908
+- name: Kveda Chkhorots’q’u
   state_code: SZ
   state_name: Samegrelo-Zemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.48103000'
   longitude: '42.09661000'
-  wikiDataId: Q328975
-- id: 52097
-  name: Mart’vili
-  state_id: 908
+- name: Mart’vili
   state_code: SZ
   state_name: Samegrelo-Zemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.41436000'
   longitude: '42.37924000'
-  wikiDataId: Q179290
-- id: 52098
-  name: Mest’ia
-  state_id: 908
+- name: Mest’ia
   state_code: SZ
   state_name: Samegrelo-Zemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '43.04581000'
   longitude: '42.72780000'
-  wikiDataId: Q179290
-- id: 52099
-  name: Mest’iis Munitsip’alit’et’i
-  state_id: 908
+- name: Mest’iis Munitsip’alit’et’i
   state_code: SZ
   state_name: Samegrelo-Zemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '43.05000000'
   longitude: '42.55000000'
-  wikiDataId: Q2490962
-- id: 52107
-  name: Orsant’ia
-  state_id: 908
+- name: Orsant’ia
   state_code: SZ
   state_name: Samegrelo-Zemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.46777000'
   longitude: '41.67377000'
-  wikiDataId: Q941948
-- id: 52110
-  name: P’ot’i
-  state_id: 908
+- name: P’ot’i
   state_code: SZ
   state_name: Samegrelo-Zemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.14616000'
   longitude: '41.67197000'
-  wikiDataId: Q185345
-- id: 52117
-  name: Senak’i
-  state_id: 908
+- name: Senak’i
   state_code: SZ
   state_name: Samegrelo-Zemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.27042000'
   longitude: '42.06750000'
-  wikiDataId: Q320519
-- id: 52132
-  name: Tsalenjikha
-  state_id: 908
+- name: Tsalenjikha
   state_code: SZ
   state_name: Samegrelo-Zemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.60444000'
   longitude: '42.06825000'
-  wikiDataId: Q1017210
-- id: 52146
-  name: Zugdidi
-  state_id: 908
+- name: Zugdidi
   state_code: SZ
   state_name: Samegrelo-Zemo Svaneti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.50880000'
   longitude: '41.87088000'
-  wikiDataId: Q185336
-- id: 52036
-  name: Adigeni
-  state_id: 906
+- name: Adigeni
   state_code: SJ
   state_name: Samtskhe-Javakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.68191000'
   longitude: '42.69867000'
-  wikiDataId: Q2513666
-- id: 52037
-  name: Adigeni Municipality
-  state_id: 906
+- name: Adigeni Municipality
   state_code: SJ
   state_name: Samtskhe-Javakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.71667000'
   longitude: '42.73333000'
-  wikiDataId: Q2382197
-- id: 52039
-  name: Akhaldaba
-  state_id: 906
+- name: Akhaldaba
   state_code: SJ
   state_name: Samtskhe-Javakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.92945000'
   longitude: '43.48762000'
-  wikiDataId: Q31845177
-- id: 52042
-  name: Akhalk’alak’i
-  state_id: 906
+- name: Akhalk’alak’i
   state_code: SJ
   state_name: Samtskhe-Javakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.40514000'
   longitude: '43.48629000'
-  wikiDataId: Q500888
-- id: 52043
-  name: Akhaltsikhe
-  state_id: 906
+- name: Akhaltsikhe
   state_code: SJ
   state_name: Samtskhe-Javakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.63901000'
   longitude: '42.98262000'
-  wikiDataId: Q212546
-- id: 52044
-  name: Akhaltsikhis Munitsip’alit’et’i
-  state_id: 906
+- name: Akhaltsikhis Munitsip’alit’et’i
   state_code: SJ
   state_name: Samtskhe-Javakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.63333000'
   longitude: '43.00000000'
-  wikiDataId: Q2513568
-- id: 52050
-  name: Asp’indzis Munitsip’alit’et’i
-  state_id: 906
+- name: Asp’indzis Munitsip’alit’et’i
   state_code: SJ
   state_name: Samtskhe-Javakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.50000000'
   longitude: '43.25000000'
-  wikiDataId: Q2305733
-- id: 52049
-  name: Aspindza
-  state_id: 906
+- name: Aspindza
   state_code: SJ
   state_name: Samtskhe-Javakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.57389000'
   longitude: '43.24826000'
-  wikiDataId: Q2344454
-- id: 52052
-  name: Bakuriani
-  state_id: 906
+- name: Bakuriani
   state_code: SJ
   state_name: Samtskhe-Javakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.74972000'
   longitude: '43.53250000'
-  wikiDataId: Q789104
-- id: 52057
-  name: Borjomi
-  state_id: 906
+- name: Borjomi
   state_code: SJ
   state_name: Samtskhe-Javakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.85272000'
   longitude: '43.41284000'
-  wikiDataId: Q208352
-- id: 52103
-  name: Ninotsminda
-  state_id: 906
+- name: Ninotsminda
   state_code: SJ
   state_name: Samtskhe-Javakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.26458000'
   longitude: '43.59161000'
-  wikiDataId: Q10600995
-- id: 52131
-  name: Tsaghveri
-  state_id: 906
+- name: Tsaghveri
   state_code: SJ
   state_name: Samtskhe-Javakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.80365000'
   longitude: '43.48194000'
-  wikiDataId: Q270535
-- id: 52142
-  name: Vale
-  state_id: 906
+- name: Vale
   state_code: SJ
   state_name: Samtskhe-Javakheti
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.61558000'
   longitude: '42.87224000'
-  wikiDataId: Q783749
-- id: 52038
-  name: Agara
-  state_id: 903
+- name: Agara
   state_code: SK
   state_name: Shida Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.03761000'
   longitude: '43.82382000'
-  wikiDataId: Q2382197
-- id: 52070
-  name: Gori
-  state_id: 903
+- name: Gori
   state_code: SK
   state_name: Shida Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.98422000'
   longitude: '44.11578000'
-  wikiDataId: Q19583
-- id: 52071
-  name: Goris Munitsip’alit’et’i
-  state_id: 903
+- name: Goris Munitsip’alit’et’i
   state_code: SK
   state_name: Shida Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.06667000'
   longitude: '44.11667000'
-  wikiDataId: Q1417170
-- id: 52077
-  name: Kaspi
-  state_id: 903
+- name: Kaspi
   state_code: SK
   state_name: Shida Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.92520000'
   longitude: '44.42568000'
-  wikiDataId: Q956954
-- id: 52080
-  name: Khashuri
-  state_id: 903
+- name: Khashuri
   state_code: SK
   state_name: Shida Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.99414000'
   longitude: '43.59994000'
-  wikiDataId: Q932901
-- id: 52125
-  name: Surami
-  state_id: 903
+- name: Surami
   state_code: SK
   state_name: Shida Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.02431000'
   longitude: '43.55556000'
-  wikiDataId: Q2474275
-- id: 52139
-  name: Ts’khinvali
-  state_id: 903
+- name: Ts’khinvali
   state_code: SK
   state_name: Shida Kartli
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '42.22764000'
   longitude: '43.96861000'
-  wikiDataId: Q79863
-- id: 52126
-  name: Tbilisi
-  state_id: 899
+- name: Tbilisi
   state_code: TB
   state_name: Tbilisi
-  country_id: 81
-  country_code: GE
-  country_name: Georgia
   latitude: '41.69411000'
   longitude: '44.83368000'
-  wikiDataId: Q2474275

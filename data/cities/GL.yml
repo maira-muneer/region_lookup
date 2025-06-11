@@ -1,199 +1,91 @@
 ---
-- id: 154930
-  name: Ilulissat
-  state_id: 5379
+- name: Ilulissat
   state_code: AV
   state_name: Avannaata
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '69.22794880'
   longitude: "-51.12805390"
-  wikiDataId: Q191047
-- id: 154931
-  name: Qaanaaq
-  state_id: 5379
+- name: Qaanaaq
   state_code: AV
   state_name: Avannaata
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '77.46740090'
   longitude: "-69.24837110"
-  wikiDataId: Q223314
-- id: 154933
-  name: Upernavik
-  state_id: 5379
+- name: Upernavik
   state_code: AV
   state_name: Avannaata
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '72.78686030'
   longitude: "-56.16236710"
-  wikiDataId: Q303160
-- id: 154932
-  name: Uummannaq
-  state_id: 5379
+- name: Uummannaq
   state_code: AV
   state_name: Avannaata
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '70.67868970'
   longitude: "-52.14978240"
-  wikiDataId: Q747898
-- id: 154934
-  name: Nanortalik
-  state_id: 5380
+- name: Nanortalik
   state_code: KU
   state_name: Kujalleq
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '60.14308250'
   longitude: "-45.25629050"
-  wikiDataId: Q855324
-- id: 154935
-  name: Narsaq
-  state_id: 5380
+- name: Narsaq
   state_code: KU
   state_name: Kujalleq
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '60.91140780'
   longitude: "-46.06857080"
-  wikiDataId: Q432397
-- id: 154936
-  name: Qaqortoq
-  state_id: 5380
+- name: Qaqortoq
   state_code: KU
   state_name: Kujalleq
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '60.71959600'
   longitude: "-46.05481630"
-  wikiDataId: Q221203
-- id: 154937
-  name: Aasiaat
-  state_id: 5381
+- name: Aasiaat
   state_code: QT
   state_name: Qeqertalik
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '68.70762800'
   longitude: "-52.89951360"
-  wikiDataId: Q211218
-- id: 154938
-  name: Kangaatsiaq
-  state_id: 5381
+- name: Kangaatsiaq
   state_code: QT
   state_name: Qeqertalik
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '68.30818450'
   longitude: "-53.47685330"
-  wikiDataId: Q612160
-- id: 154939
-  name: Qasigiannguit
-  state_id: 5381
+- name: Qasigiannguit
   state_code: QT
   state_name: Qeqertalik
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '68.81986320'
   longitude: "-51.20916370"
-  wikiDataId: Q950991
-- id: 154940
-  name: Qeqertarsuaq
-  state_id: 5381
+- name: Qeqertarsuaq
   state_code: QT
   state_name: Qeqertalik
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '69.24430370'
   longitude: "-53.56440060"
-  wikiDataId: Q847668
-- id: 154941
-  name: Maniitsoq
-  state_id: 5382
+- name: Maniitsoq
   state_code: QE
   state_name: Qeqqata
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '65.40657990'
   longitude: "-52.94225730"
-  wikiDataId: Q847691
-- id: 154942
-  name: Sisimiut
-  state_id: 5382
+- name: Sisimiut
   state_code: QE
   state_name: Qeqqata
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '66.93945740'
   longitude: "-53.74567660"
-  wikiDataId: Q208098
-- id: 154943
-  name: Ammassalik
-  state_id: 5383
+- name: Ammassalik
   state_code: SM
   state_name: Sermersooq
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '65.61452670'
   longitude: "-37.65014660"
-  wikiDataId: Q2139799
-- id: 154944
-  name: Ittoqqortoormiit
-  state_id: 5383
+- name: Ittoqqortoormiit
   state_code: SM
   state_name: Sermersooq
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '70.48634210'
   longitude: "-21.97986600"
-  wikiDataId: Q321279
-- id: 154945
-  name: Ivittuut
-  state_id: 5383
+- name: Ivittuut
   state_code: SM
   state_name: Sermersooq
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '61.20651840'
   longitude: "-48.18198510"
-  wikiDataId: Q950978
-- id: 154946
-  name: Nuuk
-  state_id: 5383
+- name: Nuuk
   state_code: SM
   state_name: Sermersooq
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '64.17910090'
   longitude: "-51.74800910"
-  wikiDataId: Q226
-- id: 154947
-  name: Paamiut
-  state_id: 5383
+- name: Paamiut
   state_code: SM
   state_name: Sermersooq
-  country_id: 86
-  country_code: GL
-  country_name: Greenland
   latitude: '62.00259620'
   longitude: "-49.70519590"
-  wikiDataId: Q545767

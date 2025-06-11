@@ -1,6601 +1,3001 @@
 ---
-- id: 79962
-  name: Almirante
-  state_id: 1393
+- name: Almirante
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.30091000'
   longitude: "-82.40180000"
-  wikiDataId: Q1956983
-- id: 79982
-  name: Barranco
-  state_id: 1393
+- name: Barranco
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.51984000'
   longitude: "-82.70424000"
-  wikiDataId: Q1956983
-- id: 79983
-  name: Barranco Adentro
-  state_id: 1393
+- name: Barranco Adentro
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.52757000'
   longitude: "-82.73344000"
-  wikiDataId: Q1956983
-- id: 79986
-  name: Bastimentos
-  state_id: 1393
+- name: Bastimentos
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.34707000'
   longitude: "-82.20880000"
-  wikiDataId: Q1956983
-- id: 80000
-  name: Bocas del Toro
-  state_id: 1393
+- name: Bocas del Toro
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.34031000'
   longitude: "-82.24204000"
-  wikiDataId: Q888971
-- id: 80036
-  name: Cauchero
-  state_id: 1393
+- name: Cauchero
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.15226000'
   longitude: "-82.26450000"
-  wikiDataId: Q804144
-- id: 80054
-  name: Changuinola
-  state_id: 1393
+- name: Changuinola
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.43000000'
   longitude: "-82.52000000"
-  wikiDataId: Q804144
-- id: 80063
-  name: Chiriquí Grande
-  state_id: 1393
+- name: Chiriquí Grande
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.94557000'
   longitude: "-82.11769000"
-  wikiDataId: Q804144
-- id: 80084
-  name: Distrito Chiriquí Grande
-  state_id: 1393
+- name: Distrito Chiriquí Grande
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.94748000'
   longitude: "-82.12418000"
-  wikiDataId: Q515794
-- id: 80092
-  name: Distrito de Bocas del Toro
-  state_id: 1393
+- name: Distrito de Bocas del Toro
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.36235000'
   longitude: "-82.26288000"
-  wikiDataId: Q2702428
-- id: 80101
-  name: Distrito de Changuinola
-  state_id: 1393
+- name: Distrito de Changuinola
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.25000000'
   longitude: "-82.63333000"
-  wikiDataId: Q2216073
-- id: 80170
-  name: El Empalme
-  state_id: 1393
+- name: El Empalme
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.41667000'
   longitude: "-82.51667000"
-  wikiDataId: Q2216393
-- id: 80202
-  name: El Silencio
-  state_id: 1393
+- name: El Silencio
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.37222000'
   longitude: "-82.52877000"
-  wikiDataId: Q1018577
-- id: 80217
-  name: Guabito
-  state_id: 1393
+- name: Guabito
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.48968000'
   longitude: "-82.61279000"
-  wikiDataId: Q2437057
-- id: 80235
-  name: Isla Bastimentos
-  state_id: 1393
+- name: Isla Bastimentos
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.30000000'
   longitude: "-82.13333000"
-  wikiDataId: Q2437057
-- id: 80265
-  name: La Mesa
-  state_id: 1393
+- name: La Mesa
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.49587000'
   longitude: "-82.67534000"
-  wikiDataId: Q6463469
-- id: 80355
-  name: Miramar
-  state_id: 1393
+- name: Miramar
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.99482000'
   longitude: "-82.24147000"
-  wikiDataId: Q3711142
-- id: 80437
-  name: Punta Laurel
-  state_id: 1393
+- name: Punta Laurel
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.14100000'
   longitude: "-82.12717000"
-  wikiDataId: Q3130855
-- id: 80438
-  name: Punta Peña
-  state_id: 1393
+- name: Punta Peña
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.91659000'
   longitude: "-82.18488000"
-  wikiDataId: Q3130855
-- id: 80439
-  name: Punta Róbalo
-  state_id: 1393
+- name: Punta Róbalo
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.03631000'
   longitude: "-82.24952000"
-  wikiDataId: Q3130855
-- id: 80537
-  name: Valle del Risco
-  state_id: 1393
+- name: Valle del Risco
   state_code: '1'
   state_name: Bocas del Toro
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.23064000'
   longitude: "-82.42748000"
-  wikiDataId: Q3254645
-- id: 79959
-  name: Alanje
-  state_id: 1397
+- name: Alanje
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.39791000'
   longitude: "-82.55947000"
-  wikiDataId: Q1956983
-- id: 79961
-  name: Algarrobos Arriba
-  state_id: 1397
+- name: Algarrobos Arriba
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.51550000'
   longitude: "-82.42263000"
-  wikiDataId: Q1956983
-- id: 79963
-  name: Alto Boquete
-  state_id: 1397
+- name: Alto Boquete
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.73458000'
   longitude: "-82.43213000"
-  wikiDataId: Q1956983
-- id: 79974
-  name: Aserrío de Gariché
-  state_id: 1397
+- name: Aserrío de Gariché
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.48257000'
   longitude: "-82.79086000"
-  wikiDataId: Q1956983
-- id: 80012
-  name: Bágala
-  state_id: 1397
+- name: Bágala
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.46399000'
   longitude: "-82.52617000"
-  wikiDataId: Q804144
-- id: 79979
-  name: Bajo Boquete
-  state_id: 1397
+- name: Bajo Boquete
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.77058000'
   longitude: "-82.43306000"
-  wikiDataId: Q1956983
-- id: 79985
-  name: Barrio Guadalupe
-  state_id: 1397
+- name: Barrio Guadalupe
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.86482000'
   longitude: "-82.56523000"
-  wikiDataId: Q1956983
-- id: 79992
-  name: Bijagual
-  state_id: 1397
+- name: Bijagual
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.51486000'
   longitude: "-82.33361000"
-  wikiDataId: Q1956983
-- id: 79995
-  name: Boca Chica
-  state_id: 1397
+- name: Boca Chica
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.21911000'
   longitude: "-82.21592000"
-  wikiDataId: Q1956983
-- id: 79999
-  name: Boca del Monte
-  state_id: 1397
+- name: Boca del Monte
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.35296000'
   longitude: "-82.11379000"
-  wikiDataId: Q1956983
-- id: 80002
-  name: Boquerón
-  state_id: 1397
+- name: Boquerón
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.50510000'
   longitude: "-82.57025000"
-  wikiDataId: Q888971
-- id: 80003
-  name: Boquete
-  state_id: 1397
+- name: Boquete
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.78024000'
   longitude: "-82.44136000"
-  wikiDataId: Q804144
-- id: 80005
-  name: Breñón
-  state_id: 1397
+- name: Breñón
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.62491000'
   longitude: "-82.81277000"
-  wikiDataId: Q804144
-- id: 80010
-  name: Bugaba
-  state_id: 1397
+- name: Bugaba
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.48255000'
   longitude: "-82.61991000"
-  wikiDataId: Q804144
-- id: 80011
-  name: Bugabita Arriba
-  state_id: 1397
+- name: Bugabita Arriba
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.52143000'
   longitude: "-82.63638000"
-  wikiDataId: Q804144
-- id: 80021
-  name: Caimito
-  state_id: 1397
+- name: Caimito
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.54162000'
   longitude: "-82.41900000"
-  wikiDataId: Q804144
-- id: 80023
-  name: Caldera
-  state_id: 1397
+- name: Caldera
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.64907000'
   longitude: "-82.38058000"
-  wikiDataId: Q804144
-- id: 80038
-  name: Cañas Gordas
-  state_id: 1397
+- name: Cañas Gordas
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.74309000'
   longitude: "-82.91275000"
-  wikiDataId: Q804144
-- id: 80043
-  name: Celmira
-  state_id: 1397
+- name: Celmira
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.54026000'
   longitude: "-82.80022000"
-  wikiDataId: Q804144
-- id: 80051
-  name: Cerro Punta
-  state_id: 1397
+- name: Cerro Punta
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.84968000'
   longitude: "-82.57261000"
-  wikiDataId: Q804144
-- id: 80052
-  name: Cerro Viejo
-  state_id: 1397
+- name: Cerro Viejo
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.25349000'
   longitude: "-81.57658000"
-  wikiDataId: Q804144
-- id: 80062
-  name: Chiriquí
-  state_id: 1397
+- name: Chiriquí
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.39291000'
   longitude: "-82.31993000"
-  wikiDataId: Q804144
-- id: 80070
-  name: Cochea Abajo
-  state_id: 1397
+- name: Cochea Abajo
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.50512000'
   longitude: "-82.35878000"
-  wikiDataId: Q5118336
-- id: 80075
-  name: Cordillera
-  state_id: 1397
+- name: Cordillera
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.70683000'
   longitude: "-82.60327000"
-  wikiDataId: Q627852
-- id: 80082
-  name: David
-  state_id: 1397
+- name: David
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.42729000'
   longitude: "-82.43085000"
-  wikiDataId: Q279009
-- id: 80087
-  name: Distrito de Alanje
-  state_id: 1397
+- name: Distrito de Alanje
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.39842000'
   longitude: "-82.64065000"
-  wikiDataId: Q8193110
-- id: 80091
-  name: Distrito de Barú
-  state_id: 1397
+- name: Distrito de Barú
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.29482000'
   longitude: "-82.92726000"
-  wikiDataId: Q522183
-- id: 80093
-  name: Distrito de Boquerón
-  state_id: 1397
+- name: Distrito de Boquerón
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.61667000'
   longitude: "-82.56667000"
-  wikiDataId: Q2216576
-- id: 80094
-  name: Distrito de Boquete
-  state_id: 1397
+- name: Distrito de Boquete
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.74896000'
   longitude: "-82.36842000"
-  wikiDataId: Q893253
-- id: 80095
-  name: Distrito de Bugaba
-  state_id: 1397
+- name: Distrito de Bugaba
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.68786000'
   longitude: "-82.67937000"
-  wikiDataId: Q955035
-- id: 80107
-  name: Distrito de David
-  state_id: 1397
+- name: Distrito de David
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.40000000'
   longitude: "-82.40000000"
-  wikiDataId: Q2215578
-- id: 80108
-  name: Distrito de Dolega
-  state_id: 1397
+- name: Distrito de Dolega
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.61667000'
   longitude: "-82.45000000"
-  wikiDataId: Q2216989
-- id: 80110
-  name: Distrito de Gualaca
-  state_id: 1397
+- name: Distrito de Gualaca
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.57398000'
   longitude: "-82.22207000"
-  wikiDataId: Q2216432
-- id: 80132
-  name: Distrito de Remedios
-  state_id: 1397
+- name: Distrito de Remedios
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.20253000'
   longitude: "-81.81163000"
-  wikiDataId: Q2216582
-- id: 80133
-  name: Distrito de Renacimiento
-  state_id: 1397
+- name: Distrito de Renacimiento
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.71667000'
   longitude: "-82.76667000"
-  wikiDataId: Q2216549
-- id: 80137
-  name: Distrito de San Félix
-  state_id: 1397
+- name: Distrito de San Félix
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.27768000'
   longitude: "-81.87377000"
-  wikiDataId: Q2217004
-- id: 80138
-  name: Distrito de San Lorenzo
-  state_id: 1397
+- name: Distrito de San Lorenzo
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.29366000'
   longitude: "-82.08922000"
-  wikiDataId: Q2217004
-- id: 80145
-  name: Distrito de Tolé
-  state_id: 1397
+- name: Distrito de Tolé
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.19015000'
   longitude: "-81.66007000"
-  wikiDataId: Q1014642
-- id: 80147
-  name: Divalá
-  state_id: 1397
+- name: Divalá
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.41066000'
   longitude: "-82.71332000"
-  wikiDataId: Q2216393
-- id: 80148
-  name: Dolega District
-  state_id: 1397
+- name: Dolega District
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.56667000'
   longitude: "-82.41407000"
-  wikiDataId: Q2216393
-- id: 80185
-  name: El Nancito
-  state_id: 1397
+- name: El Nancito
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.23811000'
   longitude: "-81.73218000"
-  wikiDataId: Q2216393
-- id: 80186
-  name: El Palmar
-  state_id: 1397
+- name: El Palmar
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.30098000'
   longitude: "-82.85344000"
-  wikiDataId: Q2216393
-- id: 80193
-  name: El Porvenir
-  state_id: 1397
+- name: El Porvenir
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.22919000'
   longitude: "-81.83278000"
-  wikiDataId: Q1018577
-- id: 80203
-  name: El Tejar
-  state_id: 1397
+- name: El Tejar
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.42973000'
   longitude: "-82.57294000"
-  wikiDataId: Q1018577
-- id: 80210
-  name: Finca Blanco
-  state_id: 1397
+- name: Finca Blanco
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.37979000'
   longitude: "-82.87385000"
-  wikiDataId: Q5352312
-- id: 80229
-  name: Gómez
-  state_id: 1397
+- name: Gómez
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.56085000'
   longitude: "-82.74142000"
-  wikiDataId: Q2437057
-- id: 80216
-  name: Guabal
-  state_id: 1397
+- name: Guabal
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.57466000'
   longitude: "-82.53730000"
-  wikiDataId: Q5352312
-- id: 80218
-  name: Guaca Arriba
-  state_id: 1397
+- name: Guaca Arriba
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.53733000'
   longitude: "-82.49281000"
-  wikiDataId: Q2437057
-- id: 80220
-  name: Gualaca
-  state_id: 1397
+- name: Gualaca
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.53006000'
   longitude: "-82.29959000"
-  wikiDataId: Q2437057
-- id: 80223
-  name: Guarumal
-  state_id: 1397
+- name: Guarumal
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.34523000'
   longitude: "-82.53205000"
-  wikiDataId: Q2437057
-- id: 80225
-  name: Guayabal
-  state_id: 1397
+- name: Guayabal
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.62193000'
   longitude: "-82.57935000"
-  wikiDataId: Q2437057
-- id: 80233
-  name: Horconcitos
-  state_id: 1397
+- name: Horconcitos
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.31142000'
   longitude: "-82.15102000"
-  wikiDataId: Q2437057
-- id: 80247
-  name: La Concepción
-  state_id: 1397
+- name: La Concepción
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.51212000'
   longitude: "-82.61858000"
-  wikiDataId: Q774405
-- id: 80252
-  name: La Esperanza
-  state_id: 1397
+- name: La Esperanza
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.40344000'
   longitude: "-82.79197000"
-  wikiDataId: Q774405
-- id: 80254
-  name: La Estrella
-  state_id: 1397
+- name: La Estrella
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.51572000'
   longitude: "-82.67212000"
-  wikiDataId: Q774405
-- id: 80283
-  name: Lajas Adentro
-  state_id: 1397
+- name: Lajas Adentro
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.24981000'
   longitude: "-81.87779000"
-  wikiDataId: Q10315061
-- id: 80284
-  name: Lajas de Tolé
-  state_id: 1397
+- name: Lajas de Tolé
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.16994000'
   longitude: "-81.69654000"
-  wikiDataId: Q10315061
-- id: 80295
-  name: Las Lajas
-  state_id: 1397
+- name: Las Lajas
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.24184000'
   longitude: "-81.86931000"
-  wikiDataId: Q3916792
-- id: 80296
-  name: Las Lomas
-  state_id: 1397
+- name: Las Lomas
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.42927000'
   longitude: "-82.38743000"
-  wikiDataId: Q3916792
-- id: 80311
-  name: Limones
-  state_id: 1397
+- name: Limones
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.10007000'
   longitude: "-82.86679000"
-  wikiDataId: Q2712890
-- id: 80326
-  name: Los Algarrobos
-  state_id: 1397
+- name: Los Algarrobos
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.49601000'
   longitude: "-82.42417000"
-  wikiDataId: Q2712890
-- id: 80328
-  name: Los Anastacios
-  state_id: 1397
+- name: Los Anastacios
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.53027000'
   longitude: "-82.42295000"
-  wikiDataId: Q2712890
-- id: 80344
-  name: Los Ángeles
-  state_id: 1397
+- name: Los Ángeles
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.52271000'
   longitude: "-82.19997000"
-  wikiDataId: Q2712890
-- id: 80338
-  name: Los Naranjos
-  state_id: 1397
+- name: Los Naranjos
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.79210000'
   longitude: "-82.44665000"
-  wikiDataId: Q2712890
-- id: 80347
-  name: Manaca Civil
-  state_id: 1397
+- name: Manaca Civil
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.32458000'
   longitude: "-82.81570000"
-  wikiDataId: Q931897
-- id: 80348
-  name: Manaca Norte
-  state_id: 1397
+- name: Manaca Norte
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.33419000'
   longitude: "-82.81003000"
-  wikiDataId: Q931897
-- id: 80351
-  name: Mata del Nance
-  state_id: 1397
+- name: Mata del Nance
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.45056000'
   longitude: "-82.40057000"
-  wikiDataId: Q3711142
-- id: 80360
-  name: Monte Lirio
-  state_id: 1397
+- name: Monte Lirio
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.78935000'
   longitude: "-82.82865000"
-  wikiDataId: Q3711142
-- id: 80378
-  name: Nuevo San Carlitos
-  state_id: 1397
+- name: Nuevo San Carlitos
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.45698000'
   longitude: "-82.43712000"
-  wikiDataId: Q7068660
-- id: 80387
-  name: Paja de Sombrero
-  state_id: 1397
+- name: Paja de Sombrero
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.68335000'
   longitude: "-82.31911000"
-  wikiDataId: Q1985435
-- id: 80392
-  name: Palmira
-  state_id: 1397
+- name: Palmira
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.73401000'
   longitude: "-82.45887000"
-  wikiDataId: Q1985435
-- id: 80393
-  name: Palmira Centro
-  state_id: 1397
+- name: Palmira Centro
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.73956000'
   longitude: "-82.45228000"
-  wikiDataId: Q1985435
-- id: 80395
-  name: Paraíso
-  state_id: 1397
+- name: Paraíso
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.65842000'
   longitude: "-82.58625000"
-  wikiDataId: Q3306
-- id: 80402
-  name: Paso Canoas Arriba
-  state_id: 1397
+- name: Paso Canoas Arriba
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.56516000'
   longitude: "-82.82214000"
-  wikiDataId: Q3306
-- id: 80405
-  name: Pedregal
-  state_id: 1397
+- name: Pedregal
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.36586000'
   longitude: "-82.43524000"
-  wikiDataId: Q3306
-- id: 80418
-  name: Plaza de Caisán
-  state_id: 1397
+- name: Plaza de Caisán
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.73672000'
   longitude: "-82.81968000"
-  wikiDataId: Q654169
-- id: 80424
-  name: Potrerillos Abajo
-  state_id: 1397
+- name: Potrerillos Abajo
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.63978000'
   longitude: "-82.48560000"
-  wikiDataId: Q797147
-- id: 80425
-  name: Potrerillos Arriba
-  state_id: 1397
+- name: Potrerillos Arriba
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.68547000'
   longitude: "-82.49090000"
-  wikiDataId: Q797147
-- id: 80428
-  name: Progreso
-  state_id: 1397
+- name: Progreso
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.44669000'
   longitude: "-82.83859000"
-  wikiDataId: Q7235136
-- id: 80430
-  name: Pueblo Viejo
-  state_id: 1397
+- name: Pueblo Viejo
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.25081000'
   longitude: "-81.66259000"
-  wikiDataId: Q33473996
-- id: 80431
-  name: Puerto Armuelles
-  state_id: 1397
+- name: Puerto Armuelles
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.27775000'
   longitude: "-82.86206000"
-  wikiDataId: Q3130855
-- id: 80440
-  name: Punta de Burica
-  state_id: 1397
+- name: Punta de Burica
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.03333000'
   longitude: "-82.86667000"
-  wikiDataId: Q3130855
-- id: 80447
-  name: Quebrada de Piedra
-  state_id: 1397
+- name: Quebrada de Piedra
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.09418000'
   longitude: "-81.67915000"
-  wikiDataId: Q3130855
-- id: 80449
-  name: Querévalo
-  state_id: 1397
+- name: Querévalo
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.37174000'
   longitude: "-82.52670000"
-  wikiDataId: Q3130855
-- id: 80450
-  name: Quinteño
-  state_id: 1397
+- name: Quinteño
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.47102000'
   longitude: "-82.39352000"
-  wikiDataId: Q3130855
-- id: 80451
-  name: Remedios
-  state_id: 1397
+- name: Remedios
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.22436000'
   longitude: "-81.82747000"
-  wikiDataId: Q3130855
-- id: 80452
-  name: Rincón
-  state_id: 1397
+- name: Rincón
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.46374000'
   longitude: "-82.27951000"
-  wikiDataId: Q3130855
-- id: 80465
-  name: Río Sereno
-  state_id: 1397
+- name: Río Sereno
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.81741000'
   longitude: "-82.85731000"
-  wikiDataId: Q7386411
-- id: 80455
-  name: Rovira Arriba
-  state_id: 1397
+- name: Rovira Arriba
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.63822000'
   longitude: "-82.49965000"
-  wikiDataId: Q3130855
-- id: 80471
-  name: San Andrés
-  state_id: 1397
+- name: San Andrés
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.60260000'
   longitude: "-82.72588000"
-  wikiDataId: Q7386411
-- id: 80474
-  name: San Carlos
-  state_id: 1397
+- name: San Carlos
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.51663000'
   longitude: "-82.50906000"
-  wikiDataId: Q7386411
-- id: 80478
-  name: San Félix
-  state_id: 1397
+- name: San Félix
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.29063000'
   longitude: "-81.86702000"
-  wikiDataId: Q7386411
-- id: 80480
-  name: San Isidro
-  state_id: 1397
+- name: San Isidro
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.53032000'
   longitude: "-82.82720000"
-  wikiDataId: Q7386411
-- id: 80487
-  name: San Lorenzo
-  state_id: 1397
+- name: San Lorenzo
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.30561000'
   longitude: "-82.10114000"
-  wikiDataId: Q7386411
-- id: 80491
-  name: San Pablo Nuevo Abajo
-  state_id: 1397
+- name: San Pablo Nuevo Abajo
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.42558000'
   longitude: "-82.50173000"
-  wikiDataId: Q932699
-- id: 80492
-  name: San Pablo Viejo Abajo
-  state_id: 1397
+- name: San Pablo Viejo Abajo
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.45339000'
   longitude: "-82.50179000"
-  wikiDataId: Q932699
-- id: 80497
-  name: Santa Clara
-  state_id: 1397
+- name: Santa Clara
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.83376000'
   longitude: "-82.77945000"
-  wikiDataId: Q932699
-- id: 80499
-  name: Santa Cruz
-  state_id: 1397
+- name: Santa Cruz
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.23219000'
   longitude: "-81.91323000"
-  wikiDataId: Q932699
-- id: 80503
-  name: Santa Marta
-  state_id: 1397
+- name: Santa Marta
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.51406000'
   longitude: "-82.69870000"
-  wikiDataId: Q5620819
-- id: 80507
-  name: Santa Rosa
-  state_id: 1397
+- name: Santa Rosa
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.59958000'
   longitude: "-82.68489000"
-  wikiDataId: Q2124870
-- id: 80510
-  name: Santo Domingo
-  state_id: 1397
+- name: Santo Domingo
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.50803000'
   longitude: "-82.71295000"
-  wikiDataId: Q685509
-- id: 80511
-  name: Santo Tomás
-  state_id: 1397
+- name: Santo Tomás
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.38959000'
   longitude: "-82.65058000"
-  wikiDataId: Q685509
-- id: 80513
-  name: Sioguí Abajo
-  state_id: 1397
+- name: Sioguí Abajo
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.48678000'
   longitude: "-82.66539000"
-  wikiDataId: Q685509
-- id: 80514
-  name: Sioguí Arriba
-  state_id: 1397
+- name: Sioguí Arriba
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.53865000'
   longitude: "-82.68619000"
-  wikiDataId: Q685509
-- id: 80517
-  name: Sortova
-  state_id: 1397
+- name: Sortova
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.54642000'
   longitude: "-82.65170000"
-  wikiDataId: Q685509
-- id: 80520
-  name: Tijeras
-  state_id: 1397
+- name: Tijeras
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.47514000'
   longitude: "-82.56058000"
-  wikiDataId: Q685509
-- id: 80521
-  name: Tinajas
-  state_id: 1397
+- name: Tinajas
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.55281000'
   longitude: "-82.45963000"
-  wikiDataId: Q685509
-- id: 80525
-  name: Tolé
-  state_id: 1397
+- name: Tolé
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.23989000'
   longitude: "-81.67168000"
-  wikiDataId: Q186116
-- id: 80539
-  name: Veladero
-  state_id: 1397
+- name: Veladero
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.23136000'
   longitude: "-81.65417000"
-  wikiDataId: Q3254645
-- id: 80550
-  name: Volcán
-  state_id: 1397
+- name: Volcán
   state_code: '4'
   state_name: Chiriquí Province
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.77291000'
   longitude: "-82.63823000"
-  wikiDataId: Q33512189
-- id: 79956
-  name: Aguadulce
-  state_id: 1387
+- name: Aguadulce
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.24183000'
   longitude: "-80.54609000"
-  wikiDataId: Q1956983
-- id: 79957
-  name: Aguas Blancas
-  state_id: 1387
+- name: Aguas Blancas
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.50351000'
   longitude: "-80.31169000"
-  wikiDataId: Q1956983
-- id: 79965
-  name: Alto de La Estancia
-  state_id: 1387
+- name: Alto de La Estancia
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.58792000'
   longitude: "-80.18443000"
-  wikiDataId: Q1956983
-- id: 79969
-  name: Antón
-  state_id: 1387
+- name: Antón
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.39733000'
   longitude: "-80.26063000"
-  wikiDataId: Q1956983
-- id: 79984
-  name: Barranco Colorado
-  state_id: 1387
+- name: Barranco Colorado
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.38937000'
   longitude: "-80.63546000"
-  wikiDataId: Q1956983
-- id: 80013
-  name: Caballero
-  state_id: 1387
+- name: Caballero
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.54343000'
   longitude: "-80.19769000"
-  wikiDataId: Q804144
-- id: 80017
-  name: Cabuya
-  state_id: 1387
+- name: Cabuya
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.54703000'
   longitude: "-80.16756000"
-  wikiDataId: Q804144
-- id: 80019
-  name: Caimito
-  state_id: 1387
+- name: Caimito
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.62271000'
   longitude: "-80.23919000"
-  wikiDataId: Q804144
-- id: 80039
-  name: Cañaveral
-  state_id: 1387
+- name: Cañaveral
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.51700000'
   longitude: "-80.42916000"
-  wikiDataId: Q804144
-- id: 80032
-  name: Capellanía
-  state_id: 1387
+- name: Capellanía
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.29858000'
   longitude: "-80.55480000"
-  wikiDataId: Q804144
-- id: 80058
-  name: Chigoré
-  state_id: 1387
+- name: Chigoré
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.53035000'
   longitude: "-80.35117000"
-  wikiDataId: Q804144
-- id: 80059
-  name: Chiguirí Arriba
-  state_id: 1387
+- name: Chiguirí Arriba
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.67187000'
   longitude: "-80.18975000"
-  wikiDataId: Q804144
-- id: 80067
-  name: Churuquita Chiquita
-  state_id: 1387
+- name: Churuquita Chiquita
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.57555000'
   longitude: "-80.27161000"
-  wikiDataId: Q5118336
-- id: 80068
-  name: Churuquita Grande
-  state_id: 1387
+- name: Churuquita Grande
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.59449000'
   longitude: "-80.27182000"
-  wikiDataId: Q5118336
-- id: 80071
-  name: Coclé
-  state_id: 1387
+- name: Coclé
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.45601000'
   longitude: "-80.42899000"
-  wikiDataId: Q34795886
-- id: 80086
-  name: Distrito de Aguadulce
-  state_id: 1387
+- name: Distrito de Aguadulce
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.21270000'
   longitude: "-80.61441000"
-  wikiDataId: Q2216595
-- id: 80088
-  name: Distrito de Antón
-  state_id: 1387
+- name: Distrito de Antón
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.45394000'
   longitude: "-80.18361000"
-  wikiDataId: Q2216997
-- id: 80114
-  name: Distrito de La Pintada
-  state_id: 1387
+- name: Distrito de La Pintada
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.71801000'
   longitude: "-80.53946000"
-  wikiDataId: Q2215435
-- id: 80122
-  name: Distrito de Natá
-  state_id: 1387
+- name: Distrito de Natá
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.34416000'
   longitude: "-80.60934000"
-  wikiDataId: Q2215891
-- id: 80124
-  name: Distrito de Olá
-  state_id: 1387
+- name: Distrito de Olá
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.48053000'
   longitude: "-80.65324000"
-  wikiDataId: Q2217017
-- id: 80085
-  name: Distrito Penonomé
-  state_id: 1387
+- name: Distrito Penonomé
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.63000000'
   longitude: "-80.28333000"
-  wikiDataId: Q2216569
-- id: 80157
-  name: El Caño
-  state_id: 1387
+- name: El Caño
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.40195000'
   longitude: "-80.51791000"
-  wikiDataId: Q2216393
-- id: 80159
-  name: El Chirú
-  state_id: 1387
+- name: El Chirú
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.39876000'
   longitude: "-80.18721000"
-  wikiDataId: Q2216393
-- id: 80163
-  name: El Coco
-  state_id: 1387
+- name: El Coco
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.39716000'
   longitude: "-80.35000000"
-  wikiDataId: Q2216393
-- id: 80165
-  name: El Copé
-  state_id: 1387
+- name: El Copé
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.62036000'
   longitude: "-80.58433000"
-  wikiDataId: Q2216393
-- id: 80167
-  name: El Cortezo
-  state_id: 1387
+- name: El Cortezo
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.34556000'
   longitude: "-80.58721000"
-  wikiDataId: Q2216393
-- id: 80168
-  name: El Cristo
-  state_id: 1387
+- name: El Cristo
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.25071000'
   longitude: "-80.62093000"
-  wikiDataId: Q2216393
-- id: 80194
-  name: El Potrero
-  state_id: 1387
+- name: El Potrero
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.52146000'
   longitude: "-80.51681000"
-  wikiDataId: Q1018577
-- id: 80198
-  name: El Retiro
-  state_id: 1387
+- name: El Retiro
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.48014000'
   longitude: "-80.15426000"
-  wikiDataId: Q1018577
-- id: 80201
-  name: El Roble
-  state_id: 1387
+- name: El Roble
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.16850000'
   longitude: "-80.65897000"
-  wikiDataId: Q1018577
-- id: 80207
-  name: Entradero
-  state_id: 1387
+- name: Entradero
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.56880000'
   longitude: "-80.20743000"
-  wikiDataId: Q5352312
-- id: 80209
-  name: Farallón
-  state_id: 1387
+- name: Farallón
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.35658000'
   longitude: "-80.13723000"
-  wikiDataId: Q5352312
-- id: 80228
-  name: Guzman
-  state_id: 1387
+- name: Guzman
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.51969000'
   longitude: "-80.58405000"
-  wikiDataId: Q2437057
-- id: 80237
-  name: Juan Díaz
-  state_id: 1387
+- name: Juan Díaz
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.46240000'
   longitude: "-80.28280000"
-  wikiDataId: Q2437057
-- id: 80261
-  name: La Loma
-  state_id: 1387
+- name: La Loma
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.16667000'
   longitude: "-80.63742000"
-  wikiDataId: Q6463469
-- id: 80275
-  name: La Pintada
-  state_id: 1387
+- name: La Pintada
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.59299000'
   longitude: "-80.44349000"
-  wikiDataId: Q10315061
-- id: 80293
-  name: Las Huacas del Quije
-  state_id: 1387
+- name: Las Huacas del Quije
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.46702000'
   longitude: "-80.75089000"
-  wikiDataId: Q3916792
-- id: 80299
-  name: Las Marias
-  state_id: 1387
+- name: Las Marias
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.88809000'
   longitude: "-80.21893000"
-  wikiDataId: Q3916792
-- id: 80301
-  name: Las Minas
-  state_id: 1387
+- name: Las Minas
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.64118000'
   longitude: "-80.39432000"
-  wikiDataId: Q3916792
-- id: 80305
-  name: Las Sabanas
-  state_id: 1387
+- name: Las Sabanas
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.58141000'
   longitude: "-80.67978000"
-  wikiDataId: Q3916792
-- id: 80317
-  name: Llano Grande
-  state_id: 1387
+- name: Llano Grande
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.63817000'
   longitude: "-80.43848000"
-  wikiDataId: Q2712890
-- id: 80320
-  name: Llano Marín
-  state_id: 1387
+- name: Llano Marín
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.47696000'
   longitude: "-80.32499000"
-  wikiDataId: Q2712890
-- id: 80340
-  name: Los Pollos
-  state_id: 1387
+- name: Los Pollos
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.39898000'
   longitude: "-80.15731000"
-  wikiDataId: Q2712890
-- id: 80366
-  name: Natá
-  state_id: 1387
+- name: Natá
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.33209000'
   longitude: "-80.51969000"
-  wikiDataId: Q3544851
-- id: 80370
-  name: Nuestro Amo
-  state_id: 1387
+- name: Nuestro Amo
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.44485000'
   longitude: "-80.58934000"
-  wikiDataId: Q3544851
-- id: 80383
-  name: Olá
-  state_id: 1387
+- name: Olá
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.41807000'
   longitude: "-80.65123000"
-  wikiDataId: Q7068690
-- id: 80406
-  name: Penonomé
-  state_id: 1387
+- name: Penonomé
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.51889000'
   longitude: "-80.35727000"
-  wikiDataId: Q654169
-- id: 80411
-  name: Piedras Gordas
-  state_id: 1387
+- name: Piedras Gordas
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.63777000'
   longitude: "-80.51024000"
-  wikiDataId: Q654169
-- id: 80420
-  name: Pocrí
-  state_id: 1387
+- name: Pocrí
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.25814000'
   longitude: "-80.55000000"
-  wikiDataId: Q654169
-- id: 80460
-  name: Río Grande
-  state_id: 1387
+- name: Río Grande
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.42679000'
   longitude: "-80.48457000"
-  wikiDataId: Q6115163
-- id: 80462
-  name: Río Hato
-  state_id: 1387
+- name: Río Hato
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.37940000'
   longitude: "-80.16621000"
-  wikiDataId: Q6115163
-- id: 80486
-  name: San Juan de Dios
-  state_id: 1387
+- name: San Juan de Dios
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.55119000'
   longitude: "-80.22623000"
-  wikiDataId: Q7386411
-- id: 80522
-  name: Toabré
-  state_id: 1387
+- name: Toabré
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.65131000'
   longitude: "-80.32017000"
-  wikiDataId: Q685509
-- id: 80528
-  name: Toza
-  state_id: 1387
+- name: Toza
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.34542000'
   longitude: "-80.64012000"
-  wikiDataId: Q186116
-- id: 80548
-  name: Vista Hermosa
-  state_id: 1387
+- name: Vista Hermosa
   state_code: '2'
   state_name: Coclé
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.52687000'
   longitude: "-80.37486000"
-  wikiDataId: Q33512189
-- id: 80007
-  name: Buena Vista
-  state_id: 1386
+- name: Buena Vista
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.27356000'
   longitude: "-79.69551000"
-  wikiDataId: Q804144
-- id: 80035
-  name: Cativá
-  state_id: 1386
+- name: Cativá
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.36218000'
   longitude: "-79.83232000"
-  wikiDataId: Q804144
-- id: 80072
-  name: Coclé del Norte
-  state_id: 1386
+- name: Coclé del Norte
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.07540000'
   longitude: "-80.57177000"
-  wikiDataId: Q34795886
-- id: 80073
-  name: Colón
-  state_id: 1386
+- name: Colón
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.35451000'
   longitude: "-79.90011000"
-  wikiDataId: Q627852
-- id: 80078
-  name: Cristóbal
-  state_id: 1386
+- name: Cristóbal
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.35222000'
   longitude: "-79.90444000"
-  wikiDataId: Q80777
-- id: 80099
-  name: Distrito de Chagres
-  state_id: 1386
+- name: Distrito de Chagres
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.12300000'
   longitude: "-80.11841000"
-  wikiDataId: Q2786644
-- id: 80106
-  name: Distrito de Colón
-  state_id: 1386
+- name: Distrito de Colón
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.24313000'
   longitude: "-79.79463000"
-  wikiDataId: Q2071684
-- id: 80109
-  name: Distrito de Donoso
-  state_id: 1386
+- name: Distrito de Donoso
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.01999000'
   longitude: "-80.42967000"
-  wikiDataId: Q2217007
-- id: 80131
-  name: Distrito de Portobelo
-  state_id: 1386
+- name: Distrito de Portobelo
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.49748000'
   longitude: "-79.60730000"
-  wikiDataId: Q1650732
-- id: 80140
-  name: Distrito de Santa Isabel
-  state_id: 1386
+- name: Distrito de Santa Isabel
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.48333000'
   longitude: "-79.31667000"
-  wikiDataId: Q3585237
-- id: 80174
-  name: El Giral
-  state_id: 1386
+- name: El Giral
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.24509000'
   longitude: "-79.69266000"
-  wikiDataId: Q2216393
-- id: 80175
-  name: El Guabo
-  state_id: 1386
+- name: El Guabo
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.07842000'
   longitude: "-80.08316000"
-  wikiDataId: Q2216393
-- id: 80206
-  name: El Valle de la Unión
-  state_id: 1386
+- name: El Valle de la Unión
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.23630000'
   longitude: "-79.65986000"
-  wikiDataId: Q5352312
-- id: 80208
-  name: Escobal
-  state_id: 1386
+- name: Escobal
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.14373000'
   longitude: "-79.96439000"
-  wikiDataId: Q5352312
-- id: 80214
-  name: Gatún
-  state_id: 1386
+- name: Gatún
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.28922000'
   longitude: "-79.77204000"
-  wikiDataId: Q5352312
-- id: 80213
-  name: Gatuncillo
-  state_id: 1386
+- name: Gatuncillo
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.24346000'
   longitude: "-79.64856000"
-  wikiDataId: Q5352312
-- id: 80298
-  name: Las Margaritas
-  state_id: 1386
+- name: Las Margaritas
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.32603000'
   longitude: "-79.89028000"
-  wikiDataId: Q3916792
-- id: 80350
-  name: María Chiquita
-  state_id: 1386
+- name: María Chiquita
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.43991000'
   longitude: "-79.75455000"
-  wikiDataId: Q3711142
-- id: 80354
-  name: Miramar
-  state_id: 1386
+- name: Miramar
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.57544000'
   longitude: "-79.33573000"
-  wikiDataId: Q3711142
-- id: 80368
-  name: Nombre de Dios
-  state_id: 1386
+- name: Nombre de Dios
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.57937000'
   longitude: "-79.47109000"
-  wikiDataId: Q3544851
-- id: 80376
-  name: Nuevo Chagres
-  state_id: 1386
+- name: Nuevo Chagres
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.23979000'
   longitude: "-80.08267000"
-  wikiDataId: Q7068660
-- id: 80379
-  name: Nuevo San Juan
-  state_id: 1386
+- name: Nuevo San Juan
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.22205000'
   longitude: "-79.66602000"
-  wikiDataId: Q7068690
-- id: 80380
-  name: Nuevo Vigía
-  state_id: 1386
+- name: Nuevo Vigía
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.24263000'
   longitude: "-79.60756000"
-  wikiDataId: Q7068690
-- id: 80388
-  name: Palenque
-  state_id: 1386
+- name: Palenque
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.56970000'
   longitude: "-79.36341000"
-  wikiDataId: Q1985435
-- id: 80389
-  name: Palmas Bellas
-  state_id: 1386
+- name: Palmas Bellas
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.22838000'
   longitude: "-80.08503000"
-  wikiDataId: Q1985435
-- id: 80391
-  name: Palmira
-  state_id: 1386
+- name: Palmira
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.54359000'
   longitude: "-79.21946000"
-  wikiDataId: Q1985435
-- id: 80415
-  name: Playa Chiquita
-  state_id: 1386
+- name: Playa Chiquita
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.56620000'
   longitude: "-79.29185000"
-  wikiDataId: Q654169
-- id: 80423
-  name: Portobelo
-  state_id: 1386
+- name: Portobelo
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.55303000'
   longitude: "-79.65693000"
-  wikiDataId: Q797147
-- id: 80433
-  name: Puerto Escondido
-  state_id: 1386
+- name: Puerto Escondido
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.19333000'
   longitude: "-80.08833000"
-  wikiDataId: Q3130855
-- id: 80435
-  name: Puerto Pilón
-  state_id: 1386
+- name: Puerto Pilón
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.36316000'
   longitude: "-79.79333000"
-  wikiDataId: Q3130855
-- id: 80443
-  name: Quebrada Bonita Adentro
-  state_id: 1386
+- name: Quebrada Bonita Adentro
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.29662000'
   longitude: "-79.70606000"
-  wikiDataId: Q3130855
-- id: 80457
-  name: Río Alejandro
-  state_id: 1386
+- name: Río Alejandro
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.37149000'
   longitude: "-79.78809000"
-  wikiDataId: Q3130855
-- id: 80459
-  name: Río Duque
-  state_id: 1386
+- name: Río Duque
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.25688000'
   longitude: "-79.67937000"
-  wikiDataId: Q3130855
-- id: 80464
-  name: Río Rita
-  state_id: 1386
+- name: Río Rita
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.30296000'
   longitude: "-79.79234000"
-  wikiDataId: Q7386394
-- id: 80469
-  name: Sabanitas
-  state_id: 1386
+- name: Sabanitas
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.34269000'
   longitude: "-79.80961000"
-  wikiDataId: Q7386411
-- id: 80502
-  name: Santa Isabel
-  state_id: 1386
+- name: Santa Isabel
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.53922000'
   longitude: "-79.19570000"
-  wikiDataId: Q5620819
-- id: 80506
-  name: Santa Rita Arriba
-  state_id: 1386
+- name: Santa Rita Arriba
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.33032000'
   longitude: "-79.79363000"
-  wikiDataId: Q2124870
-- id: 80541
-  name: Viento Frío
-  state_id: 1386
+- name: Viento Frío
   state_code: '3'
   state_name: Colón
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.58263000'
   longitude: "-79.40690000"
-  wikiDataId: Q3254645
-- id: 79997
-  name: Boca de Cupé
-  state_id: 1385
+- name: Boca de Cupé
   state_code: '5'
   state_name: Darién
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.03003000'
   longitude: "-77.58978000"
-  wikiDataId: Q1956983
-- id: 80030
-  name: Camogantí
-  state_id: 1385
+- name: Camogantí
   state_code: '5'
   state_name: Darién
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.04171000'
   longitude: "-77.88682000"
-  wikiDataId: Q804144
-- id: 80079
-  name: Cucunatí
-  state_id: 1385
+- name: Cucunatí
   state_code: '5'
   state_name: Darién
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.57508000'
   longitude: "-78.25671000"
-  wikiDataId: Q80777
-- id: 80102
-  name: Distrito de Chepigana
-  state_id: 1385
+- name: Distrito de Chepigana
   state_code: '5'
   state_name: Darién
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.84374000'
   longitude: "-77.83830000"
-  wikiDataId: Q1651404
-- id: 80129
-  name: Distrito de Pinogana
-  state_id: 1385
+- name: Distrito de Pinogana
   state_code: '5'
   state_name: Darién
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.89343000'
   longitude: "-77.52562000"
-  wikiDataId: Q2216562
-- id: 80212
-  name: Garachiné
-  state_id: 1385
+- name: Garachiné
   state_code: '5'
   state_name: Darién
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.06684000'
   longitude: "-78.36436000"
-  wikiDataId: Q5352312
-- id: 80236
-  name: Jaqué
-  state_id: 1385
+- name: Jaqué
   state_code: '5'
   state_name: Darién
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.51826000'
   longitude: "-78.16343000"
-  wikiDataId: Q2437057
-- id: 80270
-  name: La Palma
-  state_id: 1385
+- name: La Palma
   state_code: '5'
   state_name: Darién
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.40608000'
   longitude: "-78.13964000"
-  wikiDataId: Q10315061
-- id: 80353
-  name: Metetí
-  state_id: 1385
+- name: Metetí
   state_code: '5'
   state_name: Darién
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.49909000'
   longitude: "-77.97897000"
-  wikiDataId: Q3711142
-- id: 80362
-  name: Mortí
-  state_id: 1385
+- name: Mortí
   state_code: '5'
   state_name: Darién
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.84246000'
   longitude: "-77.97539000"
-  wikiDataId: Q3711142
-- id: 80442
-  name: Púcuro
-  state_id: 1385
+- name: Púcuro
   state_code: '5'
   state_name: Darién
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.97876000'
   longitude: "-77.48758000"
-  wikiDataId: Q3130855
-- id: 80500
-  name: Santa Fé
-  state_id: 1385
+- name: Santa Fé
   state_code: '5'
   state_name: Darién
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.65525000'
   longitude: "-78.16140000"
-  wikiDataId: Q932699
-- id: 80552
-  name: Yaviza
-  state_id: 1385
+- name: Yaviza
   state_code: '5'
   state_name: Darién
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.15835000'
   longitude: "-77.69276000"
-  wikiDataId: Q33512189
-- id: 79987
-  name: Bayamón
-  state_id: 1396
+- name: Bayamón
   state_code: EM
   state_name: Emberá-Wounaan Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.96817000'
   longitude: "-78.21648000"
-  wikiDataId: Q1956983
-- id: 80081
-  name: Cémaco
-  state_id: 1396
+- name: Cémaco
   state_code: EM
   state_name: Emberá-Wounaan Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.08285000'
   longitude: "-77.54210000"
-  wikiDataId: Q80777
-- id: 80076
-  name: Corozal
-  state_id: 1396
+- name: Corozal
   state_code: EM
   state_name: Emberá-Wounaan Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.20108000'
   longitude: "-77.59637000"
-  wikiDataId: Q627852
-- id: 80470
-  name: Sambú
-  state_id: 1396
+- name: Sambú
   state_code: EM
   state_name: Emberá-Wounaan Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.82013000'
   longitude: "-78.11005000"
-  wikiDataId: Q7386411
-- id: 80531
-  name: Unión Chocó
-  state_id: 1396
+- name: Unión Chocó
   state_code: EM
   state_name: Emberá-Wounaan Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.08404000'
   longitude: "-77.53507000"
-  wikiDataId: Q4845142
-- id: 80551
-  name: Yape
-  state_id: 1396
+- name: Yape
   state_code: EM
   state_name: Emberá-Wounaan Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.09839000'
   longitude: "-77.59817000"
-  wikiDataId: Q33512189
-- id: 79954
-  name: Achutupo
-  state_id: 1388
+- name: Achutupo
   state_code: KY
   state_name: Guna
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.19827000'
   longitude: "-77.98729000"
-  wikiDataId: Q1956983
-- id: 79958
-  name: Ailigandí
-  state_id: 1388
+- name: Ailigandí
   state_code: KY
   state_name: Guna
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.22810000'
   longitude: "-78.02778000"
-  wikiDataId: Q1956983
-- id: 80034
-  name: Cartí Sugdup
-  state_id: 1388
+- name: Cartí Sugdup
   state_code: KY
   state_name: Guna
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.46460000'
   longitude: "-78.95931000"
-  wikiDataId: Q804144
-- id: 80192
-  name: El Porvenir
-  state_id: 1388
+- name: El Porvenir
   state_code: KY
   state_name: Guna
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.55276000'
   longitude: "-78.95230000"
-  wikiDataId: Q1018577
-- id: 80363
-  name: Mulatupo
-  state_id: 1388
+- name: Mulatupo
   state_code: KY
   state_name: Guna
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.94672000'
   longitude: "-77.75080000"
-  wikiDataId: Q14225928
-- id: 80365
-  name: Narganá
-  state_id: 1388
+- name: Narganá
   state_code: KY
   state_name: Guna
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.44394000'
   longitude: "-78.58666000"
-  wikiDataId: Q14225928
-- id: 80417
-  name: Playón Chico
-  state_id: 1388
+- name: Playón Chico
   state_code: KY
   state_name: Guna
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.31128000'
   longitude: "-78.23270000"
-  wikiDataId: Q654169
-- id: 80434
-  name: Puerto Obaldía
-  state_id: 1388
+- name: Puerto Obaldía
   state_code: KY
   state_name: Guna
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.66632000'
   longitude: "-77.41922000"
-  wikiDataId: Q3130855
-- id: 80479
-  name: San Ignacio de Tupile
-  state_id: 1388
+- name: San Ignacio de Tupile
   state_code: KY
   state_name: Guna
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.28905000'
   longitude: "-78.15206000"
-  wikiDataId: Q7386411
-- id: 80530
-  name: Tubualá
-  state_id: 1388
+- name: Tubualá
   state_code: KY
   state_name: Guna
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.51667000'
   longitude: "-79.03333000"
-  wikiDataId: Q186116
-- id: 80534
-  name: Ustupo
-  state_id: 1388
+- name: Ustupo
   state_code: KY
   state_name: Guna
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.13112000'
   longitude: "-77.92620000"
-  wikiDataId: Q3254645
-- id: 79998
-  name: Boca de Parita
-  state_id: 1389
+- name: Boca de Parita
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.00796000'
   longitude: "-80.45320000"
-  wikiDataId: Q1956983
-- id: 80015
-  name: Cabuya
-  state_id: 1389
+- name: Cabuya
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.03138000'
   longitude: "-80.63227000"
-  wikiDataId: Q804144
-- id: 80049
-  name: Cerro Largo
-  state_id: 1389
+- name: Cerro Largo
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.83377000'
   longitude: "-80.83168000"
-  wikiDataId: Q804144
-- id: 80064
-  name: Chitré
-  state_id: 1389
+- name: Chitré
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.96082000'
   longitude: "-80.42944000"
-  wikiDataId: Q657763
-- id: 80065
-  name: Chumical
-  state_id: 1389
+- name: Chumical
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.84482000'
   longitude: "-80.72627000"
-  wikiDataId: Q657763
-- id: 80066
-  name: Chupampa
-  state_id: 1389
+- name: Chupampa
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.07620000'
   longitude: "-80.77656000"
-  wikiDataId: Q657763
-- id: 80105
-  name: Distrito de Chitré
-  state_id: 1389
+- name: Distrito de Chitré
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.98333000'
   longitude: "-80.43333000"
-  wikiDataId: Q2216071
-- id: 80115
-  name: Distrito de Las Minas
-  state_id: 1389
+- name: Distrito de Las Minas
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.76525000'
   longitude: "-80.82249000"
-  wikiDataId: Q2216080
-- id: 80118
-  name: Distrito de Los Pozos
-  state_id: 1389
+- name: Distrito de Los Pozos
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.70944000'
   longitude: "-80.64311000"
-  wikiDataId: Q2217030
-- id: 80123
-  name: Distrito de Ocú
-  state_id: 1389
+- name: Distrito de Ocú
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.90641000'
   longitude: "-80.79752000"
-  wikiDataId: Q2216607
-- id: 80126
-  name: Distrito de Parita
-  state_id: 1389
+- name: Distrito de Parita
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.06240000'
   longitude: "-80.56373000"
-  wikiDataId: Q2216637
-- id: 80128
-  name: Distrito de Pesé
-  state_id: 1389
+- name: Distrito de Pesé
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.88194000'
   longitude: "-80.63261000"
-  wikiDataId: Q2217039
-- id: 80141
-  name: Distrito de Santa María
-  state_id: 1389
+- name: Distrito de Santa María
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.11667000'
   longitude: "-80.68333000"
-  wikiDataId: Q3585237
-- id: 80153
-  name: El Calabacito
-  state_id: 1389
+- name: El Calabacito
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.71843000'
   longitude: "-80.59757000"
-  wikiDataId: Q2216393
-- id: 80154
-  name: El Capurí
-  state_id: 1389
+- name: El Capurí
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.72571000'
   longitude: "-80.64349000"
-  wikiDataId: Q2216393
-- id: 80158
-  name: El Cedro
-  state_id: 1389
+- name: El Cedro
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.68565000'
   longitude: "-80.65927000"
-  wikiDataId: Q2216393
-- id: 80188
-  name: El Pedregoso
-  state_id: 1389
+- name: El Pedregoso
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.93642000'
   longitude: "-80.63807000"
-  wikiDataId: Q2216393
-- id: 80199
-  name: El Rincón
-  state_id: 1389
+- name: El Rincón
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.11923000'
   longitude: "-80.61707000"
-  wikiDataId: Q1018577
-- id: 80204
-  name: El Toro
-  state_id: 1389
+- name: El Toro
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.75110000'
   longitude: "-80.86943000"
-  wikiDataId: Q1018577
-- id: 80241
-  name: La Arena
-  state_id: 1389
+- name: La Arena
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.96766000'
   longitude: "-80.46523000"
-  wikiDataId: Q751010
-- id: 80279
-  name: La Trinidad
-  state_id: 1389
+- name: La Trinidad
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.91457000'
   longitude: "-80.70332000"
-  wikiDataId: Q10315061
-- id: 80289
-  name: Las Guabas
-  state_id: 1389
+- name: Las Guabas
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.90949000'
   longitude: "-80.80706000"
-  wikiDataId: Q3916792
-- id: 80300
-  name: Las Minas
-  state_id: 1389
+- name: Las Minas
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.79581000'
   longitude: "-80.74570000"
-  wikiDataId: Q3916792
-- id: 80309
-  name: Leones Arriba
-  state_id: 1389
+- name: Leones Arriba
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.76590000'
   longitude: "-80.84515000"
-  wikiDataId: Q2712890
-- id: 80312
-  name: Limón de Tijeras
-  state_id: 1389
+- name: Limón de Tijeras
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.81756000'
   longitude: "-80.91335000"
-  wikiDataId: Q2712890
-- id: 80314
-  name: Llano Bonito
-  state_id: 1389
+- name: Llano Bonito
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.97637000'
   longitude: "-80.41646000"
-  wikiDataId: Q2712890
-- id: 80321
-  name: Llano de La Cruz
-  state_id: 1389
+- name: Llano de La Cruz
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.95178000'
   longitude: "-80.64239000"
-  wikiDataId: Q2712890
-- id: 80315
-  name: Llano Grande
-  state_id: 1389
+- name: Llano Grande
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.97406000'
   longitude: "-80.71103000"
-  wikiDataId: Q2712890
-- id: 80330
-  name: Los Canelos
-  state_id: 1389
+- name: Los Canelos
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.11722000'
   longitude: "-80.70769000"
-  wikiDataId: Q2712890
-- id: 80331
-  name: Los Castillos
-  state_id: 1389
+- name: Los Castillos
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.98565000'
   longitude: "-80.61886000"
-  wikiDataId: Q2712890
-- id: 80333
-  name: Los Cerritos
-  state_id: 1389
+- name: Los Cerritos
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.79746000'
   longitude: "-80.61071000"
-  wikiDataId: Q2712890
-- id: 80334
-  name: Los Cerros de Paja
-  state_id: 1389
+- name: Los Cerros de Paja
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.71821000'
   longitude: "-80.67273000"
-  wikiDataId: Q2712890
-- id: 80341
-  name: Los Pozos
-  state_id: 1389
+- name: Los Pozos
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.78300000'
   longitude: "-80.64524000"
-  wikiDataId: Q2712890
-- id: 80358
-  name: Monagrillo
-  state_id: 1389
+- name: Monagrillo
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.98179000'
   longitude: "-80.43764000"
-  wikiDataId: Q3711142
-- id: 80382
-  name: Ocú
-  state_id: 1389
+- name: Ocú
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.94052000'
   longitude: "-80.77936000"
-  wikiDataId: Q7068690
-- id: 80401
-  name: París
-  state_id: 1389
+- name: París
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.05053000'
   longitude: "-80.55409000"
-  wikiDataId: Q3306
-- id: 80398
-  name: Parita
-  state_id: 1389
+- name: Parita
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.99393000'
   longitude: "-80.52097000"
-  wikiDataId: Q3306
-- id: 80410
-  name: Peñas Chatas
-  state_id: 1389
+- name: Peñas Chatas
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.01502000'
   longitude: "-80.80366000"
-  wikiDataId: Q654169
-- id: 80408
-  name: Pesé
-  state_id: 1389
+- name: Pesé
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.90863000'
   longitude: "-80.61433000"
-  wikiDataId: Q654169
-- id: 80413
-  name: Pitaloza Arriba
-  state_id: 1389
+- name: Pitaloza Arriba
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.64216000'
   longitude: "-80.66788000"
-  wikiDataId: Q654169
-- id: 80422
-  name: Portobelillo
-  state_id: 1389
+- name: Portobelillo
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.01738000'
   longitude: "-80.59538000"
-  wikiDataId: Q654169
-- id: 80427
-  name: Potuga
-  state_id: 1389
+- name: Potuga
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.06317000'
   longitude: "-80.62271000"
-  wikiDataId: Q7235136
-- id: 80448
-  name: Quebrada del Rosario
-  state_id: 1389
+- name: Quebrada del Rosario
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.71238000'
   longitude: "-80.74222000"
-  wikiDataId: Q3130855
-- id: 80453
-  name: Rincón Hondo
-  state_id: 1389
+- name: Rincón Hondo
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.84436000'
   longitude: "-80.60397000"
-  wikiDataId: Q3130855
-- id: 80467
-  name: Sabana Grande
-  state_id: 1389
+- name: Sabana Grande
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.88002000'
   longitude: "-80.63818000"
-  wikiDataId: Q7386411
-- id: 80485
-  name: San Juan Bautista
-  state_id: 1389
+- name: San Juan Bautista
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.96099000'
   longitude: "-80.41283000"
-  wikiDataId: Q7386411
-- id: 80504
-  name: Santa María
-  state_id: 1389
+- name: Santa María
   state_code: '6'
   state_name: Herrera
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.11143000'
   longitude: "-80.66582000"
-  wikiDataId: Q5620819
-- id: 79955
-  name: Agua Buena
-  state_id: 1390
+- name: Agua Buena
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.83465000'
   longitude: "-80.39405000"
-  wikiDataId: Q1956983
-- id: 79976
-  name: Ave María
-  state_id: 1390
+- name: Ave María
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.32481000'
   longitude: "-80.45361000"
-  wikiDataId: Q1956983
-- id: 79978
-  name: Bahía Honda
-  state_id: 1390
+- name: Bahía Honda
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.70517000'
   longitude: "-80.45342000"
-  wikiDataId: Q1956983
-- id: 79980
-  name: Bajo Corral
-  state_id: 1390
+- name: Bajo Corral
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.60463000'
   longitude: "-80.26016000"
-  wikiDataId: Q1956983
-- id: 79988
-  name: Bayano
-  state_id: 1390
+- name: Bayano
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.63014000'
   longitude: "-80.38201000"
-  wikiDataId: Q1956983
-- id: 79990
-  name: Bella Vista
-  state_id: 1390
+- name: Bella Vista
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.75000000'
   longitude: "-80.23333000"
-  wikiDataId: Q1956983
-- id: 80029
-  name: Cambutal
-  state_id: 1390
+- name: Cambutal
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.26534000'
   longitude: "-80.49105000"
-  wikiDataId: Q804144
-- id: 80037
-  name: Cañas
-  state_id: 1390
+- name: Cañas
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.44713000'
   longitude: "-80.26480000"
-  wikiDataId: Q804144
-- id: 80042
-  name: Cedro Arriba
-  state_id: 1390
+- name: Cedro Arriba
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.78097000'
   longitude: "-80.53057000"
-  wikiDataId: Q804144
-- id: 80111
-  name: Distrito de Guararé
-  state_id: 1390
+- name: Distrito de Guararé
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.77021000'
   longitude: "-80.37515000"
-  wikiDataId: Q3544497
-- id: 80117
-  name: Distrito de Las Tablas
-  state_id: 1390
+- name: Distrito de Las Tablas
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.64843000'
   longitude: "-80.29933000"
-  wikiDataId: Q2217049
-- id: 80119
-  name: Distrito de Los Santos
-  state_id: 1390
+- name: Distrito de Los Santos
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.88333000'
   longitude: "-80.45000000"
-  wikiDataId: Q2216602
-- id: 80120
-  name: Distrito de Macaracas
-  state_id: 1390
+- name: Distrito de Macaracas
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.65817000'
   longitude: "-80.53526000"
-  wikiDataId: Q2216055
-- id: 80127
-  name: Distrito de Pedasí
-  state_id: 1390
+- name: Distrito de Pedasí
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.48528000'
   longitude: "-80.12747000"
-  wikiDataId: Q2216610
-- id: 80130
-  name: Distrito de Pocrí
-  state_id: 1390
+- name: Distrito de Pocrí
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.63721000'
   longitude: "-80.16470000"
-  wikiDataId: Q2216539
-- id: 80146
-  name: Distrito de Tonosí
-  state_id: 1390
+- name: Distrito de Tonosí
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.43597000'
   longitude: "-80.45828000"
-  wikiDataId: Q2216393
-- id: 80151
-  name: El Cacao
-  state_id: 1390
+- name: El Cacao
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.44570000'
   longitude: "-80.40938000"
-  wikiDataId: Q2216393
-- id: 80156
-  name: El Cañafístulo
-  state_id: 1390
+- name: El Cañafístulo
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.61768000'
   longitude: "-80.23322000"
-  wikiDataId: Q2216393
-- id: 80155
-  name: El Carate
-  state_id: 1390
+- name: El Carate
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.73124000'
   longitude: "-80.29691000"
-  wikiDataId: Q2216393
-- id: 80161
-  name: El Cocal
-  state_id: 1390
+- name: El Cocal
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.73697000'
   longitude: "-80.27980000"
-  wikiDataId: Q2216393
-- id: 80166
-  name: El Cortezo
-  state_id: 1390
+- name: El Cortezo
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.42661000'
   longitude: "-80.63311000"
-  wikiDataId: Q2216393
-- id: 80169
-  name: El Ejido
-  state_id: 1390
+- name: El Ejido
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.91634000'
   longitude: "-80.38686000"
-  wikiDataId: Q2216393
-- id: 80176
-  name: El Guásimo
-  state_id: 1390
+- name: El Guásimo
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.80640000'
   longitude: "-80.52991000"
-  wikiDataId: Q2216393
-- id: 80177
-  name: El Hato
-  state_id: 1390
+- name: El Hato
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.79316000'
   longitude: "-80.38267000"
-  wikiDataId: Q2216393
-- id: 80180
-  name: El Macano
-  state_id: 1390
+- name: El Macano
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.68489000'
   longitude: "-80.40309000"
-  wikiDataId: Q2216393
-- id: 80181
-  name: El Manantial
-  state_id: 1390
+- name: El Manantial
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.78245000'
   longitude: "-80.24713000"
-  wikiDataId: Q2216393
-- id: 80184
-  name: El Muñoz
-  state_id: 1390
+- name: El Muñoz
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.67582000'
   longitude: "-80.32130000"
-  wikiDataId: Q2216393
-- id: 80189
-  name: El Pedregoso
-  state_id: 1390
+- name: El Pedregoso
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.69173000'
   longitude: "-80.32793000"
-  wikiDataId: Q2216393
-- id: 80211
-  name: Flores
-  state_id: 1390
+- name: Flores
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.48157000'
   longitude: "-80.40695000"
-  wikiDataId: Q5352312
-- id: 80221
-  name: Guararé
-  state_id: 1390
+- name: Guararé
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.81531000'
   longitude: "-80.28345000"
-  wikiDataId: Q2437057
-- id: 80222
-  name: Guararé Arriba
-  state_id: 1390
+- name: Guararé Arriba
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.80023000'
   longitude: "-80.35983000"
-  wikiDataId: Q2437057
-- id: 80246
-  name: La Colorada
-  state_id: 1390
+- name: La Colorada
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.82362000'
   longitude: "-80.55552000"
-  wikiDataId: Q774405
-- id: 80248
-  name: La Enea
-  state_id: 1390
+- name: La Enea
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.83333000'
   longitude: "-80.27417000"
-  wikiDataId: Q774405
-- id: 80253
-  name: La Espigadilla
-  state_id: 1390
+- name: La Espigadilla
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.88389000'
   longitude: "-80.39039000"
-  wikiDataId: Q774405
-- id: 80260
-  name: La Laja
-  state_id: 1390
+- name: La Laja
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.73102000'
   longitude: "-80.25298000"
-  wikiDataId: Q774405
-- id: 80266
-  name: La Mesa
-  state_id: 1390
+- name: La Mesa
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.65670000'
   longitude: "-80.61794000"
-  wikiDataId: Q6463469
-- id: 80267
-  name: La Miel
-  state_id: 1390
+- name: La Miel
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.56022000'
   longitude: "-80.32736000"
-  wikiDataId: Q6463469
-- id: 80271
-  name: La Palma
-  state_id: 1390
+- name: La Palma
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.71667000'
   longitude: "-80.38333000"
-  wikiDataId: Q10315061
-- id: 80272
-  name: La Pasera
-  state_id: 1390
+- name: La Pasera
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.79757000'
   longitude: "-80.30342000"
-  wikiDataId: Q10315061
-- id: 80278
-  name: La Tiza
-  state_id: 1390
+- name: La Tiza
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.75110000'
   longitude: "-80.29216000"
-  wikiDataId: Q10315061
-- id: 80280
-  name: La Tronosa
-  state_id: 1390
+- name: La Tronosa
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.43609000'
   longitude: "-80.58698000"
-  wikiDataId: Q10315061
-- id: 80282
-  name: Lajamina
-  state_id: 1390
+- name: Lajamina
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.58587000'
   longitude: "-80.13212000"
-  wikiDataId: Q10315061
-- id: 80287
-  name: Las Cruces
-  state_id: 1390
+- name: Las Cruces
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.82285000'
   longitude: "-80.43003000"
-  wikiDataId: Q10315061
-- id: 80290
-  name: Las Guabas
-  state_id: 1390
+- name: Las Guabas
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.81469000'
   longitude: "-80.50155000"
-  wikiDataId: Q3916792
-- id: 80303
-  name: Las Palmas
-  state_id: 1390
+- name: Las Palmas
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.68314000'
   longitude: "-80.49728000"
-  wikiDataId: Q3916792
-- id: 80304
-  name: Las Palmitas
-  state_id: 1390
+- name: Las Palmitas
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.76523000'
   longitude: "-80.29350000"
-  wikiDataId: Q3916792
-- id: 80306
-  name: Las Tablas
-  state_id: 1390
+- name: Las Tablas
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.76472000'
   longitude: "-80.27483000"
-  wikiDataId: Q2712890
-- id: 80307
-  name: Las Trancas
-  state_id: 1390
+- name: Las Trancas
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.73400000'
   longitude: "-80.37384000"
-  wikiDataId: Q2712890
-- id: 80313
-  name: Llano Abajo
-  state_id: 1390
+- name: Llano Abajo
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.78598000'
   longitude: "-80.41060000"
-  wikiDataId: Q2712890
-- id: 80322
-  name: Llano de Piedra
-  state_id: 1390
+- name: Llano de Piedra
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.65972000'
   longitude: "-80.56347000"
-  wikiDataId: Q2712890
-- id: 80319
-  name: Llano Largo
-  state_id: 1390
+- name: Llano Largo
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.90607000'
   longitude: "-80.42561000"
-  wikiDataId: Q2712890
-- id: 80343
-  name: Los Ángeles
-  state_id: 1390
+- name: Los Ángeles
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.88422000'
   longitude: "-80.35772000"
-  wikiDataId: Q2712890
-- id: 80329
-  name: Los Asientos
-  state_id: 1390
+- name: Los Asientos
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.51656000'
   longitude: "-80.13521000"
-  wikiDataId: Q2712890
-- id: 80339
-  name: Los Olivos
-  state_id: 1390
+- name: Los Olivos
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.91589000'
   longitude: "-80.48884000"
-  wikiDataId: Q2712890
-- id: 80342
-  name: Los Santos
-  state_id: 1390
+- name: Los Santos
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.93333000'
   longitude: "-80.41667000"
-  wikiDataId: Q2712890
-- id: 80346
-  name: Macaracas
-  state_id: 1390
+- name: Macaracas
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.73168000'
   longitude: "-80.55364000"
-  wikiDataId: Q931897
-- id: 80357
-  name: Mogollón
-  state_id: 1390
+- name: Mogollón
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.64261000'
   longitude: "-80.45950000"
-  wikiDataId: Q3711142
-- id: 80369
-  name: Nuario
-  state_id: 1390
+- name: Nuario
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.53047000'
   longitude: "-80.32692000"
-  wikiDataId: Q3544851
-- id: 80385
-  name: Oria Arriba
-  state_id: 1390
+- name: Oria Arriba
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.50505000'
   longitude: "-80.20567000"
-  wikiDataId: Q7068690
-- id: 80390
-  name: Palmira
-  state_id: 1390
+- name: Palmira
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.66347000'
   longitude: "-80.35728000"
-  wikiDataId: Q1985435
-- id: 80396
-  name: Paraíso
-  state_id: 1390
+- name: Paraíso
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.68510000'
   longitude: "-80.16082000"
-  wikiDataId: Q3306
-- id: 80399
-  name: Paritilla
-  state_id: 1390
+- name: Paritilla
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.62848000'
   longitude: "-80.17240000"
-  wikiDataId: Q3306
-- id: 80403
-  name: Pedasí
-  state_id: 1390
+- name: Pedasí
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.53034000'
   longitude: "-80.02699000"
-  wikiDataId: Q3306
-- id: 80409
-  name: Peña Blanca
-  state_id: 1390
+- name: Peña Blanca
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.71931000'
   longitude: "-80.28366000"
-  wikiDataId: Q654169
-- id: 80407
-  name: Perales
-  state_id: 1390
+- name: Perales
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.77461000'
   longitude: "-80.32494000"
-  wikiDataId: Q654169
-- id: 80419
-  name: Pocrí
-  state_id: 1390
+- name: Pocrí
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.65816000'
   longitude: "-80.12119000"
-  wikiDataId: Q654169
-- id: 80463
-  name: Río Hondo
-  state_id: 1390
+- name: Río Hondo
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.71192000'
   longitude: "-80.35904000"
-  wikiDataId: Q6115163
-- id: 80468
-  name: Sabana Grande
-  state_id: 1390
+- name: Sabana Grande
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.83543000'
   longitude: "-80.36490000"
-  wikiDataId: Q7386411
-- id: 80481
-  name: San José
-  state_id: 1390
+- name: San José
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.67395000'
   longitude: "-80.24438000"
-  wikiDataId: Q7386411
-- id: 80496
-  name: Santa Ana Arriba
-  state_id: 1390
+- name: Santa Ana Arriba
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.93300000'
   longitude: "-80.36369000"
-  wikiDataId: Q932699
-- id: 80509
-  name: Santo Domingo
-  state_id: 1390
+- name: Santo Domingo
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.74614000'
   longitude: "-80.24173000"
-  wikiDataId: Q685509
-- id: 80512
-  name: Sesteadero
-  state_id: 1390
+- name: Sesteadero
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.73885000'
   longitude: "-80.24854000"
-  wikiDataId: Q685509
-- id: 80526
-  name: Tonosí
-  state_id: 1390
+- name: Tonosí
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.40684000'
   longitude: "-80.44217000"
-  wikiDataId: Q186116
-- id: 80529
-  name: Tres Quebradas
-  state_id: 1390
+- name: Tres Quebradas
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.84018000'
   longitude: "-80.40740000"
-  wikiDataId: Q186116
-- id: 80536
-  name: Valle Rico
-  state_id: 1390
+- name: Valle Rico
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.62011000'
   longitude: "-80.35076000"
-  wikiDataId: Q3254645
-- id: 80538
-  name: Vallerriquito
-  state_id: 1390
+- name: Vallerriquito
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.62163000'
   longitude: "-80.31975000"
-  wikiDataId: Q3254645
-- id: 80544
-  name: Villa Lourdes
-  state_id: 1390
+- name: Villa Lourdes
   state_code: '7'
   state_name: Los Santos
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.81141000'
   longitude: "-80.47029000"
-  wikiDataId: Q3254645
-- id: 79977
-  name: Bahía Azul
-  state_id: 1391
+- name: Bahía Azul
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.14176000'
   longitude: "-81.89425000"
-  wikiDataId: Q1956983
-- id: 79991
-  name: Besiko
-  state_id: 1391
+- name: Besiko
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.54863000'
   longitude: "-82.08980000"
-  wikiDataId: Q1956983
-- id: 79993
-  name: Bisira
-  state_id: 1391
+- name: Bisira
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.89553000'
   longitude: "-81.85352000"
-  wikiDataId: Q1956983
-- id: 79996
-  name: Boca de Balsa
-  state_id: 1391
+- name: Boca de Balsa
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.52995000'
   longitude: "-82.03132000"
-  wikiDataId: Q1956983
-- id: 80009
-  name: Buenos Aires
-  state_id: 1391
+- name: Buenos Aires
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.41384000'
   longitude: "-81.48440000"
-  wikiDataId: Q804144
-- id: 80028
-  name: Camarón Arriba
-  state_id: 1391
+- name: Camarón Arriba
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.38324000'
   longitude: "-81.99345000"
-  wikiDataId: Q804144
-- id: 80046
-  name: Cerro Banco
-  state_id: 1391
+- name: Cerro Banco
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.45797000'
   longitude: "-82.03081000"
-  wikiDataId: Q804144
-- id: 80048
-  name: Cerro Caña
-  state_id: 1391
+- name: Cerro Caña
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.35174000'
   longitude: "-81.61050000"
-  wikiDataId: Q804144
-- id: 80050
-  name: Cerro Plata
-  state_id: 1391
+- name: Cerro Plata
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.47733000'
   longitude: "-81.54585000"
-  wikiDataId: Q804144
-- id: 80057
-  name: Chichica
-  state_id: 1391
+- name: Chichica
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.35885000'
   longitude: "-81.66582000"
-  wikiDataId: Q804144
-- id: 80226
-  name: Guayabito
-  state_id: 1391
+- name: Guayabito
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.53949000'
   longitude: "-81.48225000"
-  wikiDataId: Q2437057
-- id: 80230
-  name: Hato Chami
-  state_id: 1391
+- name: Hato Chami
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.44281000'
   longitude: "-81.77196000"
-  wikiDataId: Q2437057
-- id: 80231
-  name: Hato Corotú
-  state_id: 1391
+- name: Hato Corotú
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.33516000'
   longitude: "-81.97030000"
-  wikiDataId: Q2437057
-- id: 80239
-  name: Kankintú
-  state_id: 1391
+- name: Kankintú
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.89503000'
   longitude: "-81.85750000"
-  wikiDataId: Q2437057
-- id: 80240
-  name: Kusapín
-  state_id: 1391
+- name: Kusapín
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.17119000'
   longitude: "-81.89621000"
-  wikiDataId: Q751010
-- id: 80285
-  name: Lajero Arriba
-  state_id: 1391
+- name: Lajero Arriba
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.29060000'
   longitude: "-81.77047000"
-  wikiDataId: Q10315061
-- id: 80323
-  name: Llano Ñopo
-  state_id: 1391
+- name: Llano Ñopo
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.41996000'
   longitude: "-81.61865000"
-  wikiDataId: Q2712890
-- id: 80325
-  name: Loma Yuca
-  state_id: 1391
+- name: Loma Yuca
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.71817000'
   longitude: "-81.40492000"
-  wikiDataId: Q2712890
-- id: 80356
-  name: Mirono
-  state_id: 1391
+- name: Mirono
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.40469000'
   longitude: "-81.83064000"
-  wikiDataId: Q3711142
-- id: 80364
-  name: Müna
-  state_id: 1391
+- name: Müna
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.35035000'
   longitude: "-81.67219000"
-  wikiDataId: Q14225928
-- id: 80367
-  name: Nole Düima
-  state_id: 1391
+- name: Nole Düima
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.32682000'
   longitude: "-81.81531000"
-  wikiDataId: Q3544851
-- id: 80381
-  name: Nurun
-  state_id: 1391
+- name: Nurun
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.47815000'
   longitude: "-81.47015000"
-  wikiDataId: Q7068690
-- id: 80384
-  name: Oma
-  state_id: 1391
+- name: Oma
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.35019000'
   longitude: "-81.80177000"
-  wikiDataId: Q7068690
-- id: 80397
-  name: Paredón Arriba
-  state_id: 1391
+- name: Paredón Arriba
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.45977000'
   longitude: "-81.19592000"
-  wikiDataId: Q3306
-- id: 80414
-  name: Plan de Chorcha
-  state_id: 1391
+- name: Plan de Chorcha
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.46168000'
   longitude: "-82.15924000"
-  wikiDataId: Q654169
-- id: 80429
-  name: Pueblo Nuevo
-  state_id: 1391
+- name: Pueblo Nuevo
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.88070000'
   longitude: "-82.22411000"
-  wikiDataId: Q7235136
-- id: 80444
-  name: Quebrada Canoa
-  state_id: 1391
+- name: Quebrada Canoa
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.43333000'
   longitude: "-81.78333000"
-  wikiDataId: Q3130855
-- id: 80445
-  name: Quebrada Tula
-  state_id: 1391
+- name: Quebrada Tula
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.84037000'
   longitude: "-81.99645000"
-  wikiDataId: Q3130855
-- id: 80515
-  name: Sitio Prado
-  state_id: 1391
+- name: Sitio Prado
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.37233000'
   longitude: "-81.58141000"
-  wikiDataId: Q685509
-- id: 80523
-  name: Tobobe
-  state_id: 1391
+- name: Tobobe
   state_code: NB
   state_name: Ngöbe-Buglé Comarca
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.12111000'
   longitude: "-81.82471000"
-  wikiDataId: Q685509
-- id: 79960
-  name: Alcalde Díaz
-  state_id: 1395
+- name: Alcalde Díaz
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.12016000'
   longitude: "-79.55641000"
-  wikiDataId: Q1956983
-- id: 79968
-  name: Ancón
-  state_id: 1395
+- name: Ancón
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.96015000'
   longitude: "-79.55140000"
-  wikiDataId: Q1956983
-- id: 80006
-  name: Brujas
-  state_id: 1395
+- name: Brujas
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.58536000'
   longitude: "-78.53008000"
-  wikiDataId: Q804144
-- id: 80014
-  name: Cabra Número Uno
-  state_id: 1395
+- name: Cabra Número Uno
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.10863000'
   longitude: "-79.33694000"
-  wikiDataId: Q804144
-- id: 80018
-  name: Caimitillo
-  state_id: 1395
+- name: Caimitillo
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.15559000'
   longitude: "-79.53974000"
-  wikiDataId: Q804144
-- id: 80027
-  name: Calzada Larga
-  state_id: 1395
+- name: Calzada Larga
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.17272000'
   longitude: "-79.56212000"
-  wikiDataId: Q804144
-- id: 80041
-  name: Cañita
-  state_id: 1395
+- name: Cañita
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.22236000'
   longitude: "-78.89509000"
-  wikiDataId: Q804144
-- id: 80045
-  name: Cerro Azul
-  state_id: 1395
+- name: Cerro Azul
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.15735000'
   longitude: "-79.42097000"
-  wikiDataId: Q804144
-- id: 80055
-  name: Chepillo
-  state_id: 1395
+- name: Chepillo
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.95396000'
   longitude: "-79.12856000"
-  wikiDataId: Q804144
-- id: 80056
-  name: Chepo
-  state_id: 1395
+- name: Chepo
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.17019000'
   longitude: "-79.10083000"
-  wikiDataId: Q804144
-- id: 80060
-  name: Chilibre
-  state_id: 1395
+- name: Chilibre
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.15093000'
   longitude: "-79.62098000"
-  wikiDataId: Q804144
-- id: 80061
-  name: Chimán
-  state_id: 1395
+- name: Chimán
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.69125000'
   longitude: "-78.63570000"
-  wikiDataId: Q804144
-- id: 80074
-  name: Contadora
-  state_id: 1395
+- name: Contadora
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.62483000'
   longitude: "-79.03748000"
-  wikiDataId: Q627852
-- id: 80080
-  name: Curundú
-  state_id: 1395
+- name: Curundú
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.97092000'
   longitude: "-79.54612000"
-  wikiDataId: Q80777
-- id: 80090
-  name: Distrito de Balboa
-  state_id: 1395
+- name: Distrito de Balboa
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.46667000'
   longitude: "-79.00000000"
-  wikiDataId: Q2216400
-- id: 80103
-  name: Distrito de Chepo
-  state_id: 1395
+- name: Distrito de Chepo
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.17391000'
   longitude: "-78.70374000"
-  wikiDataId: Q2215925
-- id: 80104
-  name: Distrito de Chimán
-  state_id: 1395
+- name: Distrito de Chimán
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.76043000'
   longitude: "-78.56470000"
-  wikiDataId: Q2216594
-- id: 80125
-  name: Distrito de Panamá
-  state_id: 1395
+- name: Distrito de Panamá
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.30612000'
   longitude: "-79.45246000"
-  wikiDataId: Q2216411
-- id: 80144
-  name: Distrito de Taboga
-  state_id: 1395
+- name: Distrito de Taboga
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.78333000'
   longitude: "-79.55833000"
-  wikiDataId: Q2072534
-- id: 80160
-  name: El Chorrillo
-  state_id: 1395
+- name: El Chorrillo
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.94964000'
   longitude: "-79.54715000"
-  wikiDataId: Q2216393
-- id: 80196
-  name: El Progreso
-  state_id: 1395
+- name: El Progreso
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.26667000'
   longitude: "-79.11667000"
-  wikiDataId: Q1018577
-- id: 80215
-  name: Gonzalillo
-  state_id: 1395
+- name: Gonzalillo
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.09183000'
   longitude: "-79.51928000"
-  wikiDataId: Q5352312
-- id: 80234
-  name: Howard
-  state_id: 1395
+- name: Howard
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.93942000'
   longitude: "-79.59097000"
-  wikiDataId: Q2437057
-- id: 80238
-  name: Juan Díaz
-  state_id: 1395
+- name: Juan Díaz
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.05000000'
   longitude: "-79.45000000"
-  wikiDataId: Q2437057
-- id: 80242
-  name: La Cabima
-  state_id: 1395
+- name: La Cabima
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.11865000'
   longitude: "-79.53660000"
-  wikiDataId: Q751010
-- id: 80245
-  name: La Colorada
-  state_id: 1395
+- name: La Colorada
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.10224000'
   longitude: "-79.41600000"
-  wikiDataId: Q774405
-- id: 80249
-  name: La Ensenada
-  state_id: 1395
+- name: La Ensenada
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.36618000'
   longitude: "-78.84606000"
-  wikiDataId: Q774405
-- id: 80251
-  name: La Esmeralda
-  state_id: 1395
+- name: La Esmeralda
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.26817000'
   longitude: "-78.92460000"
-  wikiDataId: Q774405
-- id: 80256
-  name: La Guinea
-  state_id: 1395
+- name: La Guinea
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.34250000'
   longitude: "-78.93430000"
-  wikiDataId: Q774405
-- id: 80264
-  name: La Mesa
-  state_id: 1395
+- name: La Mesa
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.17308000'
   longitude: "-79.27401000"
-  wikiDataId: Q6463469
-- id: 80288
-  name: Las Cumbres
-  state_id: 1395
+- name: Las Cumbres
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.08916000'
   longitude: "-79.52809000"
-  wikiDataId: Q3916792
-- id: 80297
-  name: Las Margaritas
-  state_id: 1395
+- name: Las Margaritas
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.18426000'
   longitude: "-79.08730000"
-  wikiDataId: Q3916792
-- id: 80345
-  name: Lídice
-  state_id: 1395
+- name: Lídice
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.74869000'
   longitude: "-79.90974000"
-  wikiDataId: Q931897
-- id: 80337
-  name: Los Lotes
-  state_id: 1395
+- name: Los Lotes
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.12425000'
   longitude: "-79.28929000"
-  wikiDataId: Q2712890
-- id: 80372
-  name: Nueva Esperanza
-  state_id: 1395
+- name: Nueva Esperanza
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.10210000'
   longitude: "-79.33414000"
-  wikiDataId: Q3544851
-- id: 80375
-  name: Nuevo Belén
-  state_id: 1395
+- name: Nuevo Belén
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.07939000'
   longitude: "-79.39556000"
-  wikiDataId: Q7068660
-- id: 80386
-  name: Pacora
-  state_id: 1395
+- name: Pacora
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.07937000'
   longitude: "-79.28997000"
-  wikiDataId: Q1985435
-- id: 80394
-  name: Panamá
-  state_id: 1395
+- name: Panamá
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.99360000'
   longitude: "-79.51973000"
-  wikiDataId: Q3306
-- id: 80400
-  name: Parque Lefevre
-  state_id: 1395
+- name: Parque Lefevre
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.01667000'
   longitude: "-79.48333000"
-  wikiDataId: Q3306
-- id: 80441
-  name: Pásiga
-  state_id: 1395
+- name: Pásiga
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.93647000'
   longitude: "-78.90917000"
-  wikiDataId: Q3130855
-- id: 80404
-  name: Pedregal
-  state_id: 1395
+- name: Pedregal
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.06667000'
   longitude: "-79.43333000"
-  wikiDataId: Q3306
-- id: 80456
-  name: Río Abajo
-  state_id: 1395
+- name: Río Abajo
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.01667000'
   longitude: "-79.50000000"
-  wikiDataId: Q3130855
-- id: 80472
-  name: San Antonio
-  state_id: 1395
+- name: San Antonio
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.17290000'
   longitude: "-79.54743000"
-  wikiDataId: Q7386411
-- id: 80476
-  name: San Felipe
-  state_id: 1395
+- name: San Felipe
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.95118000'
   longitude: "-79.53726000"
-  wikiDataId: Q7386411
-- id: 80489
-  name: San Miguel
-  state_id: 1395
+- name: San Miguel
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.45685000'
   longitude: "-78.93695000"
-  wikiDataId: Q7386411
-- id: 80490
-  name: San Miguelito
-  state_id: 1395
+- name: San Miguelito
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.05032000'
   longitude: "-79.47068000"
-  wikiDataId: Q932699
-- id: 80494
-  name: San Vicente
-  state_id: 1395
+- name: San Vicente
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.11445000'
   longitude: "-79.59755000"
-  wikiDataId: Q932699
-- id: 80524
-  name: Tocumen
-  state_id: 1395
+- name: Tocumen
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.08939000'
   longitude: "-79.38310000"
-  wikiDataId: Q186116
-- id: 80527
-  name: Tortí
-  state_id: 1395
+- name: Tortí
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.92132000'
   longitude: "-78.40546000"
-  wikiDataId: Q186116
-- id: 80533
-  name: Unión de Azuero
-  state_id: 1395
+- name: Unión de Azuero
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.15256000'
   longitude: "-79.17005000"
-  wikiDataId: Q4845142
-- id: 80532
-  name: Unión Santeña
-  state_id: 1395
+- name: Unión Santeña
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.83525000'
   longitude: "-78.65104000"
-  wikiDataId: Q4845142
-- id: 80546
-  name: Villa Unida
-  state_id: 1395
+- name: Villa Unida
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.18908000'
   longitude: "-79.62452000"
-  wikiDataId: Q3254645
-- id: 80549
-  name: Vista Hermosa
-  state_id: 1395
+- name: Vista Hermosa
   state_code: '8'
   state_name: Panamá
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.11178000'
   longitude: "-79.36113000"
-  wikiDataId: Q33512189
-- id: 79966
-  name: Alto del Espino
-  state_id: 1394
+- name: Alto del Espino
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.84213000'
   longitude: "-79.84551000"
-  wikiDataId: Q1956983
-- id: 79967
-  name: Altos de San Francisco
-  state_id: 1394
+- name: Altos de San Francisco
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.86167000'
   longitude: "-79.79000000"
-  wikiDataId: Q1956983
-- id: 79971
-  name: Arenosa
-  state_id: 1394
+- name: Arenosa
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.03978000'
   longitude: "-79.95128000"
-  wikiDataId: Q1956983
-- id: 79972
-  name: Arosemena
-  state_id: 1394
+- name: Arosemena
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.97091000'
   longitude: "-79.96641000"
-  wikiDataId: Q1956983
-- id: 79973
-  name: Arraiján
-  state_id: 1394
+- name: Arraiján
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.95187000'
   longitude: "-79.66011000"
-  wikiDataId: Q1956983
-- id: 79989
-  name: Bejuco
-  state_id: 1394
+- name: Bejuco
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.60037000'
   longitude: "-79.88988000"
-  wikiDataId: Q1956983
-- id: 80008
-  name: Buenos Aires
-  state_id: 1394
+- name: Buenos Aires
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.63146000'
   longitude: "-79.94775000"
-  wikiDataId: Q804144
-- id: 80016
-  name: Cabuya
-  state_id: 1394
+- name: Cabuya
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.57472000'
   longitude: "-79.92714000"
-  wikiDataId: Q804144
-- id: 80020
-  name: Caimito
-  state_id: 1394
+- name: Caimito
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.81143000'
   longitude: "-79.94738000"
-  wikiDataId: Q804144
-- id: 80033
-  name: Capira
-  state_id: 1394
+- name: Capira
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.75636000'
   longitude: "-79.87996000"
-  wikiDataId: Q804144
-- id: 80044
-  name: Cermeño
-  state_id: 1394
+- name: Cermeño
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.74082000'
   longitude: "-79.85299000"
-  wikiDataId: Q804144
-- id: 80047
-  name: Cerro Cama
-  state_id: 1394
+- name: Cerro Cama
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.02802000'
   longitude: "-79.90744000"
-  wikiDataId: Q804144
-- id: 80053
-  name: Chame
-  state_id: 1394
+- name: Chame
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.57753000'
   longitude: "-79.88595000"
-  wikiDataId: Q804144
-- id: 80069
-  name: Cirí de Los Sotos
-  state_id: 1394
+- name: Cirí de Los Sotos
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.97206000'
   longitude: "-80.09209000"
-  wikiDataId: Q5118336
-- id: 80083
-  name: Distrito Arraiján
-  state_id: 1394
+- name: Distrito Arraiján
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.95000000'
   longitude: "-79.70000000"
-  wikiDataId: Q2216621
-- id: 80097
-  name: Distrito de Capira
-  state_id: 1394
+- name: Distrito de Capira
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.76228000'
   longitude: "-79.88275000"
-  wikiDataId: Q2216086
-- id: 80100
-  name: Distrito de Chame
-  state_id: 1394
+- name: Distrito de Chame
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.60000000'
   longitude: "-79.91667000"
-  wikiDataId: Q431342
-- id: 80112
-  name: Distrito de La Chorrera
-  state_id: 1394
+- name: Distrito de La Chorrera
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.95000000'
   longitude: "-79.85000000"
-  wikiDataId: Q2217021
-- id: 80135
-  name: Distrito de San Carlos
-  state_id: 1394
+- name: Distrito de San Carlos
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.53196000'
   longitude: "-80.06906000"
-  wikiDataId: Q1650989
-- id: 80152
-  name: El Cacao
-  state_id: 1394
+- name: El Cacao
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.76134000'
   longitude: "-80.01294000"
-  wikiDataId: Q2216393
-- id: 80164
-  name: El Coco
-  state_id: 1394
+- name: El Coco
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.87009000'
   longitude: "-79.80415000"
-  wikiDataId: Q2216393
-- id: 80171
-  name: El Espavé
-  state_id: 1394
+- name: El Espavé
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.66161000'
   longitude: "-79.87584000"
-  wikiDataId: Q2216393
-- id: 80172
-  name: El Espino
-  state_id: 1394
+- name: El Espino
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.83795000'
   longitude: "-79.84925000"
-  wikiDataId: Q2216393
-- id: 80178
-  name: El Higo
-  state_id: 1394
+- name: El Higo
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.44731000'
   longitude: "-80.03603000"
-  wikiDataId: Q2216393
-- id: 80179
-  name: El Líbano
-  state_id: 1394
+- name: El Líbano
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.61685000'
   longitude: "-79.83483000"
-  wikiDataId: Q2216393
-- id: 80219
-  name: Guadalupe
-  state_id: 1394
+- name: Guadalupe
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.85452000'
   longitude: "-79.81408000"
-  wikiDataId: Q2437057
-- id: 80227
-  name: Guayabito
-  state_id: 1394
+- name: Guayabito
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.54828000'
   longitude: "-80.01350000"
-  wikiDataId: Q2437057
-- id: 80232
-  name: Hato Montaña
-  state_id: 1394
+- name: Hato Montaña
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.91938000'
   longitude: "-79.73915000"
-  wikiDataId: Q2437057
-- id: 80243
-  name: La Chorrera
-  state_id: 1394
+- name: La Chorrera
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.88028000'
   longitude: "-79.78333000"
-  wikiDataId: Q774405
-- id: 80250
-  name: La Ermita
-  state_id: 1394
+- name: La Ermita
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.45622000'
   longitude: "-80.06835000"
-  wikiDataId: Q774405
-- id: 80257
-  name: La Herradura
-  state_id: 1394
+- name: La Herradura
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.84848000'
   longitude: "-79.80404000"
-  wikiDataId: Q774405
-- id: 80258
-  name: La Laguna
-  state_id: 1394
+- name: La Laguna
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.04404000'
   longitude: "-79.84215000"
-  wikiDataId: Q774405
-- id: 80268
-  name: La Mitra
-  state_id: 1394
+- name: La Mitra
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.84091000'
   longitude: "-79.78648000"
-  wikiDataId: Q10315061
-- id: 80273
-  name: La Pesa
-  state_id: 1394
+- name: La Pesa
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.85073000'
   longitude: "-79.82374000"
-  wikiDataId: Q10315061
-- id: 80286
-  name: Las Colinas
-  state_id: 1394
+- name: Las Colinas
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.55000000'
   longitude: "-80.08333000"
-  wikiDataId: Q10315061
-- id: 80294
-  name: Las Lajas
-  state_id: 1394
+- name: Las Lajas
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.54963000'
   longitude: "-79.93521000"
-  wikiDataId: Q3916792
-- id: 80308
-  name: Las Uvas
-  state_id: 1394
+- name: Las Uvas
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.45937000'
   longitude: "-80.00075000"
-  wikiDataId: Q2712890
-- id: 80318
-  name: Llano Largo
-  state_id: 1394
+- name: Llano Largo
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.83463000'
   longitude: "-79.80765000"
-  wikiDataId: Q2712890
-- id: 80336
-  name: Los Llanitos
-  state_id: 1394
+- name: Los Llanitos
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.59787000'
   longitude: "-80.09503000"
-  wikiDataId: Q2712890
-- id: 80352
-  name: Mendoza
-  state_id: 1394
+- name: Mendoza
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.01471000'
   longitude: "-79.85073000"
-  wikiDataId: Q3711142
-- id: 80371
-  name: Nueva Arenosa
-  state_id: 1394
+- name: Nueva Arenosa
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.86944000'
   longitude: "-79.99472000"
-  wikiDataId: Q3544851
-- id: 80373
-  name: Nueva Gorgona
-  state_id: 1394
+- name: Nueva Gorgona
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.55000000'
   longitude: "-79.87547000"
-  wikiDataId: Q3544851
-- id: 80374
-  name: Nuevo Arraiján
-  state_id: 1394
+- name: Nuevo Arraiján
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.92453000'
   longitude: "-79.72004000"
-  wikiDataId: Q7068660
-- id: 80377
-  name: Nuevo Emperador
-  state_id: 1394
+- name: Nuevo Emperador
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.00273000'
   longitude: "-79.73141000"
-  wikiDataId: Q7068660
-- id: 80416
-  name: Playa Leona
-  state_id: 1394
+- name: Playa Leona
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.78389000'
   longitude: "-79.77547000"
-  wikiDataId: Q654169
-- id: 80426
-  name: Potrero Grande
-  state_id: 1394
+- name: Potrero Grande
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.88051000'
   longitude: "-79.82795000"
-  wikiDataId: Q7235136
-- id: 80432
-  name: Puerto Caimito
-  state_id: 1394
+- name: Puerto Caimito
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.87022000'
   longitude: "-79.71423000"
-  wikiDataId: Q3130855
-- id: 80458
-  name: Río Congo
-  state_id: 1394
+- name: Río Congo
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.96666000'
   longitude: "-79.76105000"
-  wikiDataId: Q3130855
-- id: 80475
-  name: San Carlos
-  state_id: 1394
+- name: San Carlos
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.47323000'
   longitude: "-79.96104000"
-  wikiDataId: Q7386411
-- id: 80483
-  name: San José
-  state_id: 1394
+- name: San José
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.93333000'
   longitude: "-79.73333000"
-  wikiDataId: Q7386411
-- id: 80495
-  name: San Vicente de Bique
-  state_id: 1394
+- name: San Vicente de Bique
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.91143000'
   longitude: "-79.67360000"
-  wikiDataId: Q932699
-- id: 80498
-  name: Santa Clara
-  state_id: 1394
+- name: Santa Clara
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '9.02875000'
   longitude: "-79.75443000"
-  wikiDataId: Q932699
-- id: 80505
-  name: Santa Rita
-  state_id: 1394
+- name: Santa Rita
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.85681000'
   longitude: "-79.87954000"
-  wikiDataId: Q5620819
-- id: 80518
-  name: Sorá
-  state_id: 1394
+- name: Sorá
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.63191000'
   longitude: "-80.00888000"
-  wikiDataId: Q685509
-- id: 80540
-  name: Veracruz
-  state_id: 1394
+- name: Veracruz
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.88988000'
   longitude: "-79.62603000"
-  wikiDataId: Q3254645
-- id: 80543
-  name: Villa Carmen
-  state_id: 1394
+- name: Villa Carmen
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.79832000'
   longitude: "-79.86929000"
-  wikiDataId: Q3254645
-- id: 80545
-  name: Villa Rosario
-  state_id: 1394
+- name: Villa Rosario
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.77379000'
   longitude: "-79.87547000"
-  wikiDataId: Q3254645
-- id: 80547
-  name: Vista Alegre
-  state_id: 1394
+- name: Vista Alegre
   state_code: '10'
   state_name: Panamá Oeste
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.92772000'
   longitude: "-79.70280000"
-  wikiDataId: Q33512189
-- id: 79964
-  name: Alto de Jesús
-  state_id: 1392
+- name: Alto de Jesús
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.26152000'
   longitude: "-81.48412000"
-  wikiDataId: Q1956983
-- id: 79970
-  name: Arenas
-  state_id: 1392
+- name: Arenas
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.36865000'
   longitude: "-80.86268000"
-  wikiDataId: Q1956983
-- id: 79975
-  name: Atalaya
-  state_id: 1392
+- name: Atalaya
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.04213000'
   longitude: "-80.92528000"
-  wikiDataId: Q1956983
-- id: 79981
-  name: Barnizal
-  state_id: 1392
+- name: Barnizal
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.40460000'
   longitude: "-80.77765000"
-  wikiDataId: Q1956983
-- id: 79994
-  name: Bisvalles
-  state_id: 1392
+- name: Bisvalles
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.18298000'
   longitude: "-81.22092000"
-  wikiDataId: Q1956983
-- id: 80001
-  name: Boquerón
-  state_id: 1392
+- name: Boquerón
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.24414000'
   longitude: "-80.85897000"
-  wikiDataId: Q888971
-- id: 80004
-  name: Boró
-  state_id: 1392
+- name: Boró
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.16933000'
   longitude: "-81.30071000"
-  wikiDataId: Q804144
-- id: 80022
-  name: Calabacito
-  state_id: 1392
+- name: Calabacito
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.24817000'
   longitude: "-81.08187000"
-  wikiDataId: Q804144
-- id: 80024
-  name: Calidonia
-  state_id: 1392
+- name: Calidonia
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.95756000'
   longitude: "-81.38633000"
-  wikiDataId: Q804144
-- id: 80025
-  name: Calobre
-  state_id: 1392
+- name: Calobre
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.31886000'
   longitude: "-80.84067000"
-  wikiDataId: Q804144
-- id: 80026
-  name: Calovébora
-  state_id: 1392
+- name: Calovébora
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.78703000'
   longitude: "-81.21056000"
-  wikiDataId: Q804144
-- id: 80040
-  name: Cañazas
-  state_id: 1392
+- name: Cañazas
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.32004000'
   longitude: "-81.21152000"
-  wikiDataId: Q804144
-- id: 80031
-  name: Canto del Llano
-  state_id: 1392
+- name: Canto del Llano
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.12472000'
   longitude: "-80.96374000"
-  wikiDataId: Q804144
-- id: 80077
-  name: Corozal
-  state_id: 1392
+- name: Corozal
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.07712000'
   longitude: "-81.43990000"
-  wikiDataId: Q627852
-- id: 80089
-  name: Distrito de Atalaya
-  state_id: 1392
+- name: Distrito de Atalaya
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.02899000'
   longitude: "-80.91739000"
-  wikiDataId: Q1650993
-- id: 80096
-  name: Distrito de Calobre
-  state_id: 1392
+- name: Distrito de Calobre
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.39684000'
   longitude: "-80.85124000"
-  wikiDataId: Q921735
-- id: 80098
-  name: Distrito de Cañazas
-  state_id: 1392
+- name: Distrito de Cañazas
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.35596000'
   longitude: "-81.28633000"
-  wikiDataId: Q1651005
-- id: 80113
-  name: Distrito de La Mesa
-  state_id: 1392
+- name: Distrito de La Mesa
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.10976000'
   longitude: "-81.17767000"
-  wikiDataId: Q2216424
-- id: 80116
-  name: Distrito de Las Palmas
-  state_id: 1392
+- name: Distrito de Las Palmas
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.14532000'
   longitude: "-81.42849000"
-  wikiDataId: Q1650981
-- id: 80121
-  name: Distrito de Montijo
-  state_id: 1392
+- name: Distrito de Montijo
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.95316000'
   longitude: "-81.05301000"
-  wikiDataId: Q1650967
-- id: 80134
-  name: Distrito de Río de Jesús
-  state_id: 1392
+- name: Distrito de Río de Jesús
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.91438000'
   longitude: "-81.16133000"
-  wikiDataId: Q1650989
-- id: 80136
-  name: Distrito de San Francisco
-  state_id: 1392
+- name: Distrito de San Francisco
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.26965000'
   longitude: "-81.00108000"
-  wikiDataId: Q1650989
-- id: 80139
-  name: Distrito de Santa Fé
-  state_id: 1392
+- name: Distrito de Santa Fé
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.72063000'
   longitude: "-80.95858000"
-  wikiDataId: Q2217004
-- id: 80142
-  name: Distrito de Santiago
-  state_id: 1392
+- name: Distrito de Santiago
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.12425000'
   longitude: "-80.87827000"
-  wikiDataId: Q3585237
-- id: 80143
-  name: Distrito de Soná
-  state_id: 1392
+- name: Distrito de Soná
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.84378000'
   longitude: "-81.36612000"
-  wikiDataId: Q1651000
-- id: 80149
-  name: El Alto
-  state_id: 1392
+- name: El Alto
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.51191000'
   longitude: "-81.03646000"
-  wikiDataId: Q2216393
-- id: 80150
-  name: El Barrito
-  state_id: 1392
+- name: El Barrito
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.96059000'
   longitude: "-80.94801000"
-  wikiDataId: Q2216393
-- id: 80162
-  name: El Coclá
-  state_id: 1392
+- name: El Coclá
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.32143000'
   longitude: "-80.92069000"
-  wikiDataId: Q2216393
-- id: 80173
-  name: El Espino de Santa Rosa
-  state_id: 1392
+- name: El Espino de Santa Rosa
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.09286000'
   longitude: "-80.82380000"
-  wikiDataId: Q2216393
-- id: 80182
-  name: El Marañón
-  state_id: 1392
+- name: El Marañón
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.03582000'
   longitude: "-81.21489000"
-  wikiDataId: Q2216393
-- id: 80183
-  name: El María
-  state_id: 1392
+- name: El María
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.02905000'
   longitude: "-81.44384000"
-  wikiDataId: Q2216393
-- id: 80197
-  name: El Pájaro
-  state_id: 1392
+- name: El Pájaro
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.95342000'
   longitude: "-81.12154000"
-  wikiDataId: Q1018577
-- id: 80187
-  name: El Pantano
-  state_id: 1392
+- name: El Pantano
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.53755000'
   longitude: "-81.06941000"
-  wikiDataId: Q2216393
-- id: 80190
-  name: El Peñón
-  state_id: 1392
+- name: El Peñón
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.35000000'
   longitude: "-80.97620000"
-  wikiDataId: Q2216393
-- id: 80191
-  name: El Picador
-  state_id: 1392
+- name: El Picador
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.37803000'
   longitude: "-81.25621000"
-  wikiDataId: Q2216393
-- id: 80195
-  name: El Potrero
-  state_id: 1392
+- name: El Potrero
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.37692000'
   longitude: "-80.79434000"
-  wikiDataId: Q1018577
-- id: 80200
-  name: El Rincón
-  state_id: 1392
+- name: El Rincón
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.18422000'
   longitude: "-81.43333000"
-  wikiDataId: Q1018577
-- id: 80205
-  name: El Uvito
-  state_id: 1392
+- name: El Uvito
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.11648000'
   longitude: "-80.98461000"
-  wikiDataId: Q5352312
-- id: 80224
-  name: Guarumal
-  state_id: 1392
+- name: Guarumal
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.79404000'
   longitude: "-81.25904000"
-  wikiDataId: Q2437057
-- id: 80244
-  name: La Colorada
-  state_id: 1392
+- name: La Colorada
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.01319000'
   longitude: "-80.98590000"
-  wikiDataId: Q774405
-- id: 80255
-  name: La Garceana
-  state_id: 1392
+- name: La Garceana
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.93708000'
   longitude: "-81.01643000"
-  wikiDataId: Q774405
-- id: 80259
-  name: La Laguna
-  state_id: 1392
+- name: La Laguna
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.33882000'
   longitude: "-80.72949000"
-  wikiDataId: Q774405
-- id: 80262
-  name: La Loma
-  state_id: 1392
+- name: La Loma
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.43708000'
   longitude: "-80.89118000"
-  wikiDataId: Q6463469
-- id: 80263
-  name: La Mesa
-  state_id: 1392
+- name: La Mesa
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.14707000'
   longitude: "-81.18114000"
-  wikiDataId: Q6463469
-- id: 80269
-  name: La Montañuela
-  state_id: 1392
+- name: La Montañuela
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.02487000'
   longitude: "-80.86325000"
-  wikiDataId: Q10315061
-- id: 80274
-  name: La Peña
-  state_id: 1392
+- name: La Peña
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.12784000'
   longitude: "-81.02693000"
-  wikiDataId: Q10315061
-- id: 80276
-  name: La Raya de Calobre
-  state_id: 1392
+- name: La Raya de Calobre
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.21630000'
   longitude: "-80.82729000"
-  wikiDataId: Q10315061
-- id: 80277
-  name: La Raya de Santa María
-  state_id: 1392
+- name: La Raya de Santa María
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.16429000'
   longitude: "-80.82143000"
-  wikiDataId: Q10315061
-- id: 80281
-  name: La Yeguada
-  state_id: 1392
+- name: La Yeguada
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.43060000'
   longitude: "-80.85752000"
-  wikiDataId: Q10315061
-- id: 80291
-  name: Las Guías Abajo
-  state_id: 1392
+- name: Las Guías Abajo
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.19451000'
   longitude: "-80.75494000"
-  wikiDataId: Q3916792
-- id: 80292
-  name: Las Huacas
-  state_id: 1392
+- name: Las Huacas
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.90167000'
   longitude: "-81.14056000"
-  wikiDataId: Q3916792
-- id: 80302
-  name: Las Palmas
-  state_id: 1392
+- name: Las Palmas
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.13564000'
   longitude: "-81.45674000"
-  wikiDataId: Q3916792
-- id: 80310
-  name: Leones Arriba
-  state_id: 1392
+- name: Leones Arriba
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.75415000'
   longitude: "-81.11556000"
-  wikiDataId: Q2712890
-- id: 80316
-  name: Llano Grande
-  state_id: 1392
+- name: Llano Grande
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.07473000'
   longitude: "-81.13626000"
-  wikiDataId: Q2712890
-- id: 80324
-  name: Lolá
-  state_id: 1392
+- name: Lolá
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.09326000'
   longitude: "-81.47163000"
-  wikiDataId: Q2712890
-- id: 80327
-  name: Los Algarrobos
-  state_id: 1392
+- name: Los Algarrobos
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.10898000'
   longitude: "-81.01355000"
-  wikiDataId: Q2712890
-- id: 80332
-  name: Los Castillos
-  state_id: 1392
+- name: Los Castillos
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.02326000'
   longitude: "-81.11941000"
-  wikiDataId: Q2712890
-- id: 80335
-  name: Los Higos
-  state_id: 1392
+- name: Los Higos
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.20553000'
   longitude: "-80.86022000"
-  wikiDataId: Q2712890
-- id: 80349
-  name: Mariato District
-  state_id: 1392
+- name: Mariato District
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.67810000'
   longitude: "-81.00409000"
-  wikiDataId: Q3711142
-- id: 80359
-  name: Monjarás
-  state_id: 1392
+- name: Monjarás
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.36942000'
   longitude: "-80.86667000"
-  wikiDataId: Q3711142
-- id: 80361
-  name: Montijo
-  state_id: 1392
+- name: Montijo
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.98858000'
   longitude: "-81.05643000"
-  wikiDataId: Q3711142
-- id: 80412
-  name: Piedras Gordas
-  state_id: 1392
+- name: Piedras Gordas
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.52419000'
   longitude: "-80.91152000"
-  wikiDataId: Q654169
-- id: 80421
-  name: Ponuga
-  state_id: 1392
+- name: Ponuga
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.88245000'
   longitude: "-80.97880000"
-  wikiDataId: Q654169
-- id: 80436
-  name: Puerto Vidal
-  state_id: 1392
+- name: Puerto Vidal
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.04834000'
   longitude: "-81.60499000"
-  wikiDataId: Q3130855
-- id: 80446
-  name: Quebrada de Oro
-  state_id: 1392
+- name: Quebrada de Oro
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.03548000'
   longitude: "-81.38692000"
-  wikiDataId: Q3130855
-- id: 80466
-  name: Río de Jesús
-  state_id: 1392
+- name: Río de Jesús
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.97882000'
   longitude: "-81.16162000"
-  wikiDataId: Q7386411
-- id: 80461
-  name: Río Grande
-  state_id: 1392
+- name: Río Grande
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.71907000'
   longitude: "-81.33423000"
-  wikiDataId: Q6115163
-- id: 80454
-  name: Rodeo Viejo
-  state_id: 1392
+- name: Rodeo Viejo
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.11205000'
   longitude: "-81.31684000"
-  wikiDataId: Q3130855
-- id: 80473
-  name: San Bartolo
-  state_id: 1392
+- name: San Bartolo
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.21063000'
   longitude: "-81.27572000"
-  wikiDataId: Q7386411
-- id: 80477
-  name: San Francisco
-  state_id: 1392
+- name: San Francisco
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.06667000'
   longitude: "-81.36667000"
-  wikiDataId: Q7386411
-- id: 80482
-  name: San José
-  state_id: 1392
+- name: San José
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.46704000'
   longitude: "-80.80514000"
-  wikiDataId: Q7386411
-- id: 80484
-  name: San Juan
-  state_id: 1392
+- name: San Juan
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.30311000'
   longitude: "-81.01575000"
-  wikiDataId: Q7386411
-- id: 80488
-  name: San Marcelo
-  state_id: 1392
+- name: San Marcelo
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.27252000'
   longitude: "-81.15988000"
-  wikiDataId: Q7386411
-- id: 80493
-  name: San Pedro del Espino
-  state_id: 1392
+- name: San Pedro del Espino
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.14011000'
   longitude: "-81.08663000"
-  wikiDataId: Q932699
-- id: 80501
-  name: Santa Fé
-  state_id: 1392
+- name: Santa Fé
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.51063000'
   longitude: "-81.07802000"
-  wikiDataId: Q5620819
-- id: 80508
-  name: Santiago de Veraguas
-  state_id: 1392
+- name: Santiago de Veraguas
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.10000000'
   longitude: "-80.98333000"
-  wikiDataId: Q685509
-- id: 80516
-  name: Soná
-  state_id: 1392
+- name: Soná
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.01223000'
   longitude: "-81.32163000"
-  wikiDataId: Q685509
-- id: 80519
-  name: Tebario
-  state_id: 1392
+- name: Tebario
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.71369000'
   longitude: "-80.97825000"
-  wikiDataId: Q685509
-- id: 80535
-  name: Utirá
-  state_id: 1392
+- name: Utirá
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '7.97208000'
   longitude: "-81.21777000"
-  wikiDataId: Q3254645
-- id: 80542
-  name: Viguí
-  state_id: 1392
+- name: Viguí
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.33921000'
   longitude: "-81.49823000"
-  wikiDataId: Q3254645
-- id: 80553
-  name: Zapotillo
-  state_id: 1392
+- name: Zapotillo
   state_code: '9'
   state_name: Veraguas
-  country_id: 170
-  country_code: PA
-  country_name: Panama
   latitude: '8.00532000'
   longitude: "-81.50653000"
-  wikiDataId: Q33512189

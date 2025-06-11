@@ -1,1585 +1,721 @@
 ---
-- id: 66726
-  name: Bascharage
-  state_id: 1518
+- name: Bascharage
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.56727000'
   longitude: '5.90730000'
-  wikiDataId: Q947942
-- id: 66745
-  name: Bridel
-  state_id: 1518
+- name: Bridel
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.65579000'
   longitude: '6.07999000'
-  wikiDataId: Q2584585
-- id: 66747
-  name: Capellen
-  state_id: 1518
+- name: Capellen
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.64500000'
   longitude: '5.99083000'
-  wikiDataId: Q1988543
-- id: 66748
-  name: Clemency
-  state_id: 1518
+- name: Clemency
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.59667000'
   longitude: '5.87583000'
-  wikiDataId: Q1369887
-- id: 66759
-  name: Dippach
-  state_id: 1518
+- name: Dippach
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.58701000'
   longitude: '5.98330000'
-  wikiDataId: Q13102344
-- id: 66762
-  name: Eischen
-  state_id: 1518
+- name: Eischen
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.68556000'
   longitude: '5.87861000'
-  wikiDataId: Q1311018
-- id: 66773
-  name: Garnich
-  state_id: 1518
+- name: Garnich
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.61667000'
   longitude: '5.95250000'
-  wikiDataId: Q20969364
-- id: 66778
-  name: Hautcharage
-  state_id: 1518
+- name: Hautcharage
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.57499000'
   longitude: '5.90970000'
-  wikiDataId: Q2675610
-- id: 66783
-  name: Hobscheid
-  state_id: 1518
+- name: Hobscheid
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.68861000'
   longitude: '5.91472000'
-  wikiDataId: Q13102943
-- id: 66793
-  name: Käerjeng
-  state_id: 1518
+- name: Käerjeng
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.58311000'
   longitude: '5.89892000'
-  wikiDataId: Q776642
-- id: 66788
-  name: Kehlen
-  state_id: 1518
+- name: Kehlen
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.66833000'
   longitude: '6.03583000'
-  wikiDataId: Q16763861
-- id: 66791
-  name: Koerich
-  state_id: 1518
+- name: Koerich
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.67000000'
   longitude: '5.95000000'
-  wikiDataId: Q20969433
-- id: 66792
-  name: Kopstal
-  state_id: 1518
+- name: Kopstal
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.66444000'
   longitude: '6.07306000'
-  wikiDataId: Q20969435
-- id: 66802
-  name: Mamer
-  state_id: 1518
+- name: Mamer
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.62750000'
   longitude: '6.02333000'
-  wikiDataId: Q20969453
-- id: 66839
-  name: Schouweiler
-  state_id: 1518
+- name: Schouweiler
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.58250000'
   longitude: '5.95639000'
-  wikiDataId: Q2609947
-- id: 66842
-  name: Septfontaines
-  state_id: 1518
+- name: Septfontaines
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.70111000'
   longitude: '5.96722000'
-  wikiDataId: Q3917095
-- id: 66845
-  name: Steinfort
-  state_id: 1518
+- name: Steinfort
   state_code: CA
   state_name: Capellen
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.66139000'
   longitude: '5.91917000'
-  wikiDataId: Q985478
-- id: 66749
-  name: Clervaux
-  state_id: 1521
+- name: Clervaux
   state_code: CL
   state_name: Clervaux
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '50.05472000'
   longitude: '6.03139000'
-  wikiDataId: Q13103610
-- id: 66784
-  name: Hosingen
-  state_id: 1521
+- name: Hosingen
   state_code: CL
   state_name: Clervaux
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '50.01218000'
   longitude: '6.09089000'
-  wikiDataId: Q1333496
-- id: 66819
-  name: Parc Hosingen
-  state_id: 1521
+- name: Parc Hosingen
   state_code: CL
   state_name: Clervaux
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.99744000'
   longitude: '6.09067000'
-  wikiDataId: Q743393
-- id: 66849
-  name: Troisvierges
-  state_id: 1521
+- name: Troisvierges
   state_code: CL
   state_name: Clervaux
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '50.12111000'
   longitude: '6.00028000'
-  wikiDataId: Q985478
-- id: 66862
-  name: Weiswampach
-  state_id: 1521
+- name: Weiswampach
   state_code: CL
   state_name: Clervaux
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '50.13722000'
   longitude: '6.07500000'
-  wikiDataId: Q3917108
-- id: 66865
-  name: Wincrange
-  state_id: 1521
+- name: Wincrange
   state_code: CL
   state_name: Clervaux
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '50.05333000'
   longitude: '5.91917000'
-  wikiDataId: Q3917114
-- id: 66737
-  name: Bettendorf
-  state_id: 1513
+- name: Bettendorf
   state_code: DI
   state_name: Diekirch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.87667000'
   longitude: '6.21806000'
-  wikiDataId: Q22284
-- id: 66743
-  name: Bourscheid
-  state_id: 1513
+- name: Bourscheid
   state_code: DI
   state_name: Diekirch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.90862000'
   longitude: '6.06750000'
-  wikiDataId: Q20969287
-- id: 66752
-  name: Commune de la Vallée de l’Ernz
-  state_id: 1513
+- name: Commune de la Vallée de l’Ernz
   state_code: DI
   state_name: Diekirch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.82149000'
   longitude: '6.21746000'
-  wikiDataId: Q1313580
-- id: 66757
-  name: Diekirch
-  state_id: 1513
+- name: Diekirch
   state_code: DI
   state_name: Diekirch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.86778000'
   longitude: '6.15583000'
-  wikiDataId: Q29057521
-- id: 66764
-  name: Erpeldange
-  state_id: 1513
+- name: Erpeldange
   state_code: DI
   state_name: Diekirch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.86472000'
   longitude: '6.11472000'
-  wikiDataId: Q1311018
-- id: 66767
-  name: Ettelbruck
-  state_id: 1513
+- name: Ettelbruck
   state_code: DI
   state_name: Diekirch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.84750000'
   longitude: '6.10417000'
-  wikiDataId: Q20969348
-- id: 66769
-  name: Feulen
-  state_id: 1513
+- name: Feulen
   state_code: DI
   state_name: Diekirch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.85000000'
   longitude: '6.01667000'
-  wikiDataId: Q1143707
-- id: 66804
-  name: Medernach
-  state_id: 1513
+- name: Medernach
   state_code: DI
   state_name: Diekirch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.80955000'
   longitude: '6.21521000'
-  wikiDataId: Q20969453
-- id: 66807
-  name: Mertzig
-  state_id: 1513
+- name: Mertzig
   state_code: DI
   state_name: Diekirch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.83389000'
   longitude: '6.00750000'
-  wikiDataId: Q3916990
-- id: 66815
-  name: Niederfeulen
-  state_id: 1513
+- name: Niederfeulen
   state_code: DI
   state_name: Diekirch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.85556000'
   longitude: '6.04722000'
-  wikiDataId: Q3112408
-- id: 66826
-  name: Reisdorf
-  state_id: 1513
+- name: Reisdorf
   state_code: DI
   state_name: Diekirch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.86861000'
   longitude: '6.26778000'
-  wikiDataId: Q16764501
-- id: 66837
-  name: Schieren
-  state_id: 1513
+- name: Schieren
   state_code: DI
   state_name: Diekirch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.83056000'
   longitude: '6.09861000'
-  wikiDataId: Q20969739
-- id: 66859
-  name: Warken
-  state_id: 1513
+- name: Warken
   state_code: DI
   state_name: Diekirch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.85918000'
   longitude: '6.08415000'
-  wikiDataId: Q1828890
-- id: 66728
-  name: Beaufort
-  state_id: 1515
+- name: Beaufort
   state_code: EC
   state_name: Echternach
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.83583000'
   longitude: '6.29167000'
-  wikiDataId: Q20969250
-- id: 66729
-  name: Bech
-  state_id: 1515
+- name: Bech
   state_code: EC
   state_name: Echternach
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.75260000'
   longitude: '6.36379000'
-  wikiDataId: Q20969250
-- id: 66732
-  name: Berdorf
-  state_id: 1515
+- name: Berdorf
   state_code: EC
   state_name: Echternach
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.82051000'
   longitude: '6.34945000'
-  wikiDataId: Q2895177
-- id: 66753
-  name: Consdorf
-  state_id: 1515
+- name: Consdorf
   state_code: EC
   state_name: Echternach
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.78018000'
   longitude: '6.33950000'
-  wikiDataId: Q1313580
-- id: 66761
-  name: Echternach
-  state_id: 1515
+- name: Echternach
   state_code: EC
   state_name: Echternach
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.81212000'
   longitude: '6.41846000'
-  wikiDataId: Q204317
-- id: 66808
-  name: Mompach
-  state_id: 1515
+- name: Mompach
   state_code: EC
   state_name: Echternach
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.74611000'
   longitude: '6.46500000'
-  wikiDataId: Q3916990
-- id: 66831
-  name: Rosport
-  state_id: 1515
+- name: Rosport
   state_code: EC
   state_name: Echternach
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.80470000'
   longitude: '6.50532000'
-  wikiDataId: Q2640199
-- id: 66856
-  name: Waldbillig
-  state_id: 1515
+- name: Waldbillig
   state_code: EC
   state_name: Echternach
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.79636000'
   longitude: '6.28431000'
-  wikiDataId: Q20969783
-- id: 66725
-  name: Aspelt
-  state_id: 1517
+- name: Aspelt
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.52278000'
   longitude: '6.22472000'
-  wikiDataId: Q642351
-- id: 66731
-  name: Belvaux
-  state_id: 1517
+- name: Belvaux
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.51014000'
   longitude: '5.92414000'
-  wikiDataId: Q2895177
-- id: 66733
-  name: Bergem
-  state_id: 1517
+- name: Bergem
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.52500000'
   longitude: '6.04222000'
-  wikiDataId: Q819508
-- id: 66736
-  name: Bettembourg
-  state_id: 1517
+- name: Bettembourg
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.51861000'
   longitude: '6.10278000'
-  wikiDataId: Q22284
-- id: 66755
-  name: Crauthem
-  state_id: 1517
+- name: Crauthem
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.53556000'
   longitude: '6.14694000'
-  wikiDataId: Q2702474
-- id: 66758
-  name: Differdange
-  state_id: 1517
+- name: Differdange
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.52417000'
   longitude: '5.89139000'
-  wikiDataId: Q4844168
-- id: 66760
-  name: Dudelange
-  state_id: 1517
+- name: Dudelange
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.48056000'
   longitude: '6.08750000'
-  wikiDataId: Q20969331
-- id: 66765
-  name: Esch-sur-Alzette
-  state_id: 1517
+- name: Esch-sur-Alzette
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.49583000'
   longitude: '5.98056000'
-  wikiDataId: Q16010
-- id: 66772
-  name: Frisange
-  state_id: 1517
+- name: Frisange
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.51616000'
   longitude: '6.18858000'
-  wikiDataId: Q1017402
-- id: 66787
-  name: Kayl
-  state_id: 1517
+- name: Kayl
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.48917000'
   longitude: '6.03972000'
-  wikiDataId: Q1017404
-- id: 66795
-  name: Lamadelaine
-  state_id: 1517
+- name: Lamadelaine
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.54639000'
   longitude: '5.85639000'
-  wikiDataId: Q2217356
-- id: 66798
-  name: Leudelange
-  state_id: 1517
+- name: Leudelange
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.56833000'
   longitude: '6.06528000'
-  wikiDataId: Q3917072
-- id: 66809
-  name: Mondercange
-  state_id: 1517
+- name: Mondercange
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.53306000'
   longitude: '5.98833000'
-  wikiDataId: Q39057559
-- id: 66814
-  name: Niedercorn
-  state_id: 1517
+- name: Niedercorn
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.53611000'
   longitude: '5.89306000'
-  wikiDataId: Q751569
-- id: 66817
-  name: Obercorn
-  state_id: 1517
+- name: Obercorn
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.51361000'
   longitude: '5.89611000'
-  wikiDataId: Q2010019
-- id: 66822
-  name: Pétange
-  state_id: 1517
+- name: Pétange
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.55833000'
   longitude: '5.88056000'
-  wikiDataId: Q602441
-- id: 66820
-  name: Pontpierre
-  state_id: 1517
+- name: Pontpierre
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.53639000'
   longitude: '6.02944000'
-  wikiDataId: Q1016106
-- id: 66824
-  name: Reckange-sur-Mess
-  state_id: 1517
+- name: Reckange-sur-Mess
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.56250000'
   longitude: '6.00889000'
-  wikiDataId: Q3917049
-- id: 66828
-  name: Rodange
-  state_id: 1517
+- name: Rodange
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.54639000'
   longitude: '5.84083000'
-  wikiDataId: Q1444135
-- id: 66829
-  name: Roeser
-  state_id: 1517
+- name: Roeser
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.53721000'
   longitude: '6.14629000'
-  wikiDataId: Q1444135
-- id: 66832
-  name: Rumelange
-  state_id: 1517
+- name: Rumelange
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.45964000'
   longitude: '6.03089000'
-  wikiDataId: Q914847
-- id: 66835
-  name: Sanem
-  state_id: 1517
+- name: Sanem
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.54806000'
   longitude: '5.92889000'
-  wikiDataId: Q3917065
-- id: 66838
-  name: Schifflange
-  state_id: 1517
+- name: Schifflange
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.50639000'
   longitude: '6.01278000'
-  wikiDataId: Q20969739
-- id: 66843
-  name: Soleuvre
-  state_id: 1517
+- name: Soleuvre
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.52148000'
   longitude: '5.93781000'
-  wikiDataId: Q219089
-- id: 66851
-  name: Tétange
-  state_id: 1517
+- name: Tétange
   state_code: ES
   state_name: Esch-sur-Alzette
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.47583000'
   longitude: '6.04222000'
-  wikiDataId: Q1903325
-- id: 66738
-  name: Betzdorf
-  state_id: 1520
+- name: Betzdorf
   state_code: GR
   state_name: Grevenmacher
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.68333000'
   longitude: '6.35000000'
-  wikiDataId: Q22284
-- id: 66740
-  name: Biwer
-  state_id: 1520
+- name: Biwer
   state_code: G
   state_name: Grevenmacher
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.70605000'
   longitude: '6.37201000'
-  wikiDataId: Q22284
-- id: 66771
-  name: Flaxweiler
-  state_id: 1520
+- name: Flaxweiler
   state_code: G
   state_name: Grevenmacher
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.66602000'
   longitude: '6.34321000'
-  wikiDataId: Q20966342
-- id: 66775
-  name: Gonderange
-  state_id: 1520
+- name: Gonderange
   state_code: G
   state_name: Grevenmacher
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.69537000'
   longitude: '6.24577000'
-  wikiDataId: Q2574685
-- id: 66776
-  name: Grevenmacher
-  state_id: 1520
+- name: Grevenmacher
   state_code: G
   state_name: Grevenmacher
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.67751000'
   longitude: '6.44022000'
-  wikiDataId: Q4132923
-- id: 66786
-  name: Junglinster
-  state_id: 1520
+- name: Junglinster
   state_code: G
   state_name: Grevenmacher
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.70722000'
   longitude: '6.25306000'
-  wikiDataId: Q1017404
-- id: 66803
-  name: Manternach
-  state_id: 1520
+- name: Manternach
   state_code: G
   state_name: Grevenmacher
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.70278000'
   longitude: '6.42639000'
-  wikiDataId: Q20969453
-- id: 66806
-  name: Mertert
-  state_id: 1520
+- name: Mertert
   state_code: G
   state_name: Grevenmacher
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.70261000'
   longitude: '6.47966000'
-  wikiDataId: Q3916990
-- id: 66860
-  name: Wasserbillig
-  state_id: 1520
+- name: Wasserbillig
   state_code: G
   state_name: Grevenmacher
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.71534000'
   longitude: '6.49861000'
-  wikiDataId: Q1026497
-- id: 66867
-  name: Wormeldange
-  state_id: 1520
+- name: Wormeldange
   state_code: G
   state_name: Grevenmacher
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.61114000'
   longitude: '6.40546000'
-  wikiDataId: Q3917114
-- id: 66724
-  name: Alzingen
-  state_id: 1514
+- name: Alzingen
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.56500000'
   longitude: '6.16361000'
-  wikiDataId: Q144260
-- id: 66746
-  name: Béreldange
-  state_id: 1514
+- name: Béreldange
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.65507000'
   longitude: '6.11874000'
-  wikiDataId: Q818991
-- id: 66734
-  name: Bertrange
-  state_id: 1514
+- name: Bertrange
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.61111000'
   longitude: '6.05000000'
-  wikiDataId: Q809603
-- id: 66754
-  name: Contern
-  state_id: 1514
+- name: Contern
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.58194000'
   longitude: '6.22667000'
-  wikiDataId: Q1313580
-- id: 66768
-  name: Fentange
-  state_id: 1514
+- name: Fentange
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.56278000'
   longitude: '6.15389000'
-  wikiDataId: Q2056162
-- id: 66780
-  name: Heisdorf
-  state_id: 1514
+- name: Heisdorf
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.67207000'
   longitude: '6.14202000'
-  wikiDataId: Q1601313
-- id: 66781
-  name: Helmsange
-  state_id: 1514
+- name: Helmsange
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.65278000'
   longitude: '6.14139000'
-  wikiDataId: Q2572503
-- id: 66782
-  name: Hesperange
-  state_id: 1514
+- name: Hesperange
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.56806000'
   longitude: '6.15139000'
-  wikiDataId: Q2572503
-- id: 66785
-  name: Itzig
-  state_id: 1514
+- name: Itzig
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.58769000'
   longitude: '6.17065000'
-  wikiDataId: Q3058880
-- id: 66790
-  name: Kirchberg
-  state_id: 1514
+- name: Kirchberg
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.62389000'
   longitude: '6.14944000'
-  wikiDataId: Q583718
-- id: 66801
-  name: Luxembourg
-  state_id: 1514
+- name: Luxembourg
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.61167000'
   longitude: '6.13000000'
-  wikiDataId: Q1842
-- id: 66811
-  name: Moutfort
-  state_id: 1514
+- name: Moutfort
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.58528000'
   longitude: '6.25556000'
-  wikiDataId: Q2104959
-- id: 66812
-  name: Müllendorf
-  state_id: 1514
+- name: Müllendorf
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.68028000'
   longitude: '6.13000000'
-  wikiDataId: Q2180001
-- id: 66813
-  name: Niederanven
-  state_id: 1514
+- name: Niederanven
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.65196000'
   longitude: '6.26199000'
-  wikiDataId: Q3917188
-- id: 66818
-  name: Olm
-  state_id: 1514
+- name: Olm
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.65722000'
   longitude: '6.00028000'
-  wikiDataId: Q2674976
-- id: 66834
-  name: Sandweiler
-  state_id: 1514
+- name: Sandweiler
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.61471000'
   longitude: '6.22221000'
-  wikiDataId: Q3917065
-- id: 66840
-  name: Schrassig
-  state_id: 1514
+- name: Schrassig
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.61014000'
   longitude: '6.25903000'
-  wikiDataId: Q1026554
-- id: 66841
-  name: Schuttrange
-  state_id: 1514
+- name: Schuttrange
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.62056000'
   longitude: '6.26861000'
-  wikiDataId: Q3917120
-- id: 66846
-  name: Steinsel
-  state_id: 1514
+- name: Steinsel
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.67694000'
   longitude: '6.12389000'
-  wikiDataId: Q985478
-- id: 66847
-  name: Strassen
-  state_id: 1514
+- name: Strassen
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.62056000'
   longitude: '6.07333000'
-  wikiDataId: Q985478
-- id: 66858
-  name: Walferdange
-  state_id: 1514
+- name: Walferdange
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.66321000'
   longitude: '6.13224000'
-  wikiDataId: Q3917667
-- id: 66861
-  name: Weiler-la-Tour
-  state_id: 1514
+- name: Weiler-la-Tour
   state_code: L
   state_name: 'Luxembourg '
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.54083000'
   longitude: '6.20083000'
-  wikiDataId: Q1026497
-- id: 66739
-  name: Bissen
-  state_id: 1522
+- name: Bissen
   state_code: ME
   state_name: Mersch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.78733000'
   longitude: '6.06540000'
-  wikiDataId: Q22284
-- id: 66741
-  name: Boevange-sur-Attert
-  state_id: 1522
+- name: Boevange-sur-Attert
   state_code: ME
   state_name: Mersch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.77256000'
   longitude: '6.01532000'
-  wikiDataId: Q22284
-- id: 66750
-  name: Colmar
-  state_id: 1522
+- name: Colmar
   state_code: ME
   state_name: Mersch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.81028000'
   longitude: '6.09722000'
-  wikiDataId: Q20969306
-- id: 66770
-  name: Fischbach
-  state_id: 1522
+- name: Fischbach
   state_code: ME
   state_name: Mersch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.74600000'
   longitude: '6.18702000'
-  wikiDataId: Q20966342
-- id: 66779
-  name: Heffingen
-  state_id: 1522
+- name: Heffingen
   state_code: ME
   state_name: Mersch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.76907000'
   longitude: '6.24049000'
-  wikiDataId: Q2675610
-- id: 66796
-  name: Larochette
-  state_id: 1522
+- name: Larochette
   state_code: ME
   state_name: Mersch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.78362000'
   longitude: '6.21891000'
-  wikiDataId: Q20969440
-- id: 66799
-  name: Lintgen
-  state_id: 1522
+- name: Lintgen
   state_code: ME
   state_name: Mersch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.72243000'
   longitude: '6.13016000'
-  wikiDataId: Q20969448
-- id: 66800
-  name: Lorentzweiler
-  state_id: 1522
+- name: Lorentzweiler
   state_code: ME
   state_name: Mersch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.70131000'
   longitude: '6.14234000'
-  wikiDataId: Q3917028
-- id: 66805
-  name: Mersch
-  state_id: 1522
+- name: Mersch
   state_code: ME
   state_name: Mersch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.74889000'
   longitude: '6.10611000'
-  wikiDataId: Q23903049
-- id: 66816
-  name: Nommern
-  state_id: 1522
+- name: Nommern
   state_code: ME
   state_name: Mersch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.78694000'
   longitude: '6.17472000'
-  wikiDataId: Q3112408
-- id: 66830
-  name: Rollingen
-  state_id: 1522
+- name: Rollingen
   state_code: ME
   state_name: Mersch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.74167000'
   longitude: '6.11444000'
-  wikiDataId: Q2640199
-- id: 66850
-  name: Tuntange
-  state_id: 1522
+- name: Tuntange
   state_code: ME
   state_name: Mersch
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.71778000'
   longitude: '6.01028000'
-  wikiDataId: Q3917054
-- id: 66730
-  name: Beckerich
-  state_id: 1516
+- name: Beckerich
   state_code: RD
   state_name: Redange
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.73056000'
   longitude: '5.88722000'
-  wikiDataId: Q813727
-- id: 66735
-  name: Bettborn
-  state_id: 1516
+- name: Bettborn
   state_code: RD
   state_name: Redange
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.79528000'
   longitude: '5.94111000'
-  wikiDataId: Q22284
-- id: 66751
-  name: Commune de Préizerdaul
-  state_id: 1516
+- name: Commune de Préizerdaul
   state_code: RD
   state_name: Redange
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.80114000'
   longitude: '5.93299000'
-  wikiDataId: Q1134542
-- id: 66763
-  name: Ell
-  state_id: 1516
+- name: Ell
   state_code: RD
   state_name: Redange
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.76389000'
   longitude: '5.85722000'
-  wikiDataId: Q1311018
-- id: 66777
-  name: Grosbous
-  state_id: 1516
+- name: Grosbous
   state_code: RD
   state_name: Redange
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.82778000'
   longitude: '5.96722000'
-  wikiDataId: Q13102873
-- id: 66823
-  name: Rambrouch
-  state_id: 1516
+- name: Rambrouch
   state_code: RD
   state_name: Redange
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.83083000'
   longitude: '5.84500000'
-  wikiDataId: Q13104719
-- id: 66825
-  name: Redange-sur-Attert
-  state_id: 1516
+- name: Redange-sur-Attert
   state_code: RD
   state_name: Redange
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.76437000'
   longitude: '5.88997000'
-  wikiDataId: Q16764501
-- id: 66833
-  name: Saeul
-  state_id: 1516
+- name: Saeul
   state_code: RD
   state_name: Redange
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.72722000'
   longitude: '5.98639000'
-  wikiDataId: Q20969731
-- id: 66852
-  name: Useldange
-  state_id: 1516
+- name: Useldange
   state_code: RD
   state_name: Redange
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.76972000'
   longitude: '5.98222000'
-  wikiDataId: Q3917067
-- id: 66854
-  name: Vichten
-  state_id: 1516
+- name: Vichten
   state_code: RD
   state_name: Redange
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.80306000'
   longitude: '6.00000000'
-  wikiDataId: Q836082
-- id: 66855
-  name: Wahl
-  state_id: 1516
+- name: Wahl
   state_code: RD
   state_name: Redange
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.83667000'
   longitude: '5.90639000'
-  wikiDataId: Q836082
-- id: 66744
-  name: Bous
-  state_id: 1519
+- name: Bous
   state_code: RM
   state_name: Remich
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.55389000'
   longitude: '6.32917000'
-  wikiDataId: Q20969287
-- id: 66756
-  name: Dalheim
-  state_id: 1519
+- name: Dalheim
   state_code: RM
   state_name: Remich
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.54083000'
   longitude: '6.25972000'
-  wikiDataId: Q20969315
-- id: 66797
-  name: Lenningen
-  state_id: 1519
+- name: Lenningen
   state_code: RM
   state_name: Remich
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.59861000'
   longitude: '6.36806000'
-  wikiDataId: Q1017410
-- id: 66810
-  name: Mondorf-les-Bains
-  state_id: 1519
+- name: Mondorf-les-Bains
   state_code: RM
   state_name: Remich
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.50500000'
   longitude: '6.28111000'
-  wikiDataId: Q3917128
-- id: 66827
-  name: Remich
-  state_id: 1519
+- name: Remich
   state_code: RM
   state_name: Remich
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.54500000'
   longitude: '6.36694000'
-  wikiDataId: Q734284
-- id: 66836
-  name: Schengen
-  state_id: 1519
+- name: Schengen
   state_code: RM
   state_name: Remich
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.47000000'
   longitude: '6.36200000'
-  wikiDataId: Q3916795
-- id: 66844
-  name: Stadtbredimus
-  state_id: 1519
+- name: Stadtbredimus
   state_code: RM
   state_name: Remich
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.56278000'
   longitude: '6.36444000'
-  wikiDataId: Q219089
-- id: 66857
-  name: Waldbredimus
-  state_id: 1519
+- name: Waldbredimus
   state_code: RM
   state_name: Remich
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.55676000'
   longitude: '6.28789000'
-  wikiDataId: Q3917667
-- id: 66821
-  name: Putscheid
-  state_id: 1523
+- name: Putscheid
   state_code: VD
   state_name: Vianden
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.96083000'
   longitude: '6.14306000'
-  wikiDataId: Q1016106
-- id: 66848
-  name: Tandel
-  state_id: 1523
+- name: Tandel
   state_code: VD
   state_name: Vianden
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.89750000'
   longitude: '6.18333000'
-  wikiDataId: Q985478
-- id: 66853
-  name: Vianden
-  state_id: 1523
+- name: Vianden
   state_code: VD
   state_name: Vianden
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.93500000'
   longitude: '6.20889000'
-  wikiDataId: Q836082
-- id: 66727
-  name: Bavigne
-  state_id: 1526
+- name: Bavigne
   state_code: WI
   state_name: Wiltz
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.92194000'
   longitude: '5.84944000'
-  wikiDataId: Q972183
-- id: 66742
-  name: Boulaide
-  state_id: 1526
+- name: Boulaide
   state_code: WI
   state_name: Wiltz
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.88778000'
   longitude: '5.81639000'
-  wikiDataId: Q22284
-- id: 66766
-  name: Esch-sur-Sûre
-  state_id: 1526
+- name: Esch-sur-Sûre
   state_code: WI
   state_name: Wiltz
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.91139000'
   longitude: '5.93639000'
-  wikiDataId: Q20969348
-- id: 66774
-  name: Goesdorf
-  state_id: 1526
+- name: Goesdorf
   state_code: WI
   state_name: Wiltz
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.92131000'
   longitude: '5.96601000'
-  wikiDataId: Q20969364
-- id: 66789
-  name: Kiischpelt
-  state_id: 1526
+- name: Kiischpelt
   state_code: WI
   state_name: Wiltz
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.97835000'
   longitude: '6.00760000'
-  wikiDataId: Q1143742
-- id: 66794
-  name: Lac de la Haute-Sûre
-  state_id: 1526
+- name: Lac de la Haute-Sûre
   state_code: WI
   state_name: Wiltz
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.91667000'
   longitude: '5.83333000'
-  wikiDataId: Q1133688
-- id: 66863
-  name: Wiltz
-  state_id: 1526
+- name: Wiltz
   state_code: WI
   state_name: Wiltz
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.96547000'
   longitude: '5.93390000'
-  wikiDataId: Q16765057
-- id: 66864
-  name: Wilwerwiltz
-  state_id: 1526
+- name: Wilwerwiltz
   state_code: WI
   state_name: Wiltz
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.98889000'
   longitude: '5.99917000'
-  wikiDataId: Q278454
-- id: 66866
-  name: Winseler
-  state_id: 1526
+- name: Winseler
   state_code: WI
   state_name: Wiltz
-  country_id: 127
-  country_code: LU
-  country_name: Luxembourg
   latitude: '49.96778000'
   longitude: '5.89028000'
-  wikiDataId: Q3917114

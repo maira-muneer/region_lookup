@@ -1,969 +1,441 @@
 ---
-- id: 65079
-  name: Adda-Douéni
-  state_id: 2821
+- name: Adda-Douéni
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.29250000"
   longitude: '44.49722000'
-  wikiDataId: Q2824136
-- id: 65080
-  name: Antsahé
-  state_id: 2821
+- name: Antsahé
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.35639000"
   longitude: '44.52250000'
-  wikiDataId: Q2857608
-- id: 65081
-  name: Assimpao
-  state_id: 2821
+- name: Assimpao
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.23306000"
   longitude: '44.31972000'
-  wikiDataId: Q2867178
-- id: 65084
-  name: Bambao
-  state_id: 2821
+- name: Bambao
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.20325000"
   longitude: '44.51638000'
-  wikiDataId: Q923118
-- id: 65085
-  name: Bandajou
-  state_id: 2821
+- name: Bandajou
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.19167000"
   longitude: '44.28694000'
-  wikiDataId: Q2882134
-- id: 65086
-  name: Barakani
-  state_id: 2821
+- name: Barakani
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.13861000"
   longitude: '44.43026000'
-  wikiDataId: Q2883788
-- id: 65087
-  name: Bimbini
-  state_id: 2821
+- name: Bimbini
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.18833000"
   longitude: '44.23556000'
-  wikiDataId: Q2903802
-- id: 65088
-  name: Boungouéni
-  state_id: 2821
+- name: Boungouéni
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.20556000"
   longitude: '44.29944000'
-  wikiDataId: Q2922202
-- id: 65090
-  name: Chandra
-  state_id: 2821
+- name: Chandra
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.19500000"
   longitude: '44.46472000'
-  wikiDataId: Q2956006
-- id: 65093
-  name: Chironkamba
-  state_id: 2821
+- name: Chironkamba
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.19111000"
   longitude: '44.35250000'
-  wikiDataId: Q2963954
-- id: 65094
-  name: Chitrouni
-  state_id: 2821
+- name: Chitrouni
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.18583000"
   longitude: '44.33556000'
-  wikiDataId: Q2964025
-- id: 65096
-  name: Daji
-  state_id: 2821
+- name: Daji
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.32583000"
   longitude: '44.48861000'
-  wikiDataId: Q14525823
-- id: 65099
-  name: Domoni
-  state_id: 2821
+- name: Domoni
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.25694000"
   longitude: '44.53194000'
-  wikiDataId: Q2721251
-- id: 65102
-  name: Dziani
-  state_id: 2821
+- name: Dziani
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.18333000"
   longitude: '44.48333000'
-  wikiDataId: Q3042198
-- id: 65105
-  name: Hajoho
-  state_id: 2821
+- name: Hajoho
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.12434000"
   longitude: '44.48881000'
-  wikiDataId: Q3125818
-- id: 65107
-  name: Harembo
-  state_id: 2821
+- name: Harembo
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.15108000"
   longitude: '44.49828000'
-  wikiDataId: Q3127418
-- id: 65113
-  name: Kangani
-  state_id: 2821
+- name: Kangani
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.32102000"
   longitude: '44.47270000'
-  wikiDataId: Q6362460
-- id: 65114
-  name: Kavani
-  state_id: 2821
+- name: Kavani
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.19194000"
   longitude: '44.26944000'
-  wikiDataId: Q25397570
-- id: 65115
-  name: Koki
-  state_id: 2821
+- name: Koki
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.17139000"
   longitude: '44.44167000'
-  wikiDataId: Q25397570
-- id: 65116
-  name: Koni-Djodjo
-  state_id: 2821
+- name: Koni-Djodjo
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.22972000"
   longitude: '44.48167000'
-  wikiDataId: Q3119166
-- id: 65117
-  name: Koni-Ngani
-  state_id: 2821
+- name: Koni-Ngani
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.21583000"
   longitude: '44.48000000'
-  wikiDataId: Q3119166
-- id: 65119
-  name: Kyo
-  state_id: 2821
+- name: Kyo
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.33222000"
   longitude: '44.51917000'
-  wikiDataId: Q27222303
-- id: 65120
-  name: Limbi
-  state_id: 2821
+- name: Limbi
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.23944000"
   longitude: '44.50528000'
-  wikiDataId: Q27222303
-- id: 65121
-  name: Lingoni
-  state_id: 2821
+- name: Lingoni
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.25583000"
   longitude: '44.41833000'
-  wikiDataId: Q27222303
-- id: 65123
-  name: Magnassini-Nindri
-  state_id: 2821
+- name: Magnassini-Nindri
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.27806000"
   longitude: '44.41583000'
-  wikiDataId: Q27222303
-- id: 65125
-  name: Maraharé
-  state_id: 2821
+- name: Maraharé
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.23083000"
   longitude: '44.31333000'
-  wikiDataId: Q27222303
-- id: 65128
-  name: Mirontsi
-  state_id: 2821
+- name: Mirontsi
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.15667000"
   longitude: '44.40806000'
-  wikiDataId: Q3120973
-- id: 65131
-  name: Mjamaoué
-  state_id: 2821
+- name: Mjamaoué
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.19361000"
   longitude: '44.31000000'
-  wikiDataId: Q3317188
-- id: 65132
-  name: Mjimandra
-  state_id: 2821
+- name: Mjimandra
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.19167000"
   longitude: '44.37028000'
-  wikiDataId: Q3317188
-- id: 65136
-  name: Moutsamoudou
-  state_id: 2821
+- name: Moutsamoudou
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.16672000"
   longitude: '44.39944000'
-  wikiDataId: Q691016
-- id: 65137
-  name: Moya
-  state_id: 2821
+- name: Moya
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.30967000"
   longitude: '44.43685000'
-  wikiDataId: Q786648
-- id: 65138
-  name: Mramani
-  state_id: 2821
+- name: Mramani
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.34639000"
   longitude: '44.52861000'
-  wikiDataId: Q3503546
-- id: 65139
-  name: Mrémani
-  state_id: 2821
+- name: Mrémani
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.30833000"
   longitude: '44.49861000'
-  wikiDataId: Q6930033
-- id: 65147
-  name: Ongoni
-  state_id: 2821
+- name: Ongoni
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.17028000"
   longitude: '44.50694000'
-  wikiDataId: Q7093857
-- id: 65149
-  name: Ouani
-  state_id: 2821
+- name: Ouani
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.13554000"
   longitude: '44.42493000'
-  wikiDataId: Q3143004
-- id: 65154
-  name: Ouzini
-  state_id: 2821
+- name: Ouzini
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.26722000"
   longitude: '44.47972000'
-  wikiDataId: Q7111310
-- id: 65155
-  name: Pajé
-  state_id: 2821
+- name: Pajé
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.16972000"
   longitude: '44.38806000'
-  wikiDataId: Q7111310
-- id: 65156
-  name: Patsi
-  state_id: 2821
+- name: Patsi
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.15556000"
   longitude: '44.43722000'
-  wikiDataId: Q7111310
-- id: 65158
-  name: Sima
-  state_id: 2821
+- name: Sima
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.19556000"
   longitude: '44.27667000'
-  wikiDataId: Q3110104
-- id: 65162
-  name: Tsimbeo
-  state_id: 2821
+- name: Tsimbeo
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.20583000"
   longitude: '44.46472000'
-  wikiDataId: Q1885248
-- id: 65165
-  name: Vouani
-  state_id: 2821
+- name: Vouani
   state_code: A
   state_name: Anjouan
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.24417000"
   longitude: '44.37444000'
-  wikiDataId: Q1885248
-- id: 65082
-  name: Bahani
-  state_id: 2822
+- name: Bahani
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.63972000"
   longitude: '43.28417000'
-  wikiDataId: Q2879261
-- id: 65083
-  name: Bambadjani
-  state_id: 2822
+- name: Bambadjani
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.47861000"
   longitude: '43.37722000'
-  wikiDataId: Q923118
-- id: 65089
-  name: Bouni
-  state_id: 2822
+- name: Bouni
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.48694000"
   longitude: '43.38833000'
-  wikiDataId: Q2922203
-- id: 65091
-  name: Chezani
-  state_id: 2822
+- name: Chezani
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.43140000"
   longitude: '43.39625000'
-  wikiDataId: Q2963196
-- id: 65092
-  name: Chindini
-  state_id: 2822
+- name: Chindini
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.92328000"
   longitude: '43.49109000'
-  wikiDataId: Q2963751
-- id: 65095
-  name: Chouani
-  state_id: 2822
+- name: Chouani
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.82330000"
   longitude: '43.29429000'
-  wikiDataId: Q2964567
-- id: 65097
-  name: Dembéni
-  state_id: 2822
+- name: Dembéni
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.87361000"
   longitude: '43.39778000'
-  wikiDataId: Q3022078
-- id: 65100
-  name: Douniani
-  state_id: 2822
+- name: Douniani
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.42111000"
   longitude: '43.28889000'
-  wikiDataId: Q3038137
-- id: 65101
-  name: Dzahadjou
-  state_id: 2822
+- name: Dzahadjou
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.85287000"
   longitude: '43.34987000'
-  wikiDataId: Q3042177
-- id: 65104
-  name: Foumbouni
-  state_id: 2822
+- name: Foumbouni
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.86537000"
   longitude: '43.49529000'
-  wikiDataId: Q3043023
-- id: 65106
-  name: Hantsindzi
-  state_id: 2822
+- name: Hantsindzi
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.43178000"
   longitude: '43.41102000'
-  wikiDataId: Q507363
-- id: 65109
-  name: Héroumbili
-  state_id: 2822
+- name: Héroumbili
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.54389000"
   longitude: '43.37972000'
-  wikiDataId: Q3134319
-- id: 65110
-  name: Itsandra
-  state_id: 2822
+- name: Itsandra
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.67111000"
   longitude: '43.25472000'
-  wikiDataId: Q3155988
-- id: 65111
-  name: Itsandzéni
-  state_id: 2822
+- name: Itsandzéni
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.47278000"
   longitude: '43.38444000'
-  wikiDataId: Q3155989
-- id: 65112
-  name: Ivouani
-  state_id: 2822
+- name: Ivouani
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.39157000"
   longitude: '43.39454000'
-  wikiDataId: Q3155989
-- id: 65118
-  name: Koua
-  state_id: 2822
+- name: Koua
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.42083000"
   longitude: '43.27639000'
-  wikiDataId: Q3119166
-- id: 65122
-  name: Madjeouéni
-  state_id: 2822
+- name: Madjeouéni
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.82167000"
   longitude: '43.27806000'
-  wikiDataId: Q27222303
-- id: 65124
-  name: Mandza
-  state_id: 2822
+- name: Mandza
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.41806000"
   longitude: '43.29528000'
-  wikiDataId: Q27222303
-- id: 65126
-  name: Mavingouni
-  state_id: 2822
+- name: Mavingouni
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.71639000"
   longitude: '43.25250000'
-  wikiDataId: Q27222303
-- id: 65127
-  name: Mbéni
-  state_id: 2822
+- name: Mbéni
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.50139000"
   longitude: '43.37750000'
-  wikiDataId: Q3121010
-- id: 65129
-  name: Mitsamiouli
-  state_id: 2822
+- name: Mitsamiouli
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.38472000"
   longitude: '43.28444000'
-  wikiDataId: Q3109029
-- id: 65130
-  name: Mitsoudjé
-  state_id: 2822
+- name: Mitsoudjé
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.81209000"
   longitude: '43.28043000'
-  wikiDataId: Q3317188
-- id: 65133
-  name: Mnoungou
-  state_id: 2822
+- name: Mnoungou
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.51778000"
   longitude: '43.37389000'
-  wikiDataId: Q3317188
-- id: 65134
-  name: Mohoro
-  state_id: 2822
+- name: Mohoro
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.82701000"
   longitude: '43.45436000'
-  wikiDataId: Q3317188
-- id: 65135
-  name: Moroni
-  state_id: 2822
+- name: Moroni
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.70216000"
   longitude: '43.25506000'
-  wikiDataId: Q3901
-- id: 65141
-  name: Mtsamdou
-  state_id: 2822
+- name: Mtsamdou
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.60694000"
   longitude: '43.38056000'
-  wikiDataId: Q6930033
-- id: 65142
-  name: Mvouni
-  state_id: 2822
+- name: Mvouni
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.71611000"
   longitude: '43.26472000'
-  wikiDataId: Q3512245
-- id: 65144
-  name: Nioumamilima
-  state_id: 2822
+- name: Nioumamilima
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.85461000"
   longitude: '43.44607000'
-  wikiDataId: Q3342090
-- id: 65145
-  name: Ntsaouéni
-  state_id: 2822
+- name: Ntsaouéni
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.46583000"
   longitude: '43.26278000'
-  wikiDataId: Q3345984
-- id: 65146
-  name: Ntsoudjini
-  state_id: 2822
+- name: Ntsoudjini
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.65972000"
   longitude: '43.26139000'
-  wikiDataId: Q3345984
-- id: 65150
-  name: Ouellah
-  state_id: 2822
+- name: Ouellah
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.39028000"
   longitude: '43.33194000'
-  wikiDataId: Q3143004
-- id: 65151
-  name: Ouhozi
-  state_id: 2822
+- name: Ouhozi
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.40500000"
   longitude: '43.28222000'
-  wikiDataId: Q3143004
-- id: 65152
-  name: Ourovéni
-  state_id: 2822
+- name: Ourovéni
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.91375000"
   longitude: '43.49804000'
-  wikiDataId: Q7111310
-- id: 65153
-  name: Oussivo
-  state_id: 2822
+- name: Oussivo
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.58500000"
   longitude: '43.26722000'
-  wikiDataId: Q7111310
-- id: 65157
-  name: Salimani
-  state_id: 2822
+- name: Salimani
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.81150000"
   longitude: '43.26823000'
-  wikiDataId: Q7111310
-- id: 65160
-  name: Séléa
-  state_id: 2822
+- name: Séléa
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.78444000"
   longitude: '43.26083000'
-  wikiDataId: Q3510685
-- id: 65159
-  name: Singani
-  state_id: 2822
+- name: Singani
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.84784000"
   longitude: '43.31731000'
-  wikiDataId: Q3484935
-- id: 65161
-  name: Tsidjé
-  state_id: 2822
+- name: Tsidjé
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.69806000"
   longitude: '43.26194000'
-  wikiDataId: Q3510685
-- id: 65163
-  name: Vanadjou
-  state_id: 2822
+- name: Vanadjou
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.60750000"
   longitude: '43.27611000'
-  wikiDataId: Q1885248
-- id: 65164
-  name: Vanambouani
-  state_id: 2822
+- name: Vanambouani
   state_code: G
   state_name: Grande Comore
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-11.61139000"
   longitude: '43.25306000'
-  wikiDataId: Q1885248
-- id: 65098
-  name: Djoyézi
-  state_id: 2820
+- name: Djoyézi
   state_code: M
   state_name: Mohéli
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.30587000"
   longitude: '43.77425000'
-  wikiDataId: Q3033049
-- id: 65103
-  name: Fomboni
-  state_id: 2820
+- name: Fomboni
   state_code: M
   state_name: Mohéli
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.28759000"
   longitude: '43.74344000'
-  wikiDataId: Q1002823
-- id: 65108
-  name: Hoani
-  state_id: 2820
+- name: Hoani
   state_code: M
   state_name: Mohéli
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.25083000"
   longitude: '43.67472000'
-  wikiDataId: Q3138871
-- id: 65140
-  name: Mtakoudja
-  state_id: 2820
+- name: Mtakoudja
   state_code: M
   state_name: Mohéli
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.26111000"
   longitude: '43.70361000'
-  wikiDataId: Q6930033
-- id: 65143
-  name: Nioumachoua
-  state_id: 2820
+- name: Nioumachoua
   state_code: M
   state_name: Mohéli
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.36139000"
   longitude: '43.71528000'
-  wikiDataId: Q3342090
-- id: 65148
-  name: Ouanani
-  state_id: 2820
+- name: Ouanani
   state_code: M
   state_name: Mohéli
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.33750000"
   longitude: '43.79750000'
-  wikiDataId: Q7093857
-- id: 65166
-  name: Ziroudani
-  state_id: 2820
+- name: Ziroudani
   state_code: M
   state_name: Mohéli
-  country_id: 49
-  country_code: KM
-  country_name: Comoros
   latitude: "-12.33250000"
   longitude: '43.77750000'
-  wikiDataId: Q1885248

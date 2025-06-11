@@ -1,100 +1,46 @@
 ---
-- id: 9820
-  name: Kuala Belait
-  state_id: 1217
+- name: Kuala Belait
   state_code: BE
   state_name: Belait
-  country_id: 33
-  country_code: BN
-  country_name: Brunei
   latitude: '4.58361000'
   longitude: '114.23120000'
-  wikiDataId: Q588045
-- id: 9823
-  name: Seria
-  state_id: 1217
+- name: Seria
   state_code: BE
   state_name: Belait
-  country_id: 33
-  country_code: BN
-  country_name: Brunei
   latitude: '4.60637000'
   longitude: '114.32476000'
-  wikiDataId: Q2159472
-- id: 9816
-  name: Bandar Seri Begawan
-  state_id: 1216
+- name: Bandar Seri Begawan
   state_code: BM
   state_name: Brunei-Muara
-  country_id: 33
-  country_code: BN
-  country_name: Brunei
   latitude: '4.89035000'
   longitude: '114.94006000'
-  wikiDataId: Q9279
-- id: 9818
-  name: Berakas A
-  state_id: 1216
+- name: Berakas A
   state_code: BM
   state_name: Brunei-Muara
-  country_id: 33
-  country_code: BN
-  country_name: Brunei
   latitude: '4.97032000'
   longitude: '114.92989000'
-  wikiDataId: Q1125479
-- id: 9819
-  name: Kapok
-  state_id: 1216
+- name: Kapok
   state_code: BM
   state_name: Brunei-Muara
-  country_id: 33
-  country_code: BN
-  country_name: Brunei
   latitude: '5.02447000'
   longitude: '115.04664000'
-  wikiDataId: Q1125479
-- id: 9821
-  name: Mentiri
-  state_id: 1216
+- name: Mentiri
   state_code: BM
   state_name: Brunei-Muara
-  country_id: 33
-  country_code: BN
-  country_name: Brunei
   latitude: '4.97058000'
   longitude: '115.02078000'
-  wikiDataId: Q588045
-- id: 9822
-  name: Serasa
-  state_id: 1216
+- name: Serasa
   state_code: BM
   state_name: Brunei-Muara
-  country_id: 33
-  country_code: BN
-  country_name: Brunei
   latitude: '5.01718000'
   longitude: '115.05841000'
-  wikiDataId: Q588045
-- id: 9817
-  name: Bangar
-  state_id: 1218
+- name: Bangar
   state_code: TE
   state_name: Temburong
-  country_id: 33
-  country_code: BN
-  country_name: Brunei
   latitude: '4.70861000'
   longitude: '115.07167000'
-  wikiDataId: Q1125479
-- id: 9824
-  name: Tutong
-  state_id: 1219
+- name: Tutong
   state_code: TU
   state_name: Tutong
-  country_id: 33
-  country_code: BN
-  country_name: Brunei
   latitude: '4.80278000'
   longitude: '114.64917000'
-  wikiDataId: Q2299301

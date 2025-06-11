@@ -1,5402 +1,2456 @@
 ---
-- id: 130185
-  name: Cho Dok
-  state_id: 3794
+- name: Cho Dok
   state_code: '44'
   state_name: An Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.70000000'
   longitude: '105.11667000'
-  wikiDataId: Q373214
-- id: 130211
-  name: Huyện An Phú
-  state_id: 3794
+- name: Huyện An Phú
   state_code: '44'
   state_name: An Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.84274000'
   longitude: '105.08990000'
-  wikiDataId: Q2414515
-- id: 130248
-  name: Huyện Châu Phú
-  state_id: 3794
+- name: Huyện Châu Phú
   state_code: '44'
   state_name: An Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.57166000'
   longitude: '105.16991000'
-  wikiDataId: Q2232482
-- id: 130262
-  name: Huyện Chợ Mới
-  state_id: 3794
+- name: Huyện Chợ Mới
   state_code: '44'
   state_name: An Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.47730000'
   longitude: '105.49092000'
-  wikiDataId: Q1927073
-- id: 130401
-  name: Huyện Phú Tân
-  state_id: 3794
+- name: Huyện Phú Tân
   state_code: '44'
   state_name: An Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.65716000'
   longitude: '105.28459000'
-  wikiDataId: Q1319796
-- id: 130461
-  name: Huyện Tri Tôn
-  state_id: 3794
+- name: Huyện Tri Tôn
   state_code: '44'
   state_name: An Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.41416000'
   longitude: '104.96136000'
-  wikiDataId: Q1320227
-- id: 130569
-  name: Long Xuyên
-  state_id: 3794
+- name: Long Xuyên
   state_code: '44'
   state_name: An Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.38639000'
   longitude: '105.43518000'
-  wikiDataId: Q31942265
-- id: 130570
-  name: Long Xuyên City
-  state_id: 3794
+- name: Long Xuyên City
   state_code: '44'
   state_name: An Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.36857000'
   longitude: '105.42340000'
-  wikiDataId: Q33421
-- id: 130189
-  name: Côn Sơn
-  state_id: 3770
+- name: Côn Sơn
   state_code: '43'
   state_name: Bà Rịa-Vũng Tàu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '8.68641000'
   longitude: '106.60824000'
-  wikiDataId: Q25262
-- id: 130255
-  name: Huyện Châu Đức
-  state_id: 3770
+- name: Huyện Châu Đức
   state_code: '43'
   state_name: Bà Rịa-Vũng Tàu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.65805000'
   longitude: '107.25098000'
-  wikiDataId: Q1319826
-- id: 130539
-  name: Huyện Đất Đỏ
-  state_id: 3770
+- name: Huyện Đất Đỏ
   state_code: '43'
   state_name: Bà Rịa-Vũng Tàu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.48025000'
   longitude: '107.27879000'
-  wikiDataId: Q2414015
-- id: 130487
-  name: Huyện Tân Thành
-  state_id: 3770
+- name: Huyện Tân Thành
   state_code: '43'
   state_name: Bà Rịa-Vũng Tàu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.57381000'
   longitude: '107.10189000'
-  wikiDataId: Q3711512
-- id: 130510
-  name: Huyện Xuyên Mộc
-  state_id: 3770
+- name: Huyện Xuyên Mộc
   state_code: '43'
   state_name: Bà Rịa-Vũng Tàu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.63048000'
   longitude: '107.46568000'
-  wikiDataId: Q1758257
-- id: 130604
-  name: Thành Phố Vũng Tàu
-  state_id: 3770
+- name: Thành Phố Vũng Tàu
   state_code: '43'
   state_name: Bà Rịa-Vũng Tàu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.40239000'
   longitude: '107.14239000'
-  wikiDataId: Q21194
-- id: 130613
-  name: Thị Xã Phú Mỹ
-  state_id: 3770
+- name: Thị Xã Phú Mỹ
   state_code: '43'
   state_name: Bà Rịa-Vũng Tàu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.56815000'
   longitude: '107.12999000'
-  wikiDataId: Q1320204
-- id: 130626
-  name: Vũng Tàu
-  state_id: 3770
+- name: Vũng Tàu
   state_code: '43'
   state_name: Bà Rịa-Vũng Tàu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.34599000'
   longitude: '107.08426000'
-  wikiDataId: Q36088
-- id: 130177
-  name: Bắc Giang
-  state_id: 3815
+- name: Bắc Giang
   state_code: '54'
   state_name: Bắc Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.27307000'
   longitude: '106.19460000'
-  wikiDataId: Q36736
-- id: 130353
-  name: Huyện Lục Nam
-  state_id: 3815
+- name: Huyện Lục Nam
   state_code: '54'
   state_name: Bắc Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.27548000'
   longitude: '106.46519000'
-  wikiDataId: Q1924548
-- id: 130354
-  name: Huyện Lục Ngạn
-  state_id: 3815
+- name: Huyện Lục Ngạn
   state_code: '54'
   state_name: Bắc Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.43719000'
   longitude: '106.65845000'
-  wikiDataId: Q2226906
-- id: 130521
-  name: Huyện Yên Thế
-  state_id: 3815
+- name: Huyện Yên Thế
   state_code: '54'
   state_name: Bắc Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.51667000'
   longitude: '106.11689000'
-  wikiDataId: Q1924620
-- id: 130178
-  name: Bắc Kạn
-  state_id: 3822
+- name: Bắc Kạn
   state_code: '53'
   state_name: Bắc Kạn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.14701000'
   longitude: '105.83481000'
-  wikiDataId: Q75700
-- id: 130213
-  name: Huyện Ba Bể
-  state_id: 3822
+- name: Huyện Ba Bể
   state_code: '53'
   state_name: Bắc Kạn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.41667000'
   longitude: '105.75000000'
-  wikiDataId: Q1124233
-- id: 130228
-  name: Huyện Bạch Thông
-  state_id: 3822
+- name: Huyện Bạch Thông
   state_code: '53'
   state_name: Bắc Kạn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.25758000'
   longitude: '105.83295000'
-  wikiDataId: Q3710674
-- id: 130263
-  name: Huyện Chợ Đồn
-  state_id: 3822
+- name: Huyện Chợ Đồn
   state_code: '53'
   state_name: Bắc Kạn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.18681000'
   longitude: '105.57280000'
-  wikiDataId: Q800052
-- id: 130374
-  name: Huyện Na Rì
-  state_id: 3822
+- name: Huyện Na Rì
   state_code: '53'
   state_name: Bắc Kạn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.17883000'
   longitude: '106.11221000'
-  wikiDataId: Q3711221
-- id: 130387
-  name: Huyện Ngân Sơn
-  state_id: 3822
+- name: Huyện Ngân Sơn
   state_code: '53'
   state_name: Bắc Kạn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.42962000'
   longitude: '106.01030000'
-  wikiDataId: Q3711242
-- id: 130608
-  name: Thị Xã Bắc Kạn
-  state_id: 3822
+- name: Thị Xã Bắc Kạn
   state_code: '53'
   state_name: Bắc Kạn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.14130000'
   longitude: '105.83867000'
-  wikiDataId: Q26581
-- id: 130175
-  name: Bạc Liêu
-  state_id: 3804
+- name: Bạc Liêu
   state_code: '55'
   state_name: Bạc Liêu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.29414000'
   longitude: '105.72776000'
-  wikiDataId: Q36142
-- id: 130289
-  name: Huyện Giá Rai
-  state_id: 3804
+- name: Huyện Giá Rai
   state_code: '55'
   state_name: Bạc Liêu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.27162000'
   longitude: '105.40017000'
-  wikiDataId: Q3031261
-- id: 130318
-  name: Huyện Hồng Dân
-  state_id: 3804
+- name: Huyện Hồng Dân
   state_code: '55'
   state_name: Bạc Liêu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.53822000'
   longitude: '105.42242000'
-  wikiDataId: Q5942590
-- id: 130179
-  name: Bắc Ninh
-  state_id: 3791
+- name: Bắc Ninh
   state_code: '56'
   state_name: Bắc Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.18608000'
   longitude: '106.07631000'
-  wikiDataId: Q33381
-- id: 130186
-  name: Cung Kiệm
-  state_id: 3791
+- name: Cung Kiệm
   state_code: '56'
   state_name: Bắc Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.18697000'
   longitude: '106.16076000'
-  wikiDataId: Q373214
-- id: 130285
-  name: Huyện Gia Bình
-  state_id: 3791
+- name: Huyện Gia Bình
   state_code: '56'
   state_name: Bắc Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.07795000'
   longitude: '106.20903000'
-  wikiDataId: Q3031197
-- id: 130441
-  name: Huyện Thuận Thành
-  state_id: 3791
+- name: Huyện Thuận Thành
   state_code: '56'
   state_name: Bắc Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.04085000'
   longitude: '106.07515000'
-  wikiDataId: Q3711534
-- id: 130455
-  name: Huyện Tiên Du
-  state_id: 3791
+- name: Huyện Tiên Du
   state_code: '56'
   state_name: Bắc Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.12195000'
   longitude: '106.03995000'
-  wikiDataId: Q3711538
-- id: 130518
-  name: Huyện Yên Phong
-  state_id: 3791
+- name: Huyện Yên Phong
   state_code: '56'
   state_name: Bắc Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.20676000'
   longitude: '105.99427000'
-  wikiDataId: Q800053
-- id: 130635
-  name: Ấp Tân Ngãi
-  state_id: 3796
+- name: Ấp Tân Ngãi
   state_code: '50'
   state_name: Bến Tre
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.23333000'
   longitude: '106.28333000'
-  wikiDataId: Q33343
-- id: 130180
-  name: Bến Tre
-  state_id: 3796
+- name: Bến Tre
   state_code: '50'
   state_name: Bến Tre
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.24147000'
   longitude: '106.37585000'
-  wikiDataId: Q36635
-- id: 130215
-  name: Huyện Ba Tri
-  state_id: 3796
+- name: Huyện Ba Tri
   state_code: '50'
   state_name: Bến Tre
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.06627000'
   longitude: '106.60554000'
-  wikiDataId: Q3710671
-- id: 130226
-  name: Huyện Bình Đại
-  state_id: 3796
+- name: Huyện Bình Đại
   state_code: '50'
   state_name: Bến Tre
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.19354000'
   longitude: '106.64455000'
-  wikiDataId: Q3710726
-- id: 130250
-  name: Huyện Châu Thành
-  state_id: 3796
+- name: Huyện Châu Thành
   state_code: '50'
   state_name: Bến Tre
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.29212000'
   longitude: '106.30827000'
-  wikiDataId: Q3710806
-- id: 130261
-  name: Huyện Chợ Lách
-  state_id: 3796
+- name: Huyện Chợ Lách
   state_code: '50'
   state_name: Bến Tre
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.22674000'
   longitude: '106.17077000'
-  wikiDataId: Q567923
-- id: 130291
-  name: Huyện Giồng Trôm
-  state_id: 3796
+- name: Huyện Giồng Trôm
   state_code: '50'
   state_name: Bến Tre
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.15909000'
   longitude: '106.47004000'
-  wikiDataId: Q3710927
-- id: 130449
-  name: Huyện Thạnh Phú
-  state_id: 3796
+- name: Huyện Thạnh Phú
   state_code: '50'
   state_name: Bến Tre
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.92993000'
   longitude: '106.54316000'
-  wikiDataId: Q3711530
-- id: 130198
-  name: Dĩ An
-  state_id: 3785
+- name: Dĩ An
   state_code: '57'
   state_name: Bình Dương
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.90682000'
   longitude: '106.76940000'
-  wikiDataId: Q1320364
-- id: 130616
-  name: Thủ Dầu Một
-  state_id: 3785
+- name: Thủ Dầu Một
   state_code: '57'
   state_name: Bình Dương
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.98040000'
   longitude: '106.65190000'
-  wikiDataId: Q1320204
-- id: 130209
-  name: Huyện An Lão
-  state_id: 3830
+- name: Huyện An Lão
   state_code: '31'
   state_name: Bình Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.55676000'
   longitude: '108.80100000'
-  wikiDataId: Q724711
-- id: 130298
-  name: Huyện Hoài Nhơn
-  state_id: 3830
+- name: Huyện Hoài Nhơn
   state_code: '31'
   state_name: Bình Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.50535000'
   longitude: '109.02315000'
-  wikiDataId: Q3710927
-- id: 130397
-  name: Huyện Phù Mỹ
-  state_id: 3830
+- name: Huyện Phù Mỹ
   state_code: '31'
   state_name: Bình Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.22304000'
   longitude: '109.08611000'
-  wikiDataId: Q724739
-- id: 130490
-  name: Huyện Tây Sơn
-  state_id: 3830
+- name: Huyện Tây Sơn
   state_code: '31'
   state_name: Bình Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.94306000'
   longitude: '108.87999000'
-  wikiDataId: Q3711512
-- id: 130476
-  name: Huyện Tuy Phước
-  state_id: 3830
+- name: Huyện Tuy Phước
   state_code: '31'
   state_name: Bình Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.84564000'
   longitude: '109.15275000'
-  wikiDataId: Q286486
-- id: 130503
-  name: Huyện Vĩnh Thạnh
-  state_id: 3830
+- name: Huyện Vĩnh Thạnh
   state_code: '31'
   state_name: Bình Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.21100000'
   longitude: '108.74389000'
-  wikiDataId: Q7932536
-- id: 130584
-  name: Qui Nhon
-  state_id: 3830
+- name: Qui Nhon
   state_code: '31'
   state_name: Bình Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.77648000'
   longitude: '109.22367000'
-  wikiDataId: Q36081
-- id: 130174
-  name: Bình Long
-  state_id: 3797
+- name: Bình Long
   state_code: '58'
   state_name: Bình Phước
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.64711000'
   longitude: '106.60586000'
-  wikiDataId: Q33469
-- id: 130197
-  name: Don Luan
-  state_id: 3797
+- name: Don Luan
   state_code: '58'
   state_name: Bình Phước
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.53495000'
   longitude: '106.88324000'
-  wikiDataId: Q36027
-- id: 130227
-  name: Huyện Bù Đốp
-  state_id: 3797
+- name: Huyện Bù Đốp
   state_code: '58'
   state_name: Bình Phước
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.00374000'
   longitude: '106.81545000'
-  wikiDataId: Q3710726
-- id: 130256
-  name: Huyện Chơn Thành
-  state_id: 3797
+- name: Huyện Chơn Thành
   state_code: '58'
   state_name: Bình Phước
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.46283000'
   longitude: '106.66655000'
-  wikiDataId: Q1319826
-- id: 130547
-  name: Huyện Đồng Phú
-  state_id: 3797
+- name: Huyện Đồng Phú
   state_code: '58'
   state_name: Bình Phước
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.50071000'
   longitude: '107.01192000'
-  wikiDataId: Q3593897
-- id: 130319
-  name: Huyện Hớn Quản
-  state_id: 3797
+- name: Huyện Hớn Quản
   state_code: '58'
   state_name: Bình Phước
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.59718000'
   longitude: '106.62739000'
-  wikiDataId: Q5942590
-- id: 130614
-  name: Thị Xã Phước Long
-  state_id: 3797
+- name: Thị Xã Phước Long
   state_code: '58'
   state_name: Bình Phước
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.81142000'
   longitude: '106.99670000'
-  wikiDataId: Q1320204
-- id: 130233
-  name: Huyện Bắc Bình
-  state_id: 3787
+- name: Huyện Bắc Bình
   state_code: '40'
   state_name: Bình Thuận
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.27571000'
   longitude: '108.38506000'
-  wikiDataId: Q3710674
-- id: 130304
-  name: Huyện Hàm Tân
-  state_id: 3787
+- name: Huyện Hàm Tân
   state_code: '40'
   state_name: Bình Thuận
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.76856000'
   longitude: '107.64233000'
-  wikiDataId: Q5643878
-- id: 130302
-  name: Huyện Hàm Thuận Bắc
-  state_id: 3787
+- name: Huyện Hàm Thuận Bắc
   state_code: '40'
   state_name: Bình Thuận
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.14703000'
   longitude: '108.08172000'
-  wikiDataId: Q3710927
-- id: 130303
-  name: Huyện Hàm Thuận Nam
-  state_id: 3787
+- name: Huyện Hàm Thuận Nam
   state_code: '40'
   state_name: Bình Thuận
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.92101000'
   longitude: '107.93325000'
-  wikiDataId: Q3710927
-- id: 130479
-  name: Huyện Tánh Linh
-  state_id: 3787
+- name: Huyện Tánh Linh
   state_code: '40'
   state_name: Bình Thuận
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.11367000'
   longitude: '107.68427000'
-  wikiDataId: Q2232329
-- id: 130475
-  name: Huyện Tuy Phong
-  state_id: 3787
+- name: Huyện Tuy Phong
   state_code: '40'
   state_name: Bình Thuận
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.34746000'
   longitude: '108.70466000'
-  wikiDataId: Q286486
-- id: 130567
-  name: La Gi
-  state_id: 3787
+- name: La Gi
   state_code: '40'
   state_name: Bình Thuận
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.65993000'
   longitude: '107.77206000'
-  wikiDataId: Q6462754
-- id: 130579
-  name: Phan Thiết
-  state_id: 3787
+- name: Phan Thiết
   state_code: '40'
   state_name: Bình Thuận
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.92889000'
   longitude: '108.10208000'
-  wikiDataId: Q19013
-- id: 130601
-  name: Thành Phố Phan Thiết
-  state_id: 3787
+- name: Thành Phố Phan Thiết
   state_code: '40'
   state_name: Bình Thuận
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.93700000'
   longitude: '108.15778000'
-  wikiDataId: Q25315
-- id: 130187
-  name: Cà Mau
-  state_id: 3778
+- name: Cà Mau
   state_code: '59'
   state_name: Cà Mau
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.17682000'
   longitude: '105.15242000'
-  wikiDataId: Q25262
-- id: 130267
-  name: Huyện Cái Nước
-  state_id: 3778
+- name: Huyện Cái Nước
   state_code: '59'
   state_name: Cà Mau
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.00094000'
   longitude: '105.04201000'
-  wikiDataId: Q800052
-- id: 130540
-  name: Huyện Đầm Dơi
-  state_id: 3778
+- name: Huyện Đầm Dơi
   state_code: '59'
   state_name: Cà Mau
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '8.96029000'
   longitude: '105.24107000'
-  wikiDataId: Q3593897
-- id: 130204
-  name: Huyen Nam Can
-  state_id: 3778
+- name: Huyen Nam Can
   state_code: '59'
   state_name: Cà Mau
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '8.81531000'
   longitude: '105.05574000'
-  wikiDataId: Q724711
-- id: 130453
-  name: Huyện Thới Bình
-  state_id: 3778
+- name: Huyện Thới Bình
   state_code: '59'
   state_name: Cà Mau
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.35790000'
   longitude: '105.16023000'
-  wikiDataId: Q7786654
-- id: 148322
-  name: Cần Thơ
-  state_id: 4925
+- name: Cần Thơ
   state_code: CT
   state_name: Cần Thơ
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.11667000'
   longitude: '105.50000000'
-  wikiDataId: Q216075
-- id: 148323
-  name: Cờ Đỏ
-  state_id: 4925
+- name: Cờ Đỏ
   state_code: CT
   state_name: Cần Thơ
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.09472222'
   longitude: '105.43194444'
-  wikiDataId: Q10752716
-- id: 148324
-  name: Thới Lai
-  state_id: 4925
+- name: Thới Lai
   state_code: CT
   state_name: Cần Thơ
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.06305556'
   longitude: '105.56083333'
-  wikiDataId: Q10826644
-- id: 148325
-  name: Vĩnh Thạnh
-  state_id: 4925
+- name: Vĩnh Thạnh
   state_code: CT
   state_name: Cần Thơ
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.21916667'
   longitude: '105.40111111'
-  wikiDataId: Q10833701
-- id: 130183
-  name: Cao Bằng
-  state_id: 3782
+- name: Cao Bằng
   state_code: '04'
   state_name: Cao Bằng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.66568000'
   longitude: '106.25786000'
-  wikiDataId: Q1034096
-- id: 130229
-  name: Huyện Bảo Lac
-  state_id: 3782
+- name: Huyện Bảo Lac
   state_code: '04'
   state_name: Cao Bằng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.90085000'
   longitude: '105.73332000'
-  wikiDataId: Q3710674
-- id: 130231
-  name: Huyện Bảo Lâm
-  state_id: 3782
+- name: Huyện Bảo Lâm
   state_code: '04'
   state_name: Cao Bằng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.87041000'
   longitude: '105.48780000'
-  wikiDataId: Q3710674
-- id: 130313
-  name: Huyện Hạ Lang
-  state_id: 3782
+- name: Huyện Hạ Lang
   state_code: '04'
   state_name: Cao Bằng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.70933000'
   longitude: '106.67657000'
-  wikiDataId: Q5942590
-- id: 130300
-  name: Huyện Hà Quảng
-  state_id: 3782
+- name: Huyện Hà Quảng
   state_code: '04'
   state_name: Cao Bằng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.90763000'
   longitude: '106.12487000'
-  wikiDataId: Q3710927
-- id: 130386
-  name: Huyện Nguyên Bình
-  state_id: 3782
+- name: Huyện Nguyên Bình
   state_code: '04'
   state_name: Cao Bằng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.62400000'
   longitude: '105.93248000'
-  wikiDataId: Q3031601
-- id: 130206
-  name: Huyen Phuc Hoa
-  state_id: 3782
+- name: Huyen Phuc Hoa
   state_code: '04'
   state_name: Cao Bằng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.53840000'
   longitude: '106.51039000'
-  wikiDataId: Q724711
-- id: 130446
-  name: Huyện Thạch An
-  state_id: 3782
+- name: Huyện Thạch An
   state_code: '04'
   state_name: Cao Bằng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.47654000'
   longitude: '106.34237000'
-  wikiDataId: Q3711534
-- id: 130444
-  name: Huyện Thông Nông
-  state_id: 3782
+- name: Huyện Thông Nông
   state_code: '04'
   state_name: Cao Bằng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.80735000'
   longitude: '105.95846000'
-  wikiDataId: Q3711534
-- id: 130466
-  name: Huyện Trà Lĩnh
-  state_id: 3782
+- name: Huyện Trà Lĩnh
   state_code: '04'
   state_name: Cao Bằng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.80961000'
   longitude: '106.32543000'
-  wikiDataId: Q7831038
-- id: 130469
-  name: Huyện Trùng Khánh
-  state_id: 3782
+- name: Huyện Trùng Khánh
   state_code: '04'
   state_name: Cao Bằng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.83333000'
   longitude: '106.56074000'
-  wikiDataId: Q7831038
-- id: 130195
-  name: Da Nang
-  state_id: 3806
+- name: Da Nang
   state_code: DN
   state_name: Đà Nẵng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.06778000'
   longitude: '108.22083000'
-  wikiDataId: Q55963184
-- id: 130173
-  name: Buôn Ma Thuột
-  state_id: 3829
+- name: Buôn Ma Thuột
   state_code: '33'
   state_name: Đắk Lắk
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.66747000'
   longitude: '108.03775000'
-  wikiDataId: Q33469
-- id: 130217
-  name: Huyện Buôn Đôn
-  state_id: 3829
+- name: Huyện Buôn Đôn
   state_code: '33'
   state_name: Đắk Lắk
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.90396000'
   longitude: '107.73870000'
-  wikiDataId: Q3710671
-- id: 130283
-  name: Huyện Ea H'Leo
-  state_id: 3829
+- name: Huyện Ea H'Leo
   state_code: '33'
   state_name: Đắk Lắk
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.31814000'
   longitude: '108.07148000'
-  wikiDataId: Q3031197
-- id: 130284
-  name: Huyện Ea Súp
-  state_id: 3829
+- name: Huyện Ea Súp
   state_code: '33'
   state_name: Đắk Lắk
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.18279000'
   longitude: '107.79954000'
-  wikiDataId: Q3031197
-- id: 130269
-  name: Huyện Cư Jút
-  state_id: 3823
+- name: Huyện Cư Jút
   state_code: '72'
   state_name: Đắk Nông
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.69591000'
   longitude: '107.76316000'
-  wikiDataId: Q800052
-- id: 130544
-  name: Huyện Đắk R’Lấp
-  state_id: 3823
+- name: Huyện Đắk R’Lấp
   state_code: '72'
   state_name: Đắk Nông
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.87990000'
   longitude: '107.52244000'
-  wikiDataId: Q3593897
-- id: 130333
-  name: Huyện Krông Nô
-  state_id: 3823
+- name: Huyện Krông Nô
   state_code: '72'
   state_name: Đắk Nông
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.36285000'
   longitude: '107.83445000'
-  wikiDataId: Q6405298
-- id: 130196
-  name: Dien Bien Phu
-  state_id: 3773
+- name: Dien Bien Phu
   state_code: '71'
   state_name: Điện Biên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.38602000'
   longitude: '103.02301000'
-  wikiDataId: Q36027
-- id: 130528
-  name: Huyện Điện Biên Đông
-  state_id: 3773
+- name: Huyện Điện Biên Đông
   state_code: '71'
   state_name: Điện Biên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.25266000'
   longitude: '103.26900000'
-  wikiDataId: Q5295738
-- id: 130365
-  name: Huyện Mường Nhé
-  state_id: 3773
+- name: Huyện Mường Nhé
   state_code: '71'
   state_name: Điện Biên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.10353000'
   longitude: '102.58465000'
-  wikiDataId: Q10796264
-- id: 130493
-  name: Huyện Tủa Chùa
-  state_id: 3773
+- name: Huyện Tủa Chùa
   state_code: '71'
   state_name: Điện Biên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.95357000'
   longitude: '103.37332000'
-  wikiDataId: Q7484836
-- id: 130478
-  name: Huyện Tuần Giáo
-  state_id: 3773
+- name: Huyện Tuần Giáo
   state_code: '71'
   state_name: Điện Biên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.69481000'
   longitude: '103.41758000'
-  wikiDataId: Q2232329
-- id: 130611
-  name: Thị Xã Mưòng Lay
-  state_id: 3773
+- name: Thị Xã Mưòng Lay
   state_code: '71'
   state_name: Điện Biên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.03374000'
   longitude: '103.12331000'
-  wikiDataId: Q3031171
-- id: 130172
-  name: Biên Hòa
-  state_id: 3821
+- name: Biên Hòa
   state_code: '39'
   state_name: Đồng Nai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.94469000'
   longitude: '106.82432000'
-  wikiDataId: Q19316
-- id: 130546
-  name: Huyện Định Quán
-  state_id: 3821
+- name: Huyện Định Quán
   state_code: '39'
   state_name: Đồng Nai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.21866000'
   longitude: '107.33959000'
-  wikiDataId: Q3593897
-- id: 130344
-  name: Huyện Long Thành
-  state_id: 3821
+- name: Huyện Long Thành
   state_code: '39'
   state_name: Đồng Nai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.76162000'
   longitude: '107.02688000'
-  wikiDataId: Q3711115
-- id: 130485
-  name: Huyện Tân Phú
-  state_id: 3821
+- name: Huyện Tân Phú
   state_code: '39'
   state_name: Đồng Nai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.39867000'
   longitude: '107.39976000'
-  wikiDataId: Q3711512
-- id: 130452
-  name: Huyện Thống Nhất
-  state_id: 3821
+- name: Huyện Thống Nhất
   state_code: '39'
   state_name: Đồng Nai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.97764000'
   longitude: '107.15909000'
-  wikiDataId: Q3711530
-- id: 130471
-  name: Huyện Trảng Bom
-  state_id: 3821
+- name: Huyện Trảng Bom
   state_code: '39'
   state_name: Đồng Nai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.96624000'
   longitude: '107.03614000'
-  wikiDataId: Q7831038
-- id: 130498
-  name: Huyện Vĩnh Cửu
-  state_id: 3821
+- name: Huyện Vĩnh Cửu
   state_code: '39'
   state_name: Đồng Nai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.25725000'
   longitude: '107.02773000'
-  wikiDataId: Q7484836
-- id: 130184
-  name: Cao Lãnh
-  state_id: 3769
+- name: Cao Lãnh
   state_code: '45'
   state_name: Đồng Tháp
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.46017000'
   longitude: '105.63294000'
-  wikiDataId: Q35656
-- id: 130253
-  name: Huyện Châu Thành
-  state_id: 3769
+- name: Huyện Châu Thành
   state_code: '45'
   state_name: Đồng Tháp
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.22543000'
   longitude: '105.82380000'
-  wikiDataId: Q3710806
-- id: 130340
-  name: Huyện Lai Vung
-  state_id: 3769
+- name: Huyện Lai Vung
   state_code: '45'
   state_name: Đồng Tháp
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.24051000'
   longitude: '105.66327000'
-  wikiDataId: Q6473680
-- id: 130351
-  name: Huyện Lấp Vò
-  state_id: 3769
+- name: Huyện Lấp Vò
   state_code: '45'
   state_name: Đồng Tháp
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.35918000'
   longitude: '105.60611000'
-  wikiDataId: Q1320095
-- id: 130430
-  name: Huyện Tam Nông
-  state_id: 3769
+- name: Huyện Tam Nông
   state_code: '45'
   state_name: Đồng Tháp
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.72761000'
   longitude: '105.52522000'
-  wikiDataId: Q3711485
-- id: 130483
-  name: Huyện Tân Hồng
-  state_id: 3769
+- name: Huyện Tân Hồng
   state_code: '45'
   state_name: Đồng Tháp
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.87089000'
   longitude: '105.49104000'
-  wikiDataId: Q3711512
-- id: 130435
-  name: Huyện Thanh Bình
-  state_id: 3769
+- name: Huyện Thanh Bình
   state_code: '45'
   state_name: Đồng Tháp
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.60137000'
   longitude: '105.47811000'
-  wikiDataId: Q7710095
-- id: 130443
-  name: Huyện Tháp Mười
-  state_id: 3769
+- name: Huyện Tháp Mười
   state_code: '45'
   state_name: Đồng Tháp
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.54398000'
   longitude: '105.81875000'
-  wikiDataId: Q3711534
-- id: 130589
-  name: Sa Dec
-  state_id: 3769
+- name: Sa Dec
   state_code: '45'
   state_name: Đồng Tháp
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.29085000'
   longitude: '105.75635000'
-  wikiDataId: Q36093
-- id: 130590
-  name: Sa Dec city
-  state_id: 3769
+- name: Sa Dec city
   state_code: '45'
   state_name: Đồng Tháp
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.30550000'
   longitude: '105.74757000'
-  wikiDataId: Q2987563
-- id: 130607
-  name: Thị Trấn Tân Thành
-  state_id: 3769
+- name: Thị Trấn Tân Thành
   state_code: '45'
   state_name: Đồng Tháp
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.25616000'
   longitude: '105.59280000'
-  wikiDataId: Q26581
-- id: 130258
-  name: Huyện Chư Păh
-  state_id: 3813
+- name: Huyện Chư Păh
   state_code: '30'
   state_name: Gia Lai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.15941000'
   longitude: '107.98411000'
-  wikiDataId: Q1319826
-- id: 130257
-  name: Huyện Chư Prông
-  state_id: 3813
+- name: Huyện Chư Prông
   state_code: '30'
   state_name: Gia Lai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.59976000'
   longitude: '107.81099000'
-  wikiDataId: Q1319826
-- id: 130259
-  name: Huyện Chư Sê
-  state_id: 3813
+- name: Huyện Chư Sê
   state_code: '30'
   state_name: Gia Lai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.74254000'
   longitude: '108.08663000'
-  wikiDataId: Q1319826
-- id: 130549
-  name: Huyện Đức Cơ
-  state_id: 3813
+- name: Huyện Đức Cơ
   state_code: '30'
   state_name: Gia Lai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.78454000'
   longitude: '107.66970000'
-  wikiDataId: Q5295775
-- id: 130320
-  name: Huyện Ia Grai
-  state_id: 3813
+- name: Huyện Ia Grai
   state_code: '30'
   state_name: Gia Lai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.98937000'
   longitude: '107.73740000'
-  wikiDataId: Q5942590
-- id: 130322
-  name: Huyện KBang
-  state_id: 3813
+- name: Huyện KBang
   state_code: '30'
   state_name: Gia Lai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.30506000'
   longitude: '108.49779000'
-  wikiDataId: Q20025812
-- id: 130335
-  name: Huyện Kông Chro
-  state_id: 3813
+- name: Huyện Kông Chro
   state_code: '30'
   state_name: Gia Lai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.73519000'
   longitude: '108.59697000'
-  wikiDataId: Q6405298
-- id: 130334
-  name: Huyện Krông Pa
-  state_id: 3813
+- name: Huyện Krông Pa
   state_code: '30'
   state_name: Gia Lai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.23152000'
   longitude: '108.65494000'
-  wikiDataId: Q6405298
-- id: 130358
-  name: Huyện Mang Yang
-  state_id: 3813
+- name: Huyện Mang Yang
   state_code: '30'
   state_name: Gia Lai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.92840000'
   longitude: '108.30246000'
-  wikiDataId: Q2226906
-- id: 130583
-  name: Pleiku
-  state_id: 3813
+- name: Pleiku
   state_code: '30'
   state_name: Gia Lai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.98333000'
   longitude: '108.00000000'
-  wikiDataId: Q30599
-- id: 130555
-  name: Hà Giang
-  state_id: 3779
+- name: Hà Giang
   state_code: '03'
   state_name: Hà Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.82333000'
   longitude: '104.98357000'
-  wikiDataId: Q36519
-- id: 130235
-  name: Huyện Bắc Mê
-  state_id: 3779
+- name: Huyện Bắc Mê
   state_code: '03'
   state_name: Hà Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.75477000'
   longitude: '105.29023000'
-  wikiDataId: Q4838559
-- id: 130236
-  name: Huyện Bắc Quang
-  state_id: 3779
+- name: Huyện Bắc Quang
   state_code: '03'
   state_name: Hà Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.42301000'
   longitude: '104.91831000'
-  wikiDataId: Q4838559
-- id: 130548
-  name: Huyện Đồng Văn
-  state_id: 3779
+- name: Huyện Đồng Văn
   state_code: '03'
   state_name: Hà Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '23.25449000'
   longitude: '105.27626000'
-  wikiDataId: Q5295775
-- id: 130406
-  name: Huyện Quang Bình
-  state_id: 3779
+- name: Huyện Quang Bình
   state_code: '03'
   state_name: Hà Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.41507000'
   longitude: '104.66018000'
-  wikiDataId: Q3091652
-- id: 130508
-  name: Huyện Vị Xuyên
-  state_id: 3779
+- name: Huyện Vị Xuyên
   state_code: '03'
   state_name: Hà Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.73096000'
   longitude: '104.90827000'
-  wikiDataId: Q7932536
-- id: 130511
-  name: Huyện Xín Mần
-  state_id: 3779
+- name: Huyện Xín Mần
   state_code: '03'
   state_name: Hà Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.64148000'
   longitude: '104.52089000'
-  wikiDataId: Q1758257
-- id: 130516
-  name: Huyện Yên Minh
-  state_id: 3779
+- name: Huyện Yên Minh
   state_code: '03'
   state_name: Hà Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '23.06992000'
   longitude: '105.17865000'
-  wikiDataId: Q8052181
-- id: 130223
-  name: Huyện Bình Lục
-  state_id: 3802
+- name: Huyện Bình Lục
   state_code: '63'
   state_name: Hà Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.50126000'
   longitude: '106.02959000'
-  wikiDataId: Q800057
-- id: 130280
-  name: Huyện Duy Tiên
-  state_id: 3802
+- name: Huyện Duy Tiên
   state_code: '63'
   state_name: Hà Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.62803000'
   longitude: '105.96193000'
-  wikiDataId: Q3031197
-- id: 130326
-  name: Huyện Kim Bảng
-  state_id: 3802
+- name: Huyện Kim Bảng
   state_code: '63'
   state_name: Hà Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.57254000'
   longitude: '105.85043000'
-  wikiDataId: Q20025812
-- id: 130347
-  name: Huyện Lý Nhân
-  state_id: 3802
+- name: Huyện Lý Nhân
   state_code: '63'
   state_name: Hà Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.56422000'
   longitude: '106.09455000'
-  wikiDataId: Q3711115
-- id: 130437
-  name: Huyện Thanh Liêm
-  state_id: 3802
+- name: Huyện Thanh Liêm
   state_code: '63'
   state_name: Hà Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.46249000'
   longitude: '105.92100000'
-  wikiDataId: Q7710095
-- id: 130582
-  name: Phủ Lý
-  state_id: 3802
+- name: Phủ Lý
   state_code: '63'
   state_name: Hà Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.54531000'
   longitude: '105.91221000'
-  wikiDataId: Q35659
-- id: 130201
-  name: Ba Đình
-  state_id: 3810
+- name: Ba Đình
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.03482330'
   longitude: '105.80854700'
-  wikiDataId: Q890194
-- id: 154453
-  name: Ba Vì
-  state_id: 3810
+- name: Ba Vì
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.15590590'
   longitude: '105.21463610'
-  wikiDataId: Q1048617
-- id: 130412
-  name: Bắc Từ Liêm
-  state_id: 3810
+- name: Bắc Từ Liêm
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.07148680'
   longitude: '105.71992260'
-  wikiDataId: Q16480194
-- id: 130558
-  name: Cầu Giấy
-  state_id: 3810
+- name: Cầu Giấy
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.03022160'
   longitude: '105.74947330'
-  wikiDataId: Q267015
-- id: 154454
-  name: Chương Mỹ
-  state_id: 3810
+- name: Chương Mỹ
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.87863440'
   longitude: '105.57313240'
-  wikiDataId: Q5116478
-- id: 154455
-  name: Đan Phượng
-  state_id: 3810
+- name: Đan Phượng
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.12073370'
   longitude: '105.59910760'
-  wikiDataId: Q5214204
-- id: 154456
-  name: Đông Anh
-  state_id: 3810
+- name: Đông Anh
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.13683310'
   longitude: '105.74753240'
-  wikiDataId: Q864787
-- id: 130586
-  name: Đống Đa
-  state_id: 3810
+- name: Đống Đa
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.01466010'
   longitude: '105.79955140'
-  wikiDataId: Q1048634
-- id: 154457
-  name: Gia Lâm
-  state_id: 3810
+- name: Gia Lâm
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.02405790'
   longitude: '105.78534730'
-  wikiDataId: Q1134500
-- id: 130587
-  name: Hà Đông
-  state_id: 3810
+- name: Hà Đông
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.95394960'
   longitude: '105.71369010'
-  wikiDataId: Q546840
-- id: 130595
-  name: Hai Bà Trưng
-  state_id: 3810
+- name: Hai Bà Trưng
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.00675970'
   longitude: '105.84126630'
-  wikiDataId: Q1134523
-- id: 154458
-  name: Hoài Đức
-  state_id: 3810
+- name: Hoài Đức
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.02300260'
   longitude: '105.61219450'
-  wikiDataId: Q864794
-- id: 154446
-  name: 'Hoàn Kiếm '
-  state_id: 3810
+- name: 'Hoàn Kiếm '
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.03044570'
   longitude: '105.83358610'
-  wikiDataId: Q1134529
-- id: 154447
-  name: Hoàng Mai
-  state_id: 3810
+- name: Hoàng Mai
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.97404710'
   longitude: '105.81704700'
-  wikiDataId: Q864747
-- id: 154448
-  name: Long Biên
-  state_id: 3810
+- name: Long Biên
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.03803170'
   longitude: '105.84909840'
-  wikiDataId: Q864802
-- id: 154459
-  name: Mê Linh
-  state_id: 3810
+- name: Mê Linh
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.18078460'
   longitude: '105.62112980'
-  wikiDataId: Q1048241
-- id: 154460
-  name: Mỹ Đức
-  state_id: 3810
+- name: Mỹ Đức
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.69745440'
   longitude: '105.56582850'
-  wikiDataId: Q864775
-- id: 154449
-  name: Nam Từ Liêm
-  state_id: 3810
+- name: Nam Từ Liêm
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.01789090'
   longitude: '105.72108680'
-  wikiDataId: Q16479957
-- id: 154461
-  name: Phú Xuyên
-  state_id: 3810
+- name: Phú Xuyên
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.72900540'
   longitude: '105.81491120'
-  wikiDataId: Q524144
-- id: 154462
-  name: Phúc Thọ
-  state_id: 3810
+- name: Phúc Thọ
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.10993100'
   longitude: '105.50059130'
-  wikiDataId: Q5370345
-- id: 154463
-  name: Quốc Oai
-  state_id: 3810
+- name: Quốc Oai
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.97845600'
   longitude: '105.43800930'
-  wikiDataId: Q5370368
-- id: 154464
-  name: Sóc Sơn
-  state_id: 3810
+- name: Sóc Sơn
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.28139310'
   longitude: '105.66618880'
-  wikiDataId: Q5370348
-- id: 154452
-  name: Sơn Tây
-  state_id: 3810
+- name: Sơn Tây
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.09683340'
   longitude: '105.39385950'
-  wikiDataId: Q10823419
-- id: 154450
-  name: 'Tây Hồ '
-  state_id: 3810
+- name: 'Tây Hồ '
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.06882190'
   longitude: '105.77920430'
-  wikiDataId: Q1048642
-- id: 154465
-  name: Thạch Thất
-  state_id: 3810
+- name: Thạch Thất
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.02408830'
   longitude: '105.35102500'
-  wikiDataId: Q5370376
-- id: 154466
-  name: Thanh Oai
-  state_id: 3810
+- name: Thanh Oai
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.86002700'
   longitude: '105.70158360'
-  wikiDataId: Q5370325
-- id: 154467
-  name: Thanh Trì
-  state_id: 3810
+- name: Thanh Trì
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.94176020'
   longitude: '105.76821790'
-  wikiDataId: Q4403404
-- id: 154451
-  name: Thanh Xuân
-  state_id: 3810
+- name: Thanh Xuân
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.99482550'
   longitude: '105.79696040'
-  wikiDataId: Q864779
-- id: 154468
-  name: Thường Tín
-  state_id: 3810
+- name: Thường Tín
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.83223420'
   longitude: '105.79192130'
-  wikiDataId: Q864581
-- id: 154469
-  name: Ứng Hòa
-  state_id: 3810
+- name: Ứng Hòa
   state_code: HN
   state_name: Hà Nội
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.71097910'
   longitude: '105.63648520'
-  wikiDataId: Q864798
-- id: 130557
-  name: Hà Tĩnh
-  state_id: 3816
+- name: Hà Tĩnh
   state_code: '23'
   state_name: Hà Tĩnh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.34282000'
   longitude: '105.90569000'
-  wikiDataId: Q33996
-- id: 130277
-  name: Huyện Cẩm Xuyên
-  state_id: 3816
+- name: Huyện Cẩm Xuyên
   state_code: '23'
   state_name: Hà Tĩnh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.19059000'
   longitude: '106.00186000'
-  wikiDataId: Q3031197
-- id: 130243
-  name: Huyện Can Lộc
-  state_id: 3816
+- name: Huyện Can Lộc
   state_code: '23'
   state_name: Hà Tĩnh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.44414000'
   longitude: '105.76350000'
-  wikiDataId: Q4838559
-- id: 130525
-  name: Huyện Ðức Thọ
-  state_id: 3816
+- name: Huyện Ðức Thọ
   state_code: '23'
   state_name: Hà Tĩnh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.49699000'
   longitude: '105.61016000'
-  wikiDataId: Q5295738
-- id: 130337
-  name: Huyện Kỳ Anh
-  state_id: 3816
+- name: Huyện Kỳ Anh
   state_code: '23'
   state_name: Hà Tĩnh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.05805000'
   longitude: '106.24580000'
-  wikiDataId: Q6405298
-- id: 130382
-  name: Huyện Nghi Xuân
-  state_id: 3816
+- name: Huyện Nghi Xuân
   state_code: '23'
   state_name: Hà Tĩnh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.62419000'
   longitude: '105.76829000'
-  wikiDataId: Q3031601
-- id: 130447
-  name: Huyện Thạch Hà
-  state_id: 3816
+- name: Huyện Thạch Hà
   state_code: '23'
   state_name: Hà Tĩnh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.35091000'
   longitude: '105.81123000'
-  wikiDataId: Q3711534
-- id: 130562
-  name: Hải Dương
-  state_id: 3827
+- name: Hải Dương
   state_code: '61'
   state_name: Hải Dương
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.94099000'
   longitude: '106.33302000'
-  wikiDataId: Q36354
-- id: 130221
-  name: Huyện Bình Giang
-  state_id: 3827
+- name: Huyện Bình Giang
   state_code: '61'
   state_name: Hải Dương
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.87586000'
   longitude: '106.19138000'
-  wikiDataId: Q3031078
-- id: 130274
-  name: Huyện Cẩm Giàng
-  state_id: 3827
+- name: Huyện Cẩm Giàng
   state_code: '61'
   state_name: Hải Dương
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.95000000'
   longitude: '106.21667000'
-  wikiDataId: Q3031197
-- id: 130286
-  name: Huyện Gia Lộc
-  state_id: 3827
+- name: Huyện Gia Lộc
   state_code: '61'
   state_name: Hải Dương
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.85164000'
   longitude: '106.29130000'
-  wikiDataId: Q3031261
-- id: 130329
-  name: Huyện Kinh Môn
-  state_id: 3827
+- name: Huyện Kinh Môn
   state_code: '61'
   state_name: Hải Dương
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.01634000'
   longitude: '106.50384000'
-  wikiDataId: Q3031344
-- id: 130376
-  name: Huyện Nam Sách
-  state_id: 3827
+- name: Huyện Nam Sách
   state_code: '61'
   state_name: Hải Dương
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.00484000'
   longitude: '106.34042000'
-  wikiDataId: Q3031601
-- id: 130438
-  name: Huyện Thanh Miện
-  state_id: 3827
+- name: Huyện Thanh Miện
   state_code: '61'
   state_name: Hải Dương
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.77953000'
   longitude: '106.22218000'
-  wikiDataId: Q3031911
-- id: 130609
-  name: Thị Xã Chí Linh
-  state_id: 3827
+- name: Thị Xã Chí Linh
   state_code: '61'
   state_name: Hải Dương
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.13722000'
   longitude: '106.39638000'
-  wikiDataId: Q3031171
-- id: 130188
-  name: Cát Bà
-  state_id: 3783
+- name: Cát Bà
   state_code: HP
   state_name: Hải Phòng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.72779000'
   longitude: '107.04819000'
-  wikiDataId: Q25262
-- id: 130200
-  name: Haiphong
-  state_id: 3783
+- name: Haiphong
   state_code: HP
   state_name: Hải Phòng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.86481000'
   longitude: '106.68345000'
-  wikiDataId: Q3277075
-- id: 130254
-  name: Huyện Châu Thành A
-  state_id: 3777
+- name: Huyện Châu Thành A
   state_code: '73'
   state_name: Hậu Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.93056000'
   longitude: '105.64194000'
-  wikiDataId: Q3710806
-- id: 130627
-  name: Vị Thanh
-  state_id: 3777
+- name: Vị Thanh
   state_code: '73'
   state_name: Hậu Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.78449000'
   longitude: '105.47012000'
-  wikiDataId: Q36114
-- id: 130191
-  name: Cần Giờ
-  state_id: 3811
+- name: Cần Giờ
   state_code: SG
   state_name: Hồ Chí Minh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.41115000'
   longitude: '106.95474000'
-  wikiDataId: Q25262
-- id: 130194
-  name: Củ Chi
-  state_id: 3811
+- name: Củ Chi
   state_code: SG
   state_name: Hồ Chí Minh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.97333000'
   longitude: '106.49325000'
-  wikiDataId: Q55963184
-- id: 130202
-  name: Ho Chi Minh City
-  state_id: 3811
+- name: Ho Chi Minh City
   state_code: SG
   state_name: Hồ Chí Minh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.82302000'
   longitude: '106.62965000'
-  wikiDataId: Q1854
-- id: 130559
-  name: Hòa Bình
-  state_id: 3799
+- name: Hòa Bình
   state_code: '14'
   state_name: Hòa Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.81717000'
   longitude: '105.33759000'
-  wikiDataId: Q130324
-- id: 130245
-  name: Huyện Cao Phong
-  state_id: 3799
+- name: Huyện Cao Phong
   state_code: '14'
   state_name: Hòa Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.69532000'
   longitude: '105.33559000'
-  wikiDataId: Q4838559
-- id: 130338
-  name: Huyện Kỳ Sơn
-  state_id: 3799
+- name: Huyện Kỳ Sơn
   state_code: '14'
   state_name: Hòa Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.89631000'
   longitude: '105.39659000'
-  wikiDataId: Q6405298
-- id: 130350
-  name: Huyện Lạc Thủy
-  state_id: 3799
+- name: Huyện Lạc Thủy
   state_code: '14'
   state_name: Hòa Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.49794000'
   longitude: '105.74092000'
-  wikiDataId: Q1320095
-- id: 130349
-  name: Huyện Lương Sơn
-  state_id: 3799
+- name: Huyện Lương Sơn
   state_code: '14'
   state_name: Hòa Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.87650000'
   longitude: '105.51219000'
-  wikiDataId: Q1320095
-- id: 130484
-  name: Huyện Tân Lạc
-  state_id: 3799
+- name: Huyện Tân Lạc
   state_code: '14'
   state_name: Hòa Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.60557000'
   longitude: '105.23399000'
-  wikiDataId: Q3711512
-- id: 130560
-  name: Hưng Yên
-  state_id: 3768
+- name: Hưng Yên
   state_code: '66'
   state_name: Hưng Yên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.64637000'
   longitude: '106.05112000'
-  wikiDataId: Q36485
-- id: 130523
-  name: Huyện Ân Thi
-  state_id: 3768
+- name: Huyện Ân Thi
   state_code: '66'
   state_name: Hưng Yên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.81086000'
   longitude: '106.09995000'
-  wikiDataId: Q1924620
-- id: 130323
-  name: Huyện Khoái Châu
-  state_id: 3768
+- name: Huyện Khoái Châu
   state_code: '66'
   state_name: Hưng Yên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.82170000'
   longitude: '105.97455000'
-  wikiDataId: Q20025812
-- id: 130328
-  name: Huyện Kim Động
-  state_id: 3768
+- name: Huyện Kim Động
   state_code: '66'
   state_name: Hưng Yên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.74645000'
   longitude: '106.03632000'
-  wikiDataId: Q20025812
-- id: 130369
-  name: Huyện Mỹ Hào
-  state_id: 3768
+- name: Huyện Mỹ Hào
   state_code: '66'
   state_name: Hưng Yên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.93210000'
   longitude: '106.10630000'
-  wikiDataId: Q10796264
-- id: 130396
-  name: Huyện Phù Cừ
-  state_id: 3768
+- name: Huyện Phù Cừ
   state_code: '66'
   state_name: Hưng Yên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.70997000'
   longitude: '106.19744000'
-  wikiDataId: Q724739
-- id: 130456
-  name: Huyện Tiên Lữ
-  state_id: 3768
+- name: Huyện Tiên Lữ
   state_code: '66'
   state_name: Hưng Yên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.68490000'
   longitude: '106.12513000'
-  wikiDataId: Q3711538
-- id: 130182
-  name: Cam Ranh
-  state_id: 3793
+- name: Cam Ranh
   state_code: '34'
   state_name: Khánh Hòa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.92144000'
   longitude: '109.15913000'
-  wikiDataId: Q31887770
-- id: 130278
-  name: Huyện Diên Khánh
-  state_id: 3793
+- name: Huyện Diên Khánh
   state_code: '34'
   state_name: Khánh Hòa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.27341000'
   longitude: '109.03890000'
-  wikiDataId: Q3031197
-- id: 130324
-  name: Huyện Khánh Sơn
-  state_id: 3793
+- name: Huyện Khánh Sơn
   state_code: '34'
   state_name: Khánh Hòa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.02858000'
   longitude: '108.90814000'
-  wikiDataId: Q20025812
-- id: 130325
-  name: Huyện Khánh Vĩnh
-  state_id: 3793
+- name: Huyện Khánh Vĩnh
   state_code: '34'
   state_name: Khánh Hòa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.30593000'
   longitude: '108.83073000'
-  wikiDataId: Q20025812
-- id: 130506
-  name: Huyện Vạn Ninh
-  state_id: 3793
+- name: Huyện Vạn Ninh
   state_code: '34'
   state_name: Khánh Hòa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.72344000'
   longitude: '109.24586000'
-  wikiDataId: Q7932536
-- id: 130576
-  name: Nha Trang
-  state_id: 3793
+- name: Nha Trang
   state_code: '34'
   state_name: Khánh Hòa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.24507000'
   longitude: '109.19432000'
-  wikiDataId: Q19491
-- id: 130598
-  name: Thành Phố Cam Ranh
-  state_id: 3793
+- name: Thành Phố Cam Ranh
   state_code: '34'
   state_name: Khánh Hòa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.90707000'
   longitude: '109.14861000'
-  wikiDataId: Q36175
-- id: 130600
-  name: Thành Phố Nha Trang
-  state_id: 3793
+- name: Thành Phố Nha Trang
   state_code: '34'
   state_name: Khánh Hòa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.25458000'
   longitude: '109.16655000'
-  wikiDataId: Q36175
-- id: 130612
-  name: Thị Xã Ninh Hòa
-  state_id: 3793
+- name: Thị Xã Ninh Hòa
   state_code: '34'
   state_name: Khánh Hòa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.53796000'
   longitude: '109.06057000'
-  wikiDataId: Q3031171
-- id: 130199
-  name: Dương Đông
-  state_id: 3800
+- name: Dương Đông
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.21716000'
   longitude: '103.95929000'
-  wikiDataId: Q3277075
-- id: 130556
-  name: Hà Tiên
-  state_id: 3800
+- name: Hà Tiên
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.38310000'
   longitude: '104.48753000'
-  wikiDataId: Q800154
-- id: 130208
-  name: Huyện An Biên
-  state_id: 3800
+- name: Huyện An Biên
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.81291000'
   longitude: '105.05230000'
-  wikiDataId: Q724711
-- id: 130210
-  name: Huyện An Minh
-  state_id: 3800
+- name: Huyện An Minh
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.66704000'
   longitude: '104.94848000'
-  wikiDataId: Q724711
-- id: 130249
-  name: Huyện Châu Thành
-  state_id: 3800
+- name: Huyện Châu Thành
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.94372000'
   longitude: '105.16868000'
-  wikiDataId: Q2232482
-- id: 130290
-  name: Huyện Giồng Riềng
-  state_id: 3800
+- name: Huyện Giồng Riềng
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.91224000'
   longitude: '105.37311000'
-  wikiDataId: Q3031261
-- id: 130295
-  name: Huyện Gò Quao
-  state_id: 3800
+- name: Huyện Gò Quao
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.74027000'
   longitude: '105.29766000'
-  wikiDataId: Q3710927
-- id: 130307
-  name: Huyện Hòn Đất
-  state_id: 3800
+- name: Huyện Hòn Đất
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.22908000'
   longitude: '104.95280000'
-  wikiDataId: Q5874252
-- id: 130330
-  name: Huyện Kiên Hải
-  state_id: 3800
+- name: Huyện Kiên Hải
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.83971000'
   longitude: '104.61560000'
-  wikiDataId: Q3031344
-- id: 130400
-  name: Huyện Phú Quốc
-  state_id: 3800
+- name: Huyện Phú Quốc
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.25516000'
   longitude: '104.01455000'
-  wikiDataId: Q724739
-- id: 130481
-  name: Huyện Tân Hiệp
-  state_id: 3800
+- name: Huyện Tân Hiệp
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.09540000'
   longitude: '105.25936000'
-  wikiDataId: Q3711512
-- id: 130502
-  name: Huyện Vĩnh Thuận
-  state_id: 3800
+- name: Huyện Vĩnh Thuận
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.53306000'
   longitude: '105.24490000'
-  wikiDataId: Q7932536
-- id: 130564
-  name: Kien Luong Town
-  state_id: 3800
+- name: Kien Luong Town
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.24892000'
   longitude: '104.59000000'
-  wikiDataId: Q36160
-- id: 130588
-  name: Rạch Giá
-  state_id: 3800
+- name: Rạch Giá
   state_code: '47'
   state_name: Kiên Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.01245000'
   longitude: '105.08091000'
-  wikiDataId: Q36093
-- id: 130542
-  name: Huyện Đắk Glei
-  state_id: 3772
+- name: Huyện Đắk Glei
   state_code: '28'
   state_name: Kon Tum
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.11358000'
   longitude: '107.75093000'
-  wikiDataId: Q3593897
-- id: 130543
-  name: Huyện Đắk Hà
-  state_id: 3772
+- name: Huyện Đắk Hà
   state_code: '28'
   state_name: Kon Tum
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.60326000'
   longitude: '107.98547000'
-  wikiDataId: Q3593897
-- id: 130545
-  name: Huyện Đắk Tô
-  state_id: 3772
+- name: Huyện Đắk Tô
   state_code: '28'
   state_name: Kon Tum
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.70087000'
   longitude: '107.80816000'
-  wikiDataId: Q3593897
-- id: 130321
-  name: Huyện Ia H'Drai
-  state_id: 3772
+- name: Huyện Ia H'Drai
   state_code: '28'
   state_name: Kon Tum
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.06032000'
   longitude: '107.46243000'
-  wikiDataId: Q20025812
-- id: 130332
-  name: Huyện Kon Plông
-  state_id: 3772
+- name: Huyện Kon Plông
   state_code: '28'
   state_name: Kon Tum
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.75620000'
   longitude: '108.32057000'
-  wikiDataId: Q6405298
-- id: 130388
-  name: Huyện Ngọc Hồi
-  state_id: 3772
+- name: Huyện Ngọc Hồi
   state_code: '28'
   state_name: Kon Tum
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.71940000'
   longitude: '107.62636000'
-  wikiDataId: Q3711242
-- id: 130419
-  name: Huyện Sa Thầy
-  state_id: 3772
+- name: Huyện Sa Thầy
   state_code: '28'
   state_name: Kon Tum
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.32050000'
   longitude: '107.59862000'
-  wikiDataId: Q7395483
-- id: 130565
-  name: Kon Tum
-  state_id: 3772
+- name: Kon Tum
   state_code: '28'
   state_name: Kon Tum
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.35451000'
   longitude: '108.00759000'
-  wikiDataId: Q36160
-- id: 130361
-  name: Huyện Mưòng Tè
-  state_id: 3825
+- name: Huyện Mưòng Tè
   state_code: '01'
   state_name: Lai Châu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.37443000'
   longitude: '102.73835000'
-  wikiDataId: Q10796264
-- id: 130431
-  name: Huyện Tam Đường
-  state_id: 3825
+- name: Huyện Tam Đường
   state_code: '01'
   state_name: Lai Châu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.35391000'
   longitude: '103.59342000'
-  wikiDataId: Q3711485
-- id: 130433
-  name: Huyện Than Uyên
-  state_id: 3825
+- name: Huyện Than Uyên
   state_code: '01'
   state_name: Lai Châu
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.91424000'
   longitude: '103.82857000'
-  wikiDataId: Q7710095
-- id: 130176
-  name: Bảo Lộc
-  state_id: 3818
+- name: Bảo Lộc
   state_code: '35'
   state_name: Lâm Đồng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.54798000'
   longitude: '107.80772000'
-  wikiDataId: Q35620
-- id: 130632
-  name: Đam Rong
-  state_id: 3818
+- name: Đam Rong
   state_code: '35'
   state_name: Lâm Đồng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.05409000'
   longitude: '108.14941000'
-  wikiDataId: Q33343
-- id: 130633
-  name: Đinh Văn
-  state_id: 3818
+- name: Đinh Văn
   state_code: '35'
   state_name: Lâm Đồng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.78624000'
   longitude: '108.24282000'
-  wikiDataId: Q33343
-- id: 130634
-  name: Đưc Trọng
-  state_id: 3818
+- name: Đưc Trọng
   state_code: '35'
   state_name: Lâm Đồng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.73559000'
   longitude: '108.37330000'
-  wikiDataId: Q33343
-- id: 130630
-  name: Ðà Lạt
-  state_id: 3818
+- name: Ðà Lạt
   state_code: '35'
   state_name: Lâm Đồng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.94646000'
   longitude: '108.44193000'
-  wikiDataId: Q25281
-- id: 130230
-  name: Huyện Bảo Lâm
-  state_id: 3818
+- name: Huyện Bảo Lâm
   state_code: '35'
   state_name: Lâm Đồng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.71163000'
   longitude: '107.75338000'
-  wikiDataId: Q3710674
-- id: 130536
-  name: Huyện Đạ Huoai
-  state_id: 3818
+- name: Huyện Đạ Huoai
   state_code: '35'
   state_name: Lâm Đồng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.42465000'
   longitude: '107.63825000'
-  wikiDataId: Q5295738
-- id: 130537
-  name: Huyện Đạ Tẻh
-  state_id: 3818
+- name: Huyện Đạ Tẻh
   state_code: '35'
   state_name: Lâm Đồng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.58446000'
   longitude: '107.52792000'
-  wikiDataId: Q5295738
-- id: 130535
-  name: Huyện Đơn Dương
-  state_id: 3818
+- name: Huyện Đơn Dương
   state_code: '35'
   state_name: Lâm Đồng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.75308000'
   longitude: '108.55397000'
-  wikiDataId: Q5295738
-- id: 130553
-  name: Huyện Đức Trọng
-  state_id: 3818
+- name: Huyện Đức Trọng
   state_code: '35'
   state_name: Lâm Đồng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.62686000'
   longitude: '108.35330000'
-  wikiDataId: Q5311201
-- id: 130346
-  name: Huyện Lâm Hà
-  state_id: 3818
+- name: Huyện Lâm Hà
   state_code: '35'
   state_name: Lâm Đồng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.81890000'
   longitude: '108.21215000'
-  wikiDataId: Q3711115
-- id: 130237
-  name: Huyện Bắc Sơn
-  state_id: 3792
+- name: Huyện Bắc Sơn
   state_code: '09'
   state_name: Lạng Sơn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.83801000'
   longitude: '106.27690000'
-  wikiDataId: Q4838559
-- id: 130220
-  name: Huyện Bình Gia
-  state_id: 3792
+- name: Huyện Bình Gia
   state_code: '09'
   state_name: Lạng Sơn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.07281000'
   longitude: '106.30410000'
-  wikiDataId: Q3710671
-- id: 130244
-  name: Huyện Cao Lộc
-  state_id: 3792
+- name: Huyện Cao Lộc
   state_code: '09'
   state_name: Lạng Sơn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.89857000'
   longitude: '106.85435000'
-  wikiDataId: Q4838559
-- id: 130246
-  name: Huyện Chi Lăng
-  state_id: 3792
+- name: Huyện Chi Lăng
   state_code: '09'
   state_name: Lạng Sơn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.67602000'
   longitude: '106.62925000'
-  wikiDataId: Q4838559
-- id: 130531
-  name: Huyện Đình Lập
-  state_id: 3792
+- name: Huyện Đình Lập
   state_code: '09'
   state_name: Lạng Sơn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.54210000'
   longitude: '107.12925000'
-  wikiDataId: Q5295738
-- id: 130308
-  name: Huyện Hũu Lũng
-  state_id: 3792
+- name: Huyện Hũu Lũng
   state_code: '09'
   state_name: Lạng Sơn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.54474000'
   longitude: '106.34386000'
-  wikiDataId: Q5874252
-- id: 130507
-  name: Huyện Vặn Quan
-  state_id: 3792
+- name: Huyện Vặn Quan
   state_code: '09'
   state_name: Lạng Sơn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.83333000'
   longitude: '106.54942000'
-  wikiDataId: Q7932536
-- id: 130572
-  name: Lạng Sơn
-  state_id: 3792
+- name: Lạng Sơn
   state_code: '09'
   state_name: Lạng Sơn
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.85264000'
   longitude: '106.76101000'
-  wikiDataId: Q33383
-- id: 130234
-  name: Huyện Bắc Hà
-  state_id: 3817
+- name: Huyện Bắc Hà
   state_code: '02'
   state_name: Lào Cai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.50998000'
   longitude: '104.30769000'
-  wikiDataId: Q4838559
-- id: 130232
-  name: Huyện Bảo Yên
-  state_id: 3817
+- name: Huyện Bảo Yên
   state_code: '02'
   state_name: Lào Cai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.26109000'
   longitude: '104.46424000'
-  wikiDataId: Q3710674
-- id: 130219
-  name: Huyện Bát Xát
-  state_id: 3817
+- name: Huyện Bát Xát
   state_code: '02'
   state_name: Lào Cai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.56767000'
   longitude: '103.71339000'
-  wikiDataId: Q3710671
-- id: 130362
-  name: Huyện Mường Khương
-  state_id: 3817
+- name: Huyện Mường Khương
   state_code: '02'
   state_name: Lào Cai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.67111000'
   longitude: '104.11772000'
-  wikiDataId: Q10796264
-- id: 130418
-  name: Huyện Sa Pa
-  state_id: 3817
+- name: Huyện Sa Pa
   state_code: '02'
   state_name: Lào Cai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.33769000'
   longitude: '103.84037000'
-  wikiDataId: Q7395483
-- id: 130420
-  name: Huyện Si Ma Cai
-  state_id: 3817
+- name: Huyện Si Ma Cai
   state_code: '02'
   state_name: Lào Cai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.67161000'
   longitude: '104.27326000'
-  wikiDataId: Q7395483
-- id: 130495
-  name: Huyện Văn Bàn
-  state_id: 3817
+- name: Huyện Văn Bàn
   state_code: '02'
   state_name: Lào Cai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.07002000'
   longitude: '104.18122000'
-  wikiDataId: Q7484836
-- id: 130571
-  name: Lào Cai
-  state_id: 3817
+- name: Lào Cai
   state_code: '02'
   state_name: Lào Cai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.48556000'
   longitude: '103.97066000'
-  wikiDataId: Q33421
-- id: 130568
-  name: Lao Chải
-  state_id: 3817
+- name: Lao Chải
   state_code: '02'
   state_name: Lào Cai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.31377000'
   longitude: '103.86844000'
-  wikiDataId: Q31942265
-- id: 130591
-  name: Sa Pa
-  state_id: 3817
+- name: Sa Pa
   state_code: '02'
   state_name: Lào Cai
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.34023000'
   longitude: '103.84415000'
-  wikiDataId: Q1000140
-- id: 130190
-  name: Cần Giuộc
-  state_id: 3808
+- name: Cần Giuộc
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.60857000'
   longitude: '106.67135000'
-  wikiDataId: Q25262
-- id: 130240
-  name: Huyện Bến Lức
-  state_id: 3808
+- name: Huyện Bến Lức
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.68858000'
   longitude: '106.45484000'
-  wikiDataId: Q4838559
-- id: 130271
-  name: Huyện Cần Đước
-  state_id: 3808
+- name: Huyện Cần Đước
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.54148000'
   longitude: '106.59636000'
-  wikiDataId: Q800052
-- id: 130270
-  name: Huyện Cần Giuộc
-  state_id: 3808
+- name: Huyện Cần Giuộc
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.57742000'
   longitude: '106.67279000'
-  wikiDataId: Q800052
-- id: 130251
-  name: Huyện Châu Thành
-  state_id: 3808
+- name: Huyện Châu Thành
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.45214000'
   longitude: '106.49015000'
-  wikiDataId: Q3710806
-- id: 130551
-  name: Huyện Đức Hòa
-  state_id: 3808
+- name: Huyện Đức Hòa
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.87838000'
   longitude: '106.42422000'
-  wikiDataId: Q5311201
-- id: 130550
-  name: Huyện Đức Huệ
-  state_id: 3808
+- name: Huyện Đức Huệ
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.86473000'
   longitude: '106.25914000'
-  wikiDataId: Q5295775
-- id: 130368
-  name: Huyện Mộc Hóa
-  state_id: 3808
+- name: Huyện Mộc Hóa
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.75166000'
   longitude: '106.01729000'
-  wikiDataId: Q10796264
-- id: 130482
-  name: Huyện Tân Hưng
-  state_id: 3808
+- name: Huyện Tân Hưng
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.83380000'
   longitude: '105.68848000'
-  wikiDataId: Q3711512
-- id: 130488
-  name: Huyện Tân Thạnh
-  state_id: 3808
+- name: Huyện Tân Thạnh
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.60351000'
   longitude: '105.96576000'
-  wikiDataId: Q3711512
-- id: 130489
-  name: Huyện Tân Trụ
-  state_id: 3808
+- name: Huyện Tân Trụ
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.53182000'
   longitude: '106.51644000'
-  wikiDataId: Q3711512
-- id: 130448
-  name: Huyện Thạnh Hóa
-  state_id: 3808
+- name: Huyện Thạnh Hóa
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.66667000'
   longitude: '106.16667000'
-  wikiDataId: Q7710339
-- id: 130454
-  name: Huyện Thủ Thừa
-  state_id: 3808
+- name: Huyện Thủ Thừa
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.65639000'
   longitude: '106.34580000'
-  wikiDataId: Q7786654
-- id: 130499
-  name: Huyện Vĩnh Hưng
-  state_id: 3808
+- name: Huyện Vĩnh Hưng
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.88299000'
   longitude: '105.80364000'
-  wikiDataId: Q7484836
-- id: 130620
-  name: Tân An
-  state_id: 3808
+- name: Tân An
   state_code: '41'
   state_name: Long An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.53589000'
   longitude: '106.41366000'
-  wikiDataId: Q33389
-- id: 130287
-  name: Huyện Giao Thủy
-  state_id: 3789
+- name: Huyện Giao Thủy
   state_code: '67'
   state_name: Nam Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.25706000'
   longitude: '106.46245000'
-  wikiDataId: Q3031261
-- id: 130315
-  name: Huyện Hải Hậu
-  state_id: 3789
+- name: Huyện Hải Hậu
   state_code: '67'
   state_name: Nam Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.15057000'
   longitude: '106.27161000'
-  wikiDataId: Q5942590
-- id: 130370
-  name: Huyện Mỹ Lộc
-  state_id: 3789
+- name: Huyện Mỹ Lộc
   state_code: '67'
   state_name: Nam Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.46079000'
   longitude: '106.12319000'
-  wikiDataId: Q10796264
-- id: 130377
-  name: Huyện Nam Trực
-  state_id: 3789
+- name: Huyện Nam Trực
   state_code: '67'
   state_name: Nam Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.34106000'
   longitude: '106.20821000'
-  wikiDataId: Q3031601
-- id: 130384
-  name: Huyện Nghĩa Hưng
-  state_id: 3789
+- name: Huyện Nghĩa Hưng
   state_code: '67'
   state_name: Nam Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.10598000'
   longitude: '106.17345000'
-  wikiDataId: Q3031601
-- id: 130474
-  name: Huyện Trực Ninh
-  state_id: 3789
+- name: Huyện Trực Ninh
   state_code: '67'
   state_name: Nam Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.25690000'
   longitude: '106.24582000'
-  wikiDataId: Q286486
-- id: 130509
-  name: Huyện Vụ Bản
-  state_id: 3789
+- name: Huyện Vụ Bản
   state_code: '67'
   state_name: Nam Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.37705000'
   longitude: '106.09707000'
-  wikiDataId: Q7932536
-- id: 130526
-  name: Huyện Ý Yên
-  state_id: 3789
+- name: Huyện Ý Yên
   state_code: '67'
   state_name: Nam Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.31669000'
   longitude: '106.02327000'
-  wikiDataId: Q5295738
-- id: 130575
-  name: Nam Định
-  state_id: 3789
+- name: Nam Định
   state_code: '67'
   state_name: Nam Định
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.43389000'
   longitude: '106.17729000'
-  wikiDataId: Q33682
-- id: 130212
-  name: Huyện Anh Sơn
-  state_id: 3780
+- name: Huyện Anh Sơn
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.92902000'
   longitude: '105.08294000'
-  wikiDataId: Q2414515
-- id: 130264
-  name: Huyện Con Cuông
-  state_id: 3780
+- name: Huyện Con Cuông
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.03898000'
   longitude: '104.80353000'
-  wikiDataId: Q800052
-- id: 130279
-  name: Huyện Diễn Châu
-  state_id: 3780
+- name: Huyện Diễn Châu
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.98892000'
   longitude: '105.57625000'
-  wikiDataId: Q3031197
-- id: 130532
-  name: Huyện Đô Lương
-  state_id: 3780
+- name: Huyện Đô Lương
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.89259000'
   longitude: '105.34027000'
-  wikiDataId: Q5295738
-- id: 130310
-  name: Huyện Hưng Nguyên
-  state_id: 3780
+- name: Huyện Hưng Nguyên
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.67811000'
   longitude: '105.62523000'
-  wikiDataId: Q5942590
-- id: 130339
-  name: Huyện Kỳ Sơn
-  state_id: 3780
+- name: Huyện Kỳ Sơn
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.42397000'
   longitude: '104.22199000'
-  wikiDataId: Q6405298
-- id: 130378
-  name: Huyện Nam Đàn
-  state_id: 3780
+- name: Huyện Nam Đàn
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.67041000'
   longitude: '105.52575000'
-  wikiDataId: Q3031601
-- id: 130381
-  name: Huyện Nghi Lộc
-  state_id: 3780
+- name: Huyện Nghi Lộc
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.83131000'
   longitude: '105.62411000'
-  wikiDataId: Q3031601
-- id: 130385
-  name: Huyện Nghĩa Đàn
-  state_id: 3780
+- name: Huyện Nghĩa Đàn
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.38234000'
   longitude: '105.44072000'
-  wikiDataId: Q3031601
-- id: 130411
-  name: Huyện Quế Phong
-  state_id: 3780
+- name: Huyện Quế Phong
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.70177000'
   longitude: '104.87913000'
-  wikiDataId: Q596473
-- id: 130413
-  name: Huyện Quỳ Châu
-  state_id: 3780
+- name: Huyện Quỳ Châu
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.55707000'
   longitude: '105.09173000'
-  wikiDataId: Q5370368
-- id: 130414
-  name: Huyện Quỳ Hợp
-  state_id: 3780
+- name: Huyện Quỳ Hợp
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.32514000'
   longitude: '105.16009000'
-  wikiDataId: Q5370368
-- id: 130415
-  name: Huyện Quỳnh Lưu
-  state_id: 3780
+- name: Huyện Quỳnh Lưu
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.22717000'
   longitude: '105.64354000'
-  wikiDataId: Q5370368
-- id: 130436
-  name: Huyện Thanh Chương
-  state_id: 3780
+- name: Huyện Thanh Chương
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.73929000'
   longitude: '105.24053000'
-  wikiDataId: Q7710095
-- id: 130492
-  name: Huyện Tương Dương
-  state_id: 3780
+- name: Huyện Tương Dương
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.30979000'
   longitude: '104.57788000'
-  wikiDataId: Q3711512
-- id: 130520
-  name: Huyện Yên Thành
-  state_id: 3780
+- name: Huyện Yên Thành
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.02724000'
   longitude: '105.43649000'
-  wikiDataId: Q3711616
-- id: 130622
-  name: Vinh
-  state_id: 3780
+- name: Vinh
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.67337000'
   longitude: '105.69232000'
-  wikiDataId: Q33428
-- id: 130629
-  name: Yên Vinh
-  state_id: 3780
+- name: Yên Vinh
   state_code: '22'
   state_name: Nghệ An
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '18.66667000'
   longitude: '105.66667000'
-  wikiDataId: Q49371602
-- id: 130297
-  name: Huyện Hoa Lư
-  state_id: 3786
+- name: Huyện Hoa Lư
   state_code: '18'
   state_name: Ninh Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.25391000'
   longitude: '105.90789000'
-  wikiDataId: Q3710927
-- id: 130327
-  name: Huyện Kim Sơn
-  state_id: 3786
+- name: Huyện Kim Sơn
   state_code: '18'
   state_name: Ninh Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.06034000'
   longitude: '106.09863000'
-  wikiDataId: Q20025812
-- id: 130390
-  name: Huyện Nho Quan
-  state_id: 3786
+- name: Huyện Nho Quan
   state_code: '18'
   state_name: Ninh Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.27606000'
   longitude: '105.75442000'
-  wikiDataId: Q3711242
-- id: 130513
-  name: Huyện Yên Khánh
-  state_id: 3786
+- name: Huyện Yên Khánh
   state_code: '18'
   state_name: Ninh Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.19017000'
   longitude: '106.09605000'
-  wikiDataId: Q8052181
-- id: 130517
-  name: Huyện Yên Mô
-  state_id: 3786
+- name: Huyện Yên Mô
   state_code: '18'
   state_name: Ninh Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.12984000'
   longitude: '106.00199000'
-  wikiDataId: Q8052181
-- id: 130577
-  name: Ninh Bình
-  state_id: 3786
+- name: Ninh Bình
   state_code: '18'
   state_name: Ninh Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.25809000'
   longitude: '105.97965000'
-  wikiDataId: Q33929
-- id: 130578
-  name: Phan Rang-Tháp Chàm
-  state_id: 3788
+- name: Phan Rang-Tháp Chàm
   state_code: '36'
   state_name: Ninh Thuận
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.56432000'
   longitude: '108.98858000'
-  wikiDataId: Q19013
-- id: 130275
-  name: Huyện Cẩm Khê
-  state_id: 3801
+- name: Huyện Cẩm Khê
   state_code: '68'
   state_name: Phú Thọ
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.40683000'
   longitude: '105.09845000'
-  wikiDataId: Q3031197
-- id: 130530
-  name: Huyện Đoan Hùng
-  state_id: 3801
+- name: Huyện Đoan Hùng
   state_code: '68'
   state_name: Phú Thọ
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.61776000'
   longitude: '105.16110000'
-  wikiDataId: Q5295738
-- id: 130312
-  name: Huyện Hạ Hòa
-  state_id: 3801
+- name: Huyện Hạ Hòa
   state_code: '68'
   state_name: Phú Thọ
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.57763000'
   longitude: '104.99464000'
-  wikiDataId: Q5942590
-- id: 130203
-  name: Huyen Lam Thao
-  state_id: 3801
+- name: Huyen Lam Thao
   state_code: '68'
   state_name: Phú Thọ
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.29971000'
   longitude: '105.31119000'
-  wikiDataId: Q1854
-- id: 130434
-  name: Huyện Thanh Ba
-  state_id: 3801
+- name: Huyện Thanh Ba
   state_code: '68'
   state_name: Phú Thọ
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.47816000'
   longitude: '105.15881000'
-  wikiDataId: Q7710095
-- id: 130515
-  name: Huyện Yên Lập
-  state_id: 3801
+- name: Huyện Yên Lập
   state_code: '68'
   state_name: Phú Thọ
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.35569000'
   longitude: '105.00493000'
-  wikiDataId: Q8052181
-- id: 130603
-  name: Thành Phố Việt Trì
-  state_id: 3801
+- name: Thành Phố Việt Trì
   state_code: '68'
   state_name: Phú Thọ
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.32958000'
   longitude: '105.39217000'
-  wikiDataId: Q7897883
-- id: 130615
-  name: Thị xã Phú Thọ
-  state_id: 3801
+- name: Thị xã Phú Thọ
   state_code: '68'
   state_name: Phú Thọ
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.41664000'
   longitude: '105.23636000'
-  wikiDataId: Q1320204
-- id: 130623
-  name: Việt Trì
-  state_id: 3801
+- name: Việt Trì
   state_code: '68'
   state_name: Phú Thọ
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.32274000'
   longitude: '105.40198000'
-  wikiDataId: Q36082
-- id: 130425
-  name: Huyện Sơn Hòa
-  state_id: 3824
+- name: Huyện Sơn Hòa
   state_code: '32'
   state_name: Phú Yên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.15868000'
   longitude: '108.97281000'
-  wikiDataId: Q3711485
-- id: 130421
-  name: Huyện Sông Hinh
-  state_id: 3824
+- name: Huyện Sông Hinh
   state_code: '32'
   state_name: Phú Yên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '12.91667000'
   longitude: '108.91667000'
-  wikiDataId: Q7395483
-- id: 130593
-  name: Sông Cầu
-  state_id: 3824
+- name: Sông Cầu
   state_code: '32'
   state_name: Phú Yên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.45560000'
   longitude: '109.22348000'
-  wikiDataId: Q33418
-- id: 130618
-  name: Tuy Hòa
-  state_id: 3824
+- name: Tuy Hòa
   state_code: '32'
   state_name: Phú Yên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '13.09546000'
   longitude: '109.32094000'
-  wikiDataId: Q35747
-- id: 130352
-  name: Huyện Lệ Thủy
-  state_id: 3809
+- name: Huyện Lệ Thủy
   state_code: '24'
   state_name: Quảng Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '17.11239000'
   longitude: '106.70471000'
-  wikiDataId: Q1320095
-- id: 130407
-  name: Huyện Quảng Ninh
-  state_id: 3809
+- name: Huyện Quảng Ninh
   state_code: '24'
   state_name: Quảng Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '17.27067000'
   longitude: '106.51387000'
-  wikiDataId: Q596473
-- id: 130408
-  name: Huyện Quảng Trạch
-  state_id: 3809
+- name: Huyện Quảng Trạch
   state_code: '24'
   state_name: Quảng Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '17.83447000'
   longitude: '106.36705000'
-  wikiDataId: Q596473
-- id: 130477
-  name: Huyện Tuyên Hóa
-  state_id: 3809
+- name: Huyện Tuyên Hóa
   state_code: '24'
   state_name: Quảng Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '17.91323000'
   longitude: '106.02678000'
-  wikiDataId: Q2232329
-- id: 130566
-  name: Kwang Binh
-  state_id: 3809
+- name: Kwang Binh
   state_code: '24'
   state_name: Quảng Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '17.46885000'
   longitude: '106.62226000'
-  wikiDataId: Q1877
-- id: 130563
-  name: Hội An
-  state_id: 3776
+- name: Hội An
   state_code: '27'
   state_name: Quảng Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.87944000'
   longitude: '108.33500000'
-  wikiDataId: Q36160
-- id: 130281
-  name: Huyện Duy Xuyên
-  state_id: 3776
+- name: Huyện Duy Xuyên
   state_code: '27'
   state_name: Quảng Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.78970000'
   longitude: '108.20247000'
-  wikiDataId: Q3031197
-- id: 130538
-  name: Huyện Đại Lộc
-  state_id: 3776
+- name: Huyện Đại Lộc
   state_code: '27'
   state_name: Quảng Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.83721000'
   longitude: '107.97894000'
-  wikiDataId: Q5295738
-- id: 130529
-  name: Huyện Điện Bàn
-  state_id: 3776
+- name: Huyện Điện Bàn
   state_code: '27'
   state_name: Quảng Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.89917000'
   longitude: '108.22470000'
-  wikiDataId: Q5295738
-- id: 130296
-  name: Huyện Hiệp Đức
-  state_id: 3776
+- name: Huyện Hiệp Đức
   state_code: '27'
   state_name: Quảng Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.53857000'
   longitude: '108.09539000'
-  wikiDataId: Q3710927
-- id: 130375
-  name: Huyện Nam Giang
-  state_id: 3776
+- name: Huyện Nam Giang
   state_code: '27'
   state_name: Quảng Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.63201000'
   longitude: '107.60267000'
-  wikiDataId: Q3711221
-- id: 130394
-  name: Huyện Núi Thành
-  state_id: 3776
+- name: Huyện Núi Thành
   state_code: '27'
   state_name: Quảng Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.43345000'
   longitude: '108.57438000'
-  wikiDataId: Q724739
-- id: 130403
-  name: Huyện Phước Sơn
-  state_id: 3776
+- name: Huyện Phước Sơn
   state_code: '27'
   state_name: Quảng Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.38806000'
   longitude: '107.85766000'
-  wikiDataId: Q3091652
-- id: 130457
-  name: Huyện Tiên Phước
-  state_id: 3776
+- name: Huyện Tiên Phước
   state_code: '27'
   state_name: Quảng Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.47090000'
   longitude: '108.28257000'
-  wikiDataId: Q3711538
-- id: 130467
-  name: Huyện Trà My
-  state_id: 3776
+- name: Huyện Trà My
   state_code: '27'
   state_name: Quảng Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.25000000'
   longitude: '108.08333000'
-  wikiDataId: Q7831038
-- id: 130596
-  name: Tam Kỳ
-  state_id: 3776
+- name: Tam Kỳ
   state_code: '27'
   state_name: Quảng Nam
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.57364000'
   longitude: '108.47403000'
-  wikiDataId: Q1365138
-- id: 130216
-  name: Huyện Ba Tơ
-  state_id: 3828
+- name: Huyện Ba Tơ
   state_code: '29'
   state_name: Quảng Ngãi
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.73973000'
   longitude: '108.69326000'
-  wikiDataId: Q3710671
-- id: 130224
-  name: Huyện Bình Sơn
-  state_id: 3828
+- name: Huyện Bình Sơn
   state_code: '29'
   state_name: Quảng Ngãi
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.31899000'
   longitude: '108.76383000'
-  wikiDataId: Q800057
-- id: 130552
-  name: Huyện Đức Phổ
-  state_id: 3828
+- name: Huyện Đức Phổ
   state_code: '29'
   state_name: Quảng Ngãi
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.78000000'
   longitude: '108.97857000'
-  wikiDataId: Q5311201
-- id: 130348
-  name: Huyện Lý Sơn
-  state_id: 3828
+- name: Huyện Lý Sơn
   state_code: '29'
   state_name: Quảng Ngãi
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.40608000'
   longitude: '109.09707000'
-  wikiDataId: Q1320095
-- id: 130359
-  name: Huyện Minh Long
-  state_id: 3828
+- name: Huyện Minh Long
   state_code: '29'
   state_name: Quảng Ngãi
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.95375000'
   longitude: '108.67724000'
-  wikiDataId: Q2226906
-- id: 130366
-  name: Huyện Mộ Đức
-  state_id: 3828
+- name: Huyện Mộ Đức
   state_code: '29'
   state_name: Quảng Ngãi
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.95515000'
   longitude: '108.88841000'
-  wikiDataId: Q10796264
-- id: 130383
-  name: Huyện Nghĩa Hành
-  state_id: 3828
+- name: Huyện Nghĩa Hành
   state_code: '29'
   state_name: Quảng Ngãi
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.98712000'
   longitude: '108.80036000'
-  wikiDataId: Q3031601
-- id: 130424
-  name: Huyện Sơn Hà
-  state_id: 3828
+- name: Huyện Sơn Hà
   state_code: '29'
   state_name: Quảng Ngãi
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.98427000'
   longitude: '108.53643000'
-  wikiDataId: Q3711485
-- id: 130426
-  name: Huyện Sơn Tây
-  state_id: 3828
+- name: Huyện Sơn Tây
   state_code: '29'
   state_name: Quảng Ngãi
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '14.96392000'
   longitude: '108.36419000'
-  wikiDataId: Q3711485
-- id: 130427
-  name: Huyện Sơn Tịnh
-  state_id: 3828
+- name: Huyện Sơn Tịnh
   state_code: '29'
   state_name: Quảng Ngãi
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.19090000'
   longitude: '108.74295000'
-  wikiDataId: Q3711485
-- id: 130464
-  name: Huyện Trà Bồng
-  state_id: 3828
+- name: Huyện Trà Bồng
   state_code: '29'
   state_name: Quảng Ngãi
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.23752000'
   longitude: '108.52633000'
-  wikiDataId: Q1320227
-- id: 130491
-  name: Huyện Tư Nghĩa
-  state_id: 3828
+- name: Huyện Tư Nghĩa
   state_code: '29'
   state_name: Quảng Ngãi
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.09499000'
   longitude: '108.77053000'
-  wikiDataId: Q3711512
-- id: 130585
-  name: Quảng Ngãi
-  state_id: 3828
+- name: Quảng Ngãi
   state_code: '29'
   state_name: Quảng Ngãi
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '15.12047000'
   longitude: '108.79232000'
-  wikiDataId: Q33994
-- id: 130192
-  name: Cẩm Phả
-  state_id: 3814
+- name: Cẩm Phả
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.01004000'
   longitude: '107.27345000'
-  wikiDataId: Q1031051
-- id: 130193
-  name: Cẩm Phả Mines
-  state_id: 3814
+- name: Cẩm Phả Mines
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.01667000'
   longitude: '107.30000000'
-  wikiDataId: Q31909451
-- id: 130561
-  name: Hạ Long
-  state_id: 3814
+- name: Hạ Long
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.95045000'
   longitude: '107.07336000'
-  wikiDataId: Q36077
-- id: 130214
-  name: Huyện Ba Chẽ
-  state_id: 3814
+- name: Huyện Ba Chẽ
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.29503000'
   longitude: '107.19298000'
-  wikiDataId: Q1124233
-- id: 130222
-  name: Huyện Bình Liêu
-  state_id: 3814
+- name: Huyện Bình Liêu
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.54389000'
   longitude: '107.44047000'
-  wikiDataId: Q800057
-- id: 130268
-  name: Huyện Cô Tô
-  state_id: 3814
+- name: Huyện Cô Tô
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.05418000'
   longitude: '107.80698000'
-  wikiDataId: Q800052
-- id: 130541
-  name: Huyện Đầm Hà
-  state_id: 3814
+- name: Huyện Đầm Hà
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.39689000'
   longitude: '107.56175000'
-  wikiDataId: Q3593897
-- id: 130534
-  name: Huyện Đông Triều
-  state_id: 3814
+- name: Huyện Đông Triều
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.11043000'
   longitude: '106.59662000'
-  wikiDataId: Q5295738
-- id: 130314
-  name: Huyện Hải Hà
-  state_id: 3814
+- name: Huyện Hải Hà
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.49537000'
   longitude: '107.66790000'
-  wikiDataId: Q5942590
-- id: 130299
-  name: Huyện Hoành Bồ
-  state_id: 3814
+- name: Huyện Hoành Bồ
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.11888000'
   longitude: '107.03149000'
-  wikiDataId: Q3710927
-- id: 130458
-  name: Huyện Tiên Yên
-  state_id: 3814
+- name: Huyện Tiên Yên
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.37571000'
   longitude: '107.37468000'
-  wikiDataId: Q3711538
-- id: 130494
-  name: Huyện Vân Đồn
-  state_id: 3814
+- name: Huyện Vân Đồn
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.04921000'
   longitude: '107.50971000'
-  wikiDataId: Q7484836
-- id: 130573
-  name: Móng Cái
-  state_id: 3814
+- name: Móng Cái
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.52471000'
   longitude: '107.96619000'
-  wikiDataId: Q33204
-- id: 130602
-  name: Thành Phố Uông Bí
-  state_id: 3814
+- name: Thành Phố Uông Bí
   state_code: '13'
   state_name: Quảng Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.03433000'
   longitude: '106.77049000'
-  wikiDataId: Q7897883
-- id: 130631
-  name: Ðông Hà
-  state_id: 3803
+- name: Ðông Hà
   state_code: '25'
   state_name: Quảng Trị
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.81625000'
   longitude: '107.10031000'
-  wikiDataId: Q33343
-- id: 130242
-  name: Huyện Cam Lộ
-  state_id: 3803
+- name: Huyện Cam Lộ
   state_code: '25'
   state_name: Quảng Trị
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.79335000'
   longitude: '106.96175000'
-  wikiDataId: Q4838559
-- id: 130527
-  name: Huyện Đa Krông
-  state_id: 3803
+- name: Huyện Đa Krông
   state_code: '25'
   state_name: Quảng Trị
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.55543000'
   longitude: '106.97208000'
-  wikiDataId: Q5295738
-- id: 130288
-  name: Huyện Gio Linh
-  state_id: 3803
+- name: Huyện Gio Linh
   state_code: '25'
   state_name: Quảng Trị
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.91667000'
   longitude: '107.00000000'
-  wikiDataId: Q3031261
-- id: 130316
-  name: Huyện Hải Lăng
-  state_id: 3803
+- name: Huyện Hải Lăng
   state_code: '25'
   state_name: Quảng Trị
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.67574000'
   longitude: '107.23388000'
-  wikiDataId: Q5942590
-- id: 130311
-  name: Huyện Hướng Hóa
-  state_id: 3803
+- name: Huyện Hướng Hóa
   state_code: '25'
   state_name: Quảng Trị
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.70132000'
   longitude: '106.67036000'
-  wikiDataId: Q5942590
-- id: 130462
-  name: Huyện Triệu Phong
-  state_id: 3803
+- name: Huyện Triệu Phong
   state_code: '25'
   state_name: Quảng Trị
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.78132000'
   longitude: '107.16034000'
-  wikiDataId: Q1320227
-- id: 130500
-  name: Huyện Vĩnh Linh
-  state_id: 3803
+- name: Huyện Vĩnh Linh
   state_code: '25'
   state_name: Quảng Trị
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '17.01600000'
   longitude: '106.93384000'
-  wikiDataId: Q7932536
-- id: 130336
-  name: Huyện Kế Sách
-  state_id: 3819
+- name: Huyện Kế Sách
   state_code: '52'
   state_name: Sóc Trăng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.81771000'
   longitude: '105.94190000'
-  wikiDataId: Q6405298
-- id: 130343
-  name: Huyện Long Phú
-  state_id: 3819
+- name: Huyện Long Phú
   state_code: '52'
   state_name: Sóc Trăng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.63715000'
   longitude: '106.08226000'
-  wikiDataId: Q3711115
-- id: 130371
-  name: Huyện Mỹ Tú
-  state_id: 3819
+- name: Huyện Mỹ Tú
   state_code: '52'
   state_name: Sóc Trăng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.60849000'
   longitude: '105.80681000'
-  wikiDataId: Q10796264
-- id: 130372
-  name: Huyện Mỹ Xuyên
-  state_id: 3819
+- name: Huyện Mỹ Xuyên
   state_code: '52'
   state_name: Sóc Trăng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.44200000'
   longitude: '105.88546000'
-  wikiDataId: Q10796264
-- id: 130205
-  name: Huyen Nga Nam
-  state_id: 3819
+- name: Huyen Nga Nam
   state_code: '52'
   state_name: Sóc Trăng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.56127000'
   longitude: '105.59476000'
-  wikiDataId: Q724711
-- id: 130450
-  name: Huyện Thạnh Trị
-  state_id: 3819
+- name: Huyện Thạnh Trị
   state_code: '52'
   state_name: Sóc Trăng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.46939000'
   longitude: '105.71196000'
-  wikiDataId: Q3711530
-- id: 130592
-  name: Sóc Trăng
-  state_id: 3819
+- name: Sóc Trăng
   state_code: '52'
   state_name: Sóc Trăng
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.59995000'
   longitude: '105.97193000'
-  wikiDataId: Q33418
-- id: 130238
-  name: Huyện Bắc Yên
-  state_id: 3812
+- name: Huyện Bắc Yên
   state_code: '05'
   state_name: Sơn La
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.25042000'
   longitude: '104.38501000'
-  wikiDataId: Q4838559
-- id: 130356
-  name: Huyện Mai Sơn
-  state_id: 3812
+- name: Huyện Mai Sơn
   state_code: '05'
   state_name: Sơn La
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.15884000'
   longitude: '104.04821000'
-  wikiDataId: Q2226906
-- id: 130367
-  name: Huyện Mộc Châu
-  state_id: 3812
+- name: Huyện Mộc Châu
   state_code: '05'
   state_name: Sơn La
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.83333000'
   longitude: '104.75000000'
-  wikiDataId: Q10796264
-- id: 130363
-  name: Huyện Mường La
-  state_id: 3812
+- name: Huyện Mường La
   state_code: '05'
   state_name: Sơn La
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.52960000'
   longitude: '104.11113000'
-  wikiDataId: Q10796264
-- id: 130398
-  name: Huyện Phù Yên
-  state_id: 3812
+- name: Huyện Phù Yên
   state_code: '05'
   state_name: Sơn La
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.21412000'
   longitude: '104.68993000'
-  wikiDataId: Q724739
-- id: 130416
-  name: Huyện Quỳnh Nhai
-  state_id: 3812
+- name: Huyện Quỳnh Nhai
   state_code: '05'
   state_name: Sơn La
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.77224000'
   longitude: '103.64920000'
-  wikiDataId: Q5370368
-- id: 130422
-  name: Huyện Sông Mã
-  state_id: 3812
+- name: Huyện Sông Mã
   state_code: '05'
   state_name: Sơn La
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.06971000'
   longitude: '103.68727000'
-  wikiDataId: Q7395483
-- id: 130440
-  name: Huyện Thuận Châu
-  state_id: 3812
+- name: Huyện Thuận Châu
   state_code: '05'
   state_name: Sơn La
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.42319000'
   longitude: '103.64408000'
-  wikiDataId: Q3031911
-- id: 130512
-  name: Huyện Yên Châu
-  state_id: 3812
+- name: Huyện Yên Châu
   state_code: '05'
   state_name: Sơn La
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.00500000'
   longitude: '104.33264000'
-  wikiDataId: Q8052181
-- id: 130594
-  name: Sơn La
-  state_id: 3812
+- name: Sơn La
   state_code: '05'
   state_name: Sơn La
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.32560000'
   longitude: '103.91882000'
-  wikiDataId: Q33415
-- id: 130239
-  name: Huyện Bến Cầu
-  state_id: 3826
+- name: Huyện Bến Cầu
   state_code: '37'
   state_name: Tây Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.12889000'
   longitude: '106.14296000'
-  wikiDataId: Q4838559
-- id: 130282
-  name: Huyện Dương Minh Châu
-  state_id: 3826
+- name: Huyện Dương Minh Châu
   state_code: '37'
   state_name: Tây Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.31833000'
   longitude: '106.25697000'
-  wikiDataId: Q3031197
-- id: 130294
-  name: Huyện Gò Dầu
-  state_id: 3826
+- name: Huyện Gò Dầu
   state_code: '37'
   state_name: Tây Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.15737000'
   longitude: '106.27307000'
-  wikiDataId: Q3710927
-- id: 130306
-  name: Huyện Hòa Thành
-  state_id: 3826
+- name: Huyện Hòa Thành
   state_code: '37'
   state_name: Tây Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.26706000'
   longitude: '106.14486000'
-  wikiDataId: Q5874252
-- id: 130480
-  name: Huyện Tân Châu
-  state_id: 3826
+- name: Huyện Tân Châu
   state_code: '37'
   state_name: Tây Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.58739000'
   longitude: '106.28270000'
-  wikiDataId: Q3711512
-- id: 130472
-  name: Huyện Trảng Bàng
-  state_id: 3826
+- name: Huyện Trảng Bàng
   state_code: '37'
   state_name: Tây Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.05720000'
   longitude: '106.37539000'
-  wikiDataId: Q286486
-- id: 130581
-  name: Phú Khương
-  state_id: 3826
+- name: Phú Khương
   state_code: '37'
   state_name: Tây Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.28333000'
   longitude: '106.13333000'
-  wikiDataId: Q32224301
-- id: 130621
-  name: Tây Ninh
-  state_id: 3826
+- name: Tây Ninh
   state_code: '37'
   state_name: Tây Ninh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '11.31004000'
   longitude: '106.09828000'
-  wikiDataId: Q130391
-- id: 130524
-  name: Huyện Ðông Hưng
-  state_id: 3775
+- name: Huyện Ðông Hưng
   state_code: '20'
   state_name: Thái Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.54388000'
   longitude: '106.34090000'
-  wikiDataId: Q5295738
-- id: 130309
-  name: Huyện Hưng Hà
-  state_id: 3775
+- name: Huyện Hưng Hà
   state_code: '20'
   state_name: Thái Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.59464000'
   longitude: '106.21230000'
-  wikiDataId: Q5874252
-- id: 130331
-  name: Huyện Kiến Xương
-  state_id: 3775
+- name: Huyện Kiến Xương
   state_code: '20'
   state_name: Thái Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.40081000'
   longitude: '106.42032000'
-  wikiDataId: Q6405298
-- id: 130417
-  name: Huyện Quỳnh Phụ
-  state_id: 3775
+- name: Huyện Quỳnh Phụ
   state_code: '20'
   state_name: Thái Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.65095000'
   longitude: '106.36359000'
-  wikiDataId: Q5370368
-- id: 130442
-  name: Huyện Thái Thụy
-  state_id: 3775
+- name: Huyện Thái Thụy
   state_code: '20'
   state_name: Thái Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.53916000'
   longitude: '106.51688000'
-  wikiDataId: Q3711534
-- id: 130459
-  name: Huyện Tiền Hải
-  state_id: 3775
+- name: Huyện Tiền Hải
   state_code: '20'
   state_name: Thái Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.38465000'
   longitude: '106.52882000'
-  wikiDataId: Q3711538
-- id: 130504
-  name: Huyện Vũ Thư
-  state_id: 3775
+- name: Huyện Vũ Thư
   state_code: '20'
   state_name: Thái Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.43732000'
   longitude: '106.26529000'
-  wikiDataId: Q7932536
-- id: 130605
-  name: Thái Bình
-  state_id: 3775
+- name: Thái Bình
   state_code: '20'
   state_name: Thái Bình
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.45000000'
   longitude: '106.34002000'
-  wikiDataId: Q36497
-- id: 130606
-  name: Thái Nguyên
-  state_id: 3807
+- name: Thái Nguyên
   state_code: '69'
   state_name: Thái Nguyên
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.59422000'
   longitude: '105.84817000'
-  wikiDataId: Q26581
-- id: 130181
-  name: Bỉm Sơn
-  state_id: 3771
+- name: Bỉm Sơn
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.07806000'
   longitude: '105.86028000'
-  wikiDataId: Q31887770
-- id: 130218
-  name: Huyện Bá Thước
-  state_id: 3771
+- name: Huyện Bá Thước
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.35767000'
   longitude: '105.25301000'
-  wikiDataId: Q3710671
-- id: 130276
-  name: Huyện Cẩm Thủy
-  state_id: 3771
+- name: Huyện Cẩm Thủy
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.19586000'
   longitude: '105.46817000'
-  wikiDataId: Q3031197
-- id: 130533
-  name: Huyện Đông Sơn
-  state_id: 3771
+- name: Huyện Đông Sơn
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.79742000'
   longitude: '105.72465000'
-  wikiDataId: Q5295738
-- id: 130301
-  name: Huyện Hà Trung
-  state_id: 3771
+- name: Huyện Hà Trung
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.02654000'
   longitude: '105.81931000'
-  wikiDataId: Q3710927
-- id: 130317
-  name: Huyện Hậu Lộc
-  state_id: 3771
+- name: Huyện Hậu Lộc
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.93337000'
   longitude: '105.88894000'
-  wikiDataId: Q5942590
-- id: 130341
-  name: Huyện Lang Chánh
-  state_id: 3771
+- name: Huyện Lang Chánh
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.15926000'
   longitude: '105.15071000'
-  wikiDataId: Q6473680
-- id: 130364
-  name: Huyện Mường Lát
-  state_id: 3771
+- name: Huyện Mường Lát
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.52763000'
   longitude: '104.62941000'
-  wikiDataId: Q10796264
-- id: 130380
-  name: Huyện Nga Sơn
-  state_id: 3771
+- name: Huyện Nga Sơn
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.01561000'
   longitude: '105.98975000'
-  wikiDataId: Q3031601
-- id: 130389
-  name: Huyện Ngọc Lặc
-  state_id: 3771
+- name: Huyện Ngọc Lặc
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.06777000'
   longitude: '105.37386000'
-  wikiDataId: Q3711242
-- id: 130391
-  name: Huyện Như Thanh
-  state_id: 3771
+- name: Huyện Như Thanh
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.57798000'
   longitude: '105.55616000'
-  wikiDataId: Q3711242
-- id: 130392
-  name: Huyện Như Xuân
-  state_id: 3771
+- name: Huyện Như Xuân
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.62527000'
   longitude: '105.38856000'
-  wikiDataId: Q3711242
-- id: 130393
-  name: Huyện Nông Cống
-  state_id: 3771
+- name: Huyện Nông Cống
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.61376000'
   longitude: '105.68279000'
-  wikiDataId: Q3711242
-- id: 130404
-  name: Huyện Quan Hóa
-  state_id: 3771
+- name: Huyện Quan Hóa
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.47565000'
   longitude: '104.95335000'
-  wikiDataId: Q3091652
-- id: 130405
-  name: Huyện Quan Sơn
-  state_id: 3771
+- name: Huyện Quan Sơn
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.25758000'
   longitude: '104.83416000'
-  wikiDataId: Q3091652
-- id: 130409
-  name: Huyện Quảng Xương
-  state_id: 3771
+- name: Huyện Quảng Xương
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.70252000'
   longitude: '105.79298000'
-  wikiDataId: Q596473
-- id: 130439
-  name: Huyện Thiệu Hóa
-  state_id: 3771
+- name: Huyện Thiệu Hóa
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.89713000'
   longitude: '105.68144000'
-  wikiDataId: Q3031911
-- id: 130451
-  name: Huyện Thọ Xuân
-  state_id: 3771
+- name: Huyện Thọ Xuân
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.93114000'
   longitude: '105.48284000'
-  wikiDataId: Q3711530
-- id: 130445
-  name: Huyện Thường Xuân
-  state_id: 3771
+- name: Huyện Thường Xuân
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.93684000'
   longitude: '105.24109000'
-  wikiDataId: Q3711534
-- id: 130463
-  name: Huyện Triệu Sơn
-  state_id: 3771
+- name: Huyện Triệu Sơn
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.82578000'
   longitude: '105.58293000'
-  wikiDataId: Q1320227
-- id: 130501
-  name: Huyện Vĩnh Lộc
-  state_id: 3771
+- name: Huyện Vĩnh Lộc
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '20.03482000'
   longitude: '105.65755000'
-  wikiDataId: Q7932536
-- id: 130522
-  name: Huyện Yên Định
-  state_id: 3771
+- name: Huyện Yên Định
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.98666000'
   longitude: '105.61482000'
-  wikiDataId: Q1924620
-- id: 130597
-  name: Thanh Hóa
-  state_id: 3771
+- name: Thanh Hóa
   state_code: '21'
   state_name: Thanh Hóa
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '19.80000000'
   longitude: '105.76667000'
-  wikiDataId: Q36175
-- id: 130554
-  name: Huế
-  state_id: 3798
+- name: Huế
   state_code: '26'
   state_name: Thừa Thiên-Huế
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.46190000'
   longitude: '107.59546000'
-  wikiDataId: Q36167
-- id: 130207
-  name: Huyện A Lưới
-  state_id: 3798
+- name: Huyện A Lưới
   state_code: '26'
   state_name: Thừa Thiên-Huế
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.23422000'
   longitude: '107.30650000'
-  wikiDataId: Q724711
-- id: 130379
-  name: Huyện Nam Đông
-  state_id: 3798
+- name: Huyện Nam Đông
   state_code: '26'
   state_name: Thừa Thiên-Huế
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.12396000'
   longitude: '107.69270000'
-  wikiDataId: Q3031601
-- id: 130395
-  name: Huyện Phong Điền
-  state_id: 3798
+- name: Huyện Phong Điền
   state_code: '26'
   state_name: Thừa Thiên-Huế
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.48769000'
   longitude: '107.28889000'
-  wikiDataId: Q724739
-- id: 130399
-  name: Huyện Phú Lộc
-  state_id: 3798
+- name: Huyện Phú Lộc
   state_code: '26'
   state_name: Thừa Thiên-Huế
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.27066000'
   longitude: '107.88545000'
-  wikiDataId: Q724739
-- id: 130402
-  name: Huyện Phú Vang
-  state_id: 3798
+- name: Huyện Phú Vang
   state_code: '26'
   state_name: Thừa Thiên-Huế
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.47007000'
   longitude: '107.71458000'
-  wikiDataId: Q1319796
-- id: 130410
-  name: Huyện Quảng Ðiền
-  state_id: 3798
+- name: Huyện Quảng Ðiền
   state_code: '26'
   state_name: Thừa Thiên-Huế
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '16.57941000'
   longitude: '107.49370000'
-  wikiDataId: Q596473
-- id: 130266
-  name: Huyện Cái Bè
-  state_id: 3781
+- name: Huyện Cái Bè
   state_code: '46'
   state_name: Tiền Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.38824000'
   longitude: '105.94620000'
-  wikiDataId: Q800052
-- id: 130241
-  name: Huyện Cai Lậy
-  state_id: 3781
+- name: Huyện Cai Lậy
   state_code: '46'
   state_name: Tiền Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.38943000'
   longitude: '106.06774000'
-  wikiDataId: Q4838559
-- id: 130252
-  name: Huyện Châu Thành
-  state_id: 3781
+- name: Huyện Châu Thành
   state_code: '46'
   state_name: Tiền Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.38600000'
   longitude: '106.27311000'
-  wikiDataId: Q3710806
-- id: 130260
-  name: Huyện Chợ Gạo
-  state_id: 3781
+- name: Huyện Chợ Gạo
   state_code: '46'
   state_name: Tiền Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.37373000'
   longitude: '106.44341000'
-  wikiDataId: Q1319826
-- id: 130293
-  name: Huyện Gò Công Đông
-  state_id: 3781
+- name: Huyện Gò Công Đông
   state_code: '46'
   state_name: Tiền Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.36784000'
   longitude: '106.74592000'
-  wikiDataId: Q3710927
-- id: 130292
-  name: Huyện Gò Công Tây
-  state_id: 3781
+- name: Huyện Gò Công Tây
   state_code: '46'
   state_name: Tiền Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.34527000'
   longitude: '106.59851000'
-  wikiDataId: Q3710927
-- id: 130486
-  name: Huyện Tân Phước
-  state_id: 3781
+- name: Huyện Tân Phước
   state_code: '46'
   state_name: Tiền Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.51489000'
   longitude: '106.23312000'
-  wikiDataId: Q3711512
-- id: 130574
-  name: Mỹ Tho
-  state_id: 3781
+- name: Mỹ Tho
   state_code: '46'
   state_name: Tiền Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.36004000'
   longitude: '106.35996000'
-  wikiDataId: Q33425
-- id: 130599
-  name: Thành Phố Mỹ Tho
-  state_id: 3781
+- name: Thành Phố Mỹ Tho
   state_code: '46'
   state_name: Tiền Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.36221000'
   longitude: '106.36824000'
-  wikiDataId: Q36175
-- id: 130610
-  name: Thị Xã Gò Công
-  state_id: 3781
+- name: Thị Xã Gò Công
   state_code: '46'
   state_name: Tiền Giang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.40005000'
   longitude: '106.65847000'
-  wikiDataId: Q3031171
-- id: 130265
-  name: Huyện Càng Long
-  state_id: 3805
+- name: Huyện Càng Long
   state_code: '51'
   state_name: Trà Vinh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.95883000'
   longitude: '106.21395000'
-  wikiDataId: Q800052
-- id: 130272
-  name: Huyện Cầu Kè
-  state_id: 3805
+- name: Huyện Cầu Kè
   state_code: '51'
   state_name: Trà Vinh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.86738000'
   longitude: '106.07916000'
-  wikiDataId: Q800052
-- id: 130273
-  name: Huyện Cầu Ngang
-  state_id: 3805
+- name: Huyện Cầu Ngang
   state_code: '51'
   state_name: Trà Vinh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.77186000'
   longitude: '106.43654000'
-  wikiDataId: Q800052
-- id: 130460
-  name: Huyện Tiểu Cần
-  state_id: 3805
+- name: Huyện Tiểu Cần
   state_code: '51'
   state_name: Trà Vinh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.80350000'
   longitude: '106.20594000'
-  wikiDataId: Q3711538
-- id: 130465
-  name: Huyện Trà Cú
-  state_id: 3805
+- name: Huyện Trà Cú
   state_code: '51'
   state_name: Trà Vinh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.69706000'
   longitude: '106.29423000'
-  wikiDataId: Q7831038
-- id: 130617
-  name: Trà Vinh
-  state_id: 3805
+- name: Trà Vinh
   state_code: '51'
   state_name: Trà Vinh
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.94719000'
   longitude: '106.34225000'
-  wikiDataId: Q36136
-- id: 130247
-  name: Huyện Chiêm Hóa
-  state_id: 3795
+- name: Huyện Chiêm Hóa
   state_code: '07'
   state_name: Tuyên Quang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.17895000'
   longitude: '105.27671000'
-  wikiDataId: Q3710815
-- id: 130305
-  name: Huyện Hàm Yên
-  state_id: 3795
+- name: Huyện Hàm Yên
   state_code: '07'
   state_name: Tuyên Quang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.10935000'
   longitude: '105.01630000'
-  wikiDataId: Q3710957
-- id: 130345
-  name: Huyện Lâm Bình
-  state_id: 3795
+- name: Huyện Lâm Bình
   state_code: '07'
   state_name: Tuyên Quang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.46411000'
   longitude: '105.21903000'
-  wikiDataId: Q3711115
-- id: 130373
-  name: Huyện Na Hang
-  state_id: 3795
+- name: Huyện Na Hang
   state_code: '07'
   state_name: Tuyên Quang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.47522000'
   longitude: '105.48380000'
-  wikiDataId: Q3711220
-- id: 130423
-  name: Huyện Sơn Dương
-  state_id: 3795
+- name: Huyện Sơn Dương
   state_code: '07'
   state_name: Tuyên Quang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.63623000'
   longitude: '105.38901000'
-  wikiDataId: Q3711485
-- id: 130519
-  name: Huyện Yên Sơn
-  state_id: 3795
+- name: Huyện Yên Sơn
   state_code: '07'
   state_name: Tuyên Quang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.88363000'
   longitude: '105.27656000'
-  wikiDataId: Q3711616
-- id: 130619
-  name: Tuyên Quang
-  state_id: 3795
+- name: Tuyên Quang
   state_code: '07'
   state_name: Tuyên Quang
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.82356000'
   longitude: '105.21424000'
-  wikiDataId: Q33389
-- id: 130342
-  name: Huyện Long Hồ
-  state_id: 3790
+- name: Huyện Long Hồ
   state_code: '49'
   state_name: Vĩnh Long
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.21640000'
   longitude: '105.98483000'
-  wikiDataId: Q3711115
-- id: 130357
-  name: Huyện Mang Thít
-  state_id: 3790
+- name: Huyện Mang Thít
   state_code: '49'
   state_name: Vĩnh Long
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.18731000'
   longitude: '106.07472000'
-  wikiDataId: Q2226906
-- id: 130428
-  name: Huyện Tam Bình
-  state_id: 3790
+- name: Huyện Tam Bình
   state_code: '49'
   state_name: Vĩnh Long
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.08127000'
   longitude: '105.95352000'
-  wikiDataId: Q3711485
-- id: 130468
-  name: Huyện Trà Ôn
-  state_id: 3790
+- name: Huyện Trà Ôn
   state_code: '49'
   state_name: Vĩnh Long
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '9.97522000'
   longitude: '106.00957000'
-  wikiDataId: Q7831038
-- id: 130505
-  name: Huyện Vũng Liêm
-  state_id: 3790
+- name: Huyện Vũng Liêm
   state_code: '49'
   state_name: Vĩnh Long
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.08717000'
   longitude: '106.16038000'
-  wikiDataId: Q7932536
-- id: 130624
-  name: Vĩnh Long
-  state_id: 3790
+- name: Vĩnh Long
   state_code: '49'
   state_name: Vĩnh Long
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '10.25369000'
   longitude: '105.97220000'
-  wikiDataId: Q34789
-- id: 130225
-  name: Huyện Bình Xuyên
-  state_id: 3774
+- name: Huyện Bình Xuyên
   state_code: '70'
   state_name: Vĩnh Phúc
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.30561000'
   longitude: '105.66225000'
-  wikiDataId: Q800057
-- id: 130429
-  name: Huyện Tam Dương
-  state_id: 3774
+- name: Huyện Tam Dương
   state_code: '70'
   state_name: Vĩnh Phúc
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.36189000'
   longitude: '105.55690000'
-  wikiDataId: Q3711485
-- id: 130432
-  name: Huyện Tam Đảo
-  state_id: 3774
+- name: Huyện Tam Đảo
   state_code: '70'
   state_name: Vĩnh Phúc
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.45690000'
   longitude: '105.59460000'
-  wikiDataId: Q3711485
-- id: 130514
-  name: Huyện Yên Lạc
-  state_id: 3774
+- name: Huyện Yên Lạc
   state_code: '70'
   state_name: Vĩnh Phúc
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.21845000'
   longitude: '105.57586000'
-  wikiDataId: Q8052181
-- id: 130625
-  name: Vĩnh Yên
-  state_id: 3774
+- name: Vĩnh Yên
   state_code: '70'
   state_name: Vĩnh Phúc
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.30891000'
   longitude: '105.60489000'
-  wikiDataId: Q36088
-- id: 130355
-  name: Huyện Lục Yên
-  state_id: 3784
+- name: Huyện Lục Yên
   state_code: '06'
   state_name: Yên Bái
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '22.10235000'
   longitude: '104.72538000'
-  wikiDataId: Q2226906
-- id: 130360
-  name: Huyện Mù Cang Chải
-  state_id: 3784
+- name: Huyện Mù Cang Chải
   state_code: '06'
   state_name: Yên Bái
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.78815000'
   longitude: '104.11998000'
-  wikiDataId: Q10796264
-- id: 130470
-  name: Huyện Trạm Tấu
-  state_id: 3784
+- name: Huyện Trạm Tấu
   state_code: '06'
   state_name: Yên Bái
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.48553000'
   longitude: '104.42756000'
-  wikiDataId: Q7831038
-- id: 130473
-  name: Huyện Trấn Yên
-  state_id: 3784
+- name: Huyện Trấn Yên
   state_code: '06'
   state_name: Yên Bái
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.66586000'
   longitude: '104.79702000'
-  wikiDataId: Q286486
-- id: 130496
-  name: Huyện Văn Chấn
-  state_id: 3784
+- name: Huyện Văn Chấn
   state_code: '06'
   state_name: Yên Bái
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.55722000'
   longitude: '104.64038000'
-  wikiDataId: Q7484836
-- id: 130497
-  name: Huyện Văn Yên
-  state_id: 3784
+- name: Huyện Văn Yên
   state_code: '06'
   state_name: Yên Bái
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.90022000'
   longitude: '104.56669000'
-  wikiDataId: Q7484836
-- id: 130628
-  name: Yên Bái
-  state_id: 3784
+- name: Yên Bái
   state_code: '06'
   state_name: Yên Bái
-  country_id: 240
-  country_code: VN
-  country_name: Vietnam
   latitude: '21.72288000'
   longitude: '104.91130000'
-  wikiDataId: Q26019

@@ -1,738 +1,336 @@
 ---
-- id: 153645
-  name: Ambriz
-  state_id: 221
+- name: Ambriz
   state_code: BGO
   state_name: Bengo
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-7.85740000"
   longitude: '13.12510000'
-  wikiDataId: Q3833
-- id: 153646
-  name: Bula Atumba
-  state_id: 221
+- name: Bula Atumba
   state_code: BGO
   state_name: Bengo
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-7.31170000"
   longitude: '14.31470000'
-  wikiDataId: Q3834
-- id: 598
-  name: Caxito
-  state_id: 221
+- name: Caxito
   state_code: BGO
   state_name: Bengo
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-8.57848000"
   longitude: '13.66425000'
-  wikiDataId: Q956745
-- id: 153647
-  name: Dande
-  state_id: 221
+- name: Dande
   state_code: BGO
   state_name: Bengo
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-8.11330000"
   longitude: '13.76520000'
-  wikiDataId: Q3835
-- id: 153648
-  name: Muxima
-  state_id: 221
+- name: Muxima
   state_code: BGO
   state_name: Bengo
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-9.58790000"
   longitude: '13.52510000'
-  wikiDataId: Q3836
-- id: 153649
-  name: Nambuangongo
-  state_id: 221
+- name: Nambuangongo
   state_code: BGO
   state_name: Bengo
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-8.56560000"
   longitude: '13.65720000'
-  wikiDataId: Q3837
-- id: 153650
-  name: Pango Aluquém
-  state_id: 221
+- name: Pango Aluquém
   state_code: BGO
   state_name: Bengo
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-8.55440000"
   longitude: '13.58150000'
-  wikiDataId: Q3838
-- id: 153651
-  name: Úcua
-  state_id: 221
+- name: Úcua
   state_code: BGO
   state_name: Bengo
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-8.67240000"
   longitude: '13.68290000'
-  wikiDataId: Q3839
-- id: 153653
-  name: Baía Farta
-  state_id: 218
+- name: Baía Farta
   state_code: BGU
   state_name: Benguela
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.57660000"
   longitude: '13.47760000'
-  wikiDataId: Q3831
-- id: 153654
-  name: Balombo
-  state_id: 218
+- name: Balombo
   state_code: BGU
   state_name: Benguela
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.90460000"
   longitude: '13.59590000'
-  wikiDataId: Q3833
-- id: 590
-  name: Benguela
-  state_id: 218
+- name: Benguela
   state_code: BGU
   state_name: Benguela
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.57626000"
   longitude: '13.40547000'
-  wikiDataId: Q214248
-- id: 153656
-  name: Bocoio
-  state_id: 218
+- name: Bocoio
   state_code: BGU
   state_name: Benguela
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.53030000"
   longitude: '13.40420000'
-  wikiDataId: Q3835
-- id: 153659
-  name: Caimbambo
-  state_id: 218
+- name: Caimbambo
   state_code: BGU
   state_name: Benguela
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.61330000"
   longitude: '14.41940000'
-  wikiDataId: Q3839
-- id: 597
-  name: Catumbela
-  state_id: 218
+- name: Catumbela
   state_code: BGU
   state_name: Benguela
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.43002000"
   longitude: '13.54677000'
-  wikiDataId: Q1051360
-- id: 153655
-  name: Chongoroi
-  state_id: 218
+- name: Chongoroi
   state_code: BGU
   state_name: Benguela
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.78880000"
   longitude: '13.79750000'
-  wikiDataId: Q3834
-- id: 153658
-  name: Cubal
-  state_id: 218
+- name: Cubal
   state_code: BGU
   state_name: Benguela
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.58850000"
   longitude: '14.42670000'
-  wikiDataId: Q3838
-- id: 153657
-  name: Ganda
-  state_id: 218
+- name: Ganda
   state_code: BGU
   state_name: Benguela
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.68250000"
   longitude: '14.42330000'
-  wikiDataId: Q3836
-- id: 613
-  name: Lobito
-  state_id: 218
+- name: Lobito
   state_code: BGU
   state_name: Benguela
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.36440000"
   longitude: '13.53601000'
-  wikiDataId: Q223914
-- id: 153660
-  name: Sumbe
-  state_id: 218
+- name: Sumbe
   state_code: BGU
   state_name: Benguela
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-11.20610000"
   longitude: '13.84480000'
-  wikiDataId: Q3840
-- id: 595
-  name: Camacupa
-  state_id: 212
+- name: Camacupa
   state_code: BIE
   state_name: Bié
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.01667000"
   longitude: '17.48333000'
-  wikiDataId: Q1027956
-- id: 596
-  name: Catabola
-  state_id: 212
+- name: Catabola
   state_code: BIE
   state_name: Bié
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.15000000"
   longitude: '17.28333000'
-  wikiDataId: Q2341822
-- id: 605
-  name: Chissamba
-  state_id: 212
+- name: Chissamba
   state_code: BIE
   state_name: Bié
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.16667000"
   longitude: '17.33333000'
-  wikiDataId: Q2944808
-- id: 606
-  name: Cuito
-  state_id: 212
+- name: Cuito
   state_code: BIE
   state_name: Bié
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.38333000"
   longitude: '16.93333000'
-  wikiDataId: Q843980
-- id: 591
-  name: Cabinda
-  state_id: 228
+- name: Cabinda
   state_code: CAB
   state_name: Cabinda
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-5.55000000"
   longitude: '12.20000000'
-  wikiDataId: Q459360
-- id: 625
-  name: Menongue
-  state_id: 226
+- name: Menongue
   state_code: CCU
   state_name: Cuando Cubango
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-14.65850000"
   longitude: '17.69099000'
-  wikiDataId: Q818731
-- id: 629
-  name: Quibala
-  state_id: 216
+- name: Quibala
   state_code: CUS
   state_name: Cuanza
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-10.73366000"
   longitude: '14.97995000'
-  wikiDataId: Q602772
-- id: 634
-  name: Sumbe
-  state_id: 216
+- name: Sumbe
   state_code: CUS
   state_name: Cuanza
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-11.20605000"
   longitude: '13.84371000'
-  wikiDataId: Q780534
-- id: 635
-  name: Uacu Cungo
-  state_id: 216
+- name: Uacu Cungo
   state_code: CUS
   state_name: Cuanza
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-11.35669000"
   longitude: '15.11719000'
-  wikiDataId: Q2944819
-- id: 594
-  name: Camabatela
-  state_id: 217
+- name: Camabatela
   state_code: CNO
   state_name: Cuanza Norte
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-8.18812000"
   longitude: '15.37495000'
-  wikiDataId: Q1619833
-- id: 627
-  name: N’dalatando
-  state_id: 217
+- name: N’dalatando
   state_code: CNO
   state_name: Cuanza Norte
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-9.29782000"
   longitude: '14.91162000'
-  wikiDataId: Q985803
-- id: 628
-  name: Ondjiva
-  state_id: 215
+- name: Ondjiva
   state_code: CNN
   state_name: Cunene
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-17.06667000"
   longitude: '15.73333000'
-  wikiDataId: Q635045
-- id: 600
-  name: Caála
-  state_id: 213
+- name: Caála
   state_code: HUA
   state_name: Huambo
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.85250000"
   longitude: '15.56056000'
-  wikiDataId: Q1052090
-- id: 601
-  name: Chela
-  state_id: 213
+- name: Chela
   state_code: HUA
   state_name: Huambo
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.30261000"
   longitude: '15.43358000'
-  wikiDataId: Q1052090
-- id: 609
-  name: Huambo
-  state_id: 213
+- name: Huambo
   state_code: HUA
   state_name: Huambo
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.77611000"
   longitude: '15.73917000'
-  wikiDataId: Q207322
-- id: 614
-  name: Longonjo
-  state_id: 213
+- name: Longonjo
   state_code: HUA
   state_name: Huambo
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-12.90667000"
   longitude: '15.25333000'
-  wikiDataId: Q2342492
-- id: 592
-  name: Caconda
-  state_id: 225
+- name: Caconda
   state_code: HUI
   state_name: Huíla
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-13.73333000"
   longitude: '15.06667000'
-  wikiDataId: Q459360
-- id: 593
-  name: Caluquembe
-  state_id: 225
+- name: Caluquembe
   state_code: HUI
   state_name: Huíla
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-13.92093000"
   longitude: '14.53476000'
-  wikiDataId: Q459360
-- id: 602
-  name: Chibia
-  state_id: 225
+- name: Chibia
   state_code: HUI
   state_name: Huíla
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-15.23657000"
   longitude: '13.88468000'
-  wikiDataId: Q1052090
-- id: 603
-  name: Chicomba
-  state_id: 225
+- name: Chicomba
   state_code: HUI
   state_name: Huíla
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-14.30788000"
   longitude: '14.98672000'
-  wikiDataId: Q1052090
-- id: 604
-  name: Chipindo
-  state_id: 225
+- name: Chipindo
   state_code: HUI
   state_name: Huíla
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-13.86830000"
   longitude: '15.73277000'
-  wikiDataId: Q1052090
-- id: 607
-  name: Cuvango
-  state_id: 225
+- name: Cuvango
   state_code: HUI
   state_name: Huíla
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-14.27693000"
   longitude: '16.31475000'
-  wikiDataId: Q843980
-- id: 608
-  name: Gambos
-  state_id: 225
+- name: Gambos
   state_code: HUI
   state_name: Huíla
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-15.80926000"
   longitude: '14.07661000'
-  wikiDataId: Q843980
-- id: 610
-  name: Humpata
-  state_id: 225
+- name: Humpata
   state_code: HUI
   state_name: Huíla
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-15.07250000"
   longitude: '13.36771000'
-  wikiDataId: Q207322
-- id: 612
-  name: Jamba
-  state_id: 225
+- name: Jamba
   state_code: HUI
   state_name: Huíla
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-14.76294000"
   longitude: '15.83493000'
-  wikiDataId: Q291729
-- id: 617
-  name: Lubango
-  state_id: 225
+- name: Lubango
   state_code: HUI
   state_name: Huíla
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-14.91717000"
   longitude: '13.49250000'
-  wikiDataId: Q122044
-- id: 623
-  name: Matala
-  state_id: 225
+- name: Matala
   state_code: HUI
   state_name: Huíla
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-15.23967000"
   longitude: '15.17246000'
-  wikiDataId: Q621001
-- id: 630
-  name: Quilengues
-  state_id: 225
+- name: Quilengues
   state_code: HUI
   state_name: Huíla
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-13.99213000"
   longitude: '13.76705000'
-  wikiDataId: Q602772
-- id: 631
-  name: Quipungo
-  state_id: 225
+- name: Quipungo
   state_code: HUI
   state_name: Huíla
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-15.12203000"
   longitude: '14.55953000'
-  wikiDataId: Q602772
-- id: 589
-  name: Belas
-  state_id: 222
+- name: Belas
   state_code: LUA
   state_name: Luanda
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-9.06875000"
   longitude: '13.16072000'
-  wikiDataId: Q727233
-- id: 153641
-  name: Cacuaco
-  state_id: 222
+- name: Cacuaco
   state_code: LUA
   state_name: Luanda
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-8.82960000"
   longitude: '13.29730000'
-  wikiDataId: Q3829
-- id: 153642
-  name: Cazenga
-  state_id: 222
+- name: Cazenga
   state_code: LUA
   state_name: Luanda
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-8.82860000"
   longitude: '13.26650000'
-  wikiDataId: Q3830
-- id: 611
-  name: Icolo e Bengo
-  state_id: 222
+- name: Icolo e Bengo
   state_code: LUA
   state_name: Luanda
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-9.24191000"
   longitude: '13.73549000'
-  wikiDataId: Q291729
-- id: 615
-  name: Luanda
-  state_id: 222
+- name: Luanda
   state_code: LUA
   state_name: Luanda
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-8.83682000"
   longitude: '13.23432000'
-  wikiDataId: Q3897
-- id: 153643
-  name: Talatona
-  state_id: 222
+- name: Talatona
   state_code: LUA
   state_name: Luanda
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-8.89570000"
   longitude: '13.19430000'
-  wikiDataId: Q3831
-- id: 153644
-  name: Viana
-  state_id: 222
+- name: Viana
   state_code: LUA
   state_name: Luanda
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-8.90210000"
   longitude: '13.28610000'
-  wikiDataId: Q3832
-- id: 618
-  name: Lucapa
-  state_id: 223
+- name: Lucapa
   state_code: LNO
   state_name: Lunda Norte
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-8.68337000"
   longitude: '20.27045000'
-  wikiDataId: Q620866
-- id: 599
-  name: Cazaji
-  state_id: 220
+- name: Cazaji
   state_code: LSU
   state_name: Lunda Sul
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-11.06715000"
   longitude: '20.70148000'
-  wikiDataId: Q956745
-- id: 632
-  name: Saurimo
-  state_id: 220
+- name: Saurimo
   state_code: LSU
   state_name: Lunda Sul
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-9.66078000"
   longitude: '20.39155000'
-  wikiDataId: Q635017
-- id: 622
-  name: Malanje
-  state_id: 227
+- name: Malanje
   state_code: MAL
   state_name: Malanje
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-9.54015000"
   longitude: '16.34096000'
-  wikiDataId: Q621001
-- id: 621
-  name: Léua
-  state_id: 219
+- name: Léua
   state_code: MOX
   state_name: Moxico
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-11.65000000"
   longitude: '20.45000000'
-  wikiDataId: Q618643
-- id: 616
-  name: Luau
-  state_id: 219
+- name: Luau
   state_code: MOX
   state_name: Moxico
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-10.70727000"
   longitude: '22.22466000'
-  wikiDataId: Q1872804
-- id: 619
-  name: Luena
-  state_id: 219
+- name: Luena
   state_code: MOX
   state_name: Moxico
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-11.78333000"
   longitude: '19.91667000'
-  wikiDataId: Q618643
-- id: 620
-  name: Lumeje
-  state_id: 219
+- name: Lumeje
   state_code: MOX
   state_name: Moxico
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-11.55000000"
   longitude: '20.78333000'
-  wikiDataId: Q618643
-- id: 636
-  name: Uíge
-  state_id: 224
+- name: Uíge
   state_code: UIG
   state_name: Uíge
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-7.60874000"
   longitude: '15.06131000'
-  wikiDataId: Q911191
-- id: 624
-  name: Mbanza Congo
-  state_id: 214
+- name: Mbanza Congo
   state_code: ZAI
   state_name: Zaire
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-6.26703000"
   longitude: '14.24010000'
-  wikiDataId: Q500189
-- id: 626
-  name: N'zeto
-  state_id: 214
+- name: N'zeto
   state_code: ZAI
   state_name: Zaire
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-7.23116000"
   longitude: '12.86660000'
-  wikiDataId: Q2351452
-- id: 633
-  name: Soio
-  state_id: 214
+- name: Soio
   state_code: ZAI
   state_name: Zaire
-  country_id: 7
-  country_code: AO
-  country_name: Angola
   latitude: "-6.13490000"
   longitude: '12.36894000'
-  wikiDataId: Q1015108

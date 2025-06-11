@@ -1,122 +1,56 @@
 ---
-- id: 66437
-  name: Balzers
-  state_id: 458
+- name: Balzers
   state_code: '01'
   state_name: Balzers
-  country_id: 125
-  country_code: LI
-  country_name: Liechtenstein
   latitude: '47.06665000'
   longitude: '9.50251000'
-  wikiDataId: Q3494579
-- id: 66438
-  name: Eschen
-  state_id: 451
+- name: Eschen
   state_code: '02'
   state_name: Eschen
-  country_id: 125
-  country_code: LI
-  country_name: Liechtenstein
   latitude: '47.21071000'
   longitude: '9.52223000'
-  wikiDataId: Q3494579
-- id: 66439
-  name: Gamprin
-  state_id: 457
+- name: Gamprin
   state_code: '03'
   state_name: Gamprin
-  country_id: 125
-  country_code: LI
-  country_name: Liechtenstein
   latitude: '47.22038000'
   longitude: '9.50935000'
-  wikiDataId: Q3494579
-- id: 66440
-  name: Mauren
-  state_id: 455
+- name: Mauren
   state_code: '04'
   state_name: Mauren
-  country_id: 125
-  country_code: LI
-  country_name: Liechtenstein
   latitude: '47.21805000'
   longitude: '9.54420000'
-  wikiDataId: Q49661
-- id: 66441
-  name: Planken
-  state_id: 454
+- name: Planken
   state_code: '05'
   state_name: Planken
-  country_id: 125
-  country_code: LI
-  country_name: Liechtenstein
   latitude: '47.18516000'
   longitude: '9.54437000'
-  wikiDataId: Q49660
-- id: 66442
-  name: Ruggell
-  state_id: 453
+- name: Ruggell
   state_code: '06'
   state_name: Ruggell
-  country_id: 125
-  country_code: LI
-  country_name: Liechtenstein
   latitude: '47.23799000'
   longitude: '9.52540000'
-  wikiDataId: Q49660
-- id: 66443
-  name: Schaan
-  state_id: 450
+- name: Schaan
   state_code: '07'
   state_name: Schaan
-  country_id: 125
-  country_code: LI
-  country_name: Liechtenstein
   latitude: '47.16498000'
   longitude: '9.50867000'
-  wikiDataId: Q49660
-- id: 66444
-  name: Schellenberg
-  state_id: 449
+- name: Schellenberg
   state_code: '08'
   state_name: Schellenberg
-  country_id: 125
-  country_code: LI
-  country_name: Liechtenstein
   latitude: '47.23123000'
   longitude: '9.54678000'
-  wikiDataId: Q49655
-- id: 66445
-  name: Triesen
-  state_id: 459
+- name: Triesen
   state_code: '09'
   state_name: Triesen
-  country_id: 125
-  country_code: LI
-  country_name: Liechtenstein
   latitude: '47.10752000'
   longitude: '9.52815000'
-  wikiDataId: Q49655
-- id: 66446
-  name: Triesenberg
-  state_id: 456
+- name: Triesenberg
   state_code: '10'
   state_name: Triesenberg
-  country_id: 125
-  country_code: LI
-  country_name: Liechtenstein
   latitude: '47.11815000'
   longitude: '9.54197000'
-  wikiDataId: Q49655
-- id: 66447
-  name: Vaduz
-  state_id: 452
+- name: Vaduz
   state_code: '11'
   state_name: Vaduz
-  country_id: 125
-  country_code: LI
-  country_name: Liechtenstein
   latitude: '47.14151000'
   longitude: '9.52154000'
-  wikiDataId: Q1844

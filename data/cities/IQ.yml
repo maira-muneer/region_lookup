@@ -1,1486 +1,676 @@
 ---
-- id: 134552
-  name: "‘Anah"
-  state_id: 3964
+- name: "‘Anah"
   state_code: AN
   state_name: Al Anbar
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '34.36857000'
   longitude: '41.98194000'
-  wikiDataId: Q2627750
-- id: 134553
-  name: "‘Anat al Qadīmah"
-  state_id: 3964
+- name: "‘Anat al Qadīmah"
   state_code: AN
   state_name: Al Anbar
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '34.46934000'
   longitude: '41.94223000'
-  wikiDataId: Q2627750
-- id: 134478
-  name: Al Fallūjah
-  state_id: 3964
+- name: Al Fallūjah
   state_code: AN
   state_name: Al Anbar
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.34913000'
   longitude: '43.78599000'
-  wikiDataId: Q191170
-- id: 134495
-  name: Ar Ruţbah
-  state_id: 3964
+- name: Ar Ruţbah
   state_code: AN
   state_name: Al Anbar
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.03718000'
   longitude: '40.28586000'
-  wikiDataId: Q4532299
-- id: 134548
-  name: Ḩadīthah
-  state_id: 3964
+- name: Ḩadīthah
   state_code: AN
   state_name: Al Anbar
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '34.13661000'
   longitude: '42.37727000'
-  wikiDataId: Q944368
-- id: 134514
-  name: Hīt
-  state_id: 3964
+- name: Hīt
   state_code: AN
   state_name: Al Anbar
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.63664000'
   longitude: '42.82768000'
-  wikiDataId: Q2422345
-- id: 134515
-  name: Hīt District
-  state_id: 3964
+- name: Hīt District
   state_code: AN
   state_name: Al Anbar
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.73482000'
   longitude: '42.68228000'
-  wikiDataId: Q4119531
-- id: 134533
-  name: Ramadi
-  state_id: 3964
+- name: Ramadi
   state_code: AN
   state_name: Al Anbar
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.42056000'
   longitude: '43.30778000'
-  wikiDataId: Q192961
-- id: 134535
-  name: Rāwah
-  state_id: 3964
+- name: Rāwah
   state_code: AN
   state_name: Al Anbar
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '34.48229000'
   longitude: '41.91898000'
-  wikiDataId: Q2354244
-- id: 134494
-  name: Ar Rumaythah
-  state_id: 3958
+- name: Ar Rumaythah
   state_code: MU
   state_name: Al Muthanna
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '31.52845000'
   longitude: '45.20377000'
-  wikiDataId: Q4532299
-- id: 134497
-  name: As Samawah
-  state_id: 3958
+- name: As Samawah
   state_code: MU
   state_name: Al Muthanna
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '31.33198000'
   longitude: '45.29440000'
-  wikiDataId: Q750679
-- id: 134550
-  name: "‘Afak"
-  state_id: 3956
+- name: "‘Afak"
   state_code: QA
   state_name: Al-Qādisiyyah
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.06430000'
   longitude: '45.24743000'
-  wikiDataId: Q1029650
-- id: 134476
-  name: Ad Dīwānīyah
-  state_id: 3956
+- name: Ad Dīwānīyah
   state_code: QA
   state_name: Al-Qādisiyyah
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '31.99289000'
   longitude: '44.92552000'
-  wikiDataId: Q694939
-- id: 134501
-  name: Ash Shāmīyah
-  state_id: 3956
+- name: Ash Shāmīyah
   state_code: QA
   state_name: Al-Qādisiyyah
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '31.96257000'
   longitude: '44.60075000'
-  wikiDataId: Q2669841
-- id: 134530
-  name: Nāḩiyat ash Shināfīyah
-  state_id: 3956
+- name: Nāḩiyat ash Shināfīyah
   state_code: QA
   state_name: Al-Qādisiyyah
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '31.58376000'
   longitude: '44.64675000'
-  wikiDataId: Q38811
-- id: 134526
-  name: Nahiyat Ghammas
-  state_id: 3956
+- name: Nahiyat Ghammas
   state_code: QA
   state_name: Al-Qādisiyyah
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '31.74311000'
   longitude: '44.61960000'
-  wikiDataId: Q4133105
-- id: 134488
-  name: Al Ḩillah
-  state_id: 3955
+- name: Al Ḩillah
   state_code: BB
   state_name: Babylon
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.46367000'
   longitude: '44.41963000'
-  wikiDataId: Q243846
-- id: 134486
-  name: Al Musayyib
-  state_id: 3955
+- name: Al Musayyib
   state_code: BB
   state_name: Babylon
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.77872000'
   longitude: '44.29005000'
-  wikiDataId: Q4120374
-- id: 134516
-  name: Imam Qasim
-  state_id: 3955
+- name: Imam Qasim
   state_code: BB
   state_name: Babylon
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.29799000'
   longitude: '44.68282000'
-  wikiDataId: Q4119531
-- id: 134531
-  name: Nāḩīyat Saddat al Hindīyah
-  state_id: 3955
+- name: Nāḩīyat Saddat al Hindīyah
   state_code: BB
   state_name: Babylon
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.71557000'
   longitude: '44.27857000'
-  wikiDataId: Q4404528
-- id: 134473
-  name: Abu Ghraib District
-  state_id: 3959
+- name: Abu Ghraib District
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.29194000'
   longitude: '44.06919000'
-  wikiDataId: Q1637459
-- id: 134474
-  name: Abū Ghurayb
-  state_id: 3959
+- name: Abū Ghurayb
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.30563000'
   longitude: '44.18477000'
-  wikiDataId: Q335021
-- id: 153202
-  name: Adamiyah
-  state_id: 3959
+- name: Adamiyah
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.36917800'
   longitude: '44.33955940'
-  wikiDataId:
-- id: 153203
-  name: Al Adel
-  state_id: 3959
+- name: Al Adel
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.35912830'
   longitude: '44.28138680'
-  wikiDataId:
-- id: 153204
-  name: Al Baladiyat
-  state_id: 3959
+- name: Al Baladiyat
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.34931610'
   longitude: '44.41071530'
-  wikiDataId:
-- id: 153205
-  name: Al Jamaa
-  state_id: 3959
+- name: Al Jamaa
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.34114470'
   longitude: '44.34062690'
-  wikiDataId:
-- id: 153206
-  name: Al Saadoon Park
-  state_id: 3959
+- name: Al Saadoon Park
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.32480360'
   longitude: '44.41470980'
-  wikiDataId:
-- id: 153207
-  name: Al Salhiah
-  state_id: 3959
+- name: Al Salhiah
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.32254010'
   longitude: '44.38425050'
-  wikiDataId:
-- id: 153208
-  name: Al Za'franiya
-  state_id: 3959
+- name: Al Za'franiya
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.31857750'
   longitude: '44.48686390'
-  wikiDataId:
-- id: 153209
-  name: Al-Ubaidi
-  state_id: 3959
+- name: Al-Ubaidi
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.32036030'
   longitude: '44.45955910'
-  wikiDataId:
-- id: 153210
-  name: Al-Wahda
-  state_id: 3959
+- name: Al-Wahda
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.31115820'
   longitude: '44.43352280'
-  wikiDataId: Q286301
-- id: 153211
-  name: Ameria
-  state_id: 3959
+- name: Ameria
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.29671020'
   longitude: '44.27076790'
-  wikiDataId: Q463033
-- id: 153212
-  name: Amil District
-  state_id: 3959
+- name: Amil District
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.27606090'
   longitude: '44.31037170'
-  wikiDataId:
-- id: 153213
-  name: Amin
-  state_id: 3959
+- name: Amin
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.31248740'
   longitude: '44.48634150'
-  wikiDataId: Q2843347
-- id: 153214
-  name: Arasat AlHindiya
-  state_id: 3959
+- name: Arasat AlHindiya
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.29335790'
   longitude: '44.42302450'
-  wikiDataId:
-- id: 153215
-  name: At Taifiya
-  state_id: 3959
+- name: At Taifiya
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.35643940'
   longitude: '44.35791100'
-  wikiDataId:
-- id: 153216
-  name: Bab Al Moatham
-  state_id: 3959
+- name: Bab Al Moatham
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.36014170'
   longitude: '44.36507700'
-  wikiDataId:
-- id: 153217
-  name: Bab Al Sharqi
-  state_id: 3959
+- name: Bab Al Sharqi
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.33249060'
   longitude: '44.41407910'
-  wikiDataId:
-- id: 134504
-  name: Baghdad
-  state_id: 3959
+- name: Baghdad
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.34058000'
   longitude: '44.40088000'
-  wikiDataId: Q1530
-- id: 153218
-  name: Baghdad Al Jadeeda
-  state_id: 3959
+- name: Baghdad Al Jadeeda
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.31335440'
   longitude: '44.47157920'
-  wikiDataId:
-- id: 153219
-  name: Baijai
-  state_id: 3959
+- name: Baijai
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.33254000'
   longitude: '44.34509550'
-  wikiDataId:
-- id: 153220
-  name: Bataween
-  state_id: 3959
+- name: Bataween
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.32112350'
   longitude: '44.40855680'
-  wikiDataId: Q130467025
-- id: 153221
-  name: Bayaa
-  state_id: 3959
+- name: Bayaa
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.28255440'
   longitude: '44.37528030'
-  wikiDataId: Q804061
-- id: 153222
-  name: Binouk
-  state_id: 3959
+- name: Binouk
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.39278120'
   longitude: '44.41114480'
-  wikiDataId:
-- id: 153223
-  name: Bo'aitha
-  state_id: 3959
+- name: Bo'aitha
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.24194630'
   longitude: '44.42695090'
-  wikiDataId:
-- id: 153224
-  name: Camp Sarah
-  state_id: 3959
+- name: Camp Sarah
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.30112930'
   longitude: '44.44469600'
-  wikiDataId:
-- id: 153225
-  name: Daoudi
-  state_id: 3959
+- name: Daoudi
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.31214030'
   longitude: '44.32584820'
-  wikiDataId: Q37105575
-- id: 153226
-  name: Dora
-  state_id: 3959
+- name: Dora
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.23126860'
   longitude: '44.36198120'
-  wikiDataId: Q226695
-- id: 153227
-  name: Ghadeer
-  state_id: 3959
+- name: Ghadeer
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.33749740'
   longitude: '44.46281840'
-  wikiDataId: Q5555176
-- id: 153228
-  name: Ghazaliya
-  state_id: 3959
+- name: Ghazaliya
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.34143530'
   longitude: '44.22354420'
-  wikiDataId: Q12190726
-- id: 153229
-  name: Gherai'at
-  state_id: 3959
+- name: Gherai'at
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.39208370'
   longitude: '44.30443140'
-  wikiDataId:
-- id: 153230
-  name: Green Zone
-  state_id: 3959
+- name: Green Zone
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.31376100'
   longitude: '44.35900560'
-  wikiDataId: Q1312431
-- id: 153231
-  name: Habibiya
-  state_id: 3959
+- name: Habibiya
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.33920270'
   longitude: '44.46846120'
-  wikiDataId:
-- id: 153232
-  name: Harthiya
-  state_id: 3959
+- name: Harthiya
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.22626120'
   longitude: '44.39826750'
-  wikiDataId:
-- id: 153233
-  name: Hurriya
-  state_id: 3959
+- name: Hurriya
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.34241870'
   longitude: '44.30656300'
-  wikiDataId: Q5948441
-- id: 153234
-  name: Iskan
-  state_id: 3959
+- name: Iskan
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.33405930'
   longitude: '44.32303100'
-  wikiDataId: Q6081260
-- id: 153235
-  name: Jadriyah
-  state_id: 3959
+- name: Jadriyah
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.26076360'
   longitude: '44.41117200'
-  wikiDataId:
-- id: 153236
-  name: Jamila
-  state_id: 3959
+- name: Jamila
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.35108840'
   longitude: '44.41495600'
-  wikiDataId: Q11927163
-- id: 153237
-  name: Jihad
-  state_id: 3959
+- name: Jihad
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.25289200'
   longitude: '44.29231180'
-  wikiDataId: Q44311
-- id: 153238
-  name: Kadhimiya
-  state_id: 3959
+- name: Kadhimiya
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.38129610'
   longitude: '44.35139180'
-  wikiDataId: Q311315
-- id: 153239
-  name: Kamaliyah
-  state_id: 3959
+- name: Kamaliyah
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.35008480'
   longitude: '44.50894110'
-  wikiDataId:
-- id: 153240
-  name: Karada
-  state_id: 3959
+- name: Karada
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.29336610'
   longitude: '44.39641530'
-  wikiDataId: Q6367812
-- id: 153241
-  name: Khadra
-  state_id: 3959
+- name: Khadra
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.31972470'
   longitude: '44.28764700'
-  wikiDataId: Q3195934
-- id: 153242
-  name: Mansour
-  state_id: 3959
+- name: Mansour
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.31422960'
   longitude: '44.33631230'
-  wikiDataId: Q48978401
-- id: 153243
-  name: Mashtal
-  state_id: 3959
+- name: Mashtal
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.32443210'
   longitude: '44.49314830'
-  wikiDataId:
-- id: 153244
-  name: Mustansiriya
-  state_id: 3959
+- name: Mustansiriya
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.36298920'
   longitude: '44.38695430'
-  wikiDataId:
-- id: 153245
-  name: Qadisiyah
-  state_id: 3959
+- name: Qadisiyah
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.32719630'
   longitude: '44.31623840'
-  wikiDataId: Q285674
-- id: 153246
-  name: Sadr City
-  state_id: 3959
+- name: Sadr City
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.37692330'
   longitude: '44.40446380'
-  wikiDataId: Q1017715
-- id: 153247
-  name: Saidiya
-  state_id: 3959
+- name: Saidiya
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.26500930'
   longitude: '44.33159340'
-  wikiDataId:
-- id: 153248
-  name: Sha'ab
-  state_id: 3959
+- name: Sha'ab
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.41309100'
   longitude: '44.38611030'
-  wikiDataId: Q721811
-- id: 153249
-  name: Sheik Maaruf
-  state_id: 3959
+- name: Sheik Maaruf
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.33896010'
   longitude: '44.34789580'
-  wikiDataId:
-- id: 153250
-  name: Shorjah
-  state_id: 3959
+- name: Shorjah
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.34613940'
   longitude: '44.39504420'
-  wikiDataId:
-- id: 153251
-  name: Suleikh
-  state_id: 3959
+- name: Suleikh
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.39343320'
   longitude: '44.36144500'
-  wikiDataId:
-- id: 153252
-  name: Ur District
-  state_id: 3959
+- name: Ur District
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.41694000'
   longitude: '44.39060790'
-  wikiDataId:
-- id: 153253
-  name: Wazireya
-  state_id: 3959
+- name: Wazireya
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.36366170'
   longitude: '44.38196550'
-  wikiDataId:
-- id: 153254
-  name: Yarmouk
-  state_id: 3959
+- name: Yarmouk
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.33938360'
   longitude: '44.32212520'
-  wikiDataId: Q1163870
-- id: 153255
-  name: Ziyouna
-  state_id: 3959
+- name: Ziyouna
   state_code: BG
   state_name: Baghdad
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.32484340'
   longitude: '44.45454600'
-  wikiDataId:
-- id: 134477
-  name: Al Başrah al Qadīmah
-  state_id: 3960
+- name: Al Başrah al Qadīmah
   state_code: BA
   state_name: Basra
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '30.50316000'
   longitude: '47.81507000'
-  wikiDataId: Q694939
-- id: 134479
-  name: Al Fāw
-  state_id: 3960
+- name: Al Fāw
   state_code: BA
   state_name: Basra
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '29.97421000'
   longitude: '48.47309000'
-  wikiDataId: Q1164081
-- id: 134481
-  name: Al Hārithah
-  state_id: 3960
+- name: Al Hārithah
   state_code: BA
   state_name: Basra
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '30.58481000'
   longitude: '47.76114000'
-  wikiDataId: Q2617657
-- id: 134502
-  name: Az Zubayr
-  state_id: 3960
+- name: Az Zubayr
   state_code: BA
   state_name: Basra
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '30.39213000'
   longitude: '47.70175000'
-  wikiDataId: Q227509
-- id: 134508
-  name: Basrah
-  state_id: 3960
+- name: Basrah
   state_code: BA
   state_name: Basra
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '30.50852000'
   longitude: '47.78040000'
-  wikiDataId: Q48195
-- id: 134546
-  name: Umm Qaşr
-  state_id: 3960
+- name: Umm Qaşr
   state_code: BA
   state_name: Basra
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '30.03620000'
   longitude: '47.91951000'
-  wikiDataId: Q842407
-- id: 134500
-  name: Ash Shaţrah
-  state_id: 3954
+- name: Ash Shaţrah
   state_code: DQ
   state_name: Dhi Qar
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '31.40906000'
   longitude: '46.17270000'
-  wikiDataId: Q2669841
-- id: 134529
-  name: Nāḩiyat al Fuhūd
-  state_id: 3954
+- name: Nāḩiyat al Fuhūd
   state_code: DQ
   state_name: Dhi Qar
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '30.96972000'
   longitude: '46.72278000'
-  wikiDataId: Q38811
-- id: 134528
-  name: Nasiriyah
-  state_id: 3954
+- name: Nasiriyah
   state_code: DQ
   state_name: Dhi Qar
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '31.05799000'
   longitude: '46.25726000'
-  wikiDataId: Q38811
-- id: 134484
-  name: Al Miqdādīyah
-  state_id: 3965
+- name: Al Miqdādīyah
   state_code: DI
   state_name: Diyala
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.97861000'
   longitude: '44.93694000'
-  wikiDataId: Q2353893
-- id: 134506
-  name: Baladrūz
-  state_id: 3965
+- name: Baladrūz
   state_code: DI
   state_name: Diyala
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.69631000'
   longitude: '45.07782000'
-  wikiDataId: Q804598
-- id: 134507
-  name: Baqubah
-  state_id: 3965
+- name: Baqubah
   state_code: DI
   state_name: Diyala
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.75403000'
   longitude: '44.60518000'
-  wikiDataId: Q270821
-- id: 134519
-  name: Khāliş
-  state_id: 3965
+- name: Khāliş
   state_code: DI
   state_name: Diyala
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.80809000'
   longitude: '44.53343000'
-  wikiDataId: Q199909
-- id: 134520
-  name: Kifrī
-  state_id: 3965
+- name: Kifrī
   state_code: DI
   state_name: Diyala
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '34.68963000'
   longitude: '44.96057000'
-  wikiDataId: Q2626532
-- id: 134524
-  name: Mandalī
-  state_id: 3965
+- name: Mandalī
   state_code: DI
   state_name: Diyala
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.74810000'
   longitude: '45.55503000'
-  wikiDataId: Q1382440
-- id: 134532
-  name: Qaḑā’ Kifrī
-  state_id: 3965
+- name: Qaḑā’ Kifrī
   state_code: DI
   state_name: Diyala
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '34.52289000'
   longitude: '44.85821000'
-  wikiDataId: Q4404528
-- id: 134489
-  name: Al ‘Amādīyah
-  state_id: 3967
+- name: Al ‘Amādīyah
   state_code: DA
   state_name: Dohuk
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '37.09214000'
   longitude: '43.48769000'
-  wikiDataId: Q460736
-- id: 134509
-  name: Batifa
-  state_id: 3967
+- name: Batifa
   state_code: DA
   state_name: Dohuk
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '37.17454000'
   longitude: '43.01233000'
-  wikiDataId: Q48195
-- id: 134512
-  name: Dihok
-  state_id: 3967
+- name: Dihok
   state_code: DA
   state_name: Dohuk
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.86709000'
   longitude: '42.98845000'
-  wikiDataId: Q152831
-- id: 134541
-  name: Sīnah
-  state_id: 3967
+- name: Sīnah
   state_code: DA
   state_name: Dohuk
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.80851000'
   longitude: '43.03935000'
-  wikiDataId: Q170047
-- id: 134547
-  name: Zaxo
-  state_id: 3967
+- name: Zaxo
   state_code: DA
   state_name: Dohuk
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '37.14871000'
   longitude: '42.68591000'
-  wikiDataId: Q167800
-- id: 134496
-  name: Arbil
-  state_id: 3968
+- name: Arbil
   state_code: AR
   state_name: Erbil
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.19070000'
   longitude: '44.00947000'
-  wikiDataId: Q4532299
-- id: 134513
-  name: Erbil
-  state_id: 3968
+- name: Erbil
   state_code: AR
   state_name: Erbil
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.18333000'
   longitude: '44.01193000'
-  wikiDataId: Q132754
-- id: 134522
-  name: Koysinceq
-  state_id: 3968
+- name: Koysinceq
   state_code: AR
   state_name: Erbil
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.08289000'
   longitude: '44.62873000'
-  wikiDataId: Q1778824
-- id: 134534
-  name: Ruwāndiz
-  state_id: 3968
+- name: Ruwāndiz
   state_code: AR
   state_name: Erbil
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.61207000'
   longitude: '44.52372000'
-  wikiDataId: Q579438
-- id: 134536
-  name: Shaqlāwah
-  state_id: 3968
+- name: Shaqlāwah
   state_code: AR
   state_name: Erbil
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.40422000'
   longitude: '44.32563000'
-  wikiDataId: Q2231235
-- id: 134539
-  name: Soran
-  state_id: 3968
+- name: Soran
   state_code: AR
   state_name: Erbil
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.65320000'
   longitude: '44.54407000'
-  wikiDataId: Q955690
-- id: 134480
-  name: Al Hindīyah
-  state_id: 3957
+- name: Al Hindīyah
   state_code: KA
   state_name: Karbala
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.54671000'
   longitude: '44.22765000'
-  wikiDataId: Q2617657
-- id: 134518
-  name: Karbala
-  state_id: 3957
+- name: Karbala
   state_code: KA
   state_name: Karbala
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.61603000'
   longitude: '44.02488000'
-  wikiDataId: Q199909
-- id: 134521
-  name: Kirkuk
-  state_id: 3971
+- name: Kirkuk
   state_code: KI
   state_name: Kirkuk
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '35.46806000'
   longitude: '44.39222000'
-  wikiDataId: Q173310
-- id: 134551
-  name: "‘Alī al Gharbī"
-  state_id: 3966
+- name: "‘Alī al Gharbī"
   state_code: MA
   state_name: Maysan
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.46186000'
   longitude: '46.68794000'
-  wikiDataId: Q1029650
-- id: 134490
-  name: Al ‘Amārah
-  state_id: 3966
+- name: Al ‘Amārah
   state_code: MA
   state_name: Maysan
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '31.83561000'
   longitude: '47.14483000'
-  wikiDataId: Q366010
-- id: 134493
-  name: Al-Mejar Al-Kabi District
-  state_id: 3966
+- name: Al-Mejar Al-Kabi District
   state_code: MA
   state_name: Maysan
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '31.42940000'
   longitude: '47.20355000'
-  wikiDataId: Q2995584
-- id: 134485
-  name: Al Mishkhāb
-  state_id: 3962
+- name: Al Mishkhāb
   state_code: NA
   state_name: Najaf
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '31.80437000'
   longitude: '44.48930000'
-  wikiDataId: Q2353893
-- id: 134523
-  name: Kufa
-  state_id: 3962
+- name: Kufa
   state_code: NA
   state_name: Najaf
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.05114000'
   longitude: '44.44017000'
-  wikiDataId: Q186234
-- id: 134527
-  name: Najaf
-  state_id: 3962
+- name: Najaf
   state_code: NA
   state_name: Najaf
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.02594000'
   longitude: '44.34625000'
-  wikiDataId: Q168193
-- id: 134554
-  name: "‘Aqrah"
-  state_id: 3963
+- name: "‘Aqrah"
   state_code: NI
   state_name: Nineveh
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.76038000'
   longitude: '43.89428000'
-  wikiDataId: Q421302
-- id: 134483
-  name: Al Mawşil al Jadīdah
-  state_id: 3963
+- name: Al Mawşil al Jadīdah
   state_code: NI
   state_name: Nineveh
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.33271000'
   longitude: '43.10555000'
-  wikiDataId: Q328030
-- id: 134492
-  name: Al-Hamdaniya
-  state_id: 3963
+- name: Al-Hamdaniya
   state_code: NI
   state_name: Nineveh
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.27093000'
   longitude: '43.37758000'
-  wikiDataId: Q2995584
-- id: 134499
-  name: Ash Shaykhān
-  state_id: 3963
+- name: Ash Shaykhān
   state_code: NI
   state_name: Nineveh
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.69595000'
   longitude: '43.35202000'
-  wikiDataId: Q4058903
-- id: 134525
-  name: Mosul
-  state_id: 3963
+- name: Mosul
   state_code: NI
   state_name: Nineveh
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.33500000'
   longitude: '43.11889000'
-  wikiDataId: Q83317
-- id: 134537
-  name: Sinjar
-  state_id: 3963
+- name: Sinjar
   state_code: NI
   state_name: Nineveh
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.29548000'
   longitude: '41.89315000'
-  wikiDataId: Q7376823
-- id: 134542
-  name: Tall ‘Afar
-  state_id: 3963
+- name: Tall ‘Afar
   state_code: NI
   state_name: Nineveh
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.37913000'
   longitude: '42.44806000'
-  wikiDataId: Q990427
-- id: 134543
-  name: Tallkayf
-  state_id: 3963
+- name: Tallkayf
   state_code: NI
   state_name: Nineveh
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '36.49118000'
   longitude: '43.12114000'
-  wikiDataId: Q990427
-- id: 134475
-  name: Ad Dujayl
-  state_id: 3961
+- name: Ad Dujayl
   state_code: SD
   state_name: Saladin
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '33.84667000'
   longitude: '44.23444000'
-  wikiDataId: Q988430
-- id: 134505
-  name: Balad
-  state_id: 3961
+- name: Balad
   state_code: SD
   state_name: Saladin
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '34.01485000'
   longitude: '44.14574000'
-  wikiDataId: Q1029645
-- id: 134510
-  name: Bayjī
-  state_id: 3961
+- name: Bayjī
   state_code: SD
   state_name: Saladin
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '34.92915000'
   longitude: '43.48878000'
-  wikiDataId: Q803712
-- id: 134540
-  name: Sāmarrā’
-  state_id: 3961
+- name: Sāmarrā’
   state_code: SD
   state_name: Saladin
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '34.19590000'
   longitude: '43.88568000'
-  wikiDataId: Q170047
-- id: 134544
-  name: Tikrīt
-  state_id: 3961
+- name: Tikrīt
   state_code: SD
   state_name: Saladin
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '34.61581000'
   longitude: '43.67861000'
-  wikiDataId: Q165444
-- id: 134545
-  name: Tozkhurmato
-  state_id: 3961
+- name: Tozkhurmato
   state_code: SD
   state_name: Saladin
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '34.88808000'
   longitude: '44.63256000'
-  wikiDataId: Q165444
-- id: 134498
-  name: As Sulaymānīyah
-  state_id: 3969
+- name: As Sulaymānīyah
   state_code: SU
   state_name: Sulaymaniyah
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '35.56496000'
   longitude: '45.43290000'
-  wikiDataId: Q191204
-- id: 134511
-  name: Baynjiwayn
-  state_id: 3969
+- name: Baynjiwayn
   state_code: SU
   state_name: Sulaymaniyah
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '35.62054000'
   longitude: '45.94908000'
-  wikiDataId: Q803712
-- id: 134549
-  name: Ḩalabjah
-  state_id: 3969
+- name: Ḩalabjah
   state_code: SU
   state_name: Sulaymaniyah
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '35.17778000'
   longitude: '45.98611000'
-  wikiDataId: Q605544
-- id: 134517
-  name: Jamjamāl
-  state_id: 3969
+- name: Jamjamāl
   state_code: SU
   state_name: Sulaymaniyah
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '35.53356000'
   longitude: '44.83430000'
-  wikiDataId: Q870475
-- id: 134491
-  name: Al ‘Azīzīyah
-  state_id: 3970
+- name: Al ‘Azīzīyah
   state_code: WA
   state_name: Wasit
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.90941000'
   longitude: '45.06359000'
-  wikiDataId: Q366010
-- id: 134487
-  name: Al Ḩayy
-  state_id: 3970
+- name: Al Ḩayy
   state_code: WA
   state_name: Wasit
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.17419000'
   longitude: '46.04345000'
-  wikiDataId: Q4120374
-- id: 134482
-  name: Al Kūt
-  state_id: 3970
+- name: Al Kūt
   state_code: WA
   state_name: Wasit
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.51280000'
   longitude: '45.81817000'
-  wikiDataId: Q328030
-- id: 134503
-  name: Aş Şuwayrah
-  state_id: 3970
+- name: Aş Şuwayrah
   state_code: WA
   state_name: Wasit
-  country_id: 104
-  country_code: IQ
-  country_name: Iraq
   latitude: '32.92556000'
   longitude: '44.77583000'
-  wikiDataId: Q227509

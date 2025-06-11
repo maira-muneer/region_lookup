@@ -1,133 +1,61 @@
 ---
-- id: 102798
-  name: Kibungo
-  state_id: 261
+- name: Kibungo
   state_code: '02'
   state_name: Eastern
-  country_id: 183
-  country_code: RW
-  country_name: Rwanda
   latitude: "-2.15970000"
   longitude: '30.54270000'
-  wikiDataId: Q992776
-- id: 102803
-  name: Rwamagana
-  state_id: 261
+- name: Rwamagana
   state_code: '02'
   state_name: Eastern
-  country_id: 183
-  country_code: RW
-  country_name: Rwanda
   latitude: "-1.94870000"
   longitude: '30.43470000'
-  wikiDataId: Q246139
-- id: 102800
-  name: Kigali
-  state_id: 262
+- name: Kigali
   state_code: '01'
   state_name: Kigali
-  country_id: 183
-  country_code: RW
-  country_name: Rwanda
   latitude: "-1.94995000"
   longitude: '30.05885000'
-  wikiDataId: Q3859
-- id: 102793
-  name: Byumba
-  state_id: 263
+- name: Byumba
   state_code: '03'
   state_name: Northern
-  country_id: 183
-  country_code: RW
-  country_name: Rwanda
   latitude: "-1.57630000"
   longitude: '30.06750000'
-  wikiDataId: Q391747
-- id: 102801
-  name: Musanze
-  state_id: 263
+- name: Musanze
   state_code: '03'
   state_name: Northern
-  country_id: 183
-  country_code: RW
-  country_name: Rwanda
   latitude: "-1.49984000"
   longitude: '29.63497000'
-  wikiDataId: Q246145
-- id: 102792
-  name: Butare
-  state_id: 259
+- name: Butare
   state_code: '05'
   state_name: Southern
-  country_id: 183
-  country_code: RW
-  country_name: Rwanda
   latitude: "-2.59667000"
   longitude: '29.73944000'
-  wikiDataId: Q16654643
-- id: 102795
-  name: Eglise Catholique Centrale GIKO
-  state_id: 259
+- name: Eglise Catholique Centrale GIKO
   state_code: '05'
   state_name: Southern
-  country_id: 183
-  country_code: RW
-  country_name: Rwanda
   latitude: "-1.93653000"
   longitude: '29.80610000'
-  wikiDataId: Q782857
-- id: 102797
-  name: Gitarama
-  state_id: 259
+- name: Gitarama
   state_code: '05'
   state_name: Southern
-  country_id: 183
-  country_code: RW
-  country_name: Rwanda
   latitude: "-2.07444000"
   longitude: '29.75667000'
-  wikiDataId: Q668180
-- id: 102802
-  name: Nzega
-  state_id: 259
+- name: Nzega
   state_code: '05'
   state_name: Southern
-  country_id: 183
-  country_code: RW
-  country_name: Rwanda
   latitude: "-2.47900000"
   longitude: '29.55640000'
-  wikiDataId: Q246145
-- id: 102794
-  name: Cyangugu
-  state_id: 260
+- name: Cyangugu
   state_code: '04'
   state_name: Western
-  country_id: 183
-  country_code: RW
-  country_name: Rwanda
   latitude: "-2.48460000"
   longitude: '28.90750000'
-  wikiDataId: Q782857
-- id: 102796
-  name: Gisenyi
-  state_id: 260
+- name: Gisenyi
   state_code: '04'
   state_name: Western
-  country_id: 183
-  country_code: RW
-  country_name: Rwanda
   latitude: "-1.70278000"
   longitude: '29.25639000'
-  wikiDataId: Q830631
-- id: 102799
-  name: Kibuye
-  state_id: 260
+- name: Kibuye
   state_code: '04'
   state_name: Western
-  country_id: 183
-  country_code: RW
-  country_name: Rwanda
   latitude: "-2.06028000"
   longitude: '29.34778000'
-  wikiDataId: Q617032

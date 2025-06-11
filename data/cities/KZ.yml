@@ -1,2861 +1,1301 @@
 ---
-- id: 65596
-  name: Akkol
-  state_id: 145
+- name: Akkol
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.99374000'
   longitude: '70.94704000'
-  wikiDataId: Q622740
-- id: 65597
-  name: Akkol’
-  state_id: 145
+- name: Akkol’
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.29617000'
   longitude: '69.59997000'
-  wikiDataId: Q622740
-- id: 65600
-  name: Aksu
-  state_id: 145
+- name: Aksu
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.44422000'
   longitude: '71.95761000'
-  wikiDataId: Q622780
-- id: 65619
-  name: Astrakhan
-  state_id: 145
+- name: Astrakhan
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.53092000'
   longitude: '69.79684000'
-  wikiDataId: Q3448684
-- id: 65624
-  name: Atbasar
-  state_id: 145
+- name: Atbasar
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.80652000'
   longitude: '68.35996000'
-  wikiDataId: Q612144
-- id: 65632
-  name: Balkashino
-  state_id: 145
+- name: Balkashino
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.51779000'
   longitude: '68.75160000'
-  wikiDataId: Q1047089
-- id: 65647
-  name: Bestobe
-  state_id: 145
+- name: Bestobe
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.49795000'
   longitude: '73.09592000'
-  wikiDataId: Q2509316
-- id: 65665
-  name: Derzhavīnsk
-  state_id: 145
+- name: Derzhavīnsk
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.09922000'
   longitude: '66.31557000'
-  wikiDataId: Q2374413
-- id: 65672
-  name: Egindiköl
-  state_id: 145
+- name: Egindiköl
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.05412000'
   longitude: '69.47928000'
-  wikiDataId: Q3644611
-- id: 65676
-  name: Esil
-  state_id: 145
+- name: Esil
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.95495000'
   longitude: '66.40841000'
-  wikiDataId: Q1238323
-- id: 65698
-  name: Kokshetau
-  state_id: 145
+- name: Kokshetau
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.28333000'
   longitude: '69.40000000'
-  wikiDataId: Q490643
-- id: 65703
-  name: Krasnogorskiy
-  state_id: 145
+- name: Krasnogorskiy
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.24560000'
   longitude: '66.52081000'
-  wikiDataId: Q488990
-- id: 65720
-  name: Makinsk
-  state_id: 145
+- name: Makinsk
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.63290000'
   longitude: '70.41911000'
-  wikiDataId: Q1019392
-- id: 65781
-  name: Shantobe
-  state_id: 145
+- name: Shantobe
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.45376000'
   longitude: '68.17475000'
-  wikiDataId: Q61944
-- id: 65784
-  name: Shchuchinsk
-  state_id: 145
+- name: Shchuchinsk
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.93592000'
   longitude: '70.18895000'
-  wikiDataId: Q2030552
-- id: 65787
-  name: Shortandy
-  state_id: 145
+- name: Shortandy
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.69946000'
   longitude: '70.99457000'
-  wikiDataId: Q4523462
-- id: 65796
-  name: Stepnogorsk
-  state_id: 145
+- name: Stepnogorsk
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.35062000'
   longitude: '71.88161000'
-  wikiDataId: Q2030615
-- id: 65797
-  name: Stepnyak
-  state_id: 145
+- name: Stepnyak
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.83489000'
   longitude: '70.78861000'
-  wikiDataId: Q27352739
-- id: 65830
-  name: Yermentau
-  state_id: 145
+- name: Yermentau
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.62364000'
   longitude: '73.10265000'
-  wikiDataId: Q1019810
-- id: 65832
-  name: Zavodskoy
-  state_id: 145
+- name: Zavodskoy
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.47031000'
   longitude: '72.01514000'
-  wikiDataId: Q4203114
-- id: 65840
-  name: Zhaqsy
-  state_id: 145
+- name: Zhaqsy
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.91058000'
   longitude: '67.31665000'
-  wikiDataId: Q1046268
-- id: 65847
-  name: Zholymbet
-  state_id: 145
+- name: Zholymbet
   state_code: AKM
   state_name: Akmola
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.74211000'
   longitude: '71.71245000'
-  wikiDataId: Q740832
-- id: 65605
-  name: Aktobe
-  state_id: 151
+- name: Aktobe
   state_code: AKT
   state_name: Aktobe
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.27969000'
   longitude: '57.20718000'
-  wikiDataId: Q477232
-- id: 65636
-  name: Batamshinskiy
-  state_id: 151
+- name: Batamshinskiy
   state_code: AKT
   state_name: Aktobe
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.56022000'
   longitude: '58.27715000'
-  wikiDataId: Q4077051
-- id: 65638
-  name: Bayganin
-  state_id: 151
+- name: Bayganin
   state_code: AKT
   state_name: Aktobe
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.68975000'
   longitude: '55.87512000'
-  wikiDataId: Q4077051
-- id: 65674
-  name: Embi
-  state_id: 151
+- name: Embi
   state_code: AKT
   state_name: Aktobe
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.82981000'
   longitude: '58.15042000'
-  wikiDataId: Q2378028
-- id: 65687
-  name: Kandyagash
-  state_id: 151
+- name: Kandyagash
   state_code: AKT
   state_name: Aktobe
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.46912000'
   longitude: '57.41914000'
-  wikiDataId: Q2374438
-- id: 65697
-  name: Khromtau
-  state_id: 151
+- name: Khromtau
   state_code: AKT
   state_name: Aktobe
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.25117000'
   longitude: '58.44003000'
-  wikiDataId: Q1087785
-- id: 65725
-  name: Martuk
-  state_id: 151
+- name: Martuk
   state_code: AKT
   state_name: Aktobe
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.74746000'
   longitude: '56.50611000'
-  wikiDataId: Q4282692
-- id: 65779
-  name: Shalqar
-  state_id: 151
+- name: Shalqar
   state_code: AKT
   state_name: Aktobe
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.83333000'
   longitude: '59.60000000'
-  wikiDataId: Q61944
-- id: 65788
-  name: Shubarkuduk
-  state_id: 151
+- name: Shubarkuduk
   state_code: AKT
   state_name: Aktobe
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.14391000'
   longitude: '56.48196000'
-  wikiDataId: Q4523462
-- id: 65790
-  name: Shubarshi
-  state_id: 151
+- name: Shubarshi
   state_code: AKT
   state_name: Aktobe
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.58022000'
   longitude: '57.18289000'
-  wikiDataId: Q4523462
-- id: 65808
-  name: Temir
-  state_id: 151
+- name: Temir
   state_code: AKT
   state_name: Aktobe
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.14132000'
   longitude: '57.12855000'
-  wikiDataId: Q4454439
-- id: 65831
-  name: Yrghyz
-  state_id: 151
+- name: Yrghyz
   state_code: AKT
   state_name: Aktobe
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.61667000'
   longitude: '61.26667000'
-  wikiDataId: Q4203114
-- id: 65631
-  name: Bakanas
-  state_id: 143
+- name: Bakanas
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.80838000'
   longitude: '76.27214000'
-  wikiDataId: Q1047089
-- id: 65633
-  name: Balpyk Bī
-  state_id: 143
+- name: Balpyk Bī
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.90225000'
   longitude: '78.23157000'
-  wikiDataId: Q4076856
-- id: 65656
-  name: Burunday
-  state_id: 143
+- name: Burunday
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.35567000'
   longitude: '76.85477000'
-  wikiDataId: Q4093446
-- id: 65661
-  name: Chemolgan
-  state_id: 143
+- name: Chemolgan
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.37633000'
   longitude: '76.62456000'
-  wikiDataId: Q374060
-- id: 65668
-  name: Druzhba
-  state_id: 143
+- name: Druzhba
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.25332000'
   longitude: '82.48044000'
-  wikiDataId: Q1251114
-- id: 65675
-  name: Esik
-  state_id: 143
+- name: Esik
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.35520000'
   longitude: '77.45245000'
-  wikiDataId: Q1688290
-- id: 65689
-  name: Kapshagay
-  state_id: 143
+- name: Kapshagay
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.86681000'
   longitude: '77.06304000'
-  wikiDataId: Q1816833
-- id: 65694
-  name: Kegen
-  state_id: 143
+- name: Kegen
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.02143000'
   longitude: '79.22055000'
-  wikiDataId: Q4218840
-- id: 65715
-  name: Lepsy
-  state_id: 143
+- name: Lepsy
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '46.23500000'
   longitude: '78.94556000'
-  wikiDataId: Q4259190
-- id: 65726
-  name: Matay
-  state_id: 143
+- name: Matay
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.89500000'
   longitude: '78.71806000'
-  wikiDataId: Q4282692
-- id: 65742
-  name: Otegen Batyra
-  state_id: 143
+- name: Otegen Batyra
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.41949000'
   longitude: '77.02020000'
-  wikiDataId: Q4163271
-- id: 65746
-  name: Pervomayka
-  state_id: 143
+- name: Pervomayka
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.37361000'
   longitude: '76.94000000'
-  wikiDataId: Q4350661
-- id: 65763
-  name: Sarkand
-  state_id: 143
+- name: Sarkand
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.41126000'
   longitude: '79.91545000'
-  wikiDataId: Q1340535
-- id: 65767
-  name: Saryozek
-  state_id: 143
+- name: Saryozek
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.36178000'
   longitude: '77.97279000'
-  wikiDataId: Q4408890
-- id: 65800
-  name: Taldykorgan
-  state_id: 143
+- name: Taldykorgan
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.01556000'
   longitude: '78.37389000'
-  wikiDataId: Q491102
-- id: 65801
-  name: Talghar
-  state_id: 143
+- name: Talghar
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.30348000'
   longitude: '77.24085000'
-  wikiDataId: Q2302162
-- id: 65807
-  name: Tekeli
-  state_id: 143
+- name: Tekeli
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.83322000'
   longitude: '78.83089000'
-  wikiDataId: Q2302185
-- id: 65818
-  name: Turgen
-  state_id: 143
+- name: Turgen
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.40056000'
   longitude: '77.59333000'
-  wikiDataId: Q4736474
-- id: 65852
-  name: Ülken
-  state_id: 143
+- name: Ülken
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.21194000'
   longitude: '73.97861000'
-  wikiDataId: Q2139924
-- id: 65823
-  name: Ush-Tyube
-  state_id: 143
+- name: Ush-Tyube
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.25201000'
   longitude: '77.98007000'
-  wikiDataId: Q254928
-- id: 65841
-  name: Zharkent
-  state_id: 143
+- name: Zharkent
   state_code: ALM
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.16660000'
   longitude: '80.00655000'
-  wikiDataId: Q2231416
-- id: 65607
-  name: Almaty
-  state_id: 152
+- name: Almaty
   state_code: ALA
   state_name: Almaty
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.25667000'
   longitude: '76.92861000'
-  wikiDataId: Q35493
-- id: 65737
-  name: Nur-Sultan
-  state_id: 156
+- name: Nur-Sultan
   state_code: AST
   state_name: Astana
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.18010000'
   longitude: '71.44598000'
-  wikiDataId: Q1520
-- id: 65598
-  name: Akkol’
-  state_id: 153
+- name: Akkol’
   state_code: ATY
   state_name: Atyrau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.77177000'
   longitude: '53.18580000'
-  wikiDataId: Q622740
-- id: 65625
-  name: Atyrau
-  state_id: 153
+- name: Atyrau
   state_code: ATY
   state_name: Atyrau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.11667000'
   longitude: '51.88333000'
-  wikiDataId: Q486913
-- id: 65635
-  name: Balykshi
-  state_id: 153
+- name: Balykshi
   state_code: ATY
   state_name: Atyrau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.06667000'
   longitude: '51.86667000'
-  wikiDataId: Q4077051
-- id: 65639
-  name: Bayshonas
-  state_id: 153
+- name: Bayshonas
   state_code: ATY
   state_name: Atyrau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.24139000'
   longitude: '52.94111000'
-  wikiDataId: Q4077051
-- id: 65667
-  name: Dossor
-  state_id: 153
+- name: Dossor
   state_code: ATY
   state_name: Atyrau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.52722000'
   longitude: '52.98111000'
-  wikiDataId: Q2374413
-- id: 65684
-  name: Inderbor
-  state_id: 153
+- name: Inderbor
   state_code: ATY
   state_name: Atyrau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.55000000'
   longitude: '51.78333000'
-  wikiDataId: Q1192007
-- id: 65719
-  name: Makhambet
-  state_id: 153
+- name: Makhambet
   state_code: ATY
   state_name: Atyrau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.66667000'
   longitude: '51.58333000'
-  wikiDataId: Q657052
-- id: 65722
-  name: Maloye Ganyushkino
-  state_id: 153
+- name: Maloye Ganyushkino
   state_code: ATY
   state_name: Atyrau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '46.60000000'
   longitude: '49.26667000'
-  wikiDataId: Q1019392
-- id: 65723
-  name: Maqat
-  state_id: 153
+- name: Maqat
   state_code: ATY
   state_name: Atyrau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.65000000'
   longitude: '53.31667000'
-  wikiDataId: Q3260005
-- id: 65729
-  name: Miyaly
-  state_id: 153
+- name: Miyaly
   state_code: ATY
   state_name: Atyrau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.88504000'
   longitude: '53.79194000'
-  wikiDataId: Q3312361
-- id: 65751
-  name: Qaraton
-  state_id: 153
+- name: Qaraton
   state_code: ATY
   state_name: Atyrau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '46.43528000'
   longitude: '53.48639000'
-  wikiDataId: Q1019405
-- id: 65759
-  name: Qulsary
-  state_id: 153
+- name: Qulsary
   state_code: ATY
   state_name: Atyrau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '46.95307000'
   longitude: '54.01978000'
-  wikiDataId: Q1268163
-- id: 65778
-  name: Shalkar
-  state_id: 153
+- name: Shalkar
   state_code: ATY
   state_name: Atyrau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.03333000'
   longitude: '48.90000000'
-  wikiDataId: Q61944
-- id: 65630
-  name: Baikonur
-  state_id: 155
+- name: Baikonur
   state_code: BAY
   state_name: Baikonur
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.61667000'
   longitude: '63.31667000'
-  wikiDataId: Q2622157
-- id: 65608
-  name: Altayskiy
-  state_id: 154
+- name: Altayskiy
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.24593000'
   longitude: '82.36252000'
-  wikiDataId: Q35493
-- id: 65613
-  name: Aqtoghay
-  state_id: 154
+- name: Aqtoghay
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '46.95000000'
   longitude: '79.66667000'
-  wikiDataId: Q622760
-- id: 65621
-  name: Asūbulaq
-  state_id: 154
+- name: Asūbulaq
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.55688000'
   longitude: '83.06355000'
-  wikiDataId: Q4071858
-- id: 65626
-  name: Auezov
-  state_id: 154
+- name: Auezov
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.71003000'
   longitude: '81.58018000'
-  wikiDataId: Q486913
-- id: 65627
-  name: Ayagoz
-  state_id: 154
+- name: Ayagoz
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.96447000'
   longitude: '80.43437000'
-  wikiDataId: Q2391391
-- id: 65643
-  name: Belogorskīy
-  state_id: 154
+- name: Belogorskīy
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.47698000'
   longitude: '83.14803000'
-  wikiDataId: Q12532833
-- id: 65645
-  name: Belousovka
-  state_id: 154
+- name: Belousovka
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.13287000'
   longitude: '82.52481000'
-  wikiDataId: Q4738017
-- id: 65651
-  name: Borodulikha
-  state_id: 154
+- name: Borodulikha
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.71841000'
   longitude: '80.92950000'
-  wikiDataId: Q27357540
-- id: 65681
-  name: Georgīevka
-  state_id: 154
+- name: Georgīevka
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.32671000'
   longitude: '81.57373000'
-  wikiDataId: Q1192007
-- id: 65682
-  name: Glubokoye
-  state_id: 154
+- name: Glubokoye
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.13887000'
   longitude: '82.31114000'
-  wikiDataId: Q1192007
-- id: 65705
-  name: Kurchatov
-  state_id: 154
+- name: Kurchatov
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.75617000'
   longitude: '78.54188000'
-  wikiDataId: Q767177
-- id: 65706
-  name: Kurchum
-  state_id: 154
+- name: Kurchum
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.56603000'
   longitude: '83.66146000'
-  wikiDataId: Q1046498
-- id: 65721
-  name: Maleyevsk
-  state_id: 154
+- name: Maleyevsk
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.81441000'
   longitude: '84.29102000'
-  wikiDataId: Q1019392
-- id: 65738
-  name: Ognevka
-  state_id: 154
+- name: Ognevka
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.68351000'
   longitude: '83.01674000'
-  wikiDataId: Q1520
-- id: 65749
-  name: Priisk Boko
-  state_id: 154
+- name: Priisk Boko
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.06028000'
   longitude: '81.64528000'
-  wikiDataId: Q488379
-- id: 65753
-  name: Qaraūyl
-  state_id: 154
+- name: Qaraūyl
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.94509000'
   longitude: '79.25502000'
-  wikiDataId: Q27352595
-- id: 65761
-  name: Ridder
-  state_id: 154
+- name: Ridder
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.34413000'
   longitude: '83.51287000'
-  wikiDataId: Q986100
-- id: 65774
-  name: Semey
-  state_id: 154
+- name: Semey
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.42675000'
   longitude: '80.26669000'
-  wikiDataId: Q61944
-- id: 65782
-  name: Shar
-  state_id: 154
+- name: Shar
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.58720000'
   longitude: '81.04883000'
-  wikiDataId: Q4507469
-- id: 65785
-  name: Shemonaīkha
-  state_id: 154
+- name: Shemonaīkha
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.62811000'
   longitude: '81.91213000'
-  wikiDataId: Q1047824
-- id: 65798
-  name: Suykbulak
-  state_id: 154
+- name: Suykbulak
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.70837000'
   longitude: '81.04854000'
-  wikiDataId: Q27352739
-- id: 65821
-  name: Tūghyl
-  state_id: 154
+- name: Tūghyl
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.72521000'
   longitude: '84.20629000'
-  wikiDataId: Q848638
-- id: 65822
-  name: Urzhar
-  state_id: 154
+- name: Urzhar
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.09302000'
   longitude: '81.62939000'
-  wikiDataId: Q2073917
-- id: 65824
-  name: Ust-Kamenogorsk
-  state_id: 154
+- name: Ust-Kamenogorsk
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.97143000'
   longitude: '82.60586000'
-  wikiDataId: Q162548
-- id: 65853
-  name: Ūst’-Talovka
-  state_id: 154
+- name: Ūst’-Talovka
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.54927000'
   longitude: '81.84997000'
-  wikiDataId: Q2139924
-- id: 65833
-  name: Zaysan
-  state_id: 154
+- name: Zaysan
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.46657000'
   longitude: '84.87144000'
-  wikiDataId: Q1881641
-- id: 65835
-  name: Zhalghyztobe
-  state_id: 154
+- name: Zhalghyztobe
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.21094000'
   longitude: '81.21596000'
-  wikiDataId: Q1881641
-- id: 65838
-  name: Zhanga Buqtyrma
-  state_id: 154
+- name: Zhanga Buqtyrma
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.62950000'
   longitude: '83.52475000'
-  wikiDataId: Q1000852
-- id: 65845
-  name: Zhezkent
-  state_id: 154
+- name: Zhezkent
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.93112000'
   longitude: '81.36150000'
-  wikiDataId: Q2231416
-- id: 65850
-  name: Zyryanovsk
-  state_id: 154
+- name: Zyryanovsk
   state_code: VOS
   state_name: East Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.72654000'
   longitude: '84.27318000'
-  wikiDataId: Q2139924
-- id: 65610
-  name: Aqbaqay
-  state_id: 147
+- name: Aqbaqay
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.00000000'
   longitude: '72.78333000'
-  wikiDataId: Q27350591
-- id: 65663
-  name: Chu
-  state_id: 147
+- name: Chu
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.60334000'
   longitude: '73.75919000'
-  wikiDataId: Q145802
-- id: 65680
-  name: Georgiyevka
-  state_id: 147
+- name: Georgiyevka
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.03882000'
   longitude: '74.71287000'
-  wikiDataId: Q1192007
-- id: 65683
-  name: Granitogorsk
-  state_id: 147
+- name: Granitogorsk
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.74400000'
   longitude: '73.46848000'
-  wikiDataId: Q1192007
-- id: 65692
-  name: Karatau
-  state_id: 147
+- name: Karatau
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.17869000'
   longitude: '70.46768000'
-  wikiDataId: Q1850973
-- id: 65696
-  name: Khantaū
-  state_id: 147
+- name: Khantaū
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.22744000'
   longitude: '73.79555000'
-  wikiDataId: Q1315249
-- id: 65717
-  name: Lugovoy
-  state_id: 147
+- name: Lugovoy
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.94197000'
   longitude: '72.76098000'
-  wikiDataId: Q657052
-- id: 65718
-  name: Lugovoye
-  state_id: 147
+- name: Lugovoye
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.91010000'
   longitude: '72.72066000'
-  wikiDataId: Q657052
-- id: 65728
-  name: Merke
-  state_id: 147
+- name: Merke
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.86976000'
   longitude: '73.18463000'
-  wikiDataId: Q1921811
-- id: 65730
-  name: Moyynkum
-  state_id: 147
+- name: Moyynkum
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.28461000'
   longitude: '72.93920000'
-  wikiDataId: Q4299929
-- id: 65733
-  name: Mynaral
-  state_id: 147
+- name: Mynaral
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.41611000'
   longitude: '73.68444000'
-  wikiDataId: Q12555151
-- id: 65743
-  name: Oytal
-  state_id: 147
+- name: Oytal
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.90573000'
   longitude: '73.26972000'
-  wikiDataId: Q4163271
-- id: 65766
-  name: Sarykemer
-  state_id: 147
+- name: Sarykemer
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.00000000'
   longitude: '71.50000000'
-  wikiDataId: Q4408883
-- id: 65791
-  name: Shyghanaq
-  state_id: 147
+- name: Shyghanaq
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.83056000'
   longitude: '70.00194000'
-  wikiDataId: Q4523462
-- id: 65803
-  name: Taraz
-  state_id: 147
+- name: Taraz
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.90000000'
   longitude: '71.36667000'
-  wikiDataId: Q486545
-- id: 65839
-  name: Zhangatas
-  state_id: 147
+- name: Zhangatas
   state_code: ZHA
   state_name: Jambyl
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.56222000'
   longitude: '69.73428000'
-  wikiDataId: Q1046268
-- id: 65594
-  name: Abay
-  state_id: 150
+- name: Abay
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.63575000'
   longitude: '72.86164000'
-  wikiDataId: Q304827
-- id: 65595
-  name: Abay Qalasy
-  state_id: 150
+- name: Abay Qalasy
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.63333000'
   longitude: '72.88333000'
-  wikiDataId: Q2283566
-- id: 65601
-  name: Aksu-Ayuly
-  state_id: 150
+- name: Aksu-Ayuly
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.76788000'
   longitude: '73.67272000'
-  wikiDataId: Q622780
-- id: 65602
-  name: Aktas
-  state_id: 150
+- name: Aktas
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.77952000'
   longitude: '72.96128000'
-  wikiDataId: Q622780
-- id: 65603
-  name: Aktau
-  state_id: 150
+- name: Aktau
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.03333000'
   longitude: '72.83333000'
-  wikiDataId: Q622780
-- id: 65606
-  name: Aktogay
-  state_id: 150
+- name: Aktogay
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.16667000'
   longitude: '75.30000000'
-  wikiDataId: Q4060136
-- id: 65609
-  name: Aqadyr
-  state_id: 150
+- name: Aqadyr
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.26014000'
   longitude: '72.85851000'
-  wikiDataId: Q27350591
-- id: 65612
-  name: Aqshataū
-  state_id: 150
+- name: Aqshataū
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.98917000'
   longitude: '74.05750000'
-  wikiDataId: Q622760
-- id: 65614
-  name: Aqtoghay Aūdany
-  state_id: 150
+- name: Aqtoghay Aūdany
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.50000000'
   longitude: '74.75000000'
-  wikiDataId: Q612211
-- id: 65623
-  name: Atasū
-  state_id: 150
+- name: Atasū
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.68659000'
   longitude: '71.64469000'
-  wikiDataId: Q4071940
-- id: 65634
-  name: Balqash
-  state_id: 150
+- name: Balqash
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '46.84806000'
   longitude: '74.99500000'
-  wikiDataId: Q805515
-- id: 65653
-  name: Bukhar-Zhyrau
-  state_id: 150
+- name: Bukhar-Zhyrau
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.85658000'
   longitude: '73.68118000'
-  wikiDataId: Q27357540
-- id: 65666
-  name: Dolinka
-  state_id: 150
+- name: Dolinka
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.67685000'
   longitude: '72.67822000'
-  wikiDataId: Q2374413
-- id: 65690
-  name: Karagandy
-  state_id: 150
+- name: Karagandy
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.80187000'
   longitude: '73.10211000'
-  wikiDataId: Q484706
-- id: 65711
-  name: Kīevka
-  state_id: 150
+- name: Kīevka
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.26212000'
   longitude: '71.54839000'
-  wikiDataId: Q30505
-- id: 65699
-  name: Koktal
-  state_id: 150
+- name: Koktal
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.65000000'
   longitude: '73.51667000'
-  wikiDataId: Q490643
-- id: 65707
-  name: Kushoky
-  state_id: 150
+- name: Kushoky
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.23091000'
   longitude: '73.40146000'
-  wikiDataId: Q1046498
-- id: 65709
-  name: Kyzylzhar
-  state_id: 150
+- name: Kyzylzhar
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.98197000'
   longitude: '72.60761000'
-  wikiDataId: Q27352124
-- id: 65731
-  name: Moyynty
-  state_id: 150
+- name: Moyynty
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.22111000'
   longitude: '73.36694000'
-  wikiDataId: Q4299929
-- id: 65735
-  name: Novodolinskiy
-  state_id: 150
+- name: Novodolinskiy
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.70650000'
   longitude: '72.70807000'
-  wikiDataId: Q4309425
-- id: 65741
-  name: Osakarovka
-  state_id: 150
+- name: Osakarovka
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.56219000'
   longitude: '72.57089000'
-  wikiDataId: Q487439
-- id: 65748
-  name: Prigorodnoye
-  state_id: 150
+- name: Prigorodnoye
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.69244000'
   longitude: '75.58438000'
-  wikiDataId: Q488379
-- id: 65750
-  name: Priozersk
-  state_id: 150
+- name: Priozersk
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '46.03106000'
   longitude: '73.70247000'
-  wikiDataId: Q1019405
-- id: 65752
-  name: Qarazhal
-  state_id: 150
+- name: Qarazhal
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.00627000'
   longitude: '70.79607000'
-  wikiDataId: Q27352595
-- id: 65754
-  name: Qarqaraly
-  state_id: 150
+- name: Qarqaraly
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.41287000'
   longitude: '75.47286000'
-  wikiDataId: Q1025808
-- id: 65768
-  name: Saryshaghan
-  state_id: 150
+- name: Saryshaghan
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '46.11917000'
   longitude: '73.61917000'
-  wikiDataId: Q262448
-- id: 65770
-  name: Sayaq
-  state_id: 150
+- name: Sayaq
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.00000000'
   longitude: '77.26667000'
-  wikiDataId: Q12561247
-- id: 65776
-  name: Shakhan
-  state_id: 150
+- name: Shakhan
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.81958000'
   longitude: '72.65407000'
-  wikiDataId: Q61944
-- id: 65777
-  name: Shakhtinsk
-  state_id: 150
+- name: Shakhtinsk
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.70885000'
   longitude: '72.59212000'
-  wikiDataId: Q61944
-- id: 65783
-  name: Shashūbay
-  state_id: 150
+- name: Shashūbay
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '46.81694000'
   longitude: '75.04028000'
-  wikiDataId: Q4507469
-- id: 65789
-  name: Shubarköl
-  state_id: 150
+- name: Shubarköl
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.88222000'
   longitude: '68.80722000'
-  wikiDataId: Q4523462
-- id: 65794
-  name: Soran
-  state_id: 150
+- name: Soran
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.79080000'
   longitude: '72.83744000'
-  wikiDataId: Q1703483
-- id: 65810
-  name: Temirtau
-  state_id: 150
+- name: Temirtau
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.05494000'
   longitude: '72.96464000'
-  wikiDataId: Q1001104
-- id: 65814
-  name: Tokarevka
-  state_id: 150
+- name: Tokarevka
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.11573000'
   longitude: '73.16034000'
-  wikiDataId: Q32382
-- id: 65825
-  name: Verkhniye Kayrakty
-  state_id: 150
+- name: Verkhniye Kayrakty
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.68333000'
   longitude: '73.28333000'
-  wikiDataId: Q162548
-- id: 65836
-  name: Zhambyl
-  state_id: 150
+- name: Zhambyl
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.20694000'
   longitude: '71.39694000'
-  wikiDataId: Q1881641
-- id: 65842
-  name: Zharyk
-  state_id: 150
+- name: Zharyk
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.85692000'
   longitude: '72.83598000'
-  wikiDataId: Q2231416
-- id: 65846
-  name: Zhezqazghan
-  state_id: 150
+- name: Zhezqazghan
   state_code: KAR
   state_name: Karaganda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.78333000'
   longitude: '67.76667000'
-  wikiDataId: Q740832
-- id: 65616
-  name: Arkalyk
-  state_id: 157
+- name: Arkalyk
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.24915000'
   longitude: '66.92027000'
-  wikiDataId: Q698941
-- id: 65628
-  name: Ayat
-  state_id: 157
+- name: Ayat
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.83554000'
   longitude: '62.52078000'
-  wikiDataId: Q2391391
-- id: 65652
-  name: Borovskoy
-  state_id: 157
+- name: Borovskoy
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.79270000'
   longitude: '64.18268000'
-  wikiDataId: Q27357540
-- id: 65671
-  name: Dzhetygara
-  state_id: 157
+- name: Dzhetygara
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.19019000'
   longitude: '61.19894000'
-  wikiDataId: Q1018868
-- id: 65679
-  name: Fyodorovka
-  state_id: 157
+- name: Fyodorovka
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.63809000'
   longitude: '62.69653000'
-  wikiDataId: Q1192007
-- id: 65691
-  name: Karasu
-  state_id: 157
+- name: Karasu
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.65995000'
   longitude: '65.48421000'
-  wikiDataId: Q484706
-- id: 65701
-  name: Komsomolets
-  state_id: 157
+- name: Komsomolets
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.75019000'
   longitude: '62.05840000'
-  wikiDataId: Q12551053
-- id: 65702
-  name: Kostanay
-  state_id: 157
+- name: Kostanay
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.21435000'
   longitude: '63.62463000'
-  wikiDataId: Q488990
-- id: 65716
-  name: Lisakovsk
-  state_id: 157
+- name: Lisakovsk
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.54707000'
   longitude: '62.49987000'
-  wikiDataId: Q657052
-- id: 65740
-  name: Ordzhonikidze
-  state_id: 157
+- name: Ordzhonikidze
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.44772000'
   longitude: '61.74942000'
-  wikiDataId: Q487439
-- id: 65755
-  name: Qashar
-  state_id: 157
+- name: Qashar
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.36799000'
   longitude: '62.86839000'
-  wikiDataId: Q27352596
-- id: 65760
-  name: Qusmuryn
-  state_id: 157
+- name: Qusmuryn
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.45107000'
   longitude: '64.61977000'
-  wikiDataId: Q1268163
-- id: 65762
-  name: Rudnyy
-  state_id: 157
+- name: Rudnyy
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.97290000'
   longitude: '63.11677000'
-  wikiDataId: Q1008853
-- id: 65813
-  name: Tobol
-  state_id: 157
+- name: Tobol
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.69366000'
   longitude: '62.59140000'
-  wikiDataId: Q32382
-- id: 65815
-  name: Torghay
-  state_id: 157
+- name: Torghay
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.63389000'
   longitude: '63.49806000'
-  wikiDataId: Q32382
-- id: 65816
-  name: Troyebratskiy
-  state_id: 157
+- name: Troyebratskiy
   state_code: KUS
   state_name: Kostanay
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '54.44306000'
   longitude: '66.07982000'
-  wikiDataId: Q32382
-- id: 65615
-  name: Aral
-  state_id: 142
+- name: Aral
   state_code: KZY
   state_name: Kyzylorda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '46.80000000'
   longitude: '61.66667000'
-  wikiDataId: Q165450
-- id: 65629
-  name: Ayteke Bi
-  state_id: 142
+- name: Ayteke Bi
   state_code: KZY
   state_name: Kyzylorda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.84607000'
   longitude: '62.15264000'
-  wikiDataId: Q2380922
-- id: 65642
-  name: Belköl
-  state_id: 142
+- name: Belköl
   state_code: KZY
   state_name: Kyzylorda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.81162000'
   longitude: '65.58796000'
-  wikiDataId: Q12532833
-- id: 65669
-  name: Dzhalagash
-  state_id: 142
+- name: Dzhalagash
   state_code: KZY
   state_name: Kyzylorda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.08333000'
   longitude: '64.66667000'
-  wikiDataId: Q1251114
-- id: 65708
-  name: Kyzylorda
-  state_id: 142
+- name: Kyzylorda
   state_code: KZY
   state_name: Kyzylorda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.85278000'
   longitude: '65.50917000'
-  wikiDataId: Q491123
-- id: 65757
-  name: Qazaly
-  state_id: 142
+- name: Qazaly
   state_code: KZY
   state_name: Kyzylorda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.76278000'
   longitude: '62.10750000'
-  wikiDataId: Q1557559
-- id: 65773
-  name: Sekseūil
-  state_id: 142
+- name: Sekseūil
   state_code: KZY
   state_name: Kyzylorda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '47.09000000'
   longitude: '61.15194000'
-  wikiDataId: Q12561247
-- id: 65780
-  name: Shalqīya
-  state_id: 142
+- name: Shalqīya
   state_code: KZY
   state_name: Kyzylorda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.00947000'
   longitude: '67.41062000'
-  wikiDataId: Q61944
-- id: 65792
-  name: Shīeli
-  state_id: 142
+- name: Shīeli
   state_code: KZY
   state_name: Kyzylorda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.16882000'
   longitude: '66.73887000'
-  wikiDataId: Q4523462
-- id: 65804
-  name: Tasböget
-  state_id: 142
+- name: Tasböget
   state_code: KZY
   state_name: Kyzylorda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.77384000'
   longitude: '65.55227000'
-  wikiDataId: Q4452304
-- id: 65811
-  name: Terenozek
-  state_id: 142
+- name: Terenozek
   state_code: KZY
   state_name: Kyzylorda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.05053000'
   longitude: '64.98395000'
-  wikiDataId: Q7702054
-- id: 65827
-  name: Yanykurgan
-  state_id: 142
+- name: Yanykurgan
   state_code: KZY
   state_name: Kyzylorda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.90652000'
   longitude: '67.24637000'
-  wikiDataId: Q162548
-- id: 65848
-  name: Zhosaly
-  state_id: 142
+- name: Zhosaly
   state_code: KZY
   state_name: Kyzylorda
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.48778000'
   longitude: '64.07806000'
-  wikiDataId: Q740832
-- id: 65604
-  name: Aktau
-  state_id: 141
+- name: Aktau
   state_code: MAN
   state_name: Mangystau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.65000000'
   longitude: '51.16667000'
-  wikiDataId: Q198989
-- id: 65641
-  name: Baūtīno
-  state_id: 141
+- name: Baūtīno
   state_code: MAN
   state_name: Mangystau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.54479000'
   longitude: '50.24629000'
-  wikiDataId: Q12532833
-- id: 65648
-  name: Beyneu
-  state_id: 141
+- name: Beyneu
   state_code: MAN
   state_name: Mangystau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '45.31667000'
   longitude: '55.20000000'
-  wikiDataId: Q650715
-- id: 65678
-  name: Fort-Shevchenko
-  state_id: 141
+- name: Fort-Shevchenko
   state_code: MAN
   state_name: Mangystau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.50654000'
   longitude: '50.26388000'
-  wikiDataId: Q1192007
-- id: 65732
-  name: Munayshy
-  state_id: 141
+- name: Munayshy
   state_code: MAN
   state_name: Mangystau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.49111000'
   longitude: '52.10861000'
-  wikiDataId: Q12555151
-- id: 65851
-  name: Ömirzaq
-  state_id: 141
+- name: Ömirzaq
   state_code: MAN
   state_name: Mangystau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.59786000'
   longitude: '51.24171000'
-  wikiDataId: Q2139924
-- id: 65772
-  name: Sayötesh
-  state_id: 141
+- name: Sayötesh
   state_code: MAN
   state_name: Mangystau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.32781000'
   longitude: '53.53246000'
-  wikiDataId: Q12561247
-- id: 65786
-  name: Shetpe
-  state_id: 141
+- name: Shetpe
   state_code: MAN
   state_name: Mangystau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.16667000'
   longitude: '52.11667000'
-  wikiDataId: Q4523462
-- id: 65806
-  name: Taūshyq
-  state_id: 141
+- name: Taūshyq
   state_code: MAN
   state_name: Mangystau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.34678000'
   longitude: '51.34932000'
-  wikiDataId: Q4452304
-- id: 65829
-  name: Yeraliyev
-  state_id: 141
+- name: Yeraliyev
   state_code: MAN
   state_name: Mangystau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.18032000'
   longitude: '51.68116000'
-  wikiDataId: Q4249095
-- id: 65837
-  name: Zhanaozen
-  state_id: 141
+- name: Zhanaozen
   state_code: MAN
   state_name: Mangystau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.34116000'
   longitude: '52.86192000'
-  wikiDataId: Q1000852
-- id: 65844
-  name: Zhetibay
-  state_id: 141
+- name: Zhetibay
   state_code: MAN
   state_name: Mangystau
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.59417000'
   longitude: '52.07889000'
-  wikiDataId: Q2231416
-- id: 65649
-  name: Birlestik
-  state_id: 144
+- name: Birlestik
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.58414000'
   longitude: '68.35382000'
-  wikiDataId: Q27357540
-- id: 65650
-  name: Bishkul
-  state_id: 144
+- name: Bishkul
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '54.77763000'
   longitude: '69.09951000'
-  wikiDataId: Q27357540
-- id: 65654
-  name: Bulayevo
-  state_id: 144
+- name: Bulayevo
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '54.90596000'
   longitude: '70.44155000'
-  wikiDataId: Q27357540
-- id: 65657
-  name: Būrabay
-  state_id: 144
+- name: Būrabay
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.08382000'
   longitude: '70.31379000'
-  wikiDataId: Q1009456
-- id: 65710
-  name: Kzyltu
-  state_id: 144
+- name: Kzyltu
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.63589000'
   longitude: '72.34079000'
-  wikiDataId: Q30505
-- id: 65736
-  name: Novoishimskiy
-  state_id: 144
+- name: Novoishimskiy
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.19806000'
   longitude: '66.76944000'
-  wikiDataId: Q4309425
-- id: 65747
-  name: Petropavl
-  state_id: 144
+- name: Petropavl
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '54.86667000'
   longitude: '69.15000000'
-  wikiDataId: Q488379
-- id: 65775
-  name: Sergeyevka
-  state_id: 144
+- name: Sergeyevka
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.88139000'
   longitude: '67.40882000'
-  wikiDataId: Q61944
-- id: 65793
-  name: Smirnovo
-  state_id: 144
+- name: Smirnovo
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '54.51480000'
   longitude: '69.42732000'
-  wikiDataId: Q4523462
-- id: 65799
-  name: Taiynsha
-  state_id: 144
+- name: Taiynsha
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.84796000'
   longitude: '69.76773000'
-  wikiDataId: Q35362
-- id: 65802
-  name: Talshik
-  state_id: 144
+- name: Talshik
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.63736000'
   longitude: '71.87404000'
-  wikiDataId: Q2302162
-- id: 65812
-  name: Timiryazevo
-  state_id: 144
+- name: Timiryazevo
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.74947000'
   longitude: '66.48852000'
-  wikiDataId: Q32382
-- id: 65826
-  name: Volodarskoye
-  state_id: 144
+- name: Volodarskoye
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.29270000'
   longitude: '68.10500000'
-  wikiDataId: Q162548
-- id: 65828
-  name: Yavlenka
-  state_id: 144
+- name: Yavlenka
   state_code: SEV
   state_name: North Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '54.34525000'
   longitude: '68.45740000'
-  wikiDataId: Q162548
-- id: 65599
-  name: Aksu
-  state_id: 146
+- name: Aksu
   state_code: PAV
   state_name: Pavlodar
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.04023000'
   longitude: '76.92748000'
-  wikiDataId: Q622780
-- id: 65637
-  name: Bayanaul
-  state_id: 146
+- name: Bayanaul
   state_code: PAV
   state_name: Pavlodar
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.79304000'
   longitude: '75.70123000'
-  wikiDataId: Q4077051
-- id: 65644
-  name: Belogor’ye
-  state_id: 146
+- name: Belogor’ye
   state_code: PAV
   state_name: Pavlodar
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.52983000'
   longitude: '77.47146000'
-  wikiDataId: Q12532833
-- id: 65673
-  name: Ekibastuz
-  state_id: 146
+- name: Ekibastuz
   state_code: PAV
   state_name: Pavlodar
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.72371000'
   longitude: '75.32287000'
-  wikiDataId: Q496442
-- id: 65685
-  name: Irtyshsk
-  state_id: 146
+- name: Irtyshsk
   state_code: PAV
   state_name: Pavlodar
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.33365000'
   longitude: '75.45775000'
-  wikiDataId: Q1192007
-- id: 65686
-  name: Kalkaman
-  state_id: 146
+- name: Kalkaman
   state_code: PAV
   state_name: Pavlodar
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.95349000'
   longitude: '76.02723000'
-  wikiDataId: Q1192007
-- id: 65713
-  name: Leninskiy
-  state_id: 146
+- name: Leninskiy
   state_code: PAV
   state_name: Pavlodar
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.25346000'
   longitude: '76.78211000'
-  wikiDataId: Q2378015
-- id: 65727
-  name: Mayqayyng
-  state_id: 146
+- name: Mayqayyng
   state_code: PAV
   state_name: Pavlodar
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.45981000'
   longitude: '75.80232000'
-  wikiDataId: Q4274825
-- id: 65744
-  name: Pavlodar
-  state_id: 146
+- name: Pavlodar
   state_code: PAV
   state_name: Pavlodar
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '52.28333000'
   longitude: '76.96667000'
-  wikiDataId: Q486282
-- id: 65756
-  name: Qashyr
-  state_id: 146
+- name: Qashyr
   state_code: PAV
   state_name: Pavlodar
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.06649000'
   longitude: '76.10489000'
-  wikiDataId: Q27351374
-- id: 65843
-  name: Zhelezinka
-  state_id: 146
+- name: Zhelezinka
   state_code: PAV
   state_name: Pavlodar
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '53.53880000'
   longitude: '75.31326000'
-  wikiDataId: Q2231416
-- id: 65617
-  name: Arys
-  state_id: 149
+- name: Arys
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.43015000'
   longitude: '68.80870000'
-  wikiDataId: Q718108
-- id: 65618
-  name: Ashchysay
-  state_id: 149
+- name: Ashchysay
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.55370000'
   longitude: '68.89792000'
-  wikiDataId: Q12531259
-- id: 65620
-  name: Asyqata
-  state_id: 149
+- name: Asyqata
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '40.89460000'
   longitude: '68.36430000'
-  wikiDataId: Q4071858
-- id: 65622
-  name: Atakent
-  state_id: 149
+- name: Atakent
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '40.84782000'
   longitude: '68.50643000'
-  wikiDataId: Q4071940
-- id: 65640
-  name: Bayzhansay
-  state_id: 149
+- name: Bayzhansay
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.16708000'
   longitude: '69.91459000'
-  wikiDataId: Q12532833
-- id: 65646
-  name: Belyye Vody
-  state_id: 149
+- name: Belyye Vody
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.42193000'
   longitude: '69.82709000'
-  wikiDataId: Q2509316
-- id: 65659
-  name: Chardara
-  state_id: 149
+- name: Chardara
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '41.25832000'
   longitude: '67.96991000'
-  wikiDataId: Q1047741
-- id: 65660
-  name: Chayan
-  state_id: 149
+- name: Chayan
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.03399000'
   longitude: '69.38048000'
-  wikiDataId: Q4521580
-- id: 65664
-  name: Chulakkurgan
-  state_id: 149
+- name: Chulakkurgan
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.76453000'
   longitude: '69.17856000'
-  wikiDataId: Q4525984
-- id: 65688
-  name: Kantagi
-  state_id: 149
+- name: Kantagi
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.52786000'
   longitude: '68.58287000'
-  wikiDataId: Q12568918
-- id: 65695
-  name: Kentau
-  state_id: 149
+- name: Kentau
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.51672000'
   longitude: '68.50463000'
-  wikiDataId: Q1315249
-- id: 65700
-  name: Kokterek
-  state_id: 149
+- name: Kokterek
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.49442000'
   longitude: '70.25478000'
-  wikiDataId: Q12551053
-- id: 65712
-  name: Lenger
-  state_id: 149
+- name: Lenger
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.18152000'
   longitude: '69.88582000'
-  wikiDataId: Q2378015
-- id: 65714
-  name: Leninskoye
-  state_id: 149
+- name: Leninskoye
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '41.75640000'
   longitude: '69.38390000'
-  wikiDataId: Q4208478
-- id: 65724
-  name: Maqtaaral Aūdany
-  state_id: 149
+- name: Maqtaaral Aūdany
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '40.75000000'
   longitude: '68.58333000'
-  wikiDataId: Q2554567
-- id: 65734
-  name: Myrzakent
-  state_id: 149
+- name: Myrzakent
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '40.66338000'
   longitude: '68.54510000'
-  wikiDataId: Q4309425
-- id: 65758
-  name: Qogham
-  state_id: 149
+- name: Qogham
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.82774000'
   longitude: '68.28074000'
-  wikiDataId: Q12533012
-- id: 65764
-  name: Saryaghash
-  state_id: 149
+- name: Saryaghash
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '41.46042000'
   longitude: '69.16791000'
-  wikiDataId: Q630676
-- id: 65765
-  name: Saryaghash Aūdany
-  state_id: 149
+- name: Saryaghash Aūdany
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '41.66667000'
   longitude: '68.83333000'
-  wikiDataId: Q2554452
-- id: 65769
-  name: Sastobe
-  state_id: 149
+- name: Sastobe
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.55330000'
   longitude: '69.99835000'
-  wikiDataId: Q12561247
-- id: 65795
-  name: Sozaq Aūdany
-  state_id: 149
+- name: Sozaq Aūdany
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '44.83333000'
   longitude: '68.50000000'
-  wikiDataId: Q2554556
-- id: 65809
-  name: Temirlanovka
-  state_id: 149
+- name: Temirlanovka
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.59998000'
   longitude: '69.25836000'
-  wikiDataId: Q4454454
-- id: 65817
-  name: Turar Ryskulov
-  state_id: 149
+- name: Turar Ryskulov
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.53340000'
   longitude: '70.34960000'
-  wikiDataId: Q4736474
-- id: 65819
-  name: Turkestan
-  state_id: 149
+- name: Turkestan
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '43.29733000'
   longitude: '68.25175000'
-  wikiDataId: Q848638
-- id: 65820
-  name: Tyul’kubas
-  state_id: 149
+- name: Tyul’kubas
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.48578000'
   longitude: '70.29601000'
-  wikiDataId: Q848638
-- id: 65834
-  name: Zhabagly
-  state_id: 149
+- name: Zhabagly
   state_code: YUZ
   state_name: Turkestan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '42.43781000'
   longitude: '70.47841000'
-  wikiDataId: Q1881641
-- id: 65611
-  name: Aqsay
-  state_id: 148
+- name: Aqsay
   state_code: ZAP
   state_name: West Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.16810000'
   longitude: '52.99782000'
-  wikiDataId: Q622760
-- id: 65655
-  name: Burlin
-  state_id: 148
+- name: Burlin
   state_code: ZAP
   state_name: West Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.42724000'
   longitude: '52.71392000'
-  wikiDataId: Q27357540
-- id: 65658
-  name: Chapaev
-  state_id: 148
+- name: Chapaev
   state_code: ZAP
   state_name: West Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.20000000'
   longitude: '51.16667000'
-  wikiDataId: Q4507143
-- id: 65662
-  name: Chingirlau
-  state_id: 148
+- name: Chingirlau
   state_code: ZAP
   state_name: West Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.09878000'
   longitude: '54.08426000'
-  wikiDataId: Q4516058
-- id: 65670
-  name: Dzhambeyty
-  state_id: 148
+- name: Dzhambeyty
   state_code: ZAP
   state_name: West Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '50.25676000'
   longitude: '52.59895000'
-  wikiDataId: Q4737934
-- id: 65677
-  name: Fedorovka
-  state_id: 148
+- name: Fedorovka
   state_code: ZAP
   state_name: West Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.22102000'
   longitude: '51.95723000'
-  wikiDataId: Q1238323
-- id: 65693
-  name: Kaztalovka
-  state_id: 148
+- name: Kaztalovka
   state_code: ZAP
   state_name: West Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.76612000'
   longitude: '48.68903000'
-  wikiDataId: Q1047754
-- id: 65704
-  name: Krūgloozernoe
-  state_id: 148
+- name: Krūgloozernoe
   state_code: ZAP
   state_name: West Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.07854000'
   longitude: '51.28992000'
-  wikiDataId: Q488990
-- id: 65739
-  name: Oral
-  state_id: 148
+- name: Oral
   state_code: ZAP
   state_name: West Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.23333000'
   longitude: '51.36667000'
-  wikiDataId: Q487439
-- id: 65745
-  name: Peremetnoe
-  state_id: 148
+- name: Peremetnoe
   state_code: ZAP
   state_name: West Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.19925000'
   longitude: '50.85544000'
-  wikiDataId: Q4350661
-- id: 65771
-  name: Saykhin
-  state_id: 148
+- name: Saykhin
   state_code: ZAP
   state_name: West Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '48.85611000'
   longitude: '46.83361000'
-  wikiDataId: Q12561247
-- id: 65805
-  name: Tasqala
-  state_id: 148
+- name: Tasqala
   state_code: ZAP
   state_name: West Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '51.11073000'
   longitude: '50.29454000'
-  wikiDataId: Q4452304
-- id: 65849
-  name: Zhänibek
-  state_id: 148
+- name: Zhänibek
   state_code: ZAP
   state_name: West Kazakhstan
-  country_id: 112
-  country_code: KZ
-  country_name: Kazakhstan
   latitude: '49.42207000'
   longitude: '46.84705000'
-  wikiDataId: Q141468

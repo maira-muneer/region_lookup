@@ -1,595 +1,271 @@
 ---
-- id: 154101
-  name: Vingtaine de la Rocque
-  state_id: 5309
+- name: Vingtaine de la Rocque
   state_code: '01'
   state_name: Grouville
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.16708180'
   longitude: "-2.05058070"
-  wikiDataId: Q3560208
-- id: 154099
-  name: Vingtaine de la Rue
-  state_id: 5309
+- name: Vingtaine de la Rue
   state_code: '01'
   state_name: Grouville
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.18661230'
   longitude: "-2.05316130"
-  wikiDataId: Q3560211
-- id: 154100
-  name: Vingtaine de Longueville
-  state_id: 5309
+- name: Vingtaine de Longueville
   state_code: '01'
   state_name: Grouville
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.19001830'
   longitude: "-2.04917800"
-  wikiDataId: Q3560187
-- id: 154098
-  name: Vingtaine des Marais
-  state_id: 5309
+- name: Vingtaine des Marais
   state_code: '01'
   state_name: Grouville
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.18556300'
   longitude: "-2.05042200"
-  wikiDataId: Q3560224
-- id: 154105
-  name: Vingtaine de la Moye
-  state_id: 5310
+- name: Vingtaine de la Moye
   state_code: '02'
   state_name: St Brelade
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.18445480'
   longitude: "-2.23950470"
-  wikiDataId: Q3560207
-- id: 154102
-  name: Vingtaine de Noirmont
-  state_id: 5310
+- name: Vingtaine de Noirmont
   state_code: '02'
   state_name: St Brelade
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.17269850'
   longitude: "-2.22550510"
-  wikiDataId: Q3560193
-- id: 154104
-  name: Vingtaine des Quennevais
-  state_id: 5310
+- name: Vingtaine des Quennevais
   state_code: '02'
   state_name: St Brelade
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.19704320'
   longitude: "-2.21618080"
-  wikiDataId: Q3560225
-- id: 154103
-  name: Vingtaine du Coin
-  state_id: 5310
+- name: Vingtaine du Coin
   state_code: '02'
   state_name: St Brelade
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.18753960'
   longitude: "-2.18473710"
-  wikiDataId: Q3560226
-- id: 154106
-  name: Grande Vingtaine
-  state_id: 5311
+- name: Grande Vingtaine
   state_code: '03'
   state_name: St Clement
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.17207130'
   longitude: "-2.06199370"
-  wikiDataId: Q3115042
-- id: 154108
-  name: Vingtaine de Samarès
-  state_id: 5311
+- name: Vingtaine de Samarès
   state_code: '03'
   state_name: St Clement
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.16497580'
   longitude: "-2.09880290"
-  wikiDataId: Q3560199
-- id: 154107
-  name: Vingtaine du Rocquier
-  state_id: 5311
+- name: Vingtaine du Rocquier
   state_code: '03'
   state_name: St Clement
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.16708180'
   longitude: "-2.05058070"
-  wikiDataId: Q3560250
-- id: 154111
-  name: Vingtaine de Bas du Mont au Prêtre
-  state_id: 5312
+- name: Vingtaine de Bas du Mont au Prêtre
   state_code: '04'
   state_name: St Helier
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.19939590'
   longitude: "-2.11964080"
-  wikiDataId: Q3560182
-- id: 154112
-  name: Vingtaine de Haut du Mont au Prêtre
-  state_id: 5312
+- name: Vingtaine de Haut du Mont au Prêtre
   state_code: '04'
   state_name: St Helier
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.18050190'
   longitude: "-2.10323300"
-  wikiDataId: Q3560183
-- id: 154109
-  name: Vingtaine de la Ville
-  state_id: 5312
+- name: Vingtaine de la Ville
   state_code: '04'
   state_name: St Helier
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.18050190'
   longitude: "-2.10323300"
-  wikiDataId: Q3560216
-- id: 154113
-  name: Vingtaine du Mont à l'Abbé
-  state_id: 5312
+- name: Vingtaine du Mont à l'Abbé
   state_code: '04'
   state_name: St Helier
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.20036330'
   longitude: "-2.13384390"
-  wikiDataId: Q3560246
-- id: 154114
-  name: Vingtaine du Mont Cochon
-  state_id: 5312
+- name: Vingtaine du Mont Cochon
   state_code: '04'
   state_name: St Helier
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.19975370'
   longitude: "-2.14757550"
-  wikiDataId: Q3560243
-- id: 154110
-  name: Vingtaine du Rouge Bouillon
-  state_id: 5312
+- name: Vingtaine du Rouge Bouillon
   state_code: '04'
   state_name: St Helier
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.19291200'
   longitude: "-2.10935300"
-  wikiDataId: Q3560257
-- id: 154116
-  name: Vingtaine de Hérupe
-  state_id: 5313
+- name: Vingtaine de Hérupe
   state_code: '05'
   state_name: St John
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.23330120'
   longitude: "-2.12357080"
-  wikiDataId: Q3560186
-- id: 154117
-  name: Vingtaine du Douet
-  state_id: 5313
+- name: Vingtaine du Douet
   state_code: '05'
   state_name: St John
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.23459620'
   longitude: "-2.17227710"
-  wikiDataId: Q3560238
-- id: 154115
-  name: Vingtaine du Nord
-  state_id: 5313
+- name: Vingtaine du Nord
   state_code: '05'
   state_name: St John
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.23938780'
   longitude: "-2.12069720"
-  wikiDataId: Q3560244
-- id: 154119
-  name: Vingtaine Bas de la Vallée
-  state_id: 5314
+- name: Vingtaine Bas de la Vallée
   state_code: '06'
   state_name: St Lawrence
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.21873100'
   longitude: "-2.14180450"
-  wikiDataId: Q7932512
-- id: 154120
-  name: Vingtaine du Coin Hatain
-  state_id: 5314
+- name: Vingtaine du Coin Hatain
   state_code: '06'
   state_name: St Lawrence
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.21873100'
   longitude: "-2.14180450"
-  wikiDataId: Q3560229
-- id: 154121
-  name: Vingtaine du Coin Motier
-  state_id: 5314
+- name: Vingtaine du Coin Motier
   state_code: '06'
   state_name: St Lawrence
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.21873100'
   longitude: "-2.14180450"
-  wikiDataId: Q634949
-- id: 154122
-  name: Vingtaine du Coin Tourgis Nord
-  state_id: 5314
+- name: Vingtaine du Coin Tourgis Nord
   state_code: '06'
   state_name: St Lawrence
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.21873100'
   longitude: "-2.14180450"
-  wikiDataId: Q3560234
-- id: 154123
-  name: Vingtaine du Coin Tourgis Sud
-  state_id: 5314
+- name: Vingtaine du Coin Tourgis Sud
   state_code: '06'
   state_name: St Lawrence
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.21873100'
   longitude: "-2.14180450"
-  wikiDataId: Q3560236
-- id: 154118
-  name: Vingtaine Haut de la Vallée
-  state_id: 5314
+- name: Vingtaine Haut de la Vallée
   state_code: '06'
   state_name: St Lawrence
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.21873100'
   longitude: "-2.14180450"
-  wikiDataId: Q3560212
-- id: 154125
-  name: Vingtaine de Faldouet
-  state_id: 5315
+- name: Vingtaine de Faldouet
   state_code: '07'
   state_name: St Martin
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.20322040'
   longitude: "-2.05269720"
-  wikiDataId: Q3560181
-- id: 154127
-  name: Vingtaine de l'Église
-  state_id: 5315
+- name: Vingtaine de l'Église
   state_code: '07'
   state_name: St Martin
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '0.00000000'
   longitude: '0.00000000'
-  wikiDataId: Q3560198
-- id: 154126
-  name: Vingtaine de la Quéruée
-  state_id: 5315
+- name: Vingtaine de la Quéruée
   state_code: '07'
   state_name: St Martin
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.22056780'
   longitude: "-2.04008200"
-  wikiDataId: Q3560205
-- id: 154124
-  name: Vingtaine de Rozel
-  state_id: 5315
+- name: Vingtaine de Rozel
   state_code: '07'
   state_name: St Martin
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.23569500'
   longitude: "-2.05048470"
-  wikiDataId: Q3560196
-- id: 154128
-  name: Vingtaine du Fief de la Reine
-  state_id: 5315
+- name: Vingtaine du Fief de la Reine
   state_code: '07'
   state_name: St Martin
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.22056780'
   longitude: "-2.04008200"
-  wikiDataId: Q3560240
-- id: 154130
-  name: Vingtaine du Nord
-  state_id: 5316
+- name: Vingtaine du Nord
   state_code: '08'
   state_name: St Mary
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.24102700'
   longitude: "-2.16900950"
-  wikiDataId: Q3560249
-- id: 154129
-  name: Vingtaine du Sud
-  state_id: 5316
+- name: Vingtaine du Sud
   state_code: '08'
   state_name: St Mary
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.24102700'
   longitude: "-2.16900950"
-  wikiDataId: Q3560254
-- id: 154133
-  name: Cueillette de Grantez
-  state_id: 5317
+- name: Cueillette de Grantez
   state_code: '09'
   state_name: St Ouen
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.23123970'
   longitude: "-2.22339030"
-  wikiDataId: Q3006750
-- id: 154136
-  name: Cueillette de Léoville
-  state_id: 5317
+- name: Cueillette de Léoville
   state_code: '09'
   state_name: St Ouen
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.23803240'
   longitude: "-2.22634870"
-  wikiDataId: Q3006749
-- id: 154134
-  name: Cueillette de Millais
-  state_id: 5317
+- name: Cueillette de Millais
   state_code: '09'
   state_name: St Ouen
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.24085370'
   longitude: "-2.24330420"
-  wikiDataId: Q3006751
-- id: 154135
-  name: Cueillette de Vinchelez
-  state_id: 5317
+- name: Cueillette de Vinchelez
   state_code: '09'
   state_name: St Ouen
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.24447800'
   longitude: "-2.23905430"
-  wikiDataId: Q3006752
-- id: 154132
-  name: Grande Cueillette
-  state_id: 5317
+- name: Grande Cueillette
   state_code: '09'
   state_name: St Ouen
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.23747580'
   longitude: "-2.22264800"
-  wikiDataId: Q3114931
-- id: 154131
-  name: Petite Cueillette
-  state_id: 5317
+- name: Petite Cueillette
   state_code: '09'
   state_name: St Ouen
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.23747580'
   longitude: "-2.22264800"
-  wikiDataId: Q3377350
-- id: 154138
-  name: Grande Vingtaine
-  state_id: 5318
+- name: Grande Vingtaine
   state_code: '10'
   state_name: St Peter
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.21065500'
   longitude: "-2.19606360"
-  wikiDataId: Q15813115
-- id: 154139
-  name: Vingtaine des Augerez
-  state_id: 5318
+- name: Vingtaine des Augerez
   state_code: '10'
   state_name: St Peter
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.20776790'
   longitude: "-2.18629780"
-  wikiDataId: Q3560218
-- id: 154140
-  name: Vingtaine du Coin Varin
-  state_id: 5318
+- name: Vingtaine du Coin Varin
   state_code: '10'
   state_name: St Peter
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.21451950'
   longitude: "-2.18722550"
-  wikiDataId: Q3560232
-- id: 154137
-  name: Vingtaine du Douet
-  state_id: 5318
+- name: Vingtaine du Douet
   state_code: '10'
   state_name: St Peter
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '0.00000000'
   longitude: '0.00000000'
-  wikiDataId: Q3560237
-- id: 154146
-  name: Vingtaine de la Grande Longueville
-  state_id: 5319
+- name: Vingtaine de la Grande Longueville
   state_code: '11'
   state_name: St Saviour
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.18342350'
   longitude: "-2.07844940"
-  wikiDataId: Q3560204
-- id: 154141
-  name: Vingtaine de la Petite Longueville
-  state_id: 5319
+- name: Vingtaine de la Petite Longueville
   state_code: '11'
   state_name: St Saviour
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.18342350'
   longitude: "-2.07844940"
-  wikiDataId: Q2424564
-- id: 154143
-  name: Vingtaine de Maufant
-  state_id: 5319
+- name: Vingtaine de Maufant
   state_code: '11'
   state_name: St Saviour
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.20822960'
   longitude: "-2.10060600"
-  wikiDataId: Q3560189
-- id: 154142
-  name: Vingtaine de Sous l'Église
-  state_id: 5319
+- name: Vingtaine de Sous l'Église
   state_code: '11'
   state_name: St Saviour
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '0.00000000'
   longitude: '0.00000000'
-  wikiDataId: Q3560194
-- id: 154144
-  name: Vingtaine de Sous la Hougue
-  state_id: 5319
+- name: Vingtaine de Sous la Hougue
   state_code: '11'
   state_name: St Saviour
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.21377110'
   longitude: "-2.13576620"
-  wikiDataId: Q3560200
-- id: 154145
-  name: Vingtaine des Pigneaux
-  state_id: 5319
+- name: Vingtaine des Pigneaux
   state_code: '11'
   state_name: St Saviour
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.20262700'
   longitude: "-2.07080670"
-  wikiDataId: Q3560222
-- id: 154151
-  name: Vingtaine de la Croiserie
-  state_id: 5320
+- name: Vingtaine de la Croiserie
   state_code: '12'
   state_name: Trinity
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.22988270'
   longitude: "-2.08601240"
-  wikiDataId: Q3560201
-- id: 154147
-  name: Vingtaine de la Ville-à-l'Évêque
-  state_id: 5320
+- name: Vingtaine de la Ville-à-l'Évêque
   state_code: '12'
   state_name: Trinity
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.23176480'
   longitude: "-2.12236840"
-  wikiDataId: Q3560214
-- id: 154148
-  name: Vingtaine de Rozel
-  state_id: 5320
+- name: Vingtaine de Rozel
   state_code: '12'
   state_name: Trinity
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.23842870'
   longitude: "-2.06704060"
-  wikiDataId: Q25569400
-- id: 154150
-  name: Vingtaine des Augrès
-  state_id: 5320
+- name: Vingtaine des Augrès
   state_code: '12'
   state_name: Trinity
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.22857290'
   longitude: "-2.08235050"
-  wikiDataId: Q3560219
-- id: 154149
-  name: Vingtaine du Rondin
-  state_id: 5320
+- name: Vingtaine du Rondin
   state_code: '12'
   state_name: Trinity
-  country_id: 110
-  country_code: JE
-  country_name: Jersey
   latitude: '49.22988270'
   longitude: "-2.08601240"
-  wikiDataId: Q3560251

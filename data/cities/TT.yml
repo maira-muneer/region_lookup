@@ -1,276 +1,126 @@
 ---
-- id: 108968
-  name: Arima
-  state_id: 3362
+- name: Arima
   state_code: ARI
   state_name: Arima
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.63737000'
   longitude: "-61.28228000"
-  wikiDataId: Q131495
-- id: 108970
-  name: Chaguanas
-  state_id: 3366
+- name: Chaguanas
   state_code: CHA
   state_name: Chaguanas
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.51667000'
   longitude: "-61.41667000"
-  wikiDataId: Q4795612
-- id: 108990
-  name: Ward of Chaguanas
-  state_id: 3366
+- name: Ward of Chaguanas
   state_code: CHA
   state_name: Chaguanas
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.50000000'
   longitude: "-61.38333000"
-  wikiDataId: Q1444575
-- id: 108971
-  name: Couva
-  state_id: 3354
+- name: Couva
   state_code: CTT
   state_name: Couva-Tabaquite-Talparo
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.42248000'
   longitude: "-61.46748000"
-  wikiDataId: Q2602007
-- id: 108988
-  name: Tabaquite
-  state_id: 3354
+- name: Tabaquite
   state_code: CTT
   state_name: Couva-Tabaquite-Talparo
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.38824000'
   longitude: "-61.29704000"
-  wikiDataId: Q966660
-- id: 108978
-  name: Petit Valley
-  state_id: 3367
+- name: Petit Valley
   state_code: DMN
   state_name: Diego Martin
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.69974000'
   longitude: "-61.54717000"
-  wikiDataId: Q3493518
-- id: 108991
-  name: Ward of Diego Martin
-  state_id: 3367
+- name: Ward of Diego Martin
   state_code: DMN
   state_name: Diego Martin
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.70000000'
   longitude: "-61.58333000"
-  wikiDataId: Q1444575
-- id: 108986
-  name: Scarborough
-  state_id: 3355
+- name: Scarborough
   state_code: ETO
   state_name: Eastern Tobago
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '11.18229000'
   longitude: "-60.73525000"
-  wikiDataId: Q966660
-- id: 108972
-  name: Debe
-  state_id: 3365
+- name: Debe
   state_code: PED
   state_name: Penal-Debe
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.20846000'
   longitude: "-61.45273000"
-  wikiDataId: Q2602007
-- id: 108979
-  name: Peñal
-  state_id: 3365
+- name: Peñal
   state_code: PED
   state_name: Penal-Debe
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.16667000'
   longitude: "-61.46667000"
-  wikiDataId: Q3493518
-- id: 108980
-  name: Point Fortin
-  state_id: 3360
+- name: Point Fortin
   state_code: PTF
   state_name: Point Fortin
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.17411000'
   longitude: "-61.68407000"
-  wikiDataId: Q786957
-- id: 108976
-  name: Mucurapo
-  state_id: 3363
+- name: Mucurapo
   state_code: POS
   state_name: Port of Spain
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.66253000'
   longitude: "-61.53697000"
-  wikiDataId: Q3493518
-- id: 108981
-  name: Port of Spain
-  state_id: 3363
+- name: Port of Spain
   state_code: POS
   state_name: Port of Spain
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.66668000'
   longitude: "-61.51889000"
-  wikiDataId: Q39178
-- id: 108982
-  name: Princes Town
-  state_id: 3368
+- name: Princes Town
   state_code: PRT
   state_name: Princes Town
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.27184000'
   longitude: "-61.37103000"
-  wikiDataId: Q1011576
-- id: 108974
-  name: Marabella
-  state_id: 3359
+- name: Marabella
   state_code: SFO
   state_name: San Fernando
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.30618000'
   longitude: "-61.44671000"
-  wikiDataId: Q3493518
-- id: 108975
-  name: Mon Repos
-  state_id: 3359
+- name: Mon Repos
   state_code: SFO
   state_name: San Fernando
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.27979000'
   longitude: "-61.44590000"
-  wikiDataId: Q3493518
-- id: 108984
-  name: San Fernando
-  state_id: 3359
+- name: San Fernando
   state_code: SFO
   state_name: San Fernando
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.27969000'
   longitude: "-61.46835000"
-  wikiDataId: Q1023712
-- id: 108973
-  name: Laventille
-  state_id: 3357
+- name: Laventille
   state_code: SJL
   state_name: San Juan-Laventille
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.64917000'
   longitude: "-61.49889000"
-  wikiDataId: Q6502566
-- id: 108985
-  name: Sangre Grande
-  state_id: 3361
+- name: Sangre Grande
   state_code: SGE
   state_name: Sangre Grande
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.58705000'
   longitude: "-61.13008000"
-  wikiDataId: Q2957578
-- id: 108987
-  name: Siparia
-  state_id: 3364
+- name: Siparia
   state_code: SIP
   state_name: Siparia
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.14525000'
   longitude: "-61.50740000"
-  wikiDataId: Q966660
-- id: 108992
-  name: Ward of Siparia
-  state_id: 3364
+- name: Ward of Siparia
   state_code: SIP
   state_name: Siparia
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.15000000'
   longitude: "-61.46667000"
-  wikiDataId: Q1444575
-- id: 108969
-  name: Arouca
-  state_id: 3358
+- name: Arouca
   state_code: TUP
   state_name: Tunapuna-Piarco
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.62877000'
   longitude: "-61.33487000"
-  wikiDataId: Q4795612
-- id: 108977
-  name: Paradise
-  state_id: 3358
+- name: Paradise
   state_code: TUP
   state_name: Tunapuna-Piarco
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.65298000'
   longitude: "-61.36298000"
-  wikiDataId: Q3493518
-- id: 108989
-  name: Tunapuna
-  state_id: 3358
+- name: Tunapuna
   state_code: TUP
   state_name: Tunapuna-Piarco
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.65245000'
   longitude: "-61.38878000"
-  wikiDataId: Q2522343
-- id: 108983
-  name: Rio Claro
-  state_id: 3353
+- name: Rio Claro
   state_code: WTO
   state_name: Western Tobago
-  country_id: 223
-  country_code: TT
-  country_name: Trinidad and Tobago
   latitude: '10.30594000'
   longitude: "-61.17556000"
-  wikiDataId: Q514272

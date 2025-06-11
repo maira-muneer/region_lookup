@@ -1,771 +1,351 @@
 ---
-- id: 76675
-  name: Agadez
-  state_id: 71
+- name: Agadez
   state_code: '1'
   state_name: Agadez
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '16.97333000'
   longitude: '7.99111000'
-  wikiDataId: Q320049
-- id: 76677
-  name: Alaghsas
-  state_id: 71
+- name: Alaghsas
   state_code: '1'
   state_name: Agadez
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '17.01870000'
   longitude: '8.01680000'
-  wikiDataId: Q320049
-- id: 76678
-  name: Arlit
-  state_id: 71
+- name: Arlit
   state_code: '1'
   state_name: Agadez
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '18.83409000'
   longitude: '7.43327000'
-  wikiDataId: Q675798
-- id: 76681
-  name: Bilma
-  state_id: 71
+- name: Bilma
   state_code: '1'
   state_name: Agadez
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '18.68532000'
   longitude: '12.91643000'
-  wikiDataId: Q15713669
-- id: 76690
-  name: Département de Bilma
-  state_id: 71
+- name: Département de Bilma
   state_code: '1'
   state_name: Agadez
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '20.50000000'
   longitude: '13.25000000'
-  wikiDataId: Q863297
-- id: 76711
-  name: Département de Tchirozérine
-  state_id: 71
+- name: Département de Tchirozérine
   state_code: '1'
   state_name: Agadez
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '17.43293000'
   longitude: '7.89321000'
-  wikiDataId: Q1464380
-- id: 76694
-  name: Département de Diffa
-  state_id: 72
+- name: Département de Diffa
   state_code: '2'
   state_name: Diffa
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.66667000'
   longitude: '12.50000000'
-  wikiDataId: Q749567
-- id: 76705
-  name: Département de Maïné-Soroa
-  state_id: 72
+- name: Département de Maïné-Soroa
   state_code: '2'
   state_name: Diffa
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.31206000'
   longitude: '12.08321000'
-  wikiDataId: Q1538108
-- id: 76706
-  name: Département de Nguigmi
-  state_id: 72
+- name: Département de Nguigmi
   state_code: '2'
   state_name: Diffa
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.20753000'
   longitude: '13.12177000'
-  wikiDataId: Q1422302
-- id: 76686
-  name: Diffa
-  state_id: 72
+- name: Diffa
   state_code: '2'
   state_name: Diffa
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.31536000'
   longitude: '12.61135000'
-  wikiDataId: Q888839
-- id: 76729
-  name: Maïné Soroa
-  state_id: 72
+- name: Maïné Soroa
   state_code: '2'
   state_name: Diffa
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.21139000'
   longitude: '12.02410000'
-  wikiDataId: Q664550
-- id: 76731
-  name: Nguigmi
-  state_id: 72
+- name: Nguigmi
   state_code: '2'
   state_name: Diffa
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.24953000'
   longitude: '13.10921000'
-  wikiDataId: Q664550
-- id: 76683
-  name: Boboye Department
-  state_id: 68
+- name: Boboye Department
   state_code: '3'
   state_name: Dosso
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.08167000'
   longitude: '2.91083000'
-  wikiDataId: Q888839
-- id: 76695
-  name: Département de Dogondoutchi
-  state_id: 68
+- name: Département de Dogondoutchi
   state_code: '3'
   state_name: Dosso
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.50000000'
   longitude: '4.00000000'
-  wikiDataId: Q912641
-- id: 76696
-  name: Département de Dosso
-  state_id: 68
+- name: Département de Dosso
   state_code: '3'
   state_name: Dosso
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '12.83333000'
   longitude: '3.33333000'
-  wikiDataId: Q1251043
-- id: 76698
-  name: Département de Gaya
-  state_id: 68
+- name: Département de Gaya
   state_code: '3'
   state_name: Dosso
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '11.95970000'
   longitude: '3.46045000'
-  wikiDataId: Q912246
-- id: 76702
-  name: Département de Loga
-  state_id: 68
+- name: Département de Loga
   state_code: '3'
   state_name: Dosso
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.63333000'
   longitude: '3.50000000'
-  wikiDataId: Q1540086
-- id: 76687
-  name: Dogondoutchi
-  state_id: 68
+- name: Dogondoutchi
   state_code: '3'
   state_name: Dosso
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.64030000'
   longitude: '4.02649000'
-  wikiDataId: Q888839
-- id: 76688
-  name: Dosso
-  state_id: 68
+- name: Dosso
   state_code: '3'
   state_name: Dosso
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.04900000'
   longitude: '3.19370000'
-  wikiDataId: Q888839
-- id: 76716
-  name: Gaya
-  state_id: 68
+- name: Gaya
   state_code: '3'
   state_name: Dosso
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '11.88435000'
   longitude: '3.44919000'
-  wikiDataId: Q766896
-- id: 76676
-  name: Aguié
-  state_id: 70
+- name: Aguié
   state_code: '4'
   state_name: Maradi
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.50601000'
   longitude: '7.77863000'
-  wikiDataId: Q320049
-- id: 76685
-  name: Dakoro
-  state_id: 70
+- name: Dakoro
   state_code: '4'
   state_name: Maradi
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.51056000'
   longitude: '6.76500000'
-  wikiDataId: Q888839
-- id: 76714
-  name: Département d’Aguié
-  state_id: 70
+- name: Département d’Aguié
   state_code: '4'
   state_name: Maradi
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.46976000'
   longitude: '7.74219000'
-  wikiDataId: Q398476
-- id: 76693
-  name: Département de Dakoro
-  state_id: 70
+- name: Département de Dakoro
   state_code: '4'
   state_name: Maradi
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.75000000'
   longitude: '7.00000000'
-  wikiDataId: Q912576
-- id: 76704
-  name: Département de Mayahi
-  state_id: 70
+- name: Département de Mayahi
   state_code: '4'
   state_name: Maradi
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.10000000'
   longitude: '7.60000000'
-  wikiDataId: Q205039
-- id: 76712
-  name: Département de Tessaoua
-  state_id: 70
+- name: Département de Tessaoua
   state_code: '4'
   state_name: Maradi
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.60000000'
   longitude: '7.90000000'
-  wikiDataId: Q912585
-- id: 76718
-  name: Guidan Roumdji Department
-  state_id: 70
+- name: Guidan Roumdji Department
   state_code: '4'
   state_name: Maradi
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.65750000'
   longitude: '6.69583000'
-  wikiDataId: Q912927
-- id: 76724
-  name: Madarounfa
-  state_id: 70
+- name: Madarounfa
   state_code: '4'
   state_name: Maradi
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.28253000'
   longitude: '7.15495000'
-  wikiDataId: Q912554
-- id: 76726
-  name: Maradi
-  state_id: 70
+- name: Maradi
   state_code: '4'
   state_name: Maradi
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.50000000'
   longitude: '7.10174000'
-  wikiDataId: Q664550
-- id: 76728
-  name: Mayahi
-  state_id: 70
+- name: Mayahi
   state_code: '4'
   state_name: Maradi
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.95532000'
   longitude: '7.67122000'
-  wikiDataId: Q664550
-- id: 76738
-  name: Tessaoua
-  state_id: 70
+- name: Tessaoua
   state_code: '4'
   state_name: Maradi
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.75737000'
   longitude: '7.98740000'
-  wikiDataId: Q1538673
-- id: 76739
-  name: Tibiri
-  state_id: 70
+- name: Tibiri
   state_code: '4'
   state_name: Maradi
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.56271000'
   longitude: '7.04848000'
-  wikiDataId: Q1538673
-- id: 76674
-  name: Abalak
-  state_id: 73
+- name: Abalak
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '15.41618000'
   longitude: '6.16975000'
-  wikiDataId: Q305217
-- id: 76682
-  name: Birni N Konni
-  state_id: 73
+- name: Birni N Konni
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.79599000'
   longitude: '5.25026000'
-  wikiDataId: Q15713669
-- id: 76684
-  name: Bouza
-  state_id: 73
+- name: Bouza
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.42293000'
   longitude: '6.04278000'
-  wikiDataId: Q888839
-- id: 76689
-  name: Département d' Illéla
-  state_id: 73
+- name: Département d' Illéla
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.25000000'
   longitude: '5.00000000'
-  wikiDataId: Q605633
-- id: 76691
-  name: Département de Birni Nkonni
-  state_id: 73
+- name: Département de Birni Nkonni
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.90000000'
   longitude: '5.25000000'
-  wikiDataId: Q865805
-- id: 76692
-  name: Département de Bouza
-  state_id: 73
+- name: Département de Bouza
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.43333000'
   longitude: '6.00000000'
-  wikiDataId: Q895323
-- id: 76701
-  name: Département de Keïta
-  state_id: 73
+- name: Département de Keïta
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.80000000'
   longitude: '6.00000000'
-  wikiDataId: Q1674773
-- id: 76703
-  name: Département de Madaoua
-  state_id: 73
+- name: Département de Madaoua
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.99988000'
   longitude: '6.10012000'
-  wikiDataId: Q427279
-- id: 76709
-  name: Département de Tahoua
-  state_id: 73
+- name: Département de Tahoua
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.80000000'
   longitude: '4.80000000'
-  wikiDataId: Q13403317
-- id: 76710
-  name: Département de Tchin-Tabaraden
-  state_id: 73
+- name: Département de Tchin-Tabaraden
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '15.86694000'
   longitude: '5.71042000'
-  wikiDataId: Q1509694
-- id: 76719
-  name: Illéla
-  state_id: 73
+- name: Illéla
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.46050000'
   longitude: '5.24370000'
-  wikiDataId: Q912927
-- id: 76720
-  name: Keïta
-  state_id: 73
+- name: Keïta
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.75510000'
   longitude: '5.77490000'
-  wikiDataId: Q912927
-- id: 76723
-  name: Madaoua
-  state_id: 73
+- name: Madaoua
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.07300000'
   longitude: '5.96000000'
-  wikiDataId: Q667343
-- id: 76734
-  name: Tahoua
-  state_id: 73
+- name: Tahoua
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.88880000'
   longitude: '5.26920000'
-  wikiDataId: Q664550
-- id: 76736
-  name: Tchintabaraden
-  state_id: 73
+- name: Tchintabaraden
   state_code: '5'
   state_name: Tahoua
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '15.89690000'
   longitude: '5.79850000'
-  wikiDataId: Q664550
-- id: 76679
-  name: Ayorou
-  state_id: 67
+- name: Ayorou
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.73075000'
   longitude: '0.91739000'
-  wikiDataId: Q675798
-- id: 76680
-  name: Balleyara
-  state_id: 67
+- name: Balleyara
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.72848000'
   longitude: '2.87503000'
-  wikiDataId: Q15713669
-- id: 76697
-  name: Département de Filingué
-  state_id: 67
+- name: Département de Filingué
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.31645000'
   longitude: '3.23611000'
-  wikiDataId: Q1413476
-- id: 76707
-  name: Département de Ouallam
-  state_id: 67
+- name: Département de Ouallam
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.63333000'
   longitude: '2.25000000'
-  wikiDataId: Q912803
-- id: 76708
-  name: Département de Say
-  state_id: 67
+- name: Département de Say
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.03579000'
   longitude: '2.22112000'
-  wikiDataId: Q1236539
-- id: 76715
-  name: Filingué
-  state_id: 67
+- name: Filingué
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.35210000'
   longitude: '3.31680000'
-  wikiDataId: Q398476
-- id: 76721
-  name: Kollo
-  state_id: 67
+- name: Kollo
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.30430000'
   longitude: '2.33900000'
-  wikiDataId: Q912927
-- id: 76722
-  name: Kollo Department
-  state_id: 67
+- name: Kollo Department
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.57600000'
   longitude: '2.45200000'
-  wikiDataId: Q667343
-- id: 76732
-  name: Ouallam
-  state_id: 67
+- name: Ouallam
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.31641000'
   longitude: '2.08597000'
-  wikiDataId: Q664550
-- id: 76733
-  name: Say
-  state_id: 67
+- name: Say
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.10070000'
   longitude: '2.36890000'
-  wikiDataId: Q664550
-- id: 76742
-  name: Téra
-  state_id: 67
+- name: Téra
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.00776000'
   longitude: '0.75306000'
-  wikiDataId: Q1538697
-- id: 76737
-  name: Tera Department
-  state_id: 67
+- name: Tera Department
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.18600000'
   longitude: '0.84300000'
-  wikiDataId: Q1538673
-- id: 76741
-  name: Tillabéri
-  state_id: 67
+- name: Tillabéri
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.20711000'
   longitude: '1.45418000'
-  wikiDataId: Q1538697
-- id: 76740
-  name: Tillaberi Department
-  state_id: 67
+- name: Tillaberi Department
   state_code: '6'
   state_name: Tillabéri
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.51600000'
   longitude: '1.44300000'
-  wikiDataId: Q1538697
-- id: 76699
-  name: Département de Gouré
-  state_id: 69
+- name: Département de Gouré
   state_code: '7'
   state_name: Zinder
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.01618000'
   longitude: '10.14722000'
-  wikiDataId: Q1538708
-- id: 76700
-  name: Département de Kantché
-  state_id: 69
+- name: Département de Kantché
   state_code: '7'
   state_name: Zinder
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.40000000'
   longitude: '8.60000000'
-  wikiDataId: Q913147
-- id: 76713
-  name: Département de Tânout
-  state_id: 69
+- name: Département de Tânout
   state_code: '7'
   state_name: Zinder
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.75000000'
   longitude: '8.33333000'
-  wikiDataId: Q913289
-- id: 76717
-  name: Gouré
-  state_id: 69
+- name: Gouré
   state_code: '7'
   state_name: Zinder
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.98350000'
   longitude: '10.27035000'
-  wikiDataId: Q766896
-- id: 76725
-  name: Magaria
-  state_id: 69
+- name: Magaria
   state_code: '7'
   state_name: Zinder
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '12.99826000'
   longitude: '8.90991000'
-  wikiDataId: Q912554
-- id: 76727
-  name: Matamey
-  state_id: 69
+- name: Matamey
   state_code: '7'
   state_name: Zinder
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.42309000'
   longitude: '8.47485000'
-  wikiDataId: Q664550
-- id: 76730
-  name: Mirriah
-  state_id: 69
+- name: Mirriah
   state_code: '7'
   state_name: Zinder
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.70727000'
   longitude: '9.15013000'
-  wikiDataId: Q664550
-- id: 76735
-  name: Tanout
-  state_id: 69
+- name: Tanout
   state_code: '7'
   state_name: Zinder
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '14.97089000'
   longitude: '8.88786000'
-  wikiDataId: Q664550
-- id: 76743
-  name: Zinder
-  state_id: 69
+- name: Zinder
   state_code: '7'
   state_name: Zinder
-  country_id: 160
-  country_code: NE
-  country_name: Niger
   latitude: '13.80716000'
   longitude: '8.98810000'
-  wikiDataId: Q204365

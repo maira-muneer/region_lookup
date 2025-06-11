@@ -1,1563 +1,711 @@
 ---
-- id: 104940
-  name: Ad Darbāsīyah
-  state_id: 2941
+- name: Ad Darbāsīyah
   state_code: HA
   state_name: Al-Hasakah
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '37.07279000'
   longitude: '40.65199000'
-  wikiDataId: Q4023866
-- id: 104957
-  name: Al Ḩasakah
-  state_id: 2941
+- name: Al Ḩasakah
   state_code: HA
   state_name: Al-Hasakah
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.50237000'
   longitude: '40.74772000'
-  wikiDataId: Q311321
-- id: 104950
-  name: Al Mālikīyah
-  state_id: 2941
+- name: Al Mālikīyah
   state_code: HA
   state_name: Al-Hasakah
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '37.17701000'
   longitude: '42.14006000'
-  wikiDataId: Q2603127
-- id: 104955
-  name: Al Qāmishlī
-  state_id: 2941
+- name: Al Qāmishlī
   state_code: HA
   state_name: Al-Hasakah
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '37.05215000'
   longitude: '41.23142000'
-  wikiDataId: Q212757
-- id: 104960
-  name: Al-Malikiyah District
-  state_id: 2941
+- name: Al-Malikiyah District
   state_code: HA
   state_name: Al-Hasakah
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.94113000'
   longitude: '41.90157000'
-  wikiDataId: Q4702792
-- id: 104967
-  name: Amude
-  state_id: 2941
+- name: Amude
   state_code: HA
   state_name: Al-Hasakah
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '37.10417000'
   longitude: '40.93000000'
-  wikiDataId: Q481427
-- id: 104964
-  name: Al-Thawrah District
-  state_id: 2944
+- name: Al-Thawrah District
   state_code: RA
   state_name: Al-Raqqah
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.79843000'
   longitude: '38.34550000'
-  wikiDataId: Q4703291
-- id: 104969
-  name: Ar Raqqah
-  state_id: 2944
+- name: Ar Raqqah
   state_code: RA
   state_name: Al-Raqqah
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.95283000'
   longitude: '39.00788000'
-  wikiDataId: Q283368
-- id: 104971
-  name: Ar-Raqqah District
-  state_id: 2944
+- name: Ar-Raqqah District
   state_code: RA
   state_name: Al-Raqqah
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.87204000'
   longitude: '39.04706000'
-  wikiDataId: Q4703126
-- id: 104981
-  name: Ath Thawrah
-  state_id: 2944
+- name: Ath Thawrah
   state_code: RA
   state_name: Al-Raqqah
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.83758000'
   longitude: '38.54828000'
-  wikiDataId: Q1822804
-- id: 105055
-  name: Tall Abyaḑ
-  state_id: 2944
+- name: Tall Abyaḑ
   state_code: RA
   state_name: Al-Raqqah
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.69648000'
   longitude: '38.95382000'
-  wikiDataId: Q1896205
-- id: 105062
-  name: Tell Abyad District
-  state_id: 2944
+- name: Tell Abyad District
   state_code: RA
   state_name: Al-Raqqah
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.48280000'
   longitude: '39.21360000'
-  wikiDataId: Q7697373
-- id: 105079
-  name: "‘Afrīn"
-  state_id: 2946
+- name: "‘Afrīn"
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.51194000'
   longitude: '36.86954000'
-  wikiDataId: Q302268
-- id: 105080
-  name: "‘Ayn al ‘Arab"
-  state_id: 2946
+- name: "‘Ayn al ‘Arab"
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.89095000'
   longitude: '38.35347000'
-  wikiDataId: Q126415
-- id: 104943
-  name: Afrin District
-  state_id: 2946
+- name: Afrin District
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.54891000'
   longitude: '36.79295000'
-  wikiDataId: Q4120569
-- id: 104944
-  name: Al Atārib
-  state_id: 2946
+- name: Al Atārib
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.13907000'
   longitude: '36.82504000'
-  wikiDataId: Q4118953
-- id: 104945
-  name: Al Bāb
-  state_id: 2946
+- name: Al Bāb
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.37051000'
   longitude: '37.51570000'
-  wikiDataId: Q310892
-- id: 104958
-  name: Al-Bab District
-  state_id: 2946
+- name: Al-Bab District
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.30946000'
   longitude: '37.53277000'
-  wikiDataId: Q4118360
-- id: 104966
-  name: Aleppo
-  state_id: 2946
+- name: Aleppo
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.20124000'
   longitude: '37.16117000'
-  wikiDataId: Q41183
-- id: 104974
-  name: As Safīrah
-  state_id: 2946
+- name: As Safīrah
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.07696000'
   longitude: '37.37251000'
-  wikiDataId: Q575774
-- id: 104983
-  name: Azaz District
-  state_id: 2946
+- name: Azaz District
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.49986000'
   longitude: '37.18382000'
-  wikiDataId: Q4118348
-- id: 104992
-  name: Dayr Ḩāfir
-  state_id: 2946
+- name: Dayr Ḩāfir
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.15694000'
   longitude: '37.70778000'
-  wikiDataId: Q5243296
-- id: 105006
-  name: I‘zāz
-  state_id: 2946
+- name: I‘zāz
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.58662000'
   longitude: '37.04628000'
-  wikiDataId: Q277674
-- id: 105010
-  name: Jarābulus
-  state_id: 2946
+- name: Jarābulus
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.81750000'
   longitude: '38.01111000'
-  wikiDataId: Q1149502
-- id: 105019
-  name: Kafr Şaghīr
-  state_id: 2946
+- name: Kafr Şaghīr
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.29264000'
   longitude: '37.25590000'
-  wikiDataId: Q6346221
-- id: 105022
-  name: Khanāşir
-  state_id: 2946
+- name: Khanāşir
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.78159000'
   longitude: '37.49919000'
-  wikiDataId: Q4751791
-- id: 105027
-  name: Manbij
-  state_id: 2946
+- name: Manbij
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.52815000'
   longitude: '37.95495000'
-  wikiDataId: Q1146939
-- id: 105028
-  name: Manbij District
-  state_id: 2946
+- name: Manbij District
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.06687000'
   longitude: '37.91735000'
-  wikiDataId: Q4120577
-- id: 105034
-  name: Mount Simeon District
-  state_id: 2946
+- name: Mount Simeon District
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.99956000'
   longitude: '37.08473000'
-  wikiDataId: Q4120574
-- id: 105038
-  name: Nubl
-  state_id: 2946
+- name: Nubl
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.37867000'
   longitude: '36.99294000'
-  wikiDataId: Q7067856
-- id: 105072
-  name: Şūrān
-  state_id: 2946
+- name: Şūrān
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.56579000'
   longitude: '37.21270000'
-  wikiDataId: Q7428679
-- id: 105064
-  name: Tādif
-  state_id: 2946
+- name: Tādif
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.34814000'
   longitude: '37.53090000'
-  wikiDataId: Q7697373
-- id: 105056
-  name: Tall Rif‘at
-  state_id: 2946
+- name: Tall Rif‘at
   state_code: HL
   state_name: Aleppo
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.47229000'
   longitude: '37.09471000'
-  wikiDataId: Q1896205
-- id: 104977
-  name: As-Suwayda
-  state_id: 2936
+- name: As-Suwayda
   state_code: SU
   state_name: As-Suwayda
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.70896000'
   longitude: '36.56951000'
-  wikiDataId: Q311099
-- id: 104978
-  name: As-Suwayda District
-  state_id: 2936
+- name: As-Suwayda District
   state_code: SU
   state_name: As-Suwayda
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.78127000'
   longitude: '36.86502000'
-  wikiDataId: Q3266216
-- id: 105069
-  name: Şalākhid
-  state_id: 2936
+- name: Şalākhid
   state_code: SU
   state_name: As-Suwayda
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.87271000'
   longitude: '36.57271000'
-  wikiDataId: Q24343
-- id: 105068
-  name: Şalkhad
-  state_id: 2936
+- name: Şalkhad
   state_code: SU
   state_name: As-Suwayda
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.49200000'
   longitude: '36.71114000'
-  wikiDataId: Q24343
-- id: 105043
-  name: Salkhad District
-  state_id: 2936
+- name: Salkhad District
   state_code: SU
   state_name: As-Suwayda
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.51779000'
   longitude: '36.91954000'
-  wikiDataId: Q3265272
-- id: 105049
-  name: Shahbā
-  state_id: 2936
+- name: Shahbā
   state_code: SU
   state_name: As-Suwayda
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.85514000'
   longitude: '36.62896000'
-  wikiDataId: Q926336
-- id: 105048
-  name: Shahba District
-  state_id: 2936
+- name: Shahba District
   state_code: SU
   state_name: As-Suwayda
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.04282000'
   longitude: '36.72034000'
-  wikiDataId: Q3265263
-- id: 104988
-  name: Damascus
-  state_id: 2939
+- name: Damascus
   state_code: DI
   state_name: Damascus
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.51020000'
   longitude: '36.29128000'
-  wikiDataId: Q3766
-- id: 104956
-  name: Al Ḩarāk
-  state_id: 2945
+- name: Al Ḩarāk
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.74932000'
   longitude: '36.30994000'
-  wikiDataId: Q212757
-- id: 104949
-  name: Al Muzayrīb
-  state_id: 2945
+- name: Al Muzayrīb
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.71084000'
   longitude: '36.02751000'
-  wikiDataId: Q6944401
-- id: 104963
-  name: Al-Sanamayn District
-  state_id: 2945
+- name: Al-Sanamayn District
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.12559000'
   longitude: '36.27540000'
-  wikiDataId: Q4115585
-- id: 104984
-  name: Aş Şanamayn
-  state_id: 2945
+- name: Aş Şanamayn
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.07186000'
   longitude: '36.18316000'
-  wikiDataId: Q2561767
-- id: 104979
-  name: Ash Shaykh Miskīn
-  state_id: 2945
+- name: Ash Shaykh Miskīn
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.82944000'
   longitude: '36.15933000'
-  wikiDataId: Q3266216
-- id: 104986
-  name: Buşrá ash Shām
-  state_id: 2945
+- name: Buşrá ash Shām
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.52013000'
   longitude: '36.48256000'
-  wikiDataId: Q272680
-- id: 104990
-  name: Dar‘ā
-  state_id: 2945
+- name: Dar‘ā
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.61889000'
   longitude: '36.10213000'
-  wikiDataId: Q238217
-- id: 104996
-  name: Ghabāghib
-  state_id: 2945
+- name: Ghabāghib
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.18235000'
   longitude: '36.22534000'
-  wikiDataId: Q5555136
-- id: 105003
-  name: Inkhil
-  state_id: 2945
+- name: Inkhil
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.01809000'
   longitude: '36.12828000'
-  wikiDataId: Q4119742
-- id: 105004
-  name: Izra District
-  state_id: 2945
+- name: Izra District
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.90121000'
   longitude: '36.16144000'
-  wikiDataId: Q3235210
-- id: 105005
-  name: Izra‘
-  state_id: 2945
+- name: Izra‘
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.87060000'
   longitude: '36.25453000'
-  wikiDataId: Q3235210
-- id: 105014
-  name: Jāsim
-  state_id: 2945
+- name: Jāsim
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.99233000'
   longitude: '36.06018000'
-  wikiDataId: Q4116040
-- id: 105037
-  name: Nawá
-  state_id: 2945
+- name: Nawá
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.89044000'
   longitude: '36.03990000'
-  wikiDataId: Q1758024
-- id: 105073
-  name: Ţafas
-  state_id: 2945
+- name: Ţafas
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.73709000'
   longitude: '36.06654000'
-  wikiDataId: Q4120104
-- id: 105061
-  name: Tasīl
-  state_id: 2945
+- name: Tasīl
   state_code: DR
   state_name: Daraa
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '32.83395000'
   longitude: '35.96973000'
-  wikiDataId: Q7687248
-- id: 104948
-  name: Al Mayādīn
-  state_id: 2937
+- name: Al Mayādīn
   state_code: DY
   state_name: Deir ez-Zor
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.01982000'
   longitude: '40.45154000'
-  wikiDataId: Q310895
-- id: 105066
-  name: Ālbū Kamāl
-  state_id: 2937
+- name: Ālbū Kamāl
   state_code: DY
   state_name: Deir ez-Zor
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.45226000'
   longitude: '40.91854000'
-  wikiDataId: Q152828
-- id: 104993
-  name: Deir ez-Zor
-  state_id: 2937
+- name: Deir ez-Zor
   state_code: DY
   state_name: Deir ez-Zor
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.33588000'
   longitude: '40.14084000'
-  wikiDataId: Q239097
-- id: 104997
-  name: Hajīn
-  state_id: 2937
+- name: Hajīn
   state_code: DY
   state_name: Deir ez-Zor
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.69508000'
   longitude: '40.83138000'
-  wikiDataId: Q5639989
-- id: 105051
-  name: Subaykhān
-  state_id: 2937
+- name: Subaykhān
   state_code: DY
   state_name: Deir ez-Zor
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.85305000'
   longitude: '40.59987000'
-  wikiDataId: Q7645373
-- id: 104962
-  name: Al-Salamiyah District
-  state_id: 2934
+- name: Al-Salamiyah District
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.14398000'
   longitude: '37.59235000'
-  wikiDataId: Q4118483
-- id: 104975
-  name: As Salamīyah
-  state_id: 2934
+- name: As Salamīyah
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.01127000'
   longitude: '37.05324000'
-  wikiDataId: Q75621
-- id: 104976
-  name: As Suqaylibīyah
-  state_id: 2934
+- name: As Suqaylibīyah
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.36674000'
   longitude: '36.39359000'
-  wikiDataId: Q986763
-- id: 105075
-  name: Ḩalfāyā
-  state_id: 2934
+- name: Ḩalfāyā
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.26014000'
   longitude: '36.60581000'
-  wikiDataId: Q1704164
-- id: 104998
-  name: Hama District
-  state_id: 2934
+- name: Hama District
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.28577000'
   longitude: '37.12626000'
-  wikiDataId: Q2856152
-- id: 105076
-  name: Ḩamāh
-  state_id: 2934
+- name: Ḩamāh
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.13179000'
   longitude: '36.75783000'
-  wikiDataId: Q173545
-- id: 105018
-  name: Kafr Zaytā
-  state_id: 2934
+- name: Kafr Zaytā
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.37425000'
   longitude: '36.60330000'
-  wikiDataId: Q6346221
-- id: 105030
-  name: Maşyāf
-  state_id: 2934
+- name: Maşyāf
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.06530000'
   longitude: '36.34060000'
-  wikiDataId: Q825818
-- id: 105029
-  name: Masyaf District
-  state_id: 2934
+- name: Masyaf District
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.10335000'
   longitude: '36.33920000'
-  wikiDataId: Q2586299
-- id: 105036
-  name: Mūrak
-  state_id: 2934
+- name: Mūrak
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.37615000'
   longitude: '36.68970000'
-  wikiDataId: Q4120574
-- id: 105050
-  name: Souran
-  state_id: 2934
+- name: Souran
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.29193000'
   longitude: '36.74848000'
-  wikiDataId: Q7645373
-- id: 105057
-  name: Tall Salḩab
-  state_id: 2934
+- name: Tall Salḩab
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.25884000'
   longitude: '36.38461000'
-  wikiDataId: Q3265279
-- id: 105074
-  name: Ţayyibat al Imām
-  state_id: 2934
+- name: Ţayyibat al Imām
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.26592000'
   longitude: '36.71219000'
-  wikiDataId: Q4120104
-- id: 105063
-  name: Tremseh
-  state_id: 2934
+- name: Tremseh
   state_code: HM
   state_name: Hama
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.27181000'
   longitude: '36.50395000'
-  wikiDataId: Q7697373
-- id: 104946
-  name: Al Ghanţū
-  state_id: 2942
+- name: Al Ghanţū
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.82202000'
   longitude: '36.69613000'
-  wikiDataId: Q310892
-- id: 104951
-  name: Al Qaryatayn
-  state_id: 2942
+- name: Al Qaryatayn
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.22956000'
   longitude: '37.24066000'
-  wikiDataId: Q2603127
-- id: 104953
-  name: Al Quşayr
-  state_id: 2942
+- name: Al Quşayr
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.50780000'
   longitude: '36.58029000'
-  wikiDataId: Q576368
-- id: 104961
-  name: Al-Rastan District
-  state_id: 2942
+- name: Al-Rastan District
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.87100000'
   longitude: '36.77245000'
-  wikiDataId: Q4115828
-- id: 104970
-  name: Ar Rastan
-  state_id: 2942
+- name: Ar Rastan
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.92667000'
   longitude: '36.73241000'
-  wikiDataId: Q1867822
-- id: 105000
-  name: Hisya
-  state_id: 2942
+- name: Hisya
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.41197000'
   longitude: '36.75867000'
-  wikiDataId: Q5871229
-- id: 105001
-  name: Homs
-  state_id: 2942
+- name: Homs
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.72682000'
   longitude: '36.72339000'
-  wikiDataId: Q131301
-- id: 105016
-  name: Kafr Lāhā
-  state_id: 2942
+- name: Kafr Lāhā
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.89469000'
   longitude: '36.49582000'
-  wikiDataId: Q3079261
-- id: 105035
-  name: Mukharram al Fawqānī
-  state_id: 2942
+- name: Mukharram al Fawqānī
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.81521000'
   longitude: '37.08677000'
-  wikiDataId: Q4120574
-- id: 105067
-  name: Şadad
-  state_id: 2942
+- name: Şadad
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.31248000'
   longitude: '36.92562000'
-  wikiDataId: Q3461076
-- id: 105052
-  name: Tadmur
-  state_id: 2942
+- name: Tadmur
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.56240000'
   longitude: '38.28402000'
-  wikiDataId: Q5747
-- id: 105053
-  name: Tadmur District
-  state_id: 2942
+- name: Tadmur District
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.42401000'
   longitude: '38.64580000'
-  wikiDataId: Q4120562
-- id: 105058
-  name: Tallbīsah
-  state_id: 2942
+- name: Tallbīsah
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.84072000'
   longitude: '36.73092000'
-  wikiDataId: Q3458895
-- id: 105059
-  name: Tallkalakh
-  state_id: 2942
+- name: Tallkalakh
   state_code: HI
   state_name: Homs
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.66842000'
   longitude: '36.25995000'
-  wikiDataId: Q24341
-- id: 104942
-  name: Ad Dānā
-  state_id: 2940
+- name: Ad Dānā
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.21254000'
   longitude: '36.76998000'
-  wikiDataId: Q4120566
-- id: 104973
-  name: Arīḩā
-  state_id: 2940
+- name: Arīḩā
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.81374000'
   longitude: '36.60964000'
-  wikiDataId: Q2631639
-- id: 104972
-  name: Armanāz
-  state_id: 2940
+- name: Armanāz
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.08363000'
   longitude: '36.50310000'
-  wikiDataId: Q168807
-- id: 104985
-  name: Binnish
-  state_id: 2940
+- name: Binnish
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.95664000'
   longitude: '36.71380000'
-  wikiDataId: Q3012768
-- id: 104989
-  name: Darkūsh
-  state_id: 2940
+- name: Darkūsh
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.99180000'
   longitude: '36.39361000'
-  wikiDataId: Q5223803
-- id: 104999
-  name: Harem District
-  state_id: 2940
+- name: Harem District
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.14014000'
   longitude: '36.56535000'
-  wikiDataId: Q4118364
-- id: 105078
-  name: Ḩārim
-  state_id: 2940
+- name: Ḩārim
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.21176000'
   longitude: '36.52078000'
-  wikiDataId: Q771907
-- id: 105002
-  name: Idlib
-  state_id: 2940
+- name: Idlib
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.93062000'
   longitude: '36.63393000'
-  wikiDataId: Q131301
-- id: 105012
-  name: Jisr al-Shughur District
-  state_id: 2940
+- name: Jisr al-Shughur District
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.87756000'
   longitude: '36.32901000'
-  wikiDataId: Q2332351
-- id: 105013
-  name: Jisr ash Shughūr
-  state_id: 2940
+- name: Jisr ash Shughūr
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.81418000'
   longitude: '36.31983000'
-  wikiDataId: Q798765
-- id: 105017
-  name: Kafr Takhārīm
-  state_id: 2940
+- name: Kafr Takhārīm
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.11680000'
   longitude: '36.51522000'
-  wikiDataId: Q4120373
-- id: 105020
-  name: Kafranbel
-  state_id: 2940
+- name: Kafranbel
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.61376000'
   longitude: '36.56449000'
-  wikiDataId: Q6346193
-- id: 105023
-  name: Khān Shaykhūn
-  state_id: 2940
+- name: Khān Shaykhūn
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.44208000'
   longitude: '36.65095000'
-  wikiDataId: Q603516
-- id: 105031
-  name: Ma‘arratmişrīn
-  state_id: 2940
+- name: Ma‘arratmişrīn
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.01152000'
   longitude: '36.67183000'
-  wikiDataId: Q825818
-- id: 105026
-  name: Maarrat al-Nu'man District
-  state_id: 2940
+- name: Maarrat al-Nu'man District
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.53858000'
   longitude: '36.79193000'
-  wikiDataId: Q4118375
-- id: 105044
-  name: Salqīn
-  state_id: 2940
+- name: Salqīn
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '36.13865000'
   longitude: '36.45244000'
-  wikiDataId: Q1498128
-- id: 105046
-  name: Sarāqib
-  state_id: 2940
+- name: Sarāqib
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.86447000'
   longitude: '36.80591000'
-  wikiDataId: Q1895761
-- id: 105045
-  name: Sarmīn
-  state_id: 2940
+- name: Sarmīn
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.90403000'
   longitude: '36.72501000'
-  wikiDataId: Q1645039
-- id: 105054
-  name: Taftanāz
-  state_id: 2940
+- name: Taftanāz
   state_code: ID
   state_name: Idlib
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.99832000'
   longitude: '36.78579000'
-  wikiDataId: Q844598
-- id: 104959
-  name: Al-Haffah District
-  state_id: 2938
+- name: Al-Haffah District
   state_code: LA
   state_name: Latakia
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.59687000'
   longitude: '36.11198000'
-  wikiDataId: Q2278356
-- id: 105007
-  name: Jablah
-  state_id: 2938
+- name: Jablah
   state_code: LA
   state_name: Latakia
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.36211000'
   longitude: '35.92759000'
-  wikiDataId: Q175923
-- id: 105008
-  name: Jableh District
-  state_id: 2938
+- name: Jableh District
   state_code: LA
   state_name: Latakia
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.29048000'
   longitude: '36.04490000'
-  wikiDataId: Q4115831
-- id: 105021
-  name: Kassab
-  state_id: 2938
+- name: Kassab
   state_code: LA
   state_name: Latakia
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.92639000'
   longitude: '35.98970000'
-  wikiDataId: Q1026301
-- id: 105024
-  name: Latakia
-  state_id: 2938
+- name: Latakia
   state_code: LA
   state_name: Latakia
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.53168000'
   longitude: '35.79011000'
-  wikiDataId: Q200030
-- id: 105025
-  name: Latakia District
-  state_id: 2938
+- name: Latakia District
   state_code: LA
   state_name: Latakia
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.72426000'
   longitude: '35.94150000'
-  wikiDataId: Q2229628
-- id: 105039
-  name: Qardaha District
-  state_id: 2938
+- name: Qardaha District
   state_code: LA
   state_name: Latakia
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.39593000'
   longitude: '36.08603000'
-  wikiDataId: Q2611794
-- id: 105071
-  name: Şlinfah
-  state_id: 2938
+- name: Şlinfah
   state_code: LA
   state_name: Latakia
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.59822000'
   longitude: '36.18770000'
-  wikiDataId: Q986334
-- id: 104952
-  name: Al Qunayţirah
-  state_id: 2943
+- name: Al Qunayţirah
   state_code: QU
   state_name: Quneitra
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.12595000'
   longitude: '35.82461000'
-  wikiDataId: Q576368
-- id: 105081
-  name: "‘Irbīn"
-  state_id: 2935
+- name: "‘Irbīn"
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.53719000'
   longitude: '36.36635000'
-  wikiDataId: Q250663
-- id: 104947
-  name: Al Kiswah
-  state_id: 2935
+- name: Al Kiswah
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.35810000'
   longitude: '36.24190000'
-  wikiDataId: Q2915767
-- id: 104954
-  name: Al Quţayfah
-  state_id: 2935
+- name: Al Quţayfah
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.73848000'
   longitude: '36.60071000'
-  wikiDataId: Q576368
-- id: 104965
-  name: Al-Zabadani District
-  state_id: 2935
+- name: Al-Zabadani District
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.70819000'
   longitude: '36.11198000'
-  wikiDataId: Q4120510
-- id: 104968
-  name: An Nabk
-  state_id: 2935
+- name: An Nabk
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.02403000'
   longitude: '36.72848000'
-  wikiDataId: Q2317068
-- id: 104980
-  name: At Tall
-  state_id: 2935
+- name: At Tall
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.61033000'
   longitude: '36.31070000'
-  wikiDataId: Q3266216
-- id: 104982
-  name: Az Zabadānī
-  state_id: 2935
+- name: Az Zabadānī
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.72488000'
   longitude: '36.10050000'
-  wikiDataId: Q374768
-- id: 104995
-  name: Dārayyā
-  state_id: 2935
+- name: Dārayyā
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.45835000'
   longitude: '36.23256000'
-  wikiDataId: Q1033066
-- id: 104991
-  name: Dayr al ‘Aşāfīr
-  state_id: 2935
+- name: Dayr al ‘Aşāfīr
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.46585000'
   longitude: '36.42044000'
-  wikiDataId: Q238217
-- id: 104994
-  name: Douma
-  state_id: 2935
+- name: Douma
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.57175000'
   longitude: '36.40270000'
-  wikiDataId: Q403446
-- id: 105077
-  name: Ḩarastā
-  state_id: 2935
+- name: Ḩarastā
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.55869000'
   longitude: '36.36515000'
-  wikiDataId: Q2013262
-- id: 105009
-  name: Jaramānā
-  state_id: 2935
+- name: Jaramānā
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.48620000'
   longitude: '36.34614000'
-  wikiDataId: Q195531
-- id: 105011
-  name: Jayrūd
-  state_id: 2935
+- name: Jayrūd
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.80709000'
   longitude: '36.73861000'
-  wikiDataId: Q6167965
-- id: 105032
-  name: Ma‘lūlā
-  state_id: 2935
+- name: Ma‘lūlā
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.84529000'
   longitude: '36.54514000'
-  wikiDataId: Q740804
-- id: 105033
-  name: Medaya
-  state_id: 2935
+- name: Medaya
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.69032000'
   longitude: '36.10354000'
-  wikiDataId: Q3333478
-- id: 105041
-  name: Qārah
-  state_id: 2935
+- name: Qārah
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.15558000'
   longitude: '36.74284000'
-  wikiDataId: Q1280049
-- id: 105040
-  name: Qaţanā
-  state_id: 2935
+- name: Qaţanā
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.43757000'
   longitude: '36.07888000'
-  wikiDataId: Q1280049
-- id: 105070
-  name: Şaydnāyā
-  state_id: 2935
+- name: Şaydnāyā
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.69473000'
   longitude: '36.37146000'
-  wikiDataId: Q2031428
-- id: 105065
-  name: Yabrūd
-  state_id: 2935
+- name: Yabrūd
   state_code: RD
   state_name: Rif Dimashq
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '33.96921000'
   longitude: '36.65729000'
-  wikiDataId: Q172251
-- id: 104941
-  name: Ad Duraykīsh
-  state_id: 2947
+- name: Ad Duraykīsh
   state_code: TA
   state_name: Tartus
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.89514000'
   longitude: '36.14303000'
-  wikiDataId: Q4120566
-- id: 104987
-  name: Bāniyās
-  state_id: 2947
+- name: Bāniyās
   state_code: TA
   state_name: Tartus
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.18188000'
   longitude: '35.94871000'
-  wikiDataId: Q263922
-- id: 105015
-  name: Kaff al-Jaa
-  state_id: 2947
+- name: Kaff al-Jaa
   state_code: TA
   state_name: Tartus
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '35.08638000'
   longitude: '36.20605000'
-  wikiDataId: Q1721023
-- id: 105042
-  name: Safita District
-  state_id: 2947
+- name: Safita District
   state_code: TA
   state_name: Tartus
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.80419000'
   longitude: '36.12293000'
-  wikiDataId: Q4120580
-- id: 105047
-  name: Satita
-  state_id: 2947
+- name: Satita
   state_code: TA
   state_name: Tartus
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.82099000'
   longitude: '36.11773000'
-  wikiDataId: Q1002557
-- id: 105060
-  name: Tartouss
-  state_id: 2947
+- name: Tartouss
   state_code: TA
   state_name: Tartus
-  country_id: 215
-  country_code: SY
-  country_name: Syria
   latitude: '34.88902000'
   longitude: '35.88659000'
-  wikiDataId: Q174916

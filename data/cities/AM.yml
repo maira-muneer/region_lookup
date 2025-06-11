@@ -1,3389 +1,1541 @@
 ---
-- id: 286
-  name: Agarakavan
-  state_id: 2023
+- name: Agarakavan
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.33069000'
   longitude: '44.07233000'
-  wikiDataId: Q2667087
-- id: 303
-  name: Aparan
-  state_id: 2023
+- name: Aparan
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.59323000'
   longitude: '44.35890000'
-  wikiDataId: Q39618
-- id: 305
-  name: Aragats
-  state_id: 2023
+- name: Aragats
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.48889000'
   longitude: '44.35290000'
-  wikiDataId: Q2670427
-- id: 329
-  name: Arteni
-  state_id: 2023
+- name: Arteni
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.29730000'
   longitude: '43.76672000'
-  wikiDataId: Q959197
-- id: 334
-  name: Ashnak
-  state_id: 2023
+- name: Ashnak
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.33069000'
   longitude: '43.91669000'
-  wikiDataId: Q2535262
-- id: 335
-  name: Ashtarak
-  state_id: 2023
+- name: Ashtarak
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.29910000'
   longitude: '44.36204000'
-  wikiDataId: Q39510
-- id: 361
-  name: Byurakan
-  state_id: 2023
+- name: Byurakan
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.33894000'
   longitude: '44.27275000'
-  wikiDataId: Q2305036
-- id: 412
-  name: Hnaberd
-  state_id: 2023
+- name: Hnaberd
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.63721000'
   longitude: '44.14058000'
-  wikiDataId: Q2591402
-- id: 428
-  name: Karbi
-  state_id: 2023
+- name: Karbi
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.33069000'
   longitude: '44.37793000'
-  wikiDataId: Q2632471
-- id: 430
-  name: Kasakh
-  state_id: 2023
+- name: Kasakh
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.53697000'
   longitude: '44.41046000'
-  wikiDataId: Q549736
-- id: 434
-  name: Kosh
-  state_id: 2023
+- name: Kosh
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.30011000'
   longitude: '44.16107000'
-  wikiDataId: Q2414638
-- id: 486
-  name: Nor Yerznka
-  state_id: 2023
+- name: Nor Yerznka
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.30011000'
   longitude: '44.38892000'
-  wikiDataId: Q1920915
-- id: 497
-  name: Oshakan
-  state_id: 2023
+- name: Oshakan
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.26392000'
   longitude: '44.31671000'
-  wikiDataId: Q1777770
-- id: 512
-  name: Sasunik
-  state_id: 2023
+- name: Sasunik
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.25012000'
   longitude: '44.34448000'
-  wikiDataId: Q1528514
-- id: 520
-  name: Shenavan
-  state_id: 2023
+- name: Shenavan
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.48328000'
   longitude: '44.38348000'
-  wikiDataId: Q2535621
-- id: 546
-  name: T’alin
-  state_id: 2023
+- name: T’alin
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.39172000'
   longitude: '43.87793000'
-  wikiDataId: Q2636211
-- id: 538
-  name: Tsaghkahovit
-  state_id: 2023
+- name: Tsaghkahovit
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.63428000'
   longitude: '44.22241000'
-  wikiDataId: Q2535670
-- id: 548
-  name: Ushi
-  state_id: 2023
+- name: Ushi
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.34729000'
   longitude: '44.37512000'
-  wikiDataId: Q2535317
-- id: 570
-  name: Voskevaz
-  state_id: 2023
+- name: Voskevaz
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.27508000'
   longitude: '44.30011000'
-  wikiDataId: Q2535641
-- id: 588
-  name: Zovuni
-  state_id: 2023
+- name: Zovuni
   state_code: AG
   state_name: Aragatsotn
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.51111000'
   longitude: '44.43890000'
-  wikiDataId: Q8074687
-- id: 282
-  name: Abovyan
-  state_id: 2024
+- name: Abovyan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.04851000'
   longitude: '44.54742000'
-  wikiDataId: Q2379896
-- id: 307
-  name: Aralez
-  state_id: 2024
+- name: Aralez
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.90008000'
   longitude: '44.65570000'
-  wikiDataId: Q338107
-- id: 309
-  name: Ararat
-  state_id: 2024
+- name: Ararat
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.83069000'
   longitude: '44.70569000'
-  wikiDataId: Q39504
-- id: 314
-  name: Arevabuyr
-  state_id: 2024
+- name: Arevabuyr
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.03607000'
   longitude: '44.46948000'
-  wikiDataId: Q2630431
-- id: 319
-  name: Arevshat
-  state_id: 2024
+- name: Arevshat
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.03963000'
   longitude: '44.54179000'
-  wikiDataId: Q1994619
-- id: 324
-  name: Armash
-  state_id: 2024
+- name: Armash
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.76672000'
   longitude: '44.81110000'
-  wikiDataId: Q2667041
-- id: 328
-  name: Artashat
-  state_id: 2024
+- name: Artashat
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.96144000'
   longitude: '44.54447000'
-  wikiDataId: Q39560
-- id: 337
-  name: Avshar
-  state_id: 2024
+- name: Avshar
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.85553000'
   longitude: '44.65832000'
-  wikiDataId: Q1446028
-- id: 338
-  name: Aygavan
-  state_id: 2024
+- name: Aygavan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.87327000'
   longitude: '44.66984000'
-  wikiDataId: Q2631545
-- id: 341
-  name: Aygepat
-  state_id: 2024
+- name: Aygepat
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.95845000'
   longitude: '44.59981000'
-  wikiDataId: Q2535569
-- id: 343
-  name: Aygestan
-  state_id: 2024
+- name: Aygestan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.00293000'
   longitude: '44.55829000'
-  wikiDataId: Q2667073
-- id: 344
-  name: Aygezard
-  state_id: 2024
+- name: Aygezard
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.95436000'
   longitude: '44.60229000'
-  wikiDataId: Q2535651
-- id: 351
-  name: Bardzrashen
-  state_id: 2024
+- name: Bardzrashen
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.08533000'
   longitude: '44.57957000'
-  wikiDataId: Q2222235
-- id: 356
-  name: Berk’anush
-  state_id: 2024
+- name: Berk’anush
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.97790000'
   longitude: '44.51672000'
-  wikiDataId: Q2631503
-- id: 359
-  name: Burastan
-  state_id: 2024
+- name: Burastan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.99157000'
   longitude: '44.49681000'
-  wikiDataId: Q2635578
-- id: 362
-  name: Byuravan
-  state_id: 2024
+- name: Byuravan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.01604000'
   longitude: '44.51889000'
-  wikiDataId: Q2631973
-- id: 366
-  name: Dalar
-  state_id: 2024
+- name: Dalar
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.97653000'
   longitude: '44.52649000'
-  wikiDataId: Q2631533
-- id: 368
-  name: Darakert
-  state_id: 2024
+- name: Darakert
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.10553000'
   longitude: '44.41388000'
-  wikiDataId: Q2313566
-- id: 370
-  name: Dashtavan
-  state_id: 2024
+- name: Dashtavan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.10010000'
   longitude: '44.39172000'
-  wikiDataId: Q2632039
-- id: 373
-  name: Dimitrov
-  state_id: 2024
+- name: Dimitrov
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.00848000'
   longitude: '44.49170000'
-  wikiDataId: Q2455209
-- id: 377
-  name: Dvin
-  state_id: 2024
+- name: Dvin
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.01984000'
   longitude: '44.58376000'
-  wikiDataId: Q1774051
-- id: 395
-  name: Getazat
-  state_id: 2024
+- name: Getazat
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.03844000'
   longitude: '44.56369000'
-  wikiDataId: Q2631570
-- id: 396
-  name: Ghukasavan
-  state_id: 2024
+- name: Ghukasavan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.12793000'
   longitude: '44.41669000'
-  wikiDataId: Q2631582
-- id: 401
-  name: Goravan
-  state_id: 2024
+- name: Goravan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.90832000'
   longitude: '44.73328000'
-  wikiDataId: Q2658136
-- id: 409
-  name: Hayanist
-  state_id: 2024
+- name: Hayanist
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.12231000'
   longitude: '44.37793000'
-  wikiDataId: Q2631943
-- id: 415
-  name: Hovtashat
-  state_id: 2024
+- name: Hovtashat
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.09729000'
   longitude: '44.34448000'
-  wikiDataId: Q958476
-- id: 416
-  name: Hovtashen
-  state_id: 2024
+- name: Hovtashen
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.02508000'
   longitude: '44.45007000'
-  wikiDataId: Q2456540
-- id: 421
-  name: Jrahovit
-  state_id: 2024
+- name: Jrahovit
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.04730000'
   longitude: '44.47510000'
-  wikiDataId: Q2631560
-- id: 449
-  name: Lusarrat
-  state_id: 2024
+- name: Lusarrat
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.87403000'
   longitude: '44.58678000'
-  wikiDataId: Q2221651
-- id: 455
-  name: Marmarashen
-  state_id: 2024
+- name: Marmarashen
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.05829000'
   longitude: '44.47229000'
-  wikiDataId: Q2631949
-- id: 458
-  name: Masis
-  state_id: 2024
+- name: Masis
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.06542000'
   longitude: '44.41618000'
-  wikiDataId: Q1993763
-- id: 472
-  name: Mrganush
-  state_id: 2024
+- name: Mrganush
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.02857000'
   longitude: '44.55831000'
-  wikiDataId: Q2631920
-- id: 475
-  name: Mrgavan
-  state_id: 2024
+- name: Mrgavan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.97251000'
   longitude: '44.53565000'
-  wikiDataId: Q2632073
-- id: 476
-  name: Mrgavet
-  state_id: 2024
+- name: Mrgavet
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.02789000'
   longitude: '44.48328000'
-  wikiDataId: Q2668107
-- id: 482
-  name: Nizami
-  state_id: 2024
+- name: Nizami
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.09168000'
   longitude: '44.40570000'
-  wikiDataId: Q2668122
-- id: 487
-  name: Norabats’
-  state_id: 2024
+- name: Norabats’
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.10553000'
   longitude: '44.43329000'
-  wikiDataId: Q588901
-- id: 489
-  name: Noramarg
-  state_id: 2024
+- name: Noramarg
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.02228000'
   longitude: '44.42511000'
-  wikiDataId: Q2634323
-- id: 491
-  name: Norashen
-  state_id: 2024
+- name: Norashen
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.00130000'
   longitude: '44.59296000'
-  wikiDataId: Q2634389
-- id: 493
-  name: Noyakert
-  state_id: 2024
+- name: Noyakert
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.83069000'
   longitude: '44.66949000'
-  wikiDataId: Q2634363
-- id: 495
-  name: Nshavan
-  state_id: 2024
+- name: Nshavan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.02787000'
   longitude: '44.52565000'
-  wikiDataId: Q2634379
-- id: 513
-  name: Sayat’-Nova
-  state_id: 2024
+- name: Sayat’-Nova
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.07507000'
   longitude: '44.40008000'
-  wikiDataId: Q2222503
-- id: 516
-  name: Shahumyan
-  state_id: 2024
+- name: Shahumyan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.94171000'
   longitude: '44.57233000'
-  wikiDataId: Q2636202
-- id: 525
-  name: Sis
-  state_id: 2024
+- name: Sis
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.05829000'
   longitude: '44.38892000'
-  wikiDataId: Q2462773
-- id: 526
-  name: Sisavan
-  state_id: 2024
+- name: Sisavan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.90802000'
   longitude: '44.66721000'
-  wikiDataId: Q2634735
-- id: 531
-  name: Surenavan
-  state_id: 2024
+- name: Surenavan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.79449000'
   longitude: '44.77508000'
-  wikiDataId: Q645308
-- id: 560
-  name: Vedi
-  state_id: 2024
+- name: Vedi
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.91388000'
   longitude: '44.72510000'
-  wikiDataId: Q750689
-- id: 561
-  name: Verin Artashat
-  state_id: 2024
+- name: Verin Artashat
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.99731000'
   longitude: '44.58893000'
-  wikiDataId: Q2634738
-- id: 562
-  name: Verin Dvin
-  state_id: 2024
+- name: Verin Dvin
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.02434000'
   longitude: '44.59038000'
-  wikiDataId: Q2670412
-- id: 568
-  name: Vosketap’
-  state_id: 2024
+- name: Vosketap’
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.88114000'
   longitude: '44.64917000'
-  wikiDataId: Q2670061
-- id: 571
-  name: Vostan
-  state_id: 2024
+- name: Vostan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.96515000'
   longitude: '44.55937000'
-  wikiDataId: Q2634772
-- id: 574
-  name: Yeghegnavan
-  state_id: 2024
+- name: Yeghegnavan
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.83893000'
   longitude: '44.61951000'
-  wikiDataId: Q2634744
-- id: 582
-  name: Zangakatun
-  state_id: 2024
+- name: Zangakatun
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.82233000'
   longitude: '45.04169000'
-  wikiDataId: Q2634728
-- id: 585
-  name: Zorak
-  state_id: 2024
+- name: Zorak
   state_code: AR
   state_name: Ararat
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.09168000'
   longitude: '44.39447000'
-  wikiDataId: Q2388034
-- id: 289
-  name: Aghavnatun
-  state_id: 2026
+- name: Aghavnatun
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.23330000'
   longitude: '44.25295000'
-  wikiDataId: Q2626777
-- id: 292
-  name: Aknalich
-  state_id: 2026
+- name: Aknalich
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.14728000'
   longitude: '44.16669000'
-  wikiDataId: Q1144641
-- id: 293
-  name: Aknashen
-  state_id: 2026
+- name: Aknashen
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.09551000'
   longitude: '44.28604000'
-  wikiDataId: Q2630421
-- id: 297
-  name: Alashkert
-  state_id: 2026
+- name: Alashkert
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.10712000'
   longitude: '44.05108000'
-  wikiDataId: Q2222204
-- id: 302
-  name: Apaga
-  state_id: 2026
+- name: Apaga
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.09729000'
   longitude: '44.25293000'
-  wikiDataId: Q2222226
-- id: 306
-  name: Arak’s
-  state_id: 2026
+- name: Arak’s
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.05548000'
   longitude: '44.30292000'
-  wikiDataId: Q1142800
-- id: 310
-  name: Arazap’
-  state_id: 2026
+- name: Arazap’
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.04169000'
   longitude: '44.14728000'
-  wikiDataId: Q1142763
-- id: 311
-  name: Arbat’
-  state_id: 2026
+- name: Arbat’
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.13892000'
   longitude: '44.40289000'
-  wikiDataId: Q2626761
-- id: 315
-  name: Arevashat
-  state_id: 2026
+- name: Arevashat
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.14447000'
   longitude: '44.37512000'
-  wikiDataId: Q2667172
-- id: 317
-  name: Arevik
-  state_id: 2026
+- name: Arevik
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.10010000'
   longitude: '44.09448000'
-  wikiDataId: Q2639886
-- id: 322
-  name: Argavand
-  state_id: 2026
+- name: Argavand
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.06110000'
   longitude: '44.09448000'
-  wikiDataId: Q1142775
-- id: 325
-  name: Armavir
-  state_id: 2026
+- name: Armavir
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.15446000'
   longitude: '44.03815000'
-  wikiDataId: Q15771
-- id: 327
-  name: Arshaluys
-  state_id: 2026
+- name: Arshaluys
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.16949000'
   longitude: '44.21393000'
-  wikiDataId: Q2221680
-- id: 330
-  name: Artimet
-  state_id: 2026
+- name: Artimet
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.15008000'
   longitude: '44.26672000'
-  wikiDataId: Q1142786
-- id: 340
-  name: Aygek
-  state_id: 2026
+- name: Aygek
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.18890000'
   longitude: '44.38611000'
-  wikiDataId: Q1142804
-- id: 342
-  name: Aygeshat
-  state_id: 2026
+- name: Aygeshat
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.07507000'
   longitude: '44.06110000'
-  wikiDataId: Q764724
-- id: 347
-  name: Baghramyan
-  state_id: 2026
+- name: Baghramyan
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.19452000'
   longitude: '44.36951000'
-  wikiDataId: Q1142982
-- id: 350
-  name: Bambakashat
-  state_id: 2026
+- name: Bambakashat
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.10828000'
   longitude: '44.01947000'
-  wikiDataId: Q744617
-- id: 367
-  name: Dalarik
-  state_id: 2026
+- name: Dalarik
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.22790000'
   longitude: '43.87793000'
-  wikiDataId: Q2272491
-- id: 374
-  name: Doghs
-  state_id: 2026
+- name: Doghs
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.22229000'
   longitude: '44.27228000'
-  wikiDataId: Q2222192
-- id: 388
-  name: Gay
-  state_id: 2026
+- name: Gay
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.08444000'
   longitude: '44.30528000'
-  wikiDataId: Q2001183
-- id: 389
-  name: Geghakert
-  state_id: 2026
+- name: Geghakert
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.18516000'
   longitude: '44.24331000'
-  wikiDataId: Q2389968
-- id: 392
-  name: Geghanist
-  state_id: 2026
+- name: Geghanist
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.14587000'
   longitude: '44.43048000'
-  wikiDataId: Q633723
-- id: 394
-  name: Getashen
-  state_id: 2026
+- name: Getashen
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.04449000'
   longitude: '43.94171000'
-  wikiDataId: Q1144653
-- id: 398
-  name: Gmbet’
-  state_id: 2026
+- name: Gmbet’
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.22369000'
   longitude: '44.25409000'
-  wikiDataId: Q2536608
-- id: 403
-  name: Griboyedov
-  state_id: 2026
+- name: Griboyedov
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.11307000'
   longitude: '44.27169000'
-  wikiDataId: Q2222094
-- id: 410
-  name: Haykashen
-  state_id: 2026
+- name: Haykashen
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.07233000'
   longitude: '44.30829000'
-  wikiDataId: Q2530823
-- id: 414
-  name: Hovtamej
-  state_id: 2026
+- name: Hovtamej
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.18329000'
   longitude: '44.25848000'
-  wikiDataId: Q2222182
-- id: 419
-  name: Janfida
-  state_id: 2026
+- name: Janfida
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.04449000'
   longitude: '44.02789000'
-  wikiDataId: Q2222119
-- id: 433
-  name: Khoronk’
-  state_id: 2026
+- name: Khoronk’
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.13611000'
   longitude: '44.24731000'
-  wikiDataId: Q2221709
-- id: 440
-  name: Lenughi
-  state_id: 2026
+- name: Lenughi
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.12512000'
   longitude: '43.96393000'
-  wikiDataId: Q2222166
-- id: 448
-  name: Lukashin
-  state_id: 2026
+- name: Lukashin
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.18726000'
   longitude: '44.00390000'
-  wikiDataId: Q2221651
-- id: 454
-  name: Margara
-  state_id: 2026
+- name: Margara
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.03332000'
   longitude: '44.18048000'
-  wikiDataId: Q2634781
-- id: 461
-  name: Mayisyan
-  state_id: 2026
+- name: Mayisyan
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.15701000'
   longitude: '44.09192000'
-  wikiDataId: Q21403652
-- id: 465
-  name: Merdzavan
-  state_id: 2026
+- name: Merdzavan
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.18140000'
   longitude: '44.40033000'
-  wikiDataId: Q2222146
-- id: 469
-  name: Metsamor
-  state_id: 2026
+- name: Metsamor
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.14447000'
   longitude: '44.11670000'
-  wikiDataId: Q1828101
-- id: 473
-  name: Mrgashat
-  state_id: 2026
+- name: Mrgashat
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.13068000'
   longitude: '44.08069000'
-  wikiDataId: Q2221694
-- id: 477
-  name: Musalerr
-  state_id: 2026
+- name: Musalerr
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.15570000'
   longitude: '44.37793000'
-  wikiDataId: Q2636195
-- id: 478
-  name: Myasnikyan
-  state_id: 2026
+- name: Myasnikyan
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.18048000'
   longitude: '43.91949000'
-  wikiDataId: Q2222067
-- id: 479
-  name: Nalbandyan
-  state_id: 2026
+- name: Nalbandyan
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.06390000'
   longitude: '43.98889000'
-  wikiDataId: Q513202
-- id: 483
-  name: Nor Armavir
-  state_id: 2026
+- name: Nor Armavir
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.08612000'
   longitude: '43.99451000'
-  wikiDataId: Q2222055
-- id: 488
-  name: Norakert
-  state_id: 2026
+- name: Norakert
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.19733000'
   longitude: '44.35010000'
-  wikiDataId: Q2222682
-- id: 504
-  name: P’shatavan
-  state_id: 2026
+- name: P’shatavan
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.03888000'
   longitude: '44.06671000'
-  wikiDataId: Q770615
-- id: 502
-  name: Ptghunk’
-  state_id: 2026
+- name: Ptghunk’
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.16388000'
   longitude: '44.36389000'
-  wikiDataId: Q2222622
-- id: 509
-  name: Sardarapat
-  state_id: 2026
+- name: Sardarapat
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.13206000'
   longitude: '44.00969000'
-  wikiDataId: Q2412883
-- id: 519
-  name: Shenavan
-  state_id: 2026
+- name: Shenavan
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.05548000'
   longitude: '43.93048000'
-  wikiDataId: Q2222632
-- id: 532
-  name: Tandzut
-  state_id: 2026
+- name: Tandzut
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.06952000'
   longitude: '44.07788000'
-  wikiDataId: Q2222614
-- id: 533
-  name: Taronik
-  state_id: 2026
+- name: Taronik
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.13367000'
   longitude: '44.19957000'
-  wikiDataId: Q765949
-- id: 539
-  name: Tsaghkunk’
-  state_id: 2026
+- name: Tsaghkunk’
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.18048000'
   longitude: '44.27228000'
-  wikiDataId: Q615784
-- id: 540
-  name: Tsiatsan
-  state_id: 2026
+- name: Tsiatsan
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.18610000'
   longitude: '44.26947000'
-  wikiDataId: Q737741
-- id: 549
-  name: Vagharshapat
-  state_id: 2026
+- name: Vagharshapat
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.16557000'
   longitude: '44.29462000'
-  wikiDataId: Q2535317
-- id: 567
-  name: Voskehat
-  state_id: 2026
+- name: Voskehat
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.14172000'
   longitude: '44.33069000'
-  wikiDataId: Q2222609
-- id: 575
-  name: Yeghegnut
-  state_id: 2026
+- name: Yeghegnut
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.08893000'
   longitude: '44.16669000'
-  wikiDataId: Q2639831
-- id: 579
-  name: Yeraskhahun
-  state_id: 2026
+- name: Yeraskhahun
   state_code: AV
   state_name: Armavir
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.07233000'
   longitude: '44.21948000'
-  wikiDataId: Q2222448
-- id: 296
-  name: Akunk’
-  state_id: 2028
+- name: Akunk’
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.15886000'
   longitude: '45.72568000'
-  wikiDataId: Q590913
-- id: 336
-  name: Astghadzor
-  state_id: 2028
+- name: Astghadzor
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.12231000'
   longitude: '45.35553000'
-  wikiDataId: Q2636216
-- id: 364
-  name: Chambarak
-  state_id: 2028
+- name: Chambarak
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.59655000'
   longitude: '45.35498000'
-  wikiDataId: Q1024822
-- id: 371
-  name: Ddmashen
-  state_id: 2028
+- name: Ddmashen
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.57028000'
   longitude: '44.82295000'
-  wikiDataId: Q1528594
-- id: 375
-  name: Drakhtik
-  state_id: 2028
+- name: Drakhtik
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.56497000'
   longitude: '45.23670000'
-  wikiDataId: Q1024548
-- id: 380
-  name: Dzoragyugh
-  state_id: 2028
+- name: Dzoragyugh
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.16957000'
   longitude: '45.18337000'
-  wikiDataId: Q2636104
-- id: 384
-  name: Gagarin
-  state_id: 2028
+- name: Gagarin
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.54026000'
   longitude: '44.86962000'
-  wikiDataId: Q5516814
-- id: 385
-  name: Gandzak
-  state_id: 2028
+- name: Gandzak
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.31472000'
   longitude: '45.11139000'
-  wikiDataId: Q1528536
-- id: 387
-  name: Gavarr
-  state_id: 2028
+- name: Gavarr
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.35398000'
   longitude: '45.12386000'
-  wikiDataId: Q39565
-- id: 390
-  name: Geghamasar
-  state_id: 2028
+- name: Geghamasar
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.31091000'
   longitude: '45.67924000'
-  wikiDataId: Q930125
-- id: 391
-  name: Geghamavan
-  state_id: 2028
+- name: Geghamavan
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.56250000'
   longitude: '44.88892000'
-  wikiDataId: Q1528439
-- id: 427
-  name: Karanlukh
-  state_id: 2028
+- name: Karanlukh
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.10444000'
   longitude: '45.28972000'
-  wikiDataId: Q2636125
-- id: 429
-  name: Karchaghbyur
-  state_id: 2028
+- name: Karchaghbyur
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.17048000'
   longitude: '45.57785000'
-  wikiDataId: Q549736
-- id: 437
-  name: Lanjaghbyur
-  state_id: 2028
+- name: Lanjaghbyur
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.26947000'
   longitude: '45.14447000'
-  wikiDataId: Q1528076
-- id: 438
-  name: Lchap’
-  state_id: 2028
+- name: Lchap’
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.45569000'
   longitude: '45.07507000'
-  wikiDataId: Q1529772
-- id: 439
-  name: Lchashen
-  state_id: 2028
+- name: Lchashen
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.51947000'
   longitude: '44.93048000'
-  wikiDataId: Q1528531
-- id: 446
-  name: Lichk’
-  state_id: 2028
+- name: Lichk’
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.15933000'
   longitude: '45.23467000'
-  wikiDataId: Q2636159
-- id: 450
-  name: Madina
-  state_id: 2028
+- name: Madina
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.07637000'
   longitude: '45.25507000'
-  wikiDataId: Q2392033
-- id: 457
-  name: Martuni
-  state_id: 2028
+- name: Martuni
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.08333000'
   longitude: '45.25000000'
-  wikiDataId: Q39603
-- id: 467
-  name: Mets Masrik
-  state_id: 2028
+- name: Mets Masrik
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.21948000'
   longitude: '45.76391000'
-  wikiDataId: Q2650143
-- id: 481
-  name: Nerk’in Getashen
-  state_id: 2028
+- name: Nerk’in Getashen
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.14172000'
   longitude: '45.27087000'
-  wikiDataId: Q2670399
-- id: 492
-  name: Noratus
-  state_id: 2028
+- name: Noratus
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.37793000'
   longitude: '45.18048000'
-  wikiDataId: Q1528182
-- id: 511
-  name: Sarukhan
-  state_id: 2028
+- name: Sarukhan
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.29169000'
   longitude: '45.13068000'
-  wikiDataId: Q1528514
-- id: 514
-  name: Sevan
-  state_id: 2028
+- name: Sevan
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.54730000'
   longitude: '44.94171000'
-  wikiDataId: Q39625
-- id: 541
-  name: Tsovagyugh
-  state_id: 2028
+- name: Tsovagyugh
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.63348000'
   longitude: '44.96112000'
-  wikiDataId: Q1528222
-- id: 542
-  name: Tsovak
-  state_id: 2028
+- name: Tsovak
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.18254000'
   longitude: '45.63286000'
-  wikiDataId: Q2639716
-- id: 543
-  name: Tsovasar
-  state_id: 2028
+- name: Tsovasar
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.13820000'
   longitude: '45.19096000'
-  wikiDataId: Q2639716
-- id: 544
-  name: Tsovazard
-  state_id: 2028
+- name: Tsovazard
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.47510000'
   longitude: '45.05011000'
-  wikiDataId: Q1528427
-- id: 545
-  name: Tsovinar
-  state_id: 2028
+- name: Tsovinar
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.15959000'
   longitude: '45.46786000'
-  wikiDataId: Q2636211
-- id: 550
-  name: Vaghashen
-  state_id: 2028
+- name: Vaghashen
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.13611000'
   longitude: '45.33069000'
-  wikiDataId: Q2635853
-- id: 552
-  name: Vahan
-  state_id: 2028
+- name: Vahan
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.57549000'
   longitude: '45.39769000'
-  wikiDataId: Q1024185
-- id: 556
-  name: Vardenik
-  state_id: 2028
+- name: Vardenik
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.13348000'
   longitude: '45.44311000'
-  wikiDataId: Q2636186
-- id: 557
-  name: Vardenis
-  state_id: 2028
+- name: Vardenis
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.18329000'
   longitude: '45.73053000'
-  wikiDataId: Q39542
-- id: 558
-  name: Varser
-  state_id: 2028
+- name: Varser
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.55548000'
   longitude: '44.90832000'
-  wikiDataId: Q1528210
-- id: 563
-  name: Verin Getashen
-  state_id: 2028
+- name: Verin Getashen
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.13068000'
   longitude: '45.25293000'
-  wikiDataId: Q1121968
-- id: 578
-  name: Yeranos
-  state_id: 2028
+- name: Yeranos
   state_code: GR
   state_name: Gegharkunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.20428000'
   longitude: '45.19209000'
-  wikiDataId: Q2636149
-- id: 281
-  name: Abovyan
-  state_id: 2033
+- name: Abovyan
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.27368000'
   longitude: '44.63348000'
-  wikiDataId: Q31493
-- id: 287
-  name: Aghavnadzor
-  state_id: 2033
+- name: Aghavnadzor
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.58195000'
   longitude: '44.69581000'
-  wikiDataId: Q2303688
-- id: 295
-  name: Akunk’
-  state_id: 2033
+- name: Akunk’
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.26672000'
   longitude: '44.68610000'
-  wikiDataId: Q590561
-- id: 308
-  name: Aramus
-  state_id: 2033
+- name: Aramus
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.25095000'
   longitude: '44.66351000'
-  wikiDataId: Q2006361
-- id: 323
-  name: Argel
-  state_id: 2033
+- name: Argel
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.37793000'
   longitude: '44.60010000'
-  wikiDataId: Q2006382
-- id: 332
-  name: Arzakan
-  state_id: 2033
+- name: Arzakan
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.45007000'
   longitude: '44.60828000'
-  wikiDataId: Q2670437
-- id: 333
-  name: Arzni
-  state_id: 2033
+- name: Arzni
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.29730000'
   longitude: '44.59869000'
-  wikiDataId: Q2595265
-- id: 349
-  name: Balahovit
-  state_id: 2033
+- name: Balahovit
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.25153000'
   longitude: '44.60828000'
-  wikiDataId: Q1921847
-- id: 357
-  name: Bjni
-  state_id: 2033
+- name: Bjni
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.45831000'
   longitude: '44.65008000'
-  wikiDataId: Q1280781
-- id: 360
-  name: Buzhakan
-  state_id: 2033
+- name: Buzhakan
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.45569000'
   longitude: '44.51947000'
-  wikiDataId: Q1922515
-- id: 363
-  name: Byureghavan
-  state_id: 2033
+- name: Byureghavan
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.31417000'
   longitude: '44.59333000'
-  wikiDataId: Q1752731
-- id: 379
-  name: Dzoraghbyur
-  state_id: 2033
+- name: Dzoraghbyur
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.20412000'
   longitude: '44.64150000'
-  wikiDataId: Q2636363
-- id: 382
-  name: Fantan
-  state_id: 2033
+- name: Fantan
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.39447000'
   longitude: '44.68610000'
-  wikiDataId: Q2485210
-- id: 386
-  name: Garrni
-  state_id: 2033
+- name: Garrni
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.11931000'
   longitude: '44.73442000'
-  wikiDataId: Q1010273
-- id: 400
-  name: Goght’
-  state_id: 2033
+- name: Goght’
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.13470000'
   longitude: '44.78332000'
-  wikiDataId: Q1519141
-- id: 417
-  name: Hrazdan
-  state_id: 2033
+- name: Hrazdan
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.49748000'
   longitude: '44.76620000'
-  wikiDataId: Q31610
-- id: 426
-  name: Kaputan
-  state_id: 2033
+- name: Kaputan
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.32507000'
   longitude: '44.70007000'
-  wikiDataId: Q1921689
-- id: 435
-  name: Kotayk’
-  state_id: 2033
+- name: Kotayk’
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.27789000'
   longitude: '44.66388000'
-  wikiDataId: Q970959
-- id: 442
-  name: Lerrnanist
-  state_id: 2033
+- name: Lerrnanist
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.46676000'
   longitude: '44.79249000'
-  wikiDataId: Q2222168
-- id: 459
-  name: Mayakovski
-  state_id: 2033
+- name: Mayakovski
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.25293000'
   longitude: '44.63892000'
-  wikiDataId: Q3302935
-- id: 462
-  name: Meghradzor
-  state_id: 2033
+- name: Meghradzor
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.60611000'
   longitude: '44.65147000'
-  wikiDataId: Q2222193
-- id: 474
-  name: Mrgashen
-  state_id: 2033
+- name: Mrgashen
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.28607000'
   longitude: '44.54449000'
-  wikiDataId: Q733549
-- id: 484
-  name: Nor Geghi
-  state_id: 2033
+- name: Nor Geghi
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.32233000'
   longitude: '44.58331000'
-  wikiDataId: Q934995
-- id: 485
-  name: Nor Gyugh
-  state_id: 2033
+- name: Nor Gyugh
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.26672000'
   longitude: '44.65832000'
-  wikiDataId: Q3343429
-- id: 500
-  name: Prroshyan
-  state_id: 2033
+- name: Prroshyan
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.24731000'
   longitude: '44.41949000'
-  wikiDataId: Q2222307
-- id: 501
-  name: Ptghni
-  state_id: 2033
+- name: Ptghni
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.25568000'
   longitude: '44.58612000'
-  wikiDataId: Q1920828
-- id: 527
-  name: Solak
-  state_id: 2033
+- name: Solak
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.46252000'
   longitude: '44.70709000'
-  wikiDataId: Q2015768
-- id: 537
-  name: Tsaghkadzor
-  state_id: 2033
+- name: Tsaghkadzor
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.53259000'
   longitude: '44.72025000'
-  wikiDataId: Q140342
-- id: 577
-  name: Yeghvard
-  state_id: 2033
+- name: Yeghvard
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.32507000'
   longitude: '44.48608000'
-  wikiDataId: Q1649945
-- id: 583
-  name: Zarr
-  state_id: 2033
+- name: Zarr
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.25848000'
   longitude: '44.73328000'
-  wikiDataId: Q2471296
-- id: 586
-  name: Zoravan
-  state_id: 2033
+- name: Zoravan
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.35553000'
   longitude: '44.52228000'
-  wikiDataId: Q1920843
-- id: 587
-  name: Zovaber
-  state_id: 2033
+- name: Zovaber
   state_code: KT
   state_name: Kotayk
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.56671000'
   longitude: '44.79028000'
-  wikiDataId: Q1528217
-- id: 283
-  name: Agarak
-  state_id: 2029
+- name: Agarak
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.01072000'
   longitude: '44.46845000'
-  wikiDataId: Q590469
-- id: 290
-  name: Akht’ala
-  state_id: 2029
+- name: Akht’ala
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.16838000'
   longitude: '44.75811000'
-  wikiDataId: Q7921347
-- id: 298
-  name: Alaverdi
-  state_id: 2029
+- name: Alaverdi
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.09766000'
   longitude: '44.67316000'
-  wikiDataId: Q39545
-- id: 316
-  name: Arevashogh
-  state_id: 2029
+- name: Arevashogh
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.86039000'
   longitude: '44.27438000'
-  wikiDataId: Q2222733
-- id: 353
-  name: Bazum
-  state_id: 2029
+- name: Bazum
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.86763000'
   longitude: '44.43978000'
-  wikiDataId: Q785295
-- id: 365
-  name: Chochkan
-  state_id: 2029
+- name: Chochkan
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.18118000'
   longitude: '44.83217000'
-  wikiDataId: Q1921917
-- id: 369
-  name: Darpas
-  state_id: 2029
+- name: Darpas
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.83674000'
   longitude: '44.42494000'
-  wikiDataId: Q1920811
-- id: 376
-  name: Dsegh
-  state_id: 2029
+- name: Dsegh
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.96170000'
   longitude: '44.65003000'
-  wikiDataId: Q2636324
-- id: 383
-  name: Fioletovo
-  state_id: 2029
+- name: Fioletovo
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.72241000'
   longitude: '44.71769000'
-  wikiDataId: Q640674
-- id: 399
-  name: Gogaran
-  state_id: 2029
+- name: Gogaran
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.89255000'
   longitude: '44.19915000'
-  wikiDataId: Q1922548
-- id: 404
-  name: Gugark’
-  state_id: 2029
+- name: Gugark’
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.80460000'
   longitude: '44.54025000'
-  wikiDataId: Q2682375
-- id: 405
-  name: Gyulagarak
-  state_id: 2029
+- name: Gyulagarak
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.96715000'
   longitude: '44.47144000'
-  wikiDataId: Q693771
-- id: 423
-  name: Jrashen
-  state_id: 2029
+- name: Jrashen
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.79028000'
   longitude: '44.18664000'
-  wikiDataId: Q2016848
-- id: 443
-  name: Lerrnants’k’
-  state_id: 2029
+- name: Lerrnants’k’
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.79532000'
   longitude: '44.27435000'
-  wikiDataId: Q3230250
-- id: 444
-  name: Lerrnapat
-  state_id: 2029
+- name: Lerrnapat
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.81538000'
   longitude: '44.39344000'
-  wikiDataId: Q33199423
-- id: 445
-  name: Lerrnavan
-  state_id: 2029
+- name: Lerrnavan
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.78820000'
   longitude: '44.16024000'
-  wikiDataId: Q1922504
-- id: 447
-  name: Lorut
-  state_id: 2029
+- name: Lorut
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.93717000'
   longitude: '44.77142000'
-  wikiDataId: Q687064
-- id: 453
-  name: Margahovit
-  state_id: 2029
+- name: Margahovit
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.73381000'
   longitude: '44.68474000'
-  wikiDataId: Q648909
-- id: 468
-  name: Mets Parni
-  state_id: 2029
+- name: Mets Parni
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.83472000'
   longitude: '44.11108000'
-  wikiDataId: Q2223160
-- id: 470
-  name: Metsavan
-  state_id: 2029
+- name: Metsavan
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.20156000'
   longitude: '44.22877000'
-  wikiDataId: Q1921873
-- id: 490
-  name: Norashen
-  state_id: 2029
+- name: Norashen
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.18886000'
   longitude: '44.33336000'
-  wikiDataId: Q1921697
-- id: 496
-  name: Odzun
-  state_id: 2029
+- name: Odzun
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.05321000'
   longitude: '44.61341000'
-  wikiDataId: Q2300267
-- id: 506
-  name: Sarahart’
-  state_id: 2029
+- name: Sarahart’
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.87043000'
   longitude: '44.21407000'
-  wikiDataId: Q2223140
-- id: 507
-  name: Saramej
-  state_id: 2029
+- name: Saramej
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.77487000'
   longitude: '44.22220000'
-  wikiDataId: Q543774
-- id: 517
-  name: Shahumyan
-  state_id: 2029
+- name: Shahumyan
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.77482000'
   longitude: '44.54596000'
-  wikiDataId: Q2222776
-- id: 523
-  name: Shirakamut
-  state_id: 2029
+- name: Shirakamut
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.86056000'
   longitude: '44.15278000'
-  wikiDataId: Q1922530
-- id: 524
-  name: Shnogh
-  state_id: 2029
+- name: Shnogh
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.14693000'
   longitude: '44.84043000'
-  wikiDataId: Q2642758
-- id: 529
-  name: Spitak
-  state_id: 2029
+- name: Spitak
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.83221000'
   longitude: '44.26731000'
-  wikiDataId: Q430887
-- id: 530
-  name: Step’anavan
-  state_id: 2029
+- name: Step’anavan
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.00995000'
   longitude: '44.38531000'
-  wikiDataId: Q39678
-- id: 534
-  name: Tashir
-  state_id: 2029
+- name: Tashir
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.12072000'
   longitude: '44.28462000'
-  wikiDataId: Q598741
-- id: 536
-  name: Tsaghkaber
-  state_id: 2029
+- name: Tsaghkaber
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.79849000'
   longitude: '44.10144000'
-  wikiDataId: Q1921827
-- id: 547
-  name: Urrut
-  state_id: 2029
+- name: Urrut
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.06778000'
   longitude: '44.39628000'
-  wikiDataId: Q2223173
-- id: 551
-  name: Vahagni
-  state_id: 2029
+- name: Vahagni
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.90698000'
   longitude: '44.60873000'
-  wikiDataId: Q2222868
-- id: 553
-  name: Vanadzor
-  state_id: 2029
+- name: Vanadzor
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.80456000'
   longitude: '44.49390000'
-  wikiDataId: Q62337
-- id: 554
-  name: Vardablur
-  state_id: 2029
+- name: Vardablur
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.97083000'
   longitude: '44.50889000'
-  wikiDataId: Q1921520
-- id: 576
-  name: Yeghegnut
-  state_id: 2029
+- name: Yeghegnut
   state_code: LO
   state_name: Lori
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.90302000'
   longitude: '44.63155000'
-  wikiDataId: Q2222668
-- id: 291
-  name: Akhuryan
-  state_id: 2031
+- name: Akhuryan
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.78003000'
   longitude: '43.90027000'
-  wikiDataId: Q1958096
-- id: 299
-  name: Amasia
-  state_id: 2031
+- name: Amasia
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.95442000'
   longitude: '43.78720000'
-  wikiDataId: Q2672566
-- id: 301
-  name: Anushavan
-  state_id: 2031
+- name: Anushavan
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.65008000'
   longitude: '43.98053000'
-  wikiDataId: Q2222886
-- id: 318
-  name: Arevik
-  state_id: 2031
+- name: Arevik
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.74170000'
   longitude: '43.90430000'
-  wikiDataId: Q2639707
-- id: 320
-  name: Arevshat
-  state_id: 2031
+- name: Arevshat
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.65345000'
   longitude: '44.04419000'
-  wikiDataId: Q2222710
-- id: 326
-  name: Arrap’i
-  state_id: 2031
+- name: Arrap’i
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.78276000'
   longitude: '43.80583000'
-  wikiDataId: Q2640112
-- id: 346
-  name: Azatan
-  state_id: 2031
+- name: Azatan
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.71959000'
   longitude: '43.82727000'
-  wikiDataId: Q2657939
-- id: 352
-  name: Basen
-  state_id: 2031
+- name: Basen
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.75767000'
   longitude: '43.99274000'
-  wikiDataId: Q738164
-- id: 378
-  name: Dzit’hank’ov
-  state_id: 2031
+- name: Dzit’hank’ov
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.50848000'
   longitude: '43.82092000'
-  wikiDataId: Q2017927
-- id: 406
-  name: Gyumri
-  state_id: 2031
+- name: Gyumri
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.79420000'
   longitude: '43.84528000'
-  wikiDataId: Q199500
-- id: 411
-  name: Haykavan
-  state_id: 2031
+- name: Haykavan
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.80312000'
   longitude: '43.75173000'
-  wikiDataId: Q537524
-- id: 413
-  name: Horrom
-  state_id: 2031
+- name: Horrom
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.65973000'
   longitude: '43.89032000'
-  wikiDataId: Q2223275
-- id: 424
-  name: Kamo
-  state_id: 2031
+- name: Kamo
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.82572000'
   longitude: '43.95071000'
-  wikiDataId: Q2017455
-- id: 441
-  name: Lerrnakert
-  state_id: 2031
+- name: Lerrnakert
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.56250000'
   longitude: '43.93890000'
-  wikiDataId: Q2223354
-- id: 452
-  name: Maralik
-  state_id: 2031
+- name: Maralik
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.57507000'
   longitude: '43.87231000'
-  wikiDataId: Q1613499
-- id: 456
-  name: Marmashen
-  state_id: 2031
+- name: Marmashen
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.83486000'
   longitude: '43.77790000'
-  wikiDataId: Q1110040
-- id: 460
-  name: Mayisyan
-  state_id: 2031
+- name: Mayisyan
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.84715000'
   longitude: '43.83938000'
-  wikiDataId: Q2017875
-- id: 463
-  name: Meghrashen
-  state_id: 2031
+- name: Meghrashen
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.67230000'
   longitude: '43.95831000'
-  wikiDataId: Q614997
-- id: 466
-  name: Mets Mant’ash
-  state_id: 2031
+- name: Mets Mant’ash
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.64376000'
   longitude: '44.05653000'
-  wikiDataId: Q2223248
-- id: 503
-  name: P’ok’r Mant’ash
-  state_id: 2031
+- name: P’ok’r Mant’ash
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.64026000'
   longitude: '44.04666000'
-  wikiDataId: Q2223066
-- id: 499
-  name: Pemzashen
-  state_id: 2031
+- name: Pemzashen
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.58612000'
   longitude: '43.94311000'
-  wikiDataId: Q2671137
-- id: 508
-  name: Saratak
-  state_id: 2031
+- name: Saratak
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.67090000'
   longitude: '43.87231000'
-  wikiDataId: Q2222975
-- id: 522
-  name: Shirak
-  state_id: 2031
+- name: Shirak
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.84042000'
   longitude: '43.91582000'
-  wikiDataId: Q2643853
-- id: 528
-  name: Spandaryan
-  state_id: 2031
+- name: Spandaryan
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.66105000'
   longitude: '44.01551000'
-  wikiDataId: Q430887
-- id: 566
-  name: Voskehask
-  state_id: 2031
+- name: Voskehask
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.76426000'
   longitude: '43.77474000'
-  wikiDataId: Q2222820
-- id: 580
-  name: Yerazgavors
-  state_id: 2031
+- name: Yerazgavors
   state_code: SH
   state_name: Shirak
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.69505000'
   longitude: '43.74722000'
-  wikiDataId: Q2222448
-- id: 284
-  name: Agarak
-  state_id: 2027
+- name: Agarak
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.20684000'
   longitude: '46.54460000'
-  wikiDataId: Q2059513
-- id: 294
-  name: Akner
-  state_id: 2027
+- name: Akner
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.53491000'
   longitude: '46.30732000'
-  wikiDataId: Q2630421
-- id: 300
-  name: Angeghakot’
-  state_id: 2027
+- name: Angeghakot’
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.56952000'
   longitude: '45.94452000'
-  wikiDataId: Q590508
-- id: 358
-  name: Brrnakot’
-  state_id: 2027
+- name: Brrnakot’
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.49742000'
   longitude: '45.97241000'
-  wikiDataId: Q713488
-- id: 381
-  name: Dzorastan
-  state_id: 2027
+- name: Dzorastan
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.27059000'
   longitude: '46.35720000'
-  wikiDataId: Q2701470
-- id: 402
-  name: Goris
-  state_id: 2027
+- name: Goris
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.51111000'
   longitude: '46.34168000'
-  wikiDataId: Q2658136
-- id: 408
-  name: Hats’avan
-  state_id: 2027
+- name: Hats’avan
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.46405000'
   longitude: '45.97047000'
-  wikiDataId: Q590465
-- id: 425
-  name: Kapan
-  state_id: 2027
+- name: Kapan
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.20755000'
   longitude: '46.40576000'
-  wikiDataId: Q31583
-- id: 432
-  name: Khndzoresk
-  state_id: 2027
+- name: Khndzoresk
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.50568000'
   longitude: '46.43610000'
-  wikiDataId: Q2640140
-- id: 464
-  name: Meghri
-  state_id: 2027
+- name: Meghri
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '38.90292000'
   longitude: '46.24458000'
-  wikiDataId: Q39549
-- id: 515
-  name: Shaghat
-  state_id: 2027
+- name: Shaghat
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.55698000'
   longitude: '45.90727000'
-  wikiDataId: Q640486
-- id: 521
-  name: Shinuhayr
-  state_id: 2027
+- name: Shinuhayr
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.43670000'
   longitude: '46.31787000'
-  wikiDataId: Q2670154
-- id: 535
-  name: Tegh
-  state_id: 2027
+- name: Tegh
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.55826000'
   longitude: '46.48054000'
-  wikiDataId: Q2670423
-- id: 564
-  name: Verishen
-  state_id: 2027
+- name: Verishen
   state_code: SU
   state_name: Syunik
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.53543000'
   longitude: '46.32063000'
-  wikiDataId: Q2095757
-- id: 312
-  name: Archis
-  state_id: 2032
+- name: Archis
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.16351000'
   longitude: '44.87631000'
-  wikiDataId: Q33901
-- id: 331
-  name: Artsvaberd
-  state_id: 2032
+- name: Artsvaberd
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.83947000'
   longitude: '45.47033000'
-  wikiDataId: Q2672592
-- id: 339
-  name: Aygehovit
-  state_id: 2032
+- name: Aygehovit
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.97951000'
   longitude: '45.25033000'
-  wikiDataId: Q2672616
-- id: 345
-  name: Azatamut
-  state_id: 2032
+- name: Azatamut
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.98204000'
   longitude: '45.18551000'
-  wikiDataId: Q2536393
-- id: 348
-  name: Bagratashen
-  state_id: 2032
+- name: Bagratashen
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.24358000'
   longitude: '44.81737000'
-  wikiDataId: Q33812
-- id: 354
-  name: Berd
-  state_id: 2032
+- name: Berd
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.88135000'
   longitude: '45.38901000'
-  wikiDataId: Q1886688
-- id: 355
-  name: Berdavan
-  state_id: 2032
+- name: Berdavan
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.20503000'
   longitude: '44.99967000'
-  wikiDataId: Q33876
-- id: 372
-  name: Dilijan
-  state_id: 2032
+- name: Dilijan
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.74170000'
   longitude: '44.85010000'
-  wikiDataId: Q39569
-- id: 407
-  name: Haghartsin
-  state_id: 2032
+- name: Haghartsin
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.77614000'
   longitude: '44.96847000'
-  wikiDataId: Q2536499
-- id: 418
-  name: Ijevan
-  state_id: 2032
+- name: Ijevan
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.87877000'
   longitude: '45.14851000'
-  wikiDataId: Q62367
-- id: 431
-  name: Khasht’arrak
-  state_id: 2032
+- name: Khasht’arrak
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.93668000'
   longitude: '45.18210000'
-  wikiDataId: Q69477
-- id: 471
-  name: Mosesgegh
-  state_id: 2032
+- name: Mosesgegh
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.90534000'
   longitude: '45.48838000'
-  wikiDataId: Q33808
-- id: 480
-  name: Navur
-  state_id: 2032
+- name: Navur
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.86695000'
   longitude: '45.34179000'
-  wikiDataId: Q33922
-- id: 494
-  name: Noyemberyan
-  state_id: 2032
+- name: Noyemberyan
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.17244000'
   longitude: '44.99917000'
-  wikiDataId: Q34372
-- id: 498
-  name: Parravak’ar
-  state_id: 2032
+- name: Parravak’ar
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.98248000'
   longitude: '45.36696000'
-  wikiDataId: Q2536571
-- id: 510
-  name: Sarigyugh
-  state_id: 2032
+- name: Sarigyugh
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.03531000'
   longitude: '45.14486000'
-  wikiDataId: Q69271
-- id: 569
-  name: Voskevan
-  state_id: 2032
+- name: Voskevan
   state_code: TV
   state_name: Tavush
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '41.12081000'
   longitude: '45.06381000'
-  wikiDataId: Q33809
-- id: 285
-  name: Agarakadzor
-  state_id: 2025
+- name: Agarakadzor
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.73608000'
   longitude: '45.35553000'
-  wikiDataId: Q1955941
-- id: 288
-  name: Aghavnadzor
-  state_id: 2025
+- name: Aghavnadzor
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.78607000'
   longitude: '45.22790000'
-  wikiDataId: Q2422770
-- id: 313
-  name: Areni
-  state_id: 2025
+- name: Areni
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.71668000'
   longitude: '45.18329000'
-  wikiDataId: Q207291
-- id: 393
-  name: Getap’
-  state_id: 2025
+- name: Getap’
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.76392000'
   longitude: '45.30829000'
-  wikiDataId: Q2536601
-- id: 397
-  name: Gladzor
-  state_id: 2025
+- name: Gladzor
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.78070000'
   longitude: '45.34729000'
-  wikiDataId: Q2536608
-- id: 420
-  name: Jermuk
-  state_id: 2025
+- name: Jermuk
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.84168000'
   longitude: '45.66949000'
-  wikiDataId: Q39556
-- id: 451
-  name: Malishka
-  state_id: 2025
+- name: Malishka
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.74731000'
   longitude: '45.40570000'
-  wikiDataId: Q949136
-- id: 505
-  name: Rrind
-  state_id: 2025
+- name: Rrind
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.76111000'
   longitude: '45.17792000'
-  wikiDataId: Q2710126
-- id: 518
-  name: Shatin
-  state_id: 2025
+- name: Shatin
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.83612000'
   longitude: '45.30292000'
-  wikiDataId: Q2536626
-- id: 559
-  name: Vayk’
-  state_id: 2025
+- name: Vayk’
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.68890000'
   longitude: '45.46668000'
-  wikiDataId: Q1253628
-- id: 565
-  name: Vernashen
-  state_id: 2025
+- name: Vernashen
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.79236000'
   longitude: '45.36389000'
-  wikiDataId: Q2536525
-- id: 572
-  name: Yeghegis
-  state_id: 2025
+- name: Yeghegis
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.87231000'
   longitude: '45.35010000'
-  wikiDataId: Q610325
-- id: 573
-  name: Yeghegnadzor
-  state_id: 2025
+- name: Yeghegnadzor
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.76389000'
   longitude: '45.33239000'
-  wikiDataId: Q39538
-- id: 584
-  name: Zarrit’ap’
-  state_id: 2025
+- name: Zarrit’ap’
   state_code: VD
   state_name: Vayots Dzor
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '39.63892000'
   longitude: '45.51111000'
-  wikiDataId: Q554368
-- id: 304
-  name: Arabkir
-  state_id: 2030
+- name: Arabkir
   state_code: ER
   state_name: Yerevan
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.20549000'
   longitude: '44.50699000'
-  wikiDataId: Q39618
-- id: 321
-  name: Argavand
-  state_id: 2030
+- name: Argavand
   state_code: ER
   state_name: Yerevan
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.15289000'
   longitude: '44.43890000'
-  wikiDataId: Q1142867
-- id: 422
-  name: Jrashen
-  state_id: 2030
+- name: Jrashen
   state_code: ER
   state_name: Yerevan
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.05275000'
   longitude: '44.51259000'
-  wikiDataId: Q2222156
-- id: 436
-  name: K’anak’erravan
-  state_id: 2030
+- name: K’anak’erravan
   state_code: ER
   state_name: Yerevan
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.24739000'
   longitude: '44.53511000'
-  wikiDataId: Q1922496
-- id: 555
-  name: Vardadzor
-  state_id: 2030
+- name: Vardadzor
   state_code: ER
   state_name: Yerevan
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.18701000'
   longitude: '45.19212000'
-  wikiDataId: Q2636168
-- id: 581
-  name: Yerevan
-  state_id: 2030
+- name: Yerevan
   state_code: ER
   state_name: Yerevan
-  country_id: 12
-  country_code: AM
-  country_name: Armenia
   latitude: '40.18111000'
   longitude: '44.51361000'
-  wikiDataId: Q2222448

@@ -1,4225 +1,1921 @@
 ---
-- id: 97160
-  name: Barič
-  state_id: 3728
+- name: Barič
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.65070000'
   longitude: '20.25941000'
-  wikiDataId: Q2884580
-- id: 97174
-  name: Bečmen
-  state_id: 3728
+- name: Bečmen
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.77983000'
   longitude: '20.20577000'
-  wikiDataId: Q2900589
-- id: 97193
-  name: Dobanovci
-  state_id: 3728
+- name: Dobanovci
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.82631000'
   longitude: '20.22487000'
-  wikiDataId: Q2037460
-- id: 97270
-  name: Lazarevac
-  state_id: 3728
+- name: Lazarevac
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.38534000'
   longitude: '20.25570000'
-  wikiDataId: Q1091353
-- id: 97286
-  name: Mala Moštanica
-  state_id: 3728
+- name: Mala Moštanica
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.63834000'
   longitude: '20.30600000'
-  wikiDataId: Q2375650
-- id: 97319
-  name: Obrenovac
-  state_id: 3728
+- name: Obrenovac
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.65486000'
   longitude: '20.20017000'
-  wikiDataId: Q793176
-- id: 97326
-  name: Ostružnica
-  state_id: 3728
+- name: Ostružnica
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.72769000'
   longitude: '20.31845000'
-  wikiDataId: Q599338
-- id: 97327
-  name: Ovča
-  state_id: 3728
+- name: Ovča
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.88349000'
   longitude: '20.53336000'
-  wikiDataId: Q1008404
-- id: 97368
-  name: Rušanj
-  state_id: 3728
+- name: Rušanj
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.68477000'
   longitude: '20.44993000'
-  wikiDataId: Q3177250
-- id: 97390
-  name: Sremčica
-  state_id: 3728
+- name: Sremčica
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.67653000'
   longitude: '20.39232000'
-  wikiDataId: Q1024086
-- id: 97399
-  name: Stepojevac
-  state_id: 3728
+- name: Stepojevac
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.51278000'
   longitude: '20.29500000'
-  wikiDataId: Q3103021
-- id: 97400
-  name: Stubline
-  state_id: 3728
+- name: Stubline
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.57476000'
   longitude: '20.13477000'
-  wikiDataId: Q947010
-- id: 97404
-  name: Surčin
-  state_id: 3728
+- name: Surčin
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.79306000'
   longitude: '20.28028000'
-  wikiDataId: Q288536
-- id: 97406
-  name: Tabanović
-  state_id: 3728
+- name: Tabanović
   state_code: '08'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.82018000'
   longitude: '19.64128000'
-  wikiDataId: Q2736282
-- id: 97419
-  name: Ugrinovci
-  state_id: 3728
+- name: Ugrinovci
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.87635000'
   longitude: '20.18763000'
-  wikiDataId: Q1977243
-- id: 97421
-  name: Umka
-  state_id: 3728
+- name: Umka
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.67806000'
   longitude: '20.30472000'
-  wikiDataId: Q3050835
-- id: 97428
-  name: Velika Moštanica
-  state_id: 3728
+- name: Velika Moštanica
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.66486000'
   longitude: '20.35395000'
-  wikiDataId: Q3177271
-- id: 97439
-  name: Vranić
-  state_id: 3728
+- name: Vranić
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.60237000'
   longitude: '20.32872000'
-  wikiDataId: Q2453146
-- id: 97446
-  name: Zemun
-  state_id: 3728
+- name: Zemun
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.84580000'
   longitude: '20.40116000'
-  wikiDataId: Q209329
-- id: 97451
-  name: Zvečka
-  state_id: 3728
+- name: Zvečka
   state_code: '00'
   state_name: Belgrade
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.64025000'
   longitude: '20.16432000'
-  wikiDataId: Q3177361
-- id: 97182
-  name: Bor
-  state_id: 3717
+- name: Bor
   state_code: '14'
   state_name: Bor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.36667000'
   longitude: '22.25000000'
-  wikiDataId: Q477586
-- id: 97197
-  name: Donji Milanovac
-  state_id: 3717
+- name: Donji Milanovac
   state_code: '14'
   state_name: Bor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.46593000'
   longitude: '22.15170000'
-  wikiDataId: Q1002286
-- id: 155038
-  name: Kladovo
-  state_id: 3717
+- name: Kladovo
   state_code: '14'
   state_name: Bor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.60439890'
   longitude: '22.50819420'
-  wikiDataId: Q1467253
-- id: 97284
-  name: Majdanpek
-  state_id: 3717
+- name: Majdanpek
   state_code: '14'
   state_name: Bor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.42525470'
   longitude: '21.80927330'
-  wikiDataId: Q1808548
-- id: 97301
-  name: Negotin
-  state_id: 3717
+- name: Negotin
   state_code: '14'
   state_name: Bor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.21816180'
   longitude: '22.45162060'
-  wikiDataId: Q1572127
-- id: 97210
-  name: Golubac
-  state_id: 3732
+- name: Golubac
   state_code: '11'
   state_name: Braničevo
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.63552160'
   longitude: '21.59525590'
-  wikiDataId: Q2047467
-- id: 97245
-  name: Klenje
-  state_id: 3732
+- name: Klenje
   state_code: '11'
   state_name: Braničevo
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.80794000'
   longitude: '19.43508000'
-  wikiDataId: Q2722401
-- id: 155042
-  name: Kučevo
-  state_id: 3732
+- name: Kučevo
   state_code: '11'
   state_name: Braničevo
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.48938750'
   longitude: '21.63499770'
-  wikiDataId: Q1486117
-- id: 155043
-  name: Malo Crniće
-  state_id: 3732
+- name: Malo Crniće
   state_code: '11'
   state_name: Braničevo
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.54013980'
   longitude: '21.19802620'
-  wikiDataId: Q2047453
-- id: 155044
-  name: Petrovac na Mlavi
-  state_id: 3732
+- name: Petrovac na Mlavi
   state_code: '11'
   state_name: Braničevo
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.35397370'
   longitude: '21.28050670'
-  wikiDataId: Q1544334
-- id: 97343
-  name: Požarevac
-  state_id: 3732
+- name: Požarevac
   state_code: '11'
   state_name: Braničevo
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.62133000'
   longitude: '21.18782000'
-  wikiDataId: Q199942
-- id: 97352
-  name: Radenka
-  state_id: 3732
+- name: Radenka
   state_code: '11'
   state_name: Braničevo
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.58345000'
   longitude: '21.76469000'
-  wikiDataId: Q658485
-- id: 97469
-  name: Ševica
-  state_id: 3732
+- name: Ševica
   state_code: '11'
   state_name: Braničevo
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.50883000'
   longitude: '21.72296000'
-  wikiDataId: Q3102834
-- id: 155039
-  name: Veliko Gradište
-  state_id: 3732
+- name: Veliko Gradište
   state_code: '11'
   state_name: Braničevo
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.75196410'
   longitude: '21.46282130'
-  wikiDataId: Q2041692
-- id: 155040
-  name: Žabari
-  state_id: 3732
+- name: Žabari
   state_code: '11'
   state_name: Braničevo
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.38522130'
   longitude: '21.04498720'
-  wikiDataId: Q2019035
-- id: 155041
-  name: Žagubica
-  state_id: 3732
+- name: Žagubica
   state_code: '11'
   state_name: Braničevo
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.15544450'
   longitude: '21.69317990'
-  wikiDataId: Q393335
-- id: 97146
-  name: Aradac
-  state_id: 3716
+- name: Aradac
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.38346000'
   longitude: '20.30137000'
-  wikiDataId: Q624707
-- id: 97152
-  name: Banatski Despotovac
-  state_id: 3716
+- name: Banatski Despotovac
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.36606000'
   longitude: '20.66407000'
-  wikiDataId: Q806131
-- id: 97153
-  name: Banatski Dvor
-  state_id: 3716
+- name: Banatski Dvor
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.51866000'
   longitude: '20.51146000'
-  wikiDataId: Q532897
-- id: 97155
-  name: Banatsko Karađorđevo
-  state_id: 3716
+- name: Banatsko Karađorđevo
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.58693000'
   longitude: '20.56421000'
-  wikiDataId: Q1089484
-- id: 97171
-  name: Belo Blato
-  state_id: 3716
+- name: Belo Blato
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.27278000'
   longitude: '20.37500000'
-  wikiDataId: Q263805
-- id: 97185
-  name: Bočar
-  state_id: 3716
+- name: Bočar
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.76994000'
   longitude: '20.28390000'
-  wikiDataId: Q832848
-- id: 97180
-  name: Boka
-  state_id: 3716
+- name: Boka
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.35540000'
   longitude: '20.82987000'
-  wikiDataId: Q569263
-- id: 97184
-  name: Botoš
-  state_id: 3716
+- name: Botoš
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.30837000'
   longitude: '20.63514000'
-  wikiDataId: Q31925230
-- id: 97459
-  name: Čenta
-  state_id: 3716
+- name: Čenta
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.10814000'
   longitude: '20.38947000'
-  wikiDataId: Q338654
-- id: 97460
-  name: Čestereg
-  state_id: 3716
+- name: Čestereg
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.56361000'
   longitude: '20.53194000'
-  wikiDataId: Q225860
-- id: 97204
-  name: Ečka
-  state_id: 3716
+- name: Ečka
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.32328000'
   longitude: '20.44294000'
-  wikiDataId: Q743707
-- id: 97203
-  name: Elemir
-  state_id: 3716
+- name: Elemir
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.44263000'
   longitude: '20.30003000'
-  wikiDataId: Q988802
-- id: 97205
-  name: Farkaždin
-  state_id: 3716
+- name: Farkaždin
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.19172000'
   longitude: '20.47239000'
-  wikiDataId: Q996450
-- id: 97219
-  name: Hetin
-  state_id: 3716
+- name: Hetin
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.66202000'
   longitude: '20.79138000'
-  wikiDataId: Q1190917
-- id: 97232
-  name: Jarkovac
-  state_id: 3716
+- name: Jarkovac
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.26985000'
   longitude: '20.76078000'
-  wikiDataId: Q1061105
-- id: 97234
-  name: Jaša Tomić
-  state_id: 3716
+- name: Jaša Tomić
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.44725000'
   longitude: '20.85546000'
-  wikiDataId: Q785546
-- id: 97243
-  name: Klek
-  state_id: 3716
+- name: Klek
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.42254000'
   longitude: '20.48049000'
-  wikiDataId: Q853942
-- id: 97246
-  name: Knićanin
-  state_id: 3716
+- name: Knićanin
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.18675000'
   longitude: '20.31900000'
-  wikiDataId: Q691863
-- id: 97250
-  name: Konak
-  state_id: 3716
+- name: Konak
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.31575000'
   longitude: '20.91468000'
-  wikiDataId: Q1083380
-- id: 97257
-  name: Krajišnik
-  state_id: 3716
+- name: Krajišnik
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.45283000'
   longitude: '20.72976000'
-  wikiDataId: Q167394
-- id: 97264
-  name: Kumane
-  state_id: 3716
+- name: Kumane
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.53946000'
   longitude: '20.22902000'
-  wikiDataId: Q943083
-- id: 97271
-  name: Lazarevo
-  state_id: 3716
+- name: Lazarevo
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.38893000'
   longitude: '20.53999000'
-  wikiDataId: Q779376
-- id: 97282
-  name: Lukićevo
-  state_id: 3716
+- name: Lukićevo
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.33815000'
   longitude: '20.49895000'
-  wikiDataId: Q1194843
-- id: 97293
-  name: Međa
-  state_id: 3716
+- name: Međa
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.53815000'
   longitude: '20.80677000'
-  wikiDataId: Q1088758
-- id: 97291
-  name: Melenci
-  state_id: 3716
+- name: Melenci
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.51680000'
   longitude: '20.31961000'
-  wikiDataId: Q1022734
-- id: 97294
-  name: Mihajlovo
-  state_id: 3716
+- name: Mihajlovo
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.47085000'
   longitude: '20.41508000'
-  wikiDataId: Q1163142
-- id: 97302
-  name: Neuzina
-  state_id: 3716
+- name: Neuzina
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.34460000'
   longitude: '20.71418000'
-  wikiDataId: Q751360
-- id: 97307
-  name: Nova Crnja
-  state_id: 3716
+- name: Nova Crnja
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.68712540'
   longitude: '20.51005280'
-  wikiDataId: Q914410
-- id: 155045
-  name: Novi Bečej
-  state_id: 3716
+- name: Novi Bečej
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.59435150'
   longitude: '20.18852580'
-  wikiDataId: Q914463
-- id: 97310
-  name: Novi Itebej
-  state_id: 3716
+- name: Novi Itebej
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.55918000'
   longitude: '20.70030000'
-  wikiDataId: Q1048908
-- id: 97317
-  name: Novo Miloševo
-  state_id: 3716
+- name: Novo Miloševo
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.71916000'
   longitude: '20.30364000'
-  wikiDataId: Q793176
-- id: 97322
-  name: Orlovat
-  state_id: 3716
+- name: Orlovat
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.24171000'
   longitude: '20.58089000'
-  wikiDataId: Q1193012
-- id: 97333
-  name: Perlez
-  state_id: 3716
+- name: Perlez
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.20813000'
   longitude: '20.38197000'
-  wikiDataId: Q1079713
-- id: 97354
-  name: Radojevo
-  state_id: 3716
+- name: Radojevo
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.74617000'
   longitude: '20.78917000'
-  wikiDataId: Q1046240
-- id: 97358
-  name: Ravni Topolovac
-  state_id: 3716
+- name: Ravni Topolovac
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.46082000'
   longitude: '20.56939000'
-  wikiDataId: Q278955
-- id: 97379
-  name: Sečanj
-  state_id: 3716
+- name: Sečanj
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.32387000'
   longitude: '20.67233210'
-  wikiDataId: Q915045
-- id: 97391
-  name: Srpska Crnja
-  state_id: 3716
+- name: Srpska Crnja
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.72538000'
   longitude: '20.69008000'
-  wikiDataId: Q545680
-- id: 97392
-  name: Srpski Itebej
-  state_id: 3716
+- name: Srpski Itebej
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.56715000'
   longitude: '20.71350000'
-  wikiDataId: Q239976
-- id: 97393
-  name: Stajićevo
-  state_id: 3716
+- name: Stajićevo
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.29489000'
   longitude: '20.45845000'
-  wikiDataId: Q1089370
-- id: 97405
-  name: Sutjeska
-  state_id: 3716
+- name: Sutjeska
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.38312000'
   longitude: '20.69620000'
-  wikiDataId: Q1061101
-- id: 97407
-  name: Taraš
-  state_id: 3716
+- name: Taraš
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.46737000'
   longitude: '20.19867000'
-  wikiDataId: Q1089356
-- id: 97410
-  name: Toba
-  state_id: 3716
+- name: Toba
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.68943000'
   longitude: '20.55714000'
-  wikiDataId: Q301070
-- id: 97411
-  name: Tomaševac
-  state_id: 3716
+- name: Tomaševac
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.26855000'
   longitude: '20.62272000'
-  wikiDataId: Q1089344
-- id: 97413
-  name: Torak
-  state_id: 3716
+- name: Torak
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.50928000'
   longitude: '20.60900000'
-  wikiDataId: Q610526
-- id: 97414
-  name: Torda
-  state_id: 3716
+- name: Torda
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.58423000'
   longitude: '20.45900000'
-  wikiDataId: Q1071894
-- id: 97438
-  name: Vojvoda Stepa
-  state_id: 3716
+- name: Vojvoda Stepa
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.68537000'
   longitude: '20.65536000'
-  wikiDataId: Q249493
-- id: 97474
-  name: Žitište
-  state_id: 3716
+- name: Žitište
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.54150190'
   longitude: '20.29310490'
-  wikiDataId: Q250352
-- id: 97450
-  name: Zrenjanin
-  state_id: 3716
+- name: Zrenjanin
   state_code: '02'
   state_name: Central Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.38361000'
   longitude: '20.38194000'
-  wikiDataId: Q201125
-- id: 155046
-  name: Bojnik
-  state_id: 3715
+- name: Bojnik
   state_code: '23'
   state_name: Jablanica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.03962330'
   longitude: '21.50229300'
-  wikiDataId: Q2041762
-- id: 155050
-  name: Crna Trava
-  state_id: 3715
+- name: Crna Trava
   state_code: '23'
   state_name: Jablanica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.81226490'
   longitude: '22.26885720'
-  wikiDataId: Q573651
-- id: 97239
-  name: Kamenica
-  state_id: 3715
+- name: Kamenica
   state_code: '23'
   state_name: Jablanica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.34300000'
   longitude: '19.72333000'
-  wikiDataId: Q948327
-- id: 155048
-  name: Lebane
-  state_id: 3715
+- name: Lebane
   state_code: '23'
   state_name: Jablanica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.92312940'
   longitude: '21.71589360'
-  wikiDataId: Q3448747
-- id: 97272
-  name: Leskovac
-  state_id: 3715
+- name: Leskovac
   state_code: '23'
   state_name: Jablanica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.99806000'
   longitude: '21.94611000'
-  wikiDataId: Q192606
-- id: 155049
-  name: Medveđa
-  state_id: 3715
+- name: Medveđa
   state_code: '23'
   state_name: Jablanica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.83278560'
   longitude: '21.53388900'
-  wikiDataId: Q3448696
-- id: 155047
-  name: Vlasotince
-  state_id: 3715
+- name: Vlasotince
   state_code: '23'
   state_name: Jablanica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.96648980'
   longitude: '22.09399660'
-  wikiDataId: Q1649631
-- id: 97212
-  name: Gornja Bukovica
-  state_id: 3724
+- name: Gornja Bukovica
   state_code: '09'
   state_name: Kolubara
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.33987000'
   longitude: '19.81368000'
-  wikiDataId: Q1011675
-- id: 97238
-  name: Joševa
-  state_id: 3724
+- name: Joševa
   state_code: '09'
   state_name: Kolubara
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.58772000'
   longitude: '19.40967000'
-  wikiDataId: Q948327
-- id: 155051
-  name: Lajkovac
-  state_id: 3724
+- name: Lajkovac
   state_code: '09'
   state_name: Kolubara
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.36809950'
   longitude: '20.14110360'
-  wikiDataId: Q2048243
-- id: 97276
-  name: Ljig
-  state_id: 3724
+- name: Ljig
   state_code: '09'
   state_name: Kolubara
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.22281040'
   longitude: '20.21389960'
-  wikiDataId: Q2360583
-- id: 155052
-  name: Mionica
-  state_id: 3724
+- name: Mionica
   state_code: '09'
   state_name: Kolubara
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.25595280'
   longitude: '20.05966170'
-  wikiDataId: Q2047412
-- id: 97323
-  name: Osečina
-  state_id: 3724
+- name: Osečina
   state_code: '09'
   state_name: Kolubara
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.37202670'
   longitude: '19.57926740'
-  wikiDataId: Q15629061
-- id: 155053
-  name: Ub
-  state_id: 3724
+- name: Ub
   state_code: '09'
   state_name: Kolubara
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.45594110'
   longitude: '20.04489880'
-  wikiDataId: Q12756688
-- id: 97425
-  name: Valjevo
-  state_id: 3724
+- name: Valjevo
   state_code: '09'
   state_name: Kolubara
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.27513000'
   longitude: '19.89821000'
-  wikiDataId: Q208015
-- id: 97149
-  name: Badovinci
-  state_id: 3719
+- name: Badovinci
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.78534000'
   longitude: '19.37146000'
-  wikiDataId: Q799678
-- id: 97157
-  name: Banovo Polje
-  state_id: 3719
+- name: Banovo Polje
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.91040000'
   longitude: '19.44916000'
-  wikiDataId: Q2722626
-- id: 97172
-  name: Belotić
-  state_id: 3719
+- name: Belotić
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.81782000'
   longitude: '19.54801000'
-  wikiDataId: Q31913828
-- id: 97177
-  name: Bogatić
-  state_id: 3719
+- name: Bogatić
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.84997410'
   longitude: '19.40134990'
-  wikiDataId: Q2501494
-- id: 97179
-  name: Bogosavac
-  state_id: 3719
+- name: Bogosavac
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.71799000'
   longitude: '19.59533000'
-  wikiDataId: Q2736639
-- id: 97186
-  name: Brdarica
-  state_id: 3719
+- name: Brdarica
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.55376000'
   longitude: '19.77150000'
-  wikiDataId: Q726458
-- id: 97187
-  name: Bukor
-  state_id: 3719
+- name: Bukor
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.49523000'
   longitude: '19.57116000'
-  wikiDataId: Q2927819
-- id: 97462
-  name: Čokešina
-  state_id: 3719
+- name: Čokešina
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.65319000'
   longitude: '19.39016000'
-  wikiDataId: Q2473300
-- id: 97190
-  name: Crna Bara
-  state_id: 3719
+- name: Crna Bara
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.87374000'
   longitude: '19.39480000'
-  wikiDataId: Q2052491
-- id: 97195
-  name: Dobrić
-  state_id: 3719
+- name: Dobrić
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.70224000'
   longitude: '19.57931000'
-  wikiDataId: Q2771668
-- id: 97196
-  name: Donji Dobrić
-  state_id: 3719
+- name: Donji Dobrić
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.61183000'
   longitude: '19.33109000'
-  wikiDataId: Q2259839
-- id: 97199
-  name: Draginje
-  state_id: 3719
+- name: Draginje
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.53302000'
   longitude: '19.76250000'
-  wikiDataId: Q2740071
-- id: 97209
-  name: Glušci
-  state_id: 3719
+- name: Glušci
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.89021000'
   longitude: '19.54913000'
-  wikiDataId: Q2722754
-- id: 97227
-  name: Jadranska Lešnica
-  state_id: 3719
+- name: Jadranska Lešnica
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.59730000'
   longitude: '19.35209000'
-  wikiDataId: Q2284860
-- id: 97235
-  name: Jelenča
-  state_id: 3719
+- name: Jelenča
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.72700000'
   longitude: '19.73500000'
-  wikiDataId: Q2736599
-- id: 97237
-  name: Jevremovac
-  state_id: 3719
+- name: Jevremovac
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.72172000'
   longitude: '19.66364000'
-  wikiDataId: Q948327
-- id: 155054
-  name: Koceljeva
-  state_id: 3719
+- name: Koceljeva
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.46299340'
   longitude: '19.78680540'
-  wikiDataId: Q2170006
-- id: 97254
-  name: Kozjak
-  state_id: 3719
+- name: Kozjak
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.18264000'
   longitude: '20.86381000'
-  wikiDataId: Q1000445
-- id: 97255
-  name: Kozjak
-  state_id: 3719
+- name: Kozjak
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.58727000'
   longitude: '19.28412000'
-  wikiDataId: Q1000445
-- id: 97260
-  name: Krupanj
-  state_id: 3719
+- name: Krupanj
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.36556000'
   longitude: '19.36194000'
-  wikiDataId: Q2041771
-- id: 97273
-  name: Lešnica
-  state_id: 3719
+- name: Lešnica
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.65250000'
   longitude: '19.31000000'
-  wikiDataId: Q3101112
-- id: 97274
-  name: Lipnički Šor
-  state_id: 3719
+- name: Lipnički Šor
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.58058000'
   longitude: '19.26572000'
-  wikiDataId: Q2142425
-- id: 97275
-  name: Lipolist
-  state_id: 3719
+- name: Lipolist
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.69783000'
   longitude: '19.50101000'
-  wikiDataId: Q2736643
-- id: 97277
-  name: Ljubovija
-  state_id: 3719
+- name: Ljubovija
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.18944000'
   longitude: '19.37667000'
-  wikiDataId: Q7232898
-- id: 97289
-  name: Mačva
-  state_id: 3719
+- name: Mačva
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.61472000'
   longitude: '19.47222000'
-  wikiDataId: Q1062197
-- id: 97285
-  name: Majur
-  state_id: 3719
+- name: Majur
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.77105000'
   longitude: '19.65512000'
-  wikiDataId: Q994331
-- id: 97287
-  name: Mali Zvornik
-  state_id: 3719
+- name: Mali Zvornik
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.37344000'
   longitude: '19.10651000'
-  wikiDataId: Q1282903
-- id: 97292
-  name: Metković
-  state_id: 3719
+- name: Metković
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.85617000'
   longitude: '19.54654000'
-  wikiDataId: Q3101914
-- id: 97318
-  name: Novo Selo
-  state_id: 3719
+- name: Novo Selo
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.67041000'
   longitude: '19.34495000'
-  wikiDataId: Q793176
-- id: 97334
-  name: Petkovica
-  state_id: 3719
+- name: Petkovica
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.66627000'
   longitude: '19.43923000'
-  wikiDataId: Q1079713
-- id: 97340
-  name: Pocerski Pričinović
-  state_id: 3719
+- name: Pocerski Pričinović
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.72222000'
   longitude: '19.70722000'
-  wikiDataId: Q2736461
-- id: 97362
-  name: Ribari
-  state_id: 3719
+- name: Ribari
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.70961000'
   longitude: '19.42472000'
-  wikiDataId: Q2736484
-- id: 97366
-  name: Rumska
-  state_id: 3719
+- name: Rumska
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.57261000'
   longitude: '19.58988000'
-  wikiDataId: Q1049911
-- id: 97465
-  name: Šabac
-  state_id: 3719
+- name: Šabac
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.74667000'
   longitude: '19.69000000'
-  wikiDataId: Q204472
-- id: 97371
-  name: Salaš Crnobarski
-  state_id: 3719
+- name: Salaš Crnobarski
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.82843000'
   longitude: '19.39437000'
-  wikiDataId: Q2722600
-- id: 97468
-  name: Ševarice
-  state_id: 3719
+- name: Ševarice
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.86704000'
   longitude: '19.66006000'
-  wikiDataId: Q2736678
-- id: 97380
-  name: Sinošević
-  state_id: 3719
+- name: Sinošević
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.61503000'
   longitude: '19.63601000'
-  wikiDataId: Q2736590
-- id: 97471
-  name: Štitar
-  state_id: 3719
+- name: Štitar
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.79415000'
   longitude: '19.59529000'
-  wikiDataId: Q2567732
-- id: 97416
-  name: Tršić
-  state_id: 3719
+- name: Tršić
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.49502000'
   longitude: '19.26490000'
-  wikiDataId: Q510451
-- id: 97423
-  name: Uzveće
-  state_id: 3719
+- name: Uzveće
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.87861000'
   longitude: '19.60356000'
-  wikiDataId: Q1091384
-- id: 97434
-  name: Vladimirci
-  state_id: 3719
+- name: Vladimirci
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.61472000'
   longitude: '19.78528000'
-  wikiDataId: Q2047458
-- id: 97449
-  name: Zminjak
-  state_id: 3719
+- name: Zminjak
   state_code: '08'
   state_name: Mačva
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.75711000'
   longitude: '19.47070000'
-  wikiDataId: Q2736242
-- id: 97457
-  name: Čačak
-  state_id: 3727
+- name: Čačak
   state_code: '17'
   state_name: Moravica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.89139000'
   longitude: '20.34972000'
-  wikiDataId: Q208038
-- id: 97214
-  name: Gornji Milanovac
-  state_id: 3727
+- name: Gornji Milanovac
   state_code: '17'
   state_name: Moravica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.02603000'
   longitude: '20.46152000'
-  wikiDataId: Q4856130
-- id: 155055
-  name: Ivanjica
-  state_id: 3727
+- name: Ivanjica
   state_code: '17'
   state_name: Moravica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.58366500'
   longitude: '20.21556940'
-  wikiDataId: Q4195757
-- id: 155056
-  name: Lučani
-  state_id: 3727
+- name: Lučani
   state_code: '17'
   state_name: Moravica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.85854930'
   longitude: '20.11661750'
-  wikiDataId: Q1252566
-- id: 97347
-  name: Prislonica
-  state_id: 3727
+- name: Prislonica
   state_code: '17'
   state_name: Moravica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.95223000'
   longitude: '20.43521000'
-  wikiDataId: Q2723458
-- id: 97143
-  name: Aleksandrovo
-  state_id: 3722
+- name: Aleksandrovo
   state_code: '20'
   state_name: Nišava
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.63755000'
   longitude: '20.59288000'
-  wikiDataId: Q848667
-- id: 155057
-  name: Aleksinac
-  state_id: 3722
+- name: Aleksinac
   state_code: '20'
   state_name: Nišava
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.55255480'
   longitude: '21.63113320'
-  wikiDataId: Q1270290
-- id: 155059
-  name: Doljevac
-  state_id: 3722
+- name: Doljevac
   state_code: '20'
   state_name: Nišava
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.22262650'
   longitude: '21.76288330'
-  wikiDataId: Q1235642
-- id: 155058
-  name: Gadžin Han
-  state_id: 3722
+- name: Gadžin Han
   state_code: '20'
   state_name: Nišava
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.23053490'
   longitude: '22.01312530'
-  wikiDataId: Q2535004
-- id: 155060
-  name: Merošina
-  state_id: 3722
+- name: Merošina
   state_code: '20'
   state_name: Nišava
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.30158010'
   longitude: '21.52993050'
-  wikiDataId: Q2041788
-- id: 97305
-  name: Niš
-  state_id: 3722
+- name: Niš
   state_code: '20'
   state_name: Nišava
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.32472000'
   longitude: '21.90333000'
-  wikiDataId: Q129259
-- id: 155061
-  name: Ražanj
-  state_id: 3722
+- name: Ražanj
   state_code: '20'
   state_name: Nišava
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.70924730'
   longitude: '21.41131260'
-  wikiDataId: Q2041705
-- id: 155062
-  name: Svrljig
-  state_id: 3722
+- name: Svrljig
   state_code: '20'
   state_name: Nišava
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.46937580'
   longitude: '21.80472770'
-  wikiDataId: Q1250074
-- id: 97162
-  name: Bačka Topola
-  state_id: 3714
+- name: Bačka Topola
   state_code: '01'
   state_name: North Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.81516000'
   longitude: '19.63180000'
-  wikiDataId: Q2661603
-- id: 97259
-  name: Krivaja
-  state_id: 3714
+- name: Krivaja
   state_code: '01'
   state_name: North Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.55021000'
   longitude: '19.59153000'
-  wikiDataId: Q2736657
-- id: 155063
-  name: Mali Iđoš
-  state_id: 3714
+- name: Mali Iđoš
   state_code: '01'
   state_name: North Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.71406240'
   longitude: '19.58678580'
-  wikiDataId: Q1811772
-- id: 97401
-  name: Subotica
-  state_id: 3714
+- name: Subotica
   state_code: '01'
   state_name: North Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '46.10000000'
   longitude: '19.66667000'
-  wikiDataId: Q170287
-- id: 155064
-  name: Ada
-  state_id: 3736
+- name: Ada
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.78604090'
   longitude: '19.84788560'
-  wikiDataId: Q482146
-- id: 97142
-  name: Adorjan
-  state_id: 3736
+- name: Adorjan
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '46.00333000'
   longitude: '20.04007000'
-  wikiDataId: Q505426
-- id: 97151
-  name: Banatska Topola
-  state_id: 3736
+- name: Banatska Topola
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.67248000'
   longitude: '20.46530000'
-  wikiDataId: Q1071667
-- id: 97156
-  name: Banatsko Veliko Selo
-  state_id: 3736
+- name: Banatsko Veliko Selo
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.81961000'
   longitude: '20.60772000'
-  wikiDataId: Q853306
-- id: 97167
-  name: Bašaid
-  state_id: 3736
+- name: Bašaid
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.64102000'
   longitude: '20.41434000'
-  wikiDataId: Q302123
-- id: 97461
-  name: Čoka
-  state_id: 3736
+- name: Čoka
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.94250000'
   longitude: '20.14333000'
-  wikiDataId: Q876197
-- id: 97213
-  name: Gornji Breg
-  state_id: 3736
+- name: Gornji Breg
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.91995000'
   longitude: '20.01766000'
-  wikiDataId: Q999195
-- id: 97233
-  name: Jazovo
-  state_id: 3736
+- name: Jazovo
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.89876000'
   longitude: '20.22130000'
-  wikiDataId: Q940255
-- id: 97240
-  name: Kanjiža
-  state_id: 3736
+- name: Kanjiža
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '46.06667000'
   longitude: '20.05000000'
-  wikiDataId: Q614614
-- id: 97241
-  name: Kikinda
-  state_id: 3736
+- name: Kikinda
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.82972000'
   longitude: '20.46528000'
-  wikiDataId: Q309355
-- id: 97296
-  name: Mokrin
-  state_id: 3736
+- name: Mokrin
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.93362000'
   longitude: '20.41215000'
-  wikiDataId: Q941155
-- id: 97297
-  name: Mol
-  state_id: 3736
+- name: Mol
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.76457000'
   longitude: '20.13286000'
-  wikiDataId: Q731701
-- id: 97300
-  name: Nakovo
-  state_id: 3736
+- name: Nakovo
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.87503000'
   longitude: '20.56709000'
-  wikiDataId: Q116732
-- id: 97312
-  name: Novi Kneževac
-  state_id: 3736
+- name: Novi Kneževac
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '46.05000000'
   longitude: '20.10000000'
-  wikiDataId: Q914451
-- id: 97313
-  name: Novi Kozarci
-  state_id: 3736
+- name: Novi Kozarci
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.78241000'
   longitude: '20.62289000'
-  wikiDataId: Q1063486
-- id: 97325
-  name: Ostojićevo
-  state_id: 3736
+- name: Ostojićevo
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.88863000'
   longitude: '20.16642000'
-  wikiDataId: Q598500
-- id: 97328
-  name: Padej
-  state_id: 3736
+- name: Padej
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.82756000'
   longitude: '20.16279000'
-  wikiDataId: Q952009
-- id: 97367
-  name: Rusko Selo
-  state_id: 3736
+- name: Rusko Selo
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.76291000'
   longitude: '20.57117000'
-  wikiDataId: Q1042546
-- id: 97369
-  name: Sajan
-  state_id: 3736
+- name: Sajan
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.84227000'
   longitude: '20.27815000'
-  wikiDataId: Q519373
-- id: 97375
-  name: Sanad
-  state_id: 3736
+- name: Sanad
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.97596000'
   longitude: '20.10816000'
-  wikiDataId: Q1183397
-- id: 97378
-  name: Senta
-  state_id: 3736
+- name: Senta
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.92750000'
   longitude: '20.07722000'
-  wikiDataId: Q917716
-- id: 97408
-  name: Tiszahegyes
-  state_id: 3736
+- name: Tiszahegyes
   state_code: '03'
   state_name: North Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.82648000'
   longitude: '20.31791000'
-  wikiDataId: Q1091230
-- id: 97176
-  name: Biljača
-  state_id: 3721
+- name: Biljača
   state_code: '24'
   state_name: Pčinja
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.35518000'
   longitude: '21.74781000'
-  wikiDataId: Q31916016
-- id: 155065
-  name: Bosilegrad
-  state_id: 3721
+- name: Bosilegrad
   state_code: '24'
   state_name: Pčinja
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.50233740'
   longitude: '22.41940440'
-  wikiDataId: Q2986161
-- id: 155066
-  name: Bujanovac
-  state_id: 3721
+- name: Bujanovac
   state_code: '24'
   state_name: Pčinja
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.45675480'
   longitude: '21.74726470'
-  wikiDataId: Q2500642
-- id: 97295
-  name: Miratovac
-  state_id: 3721
+- name: Miratovac
   state_code: '24'
   state_name: Pčinja
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.25846000'
   longitude: '21.66456000'
-  wikiDataId: Q386397
-- id: 155068
-  name: Preševo
-  state_id: 3721
+- name: Preševo
   state_code: '24'
   state_name: Pčinja
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.31581340'
   longitude: '21.57144860'
-  wikiDataId: Q157363
-- id: 97355
-  name: Radovnica
-  state_id: 3721
+- name: Radovnica
   state_code: '24'
   state_name: Pčinja
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.43364000'
   longitude: '22.22861000'
-  wikiDataId: Q1046240
-- id: 97356
-  name: Rajince
-  state_id: 3721
+- name: Rajince
   state_code: '24'
   state_name: Pčinja
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.37870000'
   longitude: '21.69591000'
-  wikiDataId: Q3104619
-- id: 97373
-  name: Samoljica
-  state_id: 3721
+- name: Samoljica
   state_code: '22'
   state_name: Pčinja
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.38445000'
   longitude: '21.73708000'
-  wikiDataId: Q3104463
-- id: 155069
-  name: Surdulica
-  state_id: 3721
+- name: Surdulica
   state_code: '24'
   state_name: Pčinja
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.69008190'
   longitude: '22.15599050'
-  wikiDataId: Q1264710
-- id: 155070
-  name: Trgovište
-  state_id: 3721
+- name: Trgovište
   state_code: '24'
   state_name: Pčinja
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.35659850'
   longitude: '22.02351020'
-  wikiDataId: Q1551657
-- id: 155067
-  name: Vladičin Han
-  state_id: 3721
+- name: Vladičin Han
   state_code: '24'
   state_name: Pčinja
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.70738320'
   longitude: '22.04413920'
-  wikiDataId: Q2500669
-- id: 97440
-  name: Vranje
-  state_id: 3721
+- name: Vranje
   state_code: '24'
   state_name: Pčinja
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.55139000'
   longitude: '21.90028000'
-  wikiDataId: Q211645
-- id: 97475
-  name: Žujince
-  state_id: 3721
+- name: Žujince
   state_code: '24'
   state_name: Pčinja
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.31568000'
   longitude: '21.70212000'
-  wikiDataId: Q3104551
-- id: 155071
-  name: Babušnica
-  state_id: 3712
+- name: Babušnica
   state_code: '22'
   state_name: Pirot
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.06573340'
   longitude: '22.38719690'
-  wikiDataId: Q15093698
-- id: 155072
-  name: Bela Palanka
-  state_id: 3712
+- name: Bela Palanka
   state_code: '22'
   state_name: Pirot
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.21421070'
   longitude: '22.29898440'
-  wikiDataId: Q1264591
-- id: 155073
-  name: Dimitrovgrad
-  state_id: 3712
+- name: Dimitrovgrad
   state_code: '22'
   state_name: Pirot
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.02140830'
   longitude: '22.73950980'
-  wikiDataId: Q4161724
-- id: 97337
-  name: Pirot
-  state_id: 3712
+- name: Pirot
   state_code: '22'
   state_name: Pirot
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.17528000'
   longitude: '22.59278000'
-  wikiDataId: Q19429
-- id: 97402
-  name: Sumulicë
-  state_id: 3712
+- name: Sumulicë
   state_code: '22'
   state_name: Pirot
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.38682000'
   longitude: '21.73400000'
-  wikiDataId: Q170287
-- id: 97281
-  name: Lugavčina
-  state_id: 3741
+- name: Lugavčina
   state_code: '10'
   state_name: Podunavlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.52314000'
   longitude: '21.07083000'
-  wikiDataId: Q2736781
-- id: 97382
-  name: Smederevo
-  state_id: 3741
+- name: Smederevo
   state_code: '10'
   state_name: Podunavlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.66436000'
   longitude: '20.92763000'
-  wikiDataId: Q190774
-- id: 97383
-  name: Smederevska Palanka
-  state_id: 3741
+- name: Smederevska Palanka
   state_code: '10'
   state_name: Podunavlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.36548000'
   longitude: '20.95885000'
-  wikiDataId: Q2041674
-- id: 155074
-  name: Velika Plana
-  state_id: 3741
+- name: Velika Plana
   state_code: '10'
   state_name: Podunavlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.32578760'
   longitude: '20.97032280'
-  wikiDataId: Q2047388
-- id: 97455
-  name: Ćuprija
-  state_id: 3737
+- name: Ćuprija
   state_code: '13'
   state_name: Pomoravlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.92750000'
   longitude: '21.37000000'
-  wikiDataId: Q1475280
-- id: 155075
-  name: Despotovac
-  state_id: 3737
+- name: Despotovac
   state_code: '13'
   state_name: Pomoravlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.09472620'
   longitude: '21.39913490'
-  wikiDataId: Q1250081
-- id: 97200
-  name: Drenovac
-  state_id: 3737
+- name: Drenovac
   state_code: '13'
   state_name: Pomoravlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.86649000'
   longitude: '19.70943000'
-  wikiDataId: Q2736279
-- id: 97201
-  name: Dublje
-  state_id: 3737
+- name: Dublje
   state_code: '13'
   state_name: Pomoravlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.80117000'
   longitude: '19.50902000'
-  wikiDataId: Q3040542
-- id: 97202
-  name: Duboka
-  state_id: 3737
+- name: Duboka
   state_code: '13'
   state_name: Pomoravlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.52223000'
   longitude: '21.76030000'
-  wikiDataId: Q3040542
-- id: 97215
-  name: Grabovac
-  state_id: 3737
+- name: Grabovac
   state_code: '13'
   state_name: Pomoravlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.60049000'
   longitude: '20.08539000'
-  wikiDataId: Q714668
-- id: 97228
-  name: Jagodina
-  state_id: 3737
+- name: Jagodina
   state_code: '13'
   state_name: Pomoravlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.97713000'
   longitude: '21.26121000'
-  wikiDataId: Q390358
-- id: 97331
-  name: Paraćin
-  state_id: 3737
+- name: Paraćin
   state_code: '13'
   state_name: Pomoravlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.86083000'
   longitude: '21.40778000'
-  wikiDataId: Q3503630
-- id: 155076
-  name: Rekovac
-  state_id: 3737
+- name: Rekovac
   state_code: '13'
   state_name: Pomoravlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.86577250'
   longitude: '21.02877540'
-  wikiDataId: Q441278
-- id: 155077
-  name: Svilajnac
-  state_id: 3737
+- name: Svilajnac
   state_code: '13'
   state_name: Pomoravlje
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.24526320'
   longitude: '21.15803640'
-  wikiDataId: Q737497
-- id: 155078
-  name: Aleksandrovac
-  state_id: 3720
+- name: Aleksandrovac
   state_code: '19'
   state_name: Rasina
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.45989420'
   longitude: '21.03087890'
-  wikiDataId: Q1579510
-- id: 155079
-  name: Brus
-  state_id: 3720
+- name: Brus
   state_code: '19'
   state_name: Rasina
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.38376200'
   longitude: '21.00656730'
-  wikiDataId: Q1263153
-- id: 97454
-  name: Ćićevac
-  state_id: 3720
+- name: Ćićevac
   state_code: '19'
   state_name: Rasina
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.71882000'
   longitude: '21.44085000'
-  wikiDataId: Q2041779
-- id: 97261
-  name: Kruševac
-  state_id: 3720
+- name: Kruševac
   state_code: '19'
   state_name: Rasina
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.58000000'
   longitude: '21.33389000'
-  wikiDataId: Q201442
-- id: 97415
-  name: Trstenik
-  state_id: 3720
+- name: Trstenik
   state_code: '19'
   state_name: Rasina
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.61694000'
   longitude: '21.00250000'
-  wikiDataId: Q4464110
-- id: 155080
-  name: Varvarin
-  state_id: 3720
+- name: Varvarin
   state_code: '19'
   state_name: Rasina
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.72306940'
   longitude: '21.34098520'
-  wikiDataId: Q2041738
-- id: 97231
-  name: Jarebice
-  state_id: 3725
+- name: Jarebice
   state_code: '18'
   state_name: Raška
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.53995000'
   longitude: '19.42418000'
-  wikiDataId: Q2435677
-- id: 97258
-  name: Kraljevo
-  state_id: 3725
+- name: Kraljevo
   state_code: '18'
   state_name: Raška
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.72583000'
   longitude: '20.68944000'
-  wikiDataId: Q206317
-- id: 97314
-  name: Novi Pazar
-  state_id: 3725
+- name: Novi Pazar
   state_code: '18'
   state_name: Raška
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.13667000'
   longitude: '20.51222000'
-  wikiDataId: Q202453
-- id: 97361
-  name: Raška
-  state_id: 3725
+- name: Raška
   state_code: '18'
   state_name: Raška
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.26694000'
   longitude: '20.65278000'
-  wikiDataId: Q2500624
-- id: 97418
-  name: Tutin
-  state_id: 3725
+- name: Tutin
   state_code: '18'
   state_name: Raška
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '42.99028000'
   longitude: '20.33139000'
-  wikiDataId: Q2043118
-- id: 97443
-  name: Vrnjačka Banja
-  state_id: 3725
+- name: Vrnjačka Banja
   state_code: '18'
   state_name: Raška
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.62725000'
   longitude: '20.89634000'
-  wikiDataId: Q2047443
-- id: 155081
-  name: Bač
-  state_id: 3711
+- name: Bač
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.35619150'
   longitude: '19.14208630'
-  wikiDataId: Q852570
-- id: 97161
-  name: Bačka Palanka
-  state_id: 3711
+- name: Bačka Palanka
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.24966000'
   longitude: '19.39664000'
-  wikiDataId: Q855709
-- id: 97164
-  name: Bački Petrovac
-  state_id: 3711
+- name: Bački Petrovac
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.36056000'
   longitude: '19.59167000'
-  wikiDataId: Q924735
-- id: 97165
-  name: Bačko Gradište
-  state_id: 3711
+- name: Bačko Gradište
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.53271000'
   longitude: '20.03082000'
-  wikiDataId: Q426116
-- id: 97166
-  name: Bačko Petrovo Selo
-  state_id: 3711
+- name: Bačko Petrovo Selo
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.70681000'
   longitude: '20.07928000'
-  wikiDataId: Q979403
-- id: 97173
-  name: Bečej
-  state_id: 3711
+- name: Bečej
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.61632000'
   longitude: '20.03331000'
-  wikiDataId: Q855695
-- id: 155082
-  name: Beočin
-  state_id: 3711
+- name: Beočin
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.19420630'
   longitude: '19.68125510'
-  wikiDataId: Q792224
-- id: 97458
-  name: Čelarevo
-  state_id: 3711
+- name: Čelarevo
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.26999000'
   longitude: '19.52484000'
-  wikiDataId: Q773437
-- id: 97464
-  name: Čurug
-  state_id: 3711
+- name: Čurug
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.47221000'
   longitude: '20.06861000'
-  wikiDataId: Q238981
-- id: 97192
-  name: Despotovo
-  state_id: 3711
+- name: Despotovo
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.45983000'
   longitude: '19.52653000'
-  wikiDataId: Q927925
-- id: 97453
-  name: Ðurđevo
-  state_id: 3711
+- name: Ðurđevo
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.32591000'
   longitude: '20.06532000'
-  wikiDataId: Q3177361
-- id: 97207
-  name: Gardinovci
-  state_id: 3711
+- name: Gardinovci
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.20359000'
   longitude: '20.13558000'
-  wikiDataId: Q1030942
-- id: 97208
-  name: Gložan
-  state_id: 3711
+- name: Gložan
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.27954000'
   longitude: '19.56838000'
-  wikiDataId: Q911299
-- id: 97242
-  name: Kisač
-  state_id: 3711
+- name: Kisač
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.35421000'
   longitude: '19.72975000'
-  wikiDataId: Q548423
-- id: 97252
-  name: Kovilj
-  state_id: 3711
+- name: Kovilj
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.23422000'
   longitude: '20.02327000'
-  wikiDataId: Q898942
-- id: 97263
-  name: Kulpin
-  state_id: 3711
+- name: Kulpin
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.40240000'
   longitude: '19.58814000'
-  wikiDataId: Q1075729
-- id: 97279
-  name: Lok
-  state_id: 3711
+- name: Lok
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.21583000'
   longitude: '20.21222000'
-  wikiDataId: Q927857
-- id: 97283
-  name: Maglić
-  state_id: 3711
+- name: Maglić
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.36248000'
   longitude: '19.53211000'
-  wikiDataId: Q1194843
-- id: 97299
-  name: Mošorin
-  state_id: 3711
+- name: Mošorin
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.30196000'
   longitude: '20.16919000'
-  wikiDataId: Q302541
-- id: 97315
-  name: Novi Sad
-  state_id: 3711
+- name: Novi Sad
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.25167000'
   longitude: '19.83694000'
-  wikiDataId: Q55630
-- id: 97320
-  name: Obrovac
-  state_id: 3711
+- name: Obrovac
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.32106000'
   longitude: '19.35048000'
-  wikiDataId: Q848181
-- id: 97335
-  name: Petrovaradin
-  state_id: 3711
+- name: Petrovaradin
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.24667000'
   longitude: '19.87944000'
-  wikiDataId: Q19429
-- id: 97360
-  name: Ravno Selo
-  state_id: 3711
+- name: Ravno Selo
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.44967000'
   longitude: '19.62097000'
-  wikiDataId: Q1048292
-- id: 97365
-  name: Rumenka
-  state_id: 3711
+- name: Rumenka
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.29400000'
   longitude: '19.74306000'
-  wikiDataId: Q1049911
-- id: 97466
-  name: Šajkaš
-  state_id: 3711
+- name: Šajkaš
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.27315000'
   longitude: '20.09051000'
-  wikiDataId: Q1075724
-- id: 155083
-  name: Srbobran
-  state_id: 3711
+- name: Srbobran
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.59515130'
   longitude: '19.71831060'
-  wikiDataId: Q432320
-- id: 97389
-  name: Sremski Karlovci
-  state_id: 3711
+- name: Sremski Karlovci
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.20285000'
   longitude: '19.93373000'
-  wikiDataId: Q828274
-- id: 97398
-  name: Stepanovićevo
-  state_id: 3711
+- name: Stepanovićevo
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.41369000'
   longitude: '19.70000000'
-  wikiDataId: Q259266
-- id: 155084
-  name: Temerin
-  state_id: 3711
+- name: Temerin
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.42817430'
   longitude: '19.81379480'
-  wikiDataId: Q855670
-- id: 97409
-  name: Titel
-  state_id: 3711
+- name: Titel
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.20611000'
   longitude: '20.29444000'
-  wikiDataId: Q855640
-- id: 97417
-  name: Turija
-  state_id: 3711
+- name: Turija
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.52273000'
   longitude: '21.63945000'
-  wikiDataId: Q3102490
-- id: 97431
-  name: Veternik
-  state_id: 3711
+- name: Veternik
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.25446000'
   longitude: '19.75880000'
-  wikiDataId: Q1192984
-- id: 97432
-  name: Vilovo
-  state_id: 3711
+- name: Vilovo
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.24859000'
   longitude: '20.15521000'
-  wikiDataId: Q927888
-- id: 97441
-  name: Vrbas
-  state_id: 3711
+- name: Vrbas
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.57139000'
   longitude: '19.64083000'
-  wikiDataId: Q855687
-- id: 97473
-  name: Žabalj
-  state_id: 3711
+- name: Žabalj
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.37222000'
   longitude: '20.06389000'
-  wikiDataId: Q176217
-- id: 97448
-  name: Zmajevo
-  state_id: 3711
+- name: Zmajevo
   state_code: '06'
   state_name: South Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.45408000'
   longitude: '19.69050000'
-  wikiDataId: Q729369
-- id: 97144
-  name: Alibunar
-  state_id: 3713
+- name: Alibunar
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.08083000'
   longitude: '20.96583000'
-  wikiDataId: Q590106
-- id: 97154
-  name: Banatski Karlovac
-  state_id: 3713
+- name: Banatski Karlovac
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.04987000'
   longitude: '21.01800000'
-  wikiDataId: Q1042129
-- id: 97158
-  name: Baranda
-  state_id: 3713
+- name: Baranda
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.08459000'
   longitude: '20.44264000'
-  wikiDataId: Q790191
-- id: 97159
-  name: Barice
-  state_id: 3713
+- name: Barice
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.18189000'
   longitude: '21.08279000'
-  wikiDataId: Q761366
-- id: 97168
-  name: Bela Crkva
-  state_id: 3713
+- name: Bela Crkva
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.89750000'
   longitude: '21.41722000'
-  wikiDataId: Q914484
-- id: 97189
-  name: Crepaja
-  state_id: 3713
+- name: Crepaja
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.00984000'
   longitude: '20.63702000'
-  wikiDataId: Q617510
-- id: 97191
-  name: Debeljača
-  state_id: 3713
+- name: Debeljača
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.07070000'
   longitude: '20.60153000'
-  wikiDataId: Q543032
-- id: 97194
-  name: Dobrica
-  state_id: 3713
+- name: Dobrica
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.21339000'
   longitude: '20.84995000'
-  wikiDataId: Q767030
-- id: 97217
-  name: Gudurica
-  state_id: 3713
+- name: Gudurica
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.16816000'
   longitude: '21.44264000'
-  wikiDataId: Q264698
-- id: 97218
-  name: Hajdučica
-  state_id: 3713
+- name: Hajdučica
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.25010000'
   longitude: '20.96016000'
-  wikiDataId: Q948339
-- id: 97221
-  name: Idvor
-  state_id: 3713
+- name: Idvor
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.18895000'
   longitude: '20.51442000'
-  wikiDataId: Q280980
-- id: 97222
-  name: Ilandža
-  state_id: 3713
+- name: Ilandža
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.16897000'
   longitude: '20.92008000'
-  wikiDataId: Q962644
-- id: 97225
-  name: Izbište
-  state_id: 3713
+- name: Izbište
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.02253000'
   longitude: '21.18388000'
-  wikiDataId: Q739564
-- id: 97229
-  name: Janošik
-  state_id: 3713
+- name: Janošik
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.17141000'
   longitude: '21.00658000'
-  wikiDataId: Q948541
-- id: 97236
-  name: Jermenovci
-  state_id: 3713
+- name: Jermenovci
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.18635000'
   longitude: '21.04550000'
-  wikiDataId: Q948327
-- id: 97251
-  name: Kovačica
-  state_id: 3713
+- name: Kovačica
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.11167000'
   longitude: '20.62139000'
-  wikiDataId: Q613179
-- id: 97253
-  name: Kovin
-  state_id: 3713
+- name: Kovin
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.74750000'
   longitude: '20.97611000'
-  wikiDataId: Q1041926
-- id: 97267
-  name: Kuštilj
-  state_id: 3713
+- name: Kuštilj
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.03487000'
   longitude: '21.37989000'
-  wikiDataId: Q1091353
-- id: 97280
-  name: Lokve
-  state_id: 3713
+- name: Lokve
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.15198000'
   longitude: '21.03073000'
-  wikiDataId: Q1080830
-- id: 97288
-  name: Margita
-  state_id: 3713
+- name: Margita
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.21598000'
   longitude: '21.17527000'
-  wikiDataId: Q1062197
-- id: 97304
-  name: Nikolinci
-  state_id: 3713
+- name: Nikolinci
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.05245000'
   longitude: '21.06695000'
-  wikiDataId: Q278182
-- id: 97321
-  name: Opovo
-  state_id: 3713
+- name: Opovo
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.05222000'
   longitude: '20.43028000'
-  wikiDataId: Q543044
-- id: 97329
-  name: Padina
-  state_id: 3713
+- name: Padina
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.11988000'
   longitude: '20.72860000'
-  wikiDataId: Q1194851
-- id: 97330
-  name: Pančevo
-  state_id: 3713
+- name: Pančevo
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.87177000'
   longitude: '20.64167000'
-  wikiDataId: Q205432
-- id: 97332
-  name: Pavliš
-  state_id: 3713
+- name: Pavliš
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.10569000'
   longitude: '21.23952000'
-  wikiDataId: Q634652
-- id: 97338
-  name: Plandište
-  state_id: 3713
+- name: Plandište
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.22722000'
   longitude: '21.12167000'
-  wikiDataId: Q917286
-- id: 97370
-  name: Sakule
-  state_id: 3713
+- name: Sakule
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.14667000'
   longitude: '20.48619000'
-  wikiDataId: Q1064938
-- id: 97374
-  name: Samoš
-  state_id: 3713
+- name: Samoš
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.20255000'
   longitude: '20.77392000'
-  wikiDataId: Q729158
-- id: 97376
-  name: Sefkerin
-  state_id: 3713
+- name: Sefkerin
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.00501000'
   longitude: '20.48256000'
-  wikiDataId: Q1040000
-- id: 97377
-  name: Seleuš
-  state_id: 3713
+- name: Seleuš
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.12770000'
   longitude: '20.91461000'
-  wikiDataId: Q794097
-- id: 97397
-  name: Stari Lec
-  state_id: 3713
+- name: Stari Lec
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.28401000'
   longitude: '20.96433000'
-  wikiDataId: Q947294
-- id: 97420
-  name: Uljma
-  state_id: 3713
+- name: Uljma
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.04213000'
   longitude: '21.15393000'
-  wikiDataId: Q1038306
-- id: 97422
-  name: Uzdin
-  state_id: 3713
+- name: Uzdin
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.20512000'
   longitude: '20.62342000'
-  wikiDataId: Q1091384
-- id: 97427
-  name: Velika Greda
-  state_id: 3713
+- name: Velika Greda
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.24376000'
   longitude: '21.03498000'
-  wikiDataId: Q1030489
-- id: 97429
-  name: Veliki Gaj
-  state_id: 3713
+- name: Veliki Gaj
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.28849000'
   longitude: '21.17057000'
-  wikiDataId: Q921166
-- id: 97430
-  name: Veliko Središte
-  state_id: 3713
+- name: Veliko Središte
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.17919000'
   longitude: '21.40353000'
-  wikiDataId: Q1091363
-- id: 97435
-  name: Vladimirovac
-  state_id: 3713
+- name: Vladimirovac
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.03122000'
   longitude: '20.86566000'
-  wikiDataId: Q1079742
-- id: 97436
-  name: Vlajkovac
-  state_id: 3713
+- name: Vlajkovac
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.07207000'
   longitude: '21.19945000'
-  wikiDataId: Q1091315
-- id: 97444
-  name: Vršac
-  state_id: 3713
+- name: Vršac
   state_code: '04'
   state_name: South Banat
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.11667000'
   longitude: '21.30361000'
-  wikiDataId: Q209329
-- id: 97169
-  name: Belegiš
-  state_id: 3740
+- name: Belegiš
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.01920000'
   longitude: '20.33323000'
-  wikiDataId: Q792242
-- id: 97175
-  name: Beška
-  state_id: 3740
+- name: Beška
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.13092000'
   longitude: '20.06698000'
-  wikiDataId: Q585973
-- id: 97183
-  name: Bosut
-  state_id: 3740
+- name: Bosut
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.92977000'
   longitude: '19.36086000'
-  wikiDataId: Q848404
-- id: 97188
-  name: Buđanovci
-  state_id: 3740
+- name: Buđanovci
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.89388000'
   longitude: '19.86344000'
-  wikiDataId: Q286769
-- id: 97463
-  name: Čortanovci
-  state_id: 3740
+- name: Čortanovci
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.15460000'
   longitude: '20.01851000'
-  wikiDataId: Q283433
-- id: 97211
-  name: Golubinci
-  state_id: 3740
+- name: Golubinci
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.98533000'
   longitude: '20.06339000'
-  wikiDataId: Q1011675
-- id: 97216
-  name: Grabovci
-  state_id: 3740
+- name: Grabovci
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.76496000'
   longitude: '19.84489000'
-  wikiDataId: Q1027799
-- id: 97220
-  name: Hrtkovci
-  state_id: 3740
+- name: Hrtkovci
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.88155000'
   longitude: '19.76374000'
-  wikiDataId: Q1035548
-- id: 97223
-  name: Inđija
-  state_id: 3740
+- name: Inđija
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.04816000'
   longitude: '20.08165000'
-  wikiDataId: Q740472
-- id: 97224
-  name: Irig
-  state_id: 3740
+- name: Irig
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.05230000'
   longitude: '19.84448000'
-  wikiDataId: Q2041648
-- id: 97230
-  name: Jarak
-  state_id: 3740
+- name: Jarak
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.91843000'
   longitude: '19.75477000'
-  wikiDataId: Q921005
-- id: 97244
-  name: Klenak
-  state_id: 3740
+- name: Klenak
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.78846000'
   longitude: '19.71004000'
-  wikiDataId: Q921386
-- id: 97262
-  name: Krčedin
-  state_id: 3740
+- name: Krčedin
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.13871000'
   longitude: '20.13308000'
-  wikiDataId: Q1092418
-- id: 97278
-  name: Ljukovo
-  state_id: 3740
+- name: Ljukovo
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.02604000'
   longitude: '20.02737000'
-  wikiDataId: Q521694
-- id: 97290
-  name: Mačvanska Mitrovica
-  state_id: 3740
+- name: Mačvanska Mitrovica
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.96739000'
   longitude: '19.59314000'
-  wikiDataId: Q1014882
-- id: 97303
-  name: Nikinci
-  state_id: 3740
+- name: Nikinci
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.85017000'
   longitude: '19.82321000'
-  wikiDataId: Q1077430
-- id: 97308
-  name: Nova Pazova
-  state_id: 3740
+- name: Nova Pazova
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.94366000'
   longitude: '20.21931000'
-  wikiDataId: Q917500
-- id: 97309
-  name: Novi Banovci
-  state_id: 3740
+- name: Novi Banovci
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.95691000'
   longitude: '20.28076000'
-  wikiDataId: Q779333
-- id: 97311
-  name: Novi Karlovci
-  state_id: 3740
+- name: Novi Karlovci
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.07636000'
   longitude: '20.17948000'
-  wikiDataId: Q283644
-- id: 97316
-  name: Novi Slankamen
-  state_id: 3740
+- name: Novi Slankamen
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.12554000'
   longitude: '20.23914000'
-  wikiDataId: Q1041171
-- id: 97336
-  name: Pećinci
-  state_id: 3740
+- name: Pećinci
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.90889000'
   longitude: '19.96639000'
-  wikiDataId: Q7217782
-- id: 97339
-  name: Platičevo
-  state_id: 3740
+- name: Platičevo
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.82213000'
   longitude: '19.79487000'
-  wikiDataId: Q1040507
-- id: 97350
-  name: Putinci
-  state_id: 3740
+- name: Putinci
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.99259000'
   longitude: '19.97102000'
-  wikiDataId: Q1041129
-- id: 97353
-  name: Radenković
-  state_id: 3740
+- name: Radenković
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.92191000'
   longitude: '19.49543000'
-  wikiDataId: Q1040965
-- id: 97359
-  name: Ravnje
-  state_id: 3740
+- name: Ravnje
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.94326000'
   longitude: '19.42280000'
-  wikiDataId: Q960107
-- id: 97364
-  name: Ruma
-  state_id: 3740
+- name: Ruma
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.00806000'
   longitude: '19.82222000'
-  wikiDataId: Q2041682
-- id: 97372
-  name: Salaš Noćajski
-  state_id: 3740
+- name: Salaš Noćajski
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.94722000'
   longitude: '19.58611000'
-  wikiDataId: Q1040487
-- id: 97467
-  name: Šašinci
-  state_id: 3740
+- name: Šašinci
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.96514000'
   longitude: '19.74151000'
-  wikiDataId: Q1040653
-- id: 155085
-  name: Šid
-  state_id: 3740
+- name: Šid
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.14969220'
   longitude: '19.12844990'
-  wikiDataId: Q919619
-- id: 97470
-  name: Šimanovci
-  state_id: 3740
+- name: Šimanovci
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.87393000'
   longitude: '20.09175000'
-  wikiDataId: Q1065816
-- id: 97388
-  name: Sremska Mitrovica
-  state_id: 3740
+- name: Sremska Mitrovica
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.97639000'
   longitude: '19.61222000'
-  wikiDataId: Q784960
-- id: 97395
-  name: Stara Pazova
-  state_id: 3740
+- name: Stara Pazova
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.98500000'
   longitude: '20.16083000'
-  wikiDataId: Q1345447
-- id: 97396
-  name: Stari Banovci
-  state_id: 3740
+- name: Stari Banovci
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.98420000'
   longitude: '20.28382000'
-  wikiDataId: Q1092456
-- id: 97403
-  name: Surduk
-  state_id: 3740
+- name: Surduk
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.07118000'
   longitude: '20.32510000'
-  wikiDataId: Q288536
-- id: 97433
-  name: Višnjićevo
-  state_id: 3740
+- name: Višnjićevo
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.96731000'
   longitude: '19.28993000'
-  wikiDataId: Q428636
-- id: 97437
-  name: Vojka
-  state_id: 3740
+- name: Vojka
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.93713000'
   longitude: '20.15236000'
-  wikiDataId: Q382981
-- id: 97442
-  name: Vrdnik
-  state_id: 3740
+- name: Vrdnik
   state_code: '07'
   state_name: Srem
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.12174000'
   longitude: '19.79227000'
-  wikiDataId: Q1071909
-- id: 97147
-  name: Aranđelovac
-  state_id: 3734
+- name: Aranđelovac
   state_code: '12'
   state_name: Šumadija
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.30694000'
   longitude: '20.56000000'
-  wikiDataId: Q2041745
-- id: 155086
-  name: Batočina
-  state_id: 3734
+- name: Batočina
   state_code: '12'
   state_name: Šumadija
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.15465720'
   longitude: '21.02491300'
-  wikiDataId: Q17613911
-- id: 155087
-  name: Knić
-  state_id: 3734
+- name: Knić
   state_code: '12'
   state_name: Šumadija
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.92755740'
   longitude: '20.67905830'
-  wikiDataId: Q18376128
-- id: 97256
-  name: Kragujevac
-  state_id: 3734
+- name: Kragujevac
   state_code: '12'
   state_name: Šumadija
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.01667000'
   longitude: '20.91667000'
-  wikiDataId: Q167394
-- id: 97269
-  name: Lapovo
-  state_id: 3734
+- name: Lapovo
   state_code: '12'
   state_name: Šumadija
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.18424000'
   longitude: '21.09727000'
-  wikiDataId: Q2041698
-- id: 155088
-  name: Rača
-  state_id: 3734
+- name: Rača
   state_code: '12'
   state_name: Šumadija
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.23344940'
   longitude: '20.96074500'
-  wikiDataId: Q1288101
-- id: 97385
-  name: Sokolovo Brdo
-  state_id: 3734
+- name: Sokolovo Brdo
   state_code: '12'
   state_name: Šumadija
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.13694000'
   longitude: '19.80556000'
-  wikiDataId: Q190774
-- id: 155089
-  name: Topola
-  state_id: 3734
+- name: Topola
   state_code: '12'
   state_name: Šumadija
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.25204890'
   longitude: '20.66863050'
-  wikiDataId: Q2047435
-- id: 155090
-  name: Blace
-  state_id: 3718
+- name: Blace
   state_code: '21'
   state_name: Toplica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.29874190'
   longitude: '21.24844850'
-  wikiDataId: Q2041665
-- id: 97452
-  name: Ðurići
-  state_id: 3718
+- name: Ðurići
   state_code: '21'
   state_name: Toplica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.82533000'
   longitude: '19.41233000'
-  wikiDataId: Q3177361
-- id: 97265
-  name: Kupinovo
-  state_id: 3718
+- name: Kupinovo
   state_code: '21'
   state_name: Toplica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.70708000'
   longitude: '20.04959000'
-  wikiDataId: Q921181
-- id: 155092
-  name: Kuršumlija
-  state_id: 3718
+- name: Kuršumlija
   state_code: '21'
   state_name: Toplica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.13784280'
   longitude: '21.24309210'
-  wikiDataId: Q2047381
-- id: 97349
-  name: Prokuplje
-  state_id: 3718
+- name: Prokuplje
   state_code: '21'
   state_name: Toplica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.23417000'
   longitude: '21.58806000'
-  wikiDataId: Q2723458
-- id: 155091
-  name: Žitorađa
-  state_id: 3718
+- name: Žitorađa
   state_code: '21'
   state_name: Toplica
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.18492750'
   longitude: '21.61641320'
-  wikiDataId: Q2047474
-- id: 97145
-  name: Apatin
-  state_id: 3726
+- name: Apatin
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.67260000'
   longitude: '18.97800000'
-  wikiDataId: Q773371
-- id: 97163
-  name: Bački Breg
-  state_id: 3726
+- name: Bački Breg
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.92034000'
   longitude: '18.92944000'
-  wikiDataId: Q779764
-- id: 97178
-  name: Bogojevo
-  state_id: 3726
+- name: Bogojevo
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.53015000'
   longitude: '19.13022000'
-  wikiDataId: Q1011756
-- id: 97198
-  name: Doroslovo
-  state_id: 3726
+- name: Doroslovo
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.60699000'
   longitude: '19.18868000'
-  wikiDataId: Q909208
-- id: 97206
-  name: Gakovo
-  state_id: 3726
+- name: Gakovo
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.90078000'
   longitude: '19.06138000'
-  wikiDataId: Q1030942
-- id: 97249
-  name: Kolut
-  state_id: 3726
+- name: Kolut
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.89292000'
   longitude: '18.92760000'
-  wikiDataId: Q927968
-- id: 155093
-  name: Kula
-  state_id: 3726
+- name: Kula
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.60706310'
   longitude: '19.46056640'
-  wikiDataId: Q2985970
-- id: 97266
-  name: Kupusina
-  state_id: 3726
+- name: Kupusina
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.73759000'
   longitude: '19.01082000'
-  wikiDataId: Q852643
-- id: 155094
-  name: Odžaci
-  state_id: 3726
+- name: Odžaci
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.50206560'
   longitude: '19.20487140'
-  wikiDataId: Q657427
-- id: 97345
-  name: Prigrevica
-  state_id: 3726
+- name: Prigrevica
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.67636000'
   longitude: '19.08809000'
-  wikiDataId: Q852668
-- id: 97363
-  name: Riđica
-  state_id: 3726
+- name: Riđica
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.99088000'
   longitude: '19.10635000'
-  wikiDataId: Q1048343
-- id: 97386
-  name: Sombor
-  state_id: 3726
+- name: Sombor
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.77417000'
   longitude: '19.11222000'
-  wikiDataId: Q204475
-- id: 97387
-  name: Sonta
-  state_id: 3726
+- name: Sonta
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.59427000'
   longitude: '19.09719000'
-  wikiDataId: Q784960
-- id: 97394
-  name: Stanišić
-  state_id: 3726
+- name: Stanišić
   state_code: '05'
   state_name: West Bačka
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '45.93895000'
   longitude: '19.16709000'
-  wikiDataId: Q1089370
-- id: 155095
-  name: Boljevac
-  state_id: 3731
+- name: Boljevac
   state_code: '15'
   state_name: Zaječar
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.83114320'
   longitude: '21.92158620'
-  wikiDataId: Q2047431
-- id: 97181
-  name: Boljevci
-  state_id: 3731
+- name: Boljevci
   state_code: '15'
   state_name: Zaječar
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '44.72355000'
   longitude: '20.22348000'
-  wikiDataId: Q2909457
-- id: 97247
-  name: Knjazevac
-  state_id: 3731
+- name: Knjazevac
   state_code: '15'
   state_name: Zaječar
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.56634000'
   longitude: '22.25701000'
-  wikiDataId: Q1348256
-- id: 155096
-  name: Sokobanja
-  state_id: 3731
+- name: Sokobanja
   state_code: '15'
   state_name: Zaječar
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.63431460'
   longitude: '21.82442590'
-  wikiDataId: Q838616
-- id: 97445
-  name: Zaječar
-  state_id: 3731
+- name: Zaječar
   state_code: '15'
   state_name: Zaječar
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.69917000'
   longitude: '21.98778000'
-  wikiDataId: Q209329
-- id: 97148
-  name: Arilje
-  state_id: 3729
+- name: Arilje
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.75306000'
   longitude: '20.09556000'
-  wikiDataId: Q2041757
-- id: 97150
-  name: Bajina Bašta
-  state_id: 3729
+- name: Bajina Bašta
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.97083000'
   longitude: '19.56750000'
-  wikiDataId: Q1811753
-- id: 97456
-  name: Čajetina
-  state_id: 3729
+- name: Čajetina
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.74977000'
   longitude: '19.71273000'
-  wikiDataId: Q3177361
-- id: 155103
-  name: Čajetina
-  state_id: 3729
+- name: Čajetina
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.74970820'
   longitude: '19.69326120'
-  wikiDataId: Q1250050
-- id: 155097
-  name: Kosjerić
-  state_id: 3729
+- name: Kosjerić
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.99992150'
   longitude: '19.89156760'
-  wikiDataId: Q2500654
-- id: 155098
-  name: Nova Varoš
-  state_id: 3729
+- name: Nova Varoš
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.46568110'
   longitude: '19.76736470'
-  wikiDataId: Q2041713
-- id: 97324
-  name: Osječenik
-  state_id: 3729
+- name: Osječenik
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.14528000'
   longitude: '19.85889000'
-  wikiDataId: Q2590888
-- id: 155099
-  name: Požega
-  state_id: 3729
+- name: Požega
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.84033580'
   longitude: '19.99691900'
-  wikiDataId: Q2500701
-- id: 97344
-  name: Priboj
-  state_id: 3729
+- name: Priboj
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.58306000'
   longitude: '19.52519000'
-  wikiDataId: Q199942
-- id: 155100
-  name: Priboj
-  state_id: 3729
+- name: Priboj
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.56819680'
   longitude: '19.50779210'
-  wikiDataId: Q464053
-- id: 97346
-  name: Prijepolje
-  state_id: 3729
+- name: Prijepolje
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.38996000'
   longitude: '19.64870000'
-  wikiDataId: Q852668
-- id: 155101
-  name: Prijepolje
-  state_id: 3729
+- name: Prijepolje
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.38947300'
   longitude: '19.59898640'
-  wikiDataId: Q2500681
-- id: 97381
-  name: Sjenica
-  state_id: 3729
+- name: Sjenica
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.27306000'
   longitude: '19.99944000'
-  wikiDataId: Q994217
-- id: 155102
-  name: Sjenica
-  state_id: 3729
+- name: Sjenica
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.26679670'
   longitude: '19.92726520'
-  wikiDataId: Q2500661
-- id: 97424
-  name: Užice
-  state_id: 3729
+- name: Užice
   state_code: '16'
   state_name: Zlatibor
-  country_id: 196
-  country_code: RS
-  country_name: Serbia
   latitude: '43.85861000'
   longitude: '19.84878000'
-  wikiDataId: Q59473

@@ -1,1728 +1,786 @@
 ---
-- id: 149594
-  name: Abu Qir
-  state_id: 3235
+- name: Abu Qir
   state_code: ALX
   state_name: Alexandria
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.31666667'
   longitude: '30.06666667'
-  wikiDataId: Q139773
-- id: 149595
-  name: Agami
-  state_id: 3235
+- name: Agami
   state_code: ALX
   state_name: Alexandria
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.09590000'
   longitude: '29.76040000'
-  wikiDataId: Q4518659
-- id: 31787
-  name: Alexandria
-  state_id: 3235
+- name: Alexandria
   state_code: ALX
   state_name: Alexandria
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.20176000'
   longitude: '29.91582000'
-  wikiDataId: Q87
-- id: 149596
-  name: Ar-Raml
-  state_id: 3235
+- name: Ar-Raml
   state_code: ALX
   state_name: Alexandria
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.24821000'
   longitude: '29.97368000'
-  wikiDataId: Q60823702
-- id: 149597
-  name: Borg El Arab
-  state_id: 3235
+- name: Borg El Arab
   state_code: ALX
   state_name: Alexandria
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.91666667'
   longitude: '29.53333333'
-  wikiDataId: Q1043090
-- id: 149598
-  name: Montaza
-  state_id: 3235
+- name: Montaza
   state_code: ALX
   state_name: Alexandria
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.28270000'
   longitude: '30.02190000'
-  wikiDataId: Q12209472
-- id: 149599
-  name: New Borg El Arab
-  state_id: 3235
+- name: New Borg El Arab
   state_code: ALX
   state_name: Alexandria
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.88525000'
   longitude: '29.57721000'
-  wikiDataId: Q12197874
-- id: 149600
-  name: Sidi Bishr
-  state_id: 3235
+- name: Sidi Bishr
   state_code: ALX
   state_name: Alexandria
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.25210000'
   longitude: '29.99450000'
-  wikiDataId: Q4518983
-- id: 31756
-  name: Abu Simbel
-  state_id: 3225
+- name: Abu Simbel
   state_code: ASN
   state_name: Aswan
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '22.34570000'
   longitude: '31.61624000'
-  wikiDataId: Q6655437
-- id: 31791
-  name: Aswan
-  state_id: 3225
+- name: Aswan
   state_code: ASN
   state_name: Aswan
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '24.09082000'
   longitude: '32.89942000'
-  wikiDataId: Q29888
-- id: 31819
-  name: Idfū
-  state_id: 3225
+- name: Idfū
   state_code: ASN
   state_name: Aswan
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '24.97916000'
   longitude: '32.87722000'
-  wikiDataId: Q239107
-- id: 31829
-  name: Kawm Umbū
-  state_id: 3225
+- name: Kawm Umbū
   state_code: ASN
   state_name: Aswan
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '24.47669000'
   longitude: '32.94626000'
-  wikiDataId: Q138833
-- id: 31755
-  name: Abnūb
-  state_id: 3236
+- name: Abnūb
   state_code: AST
   state_name: Asyut
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '27.26960000'
   longitude: '31.15105000'
-  wikiDataId: Q975904
-- id: 31758
-  name: Abū Tīj
-  state_id: 3236
+- name: Abū Tīj
   state_code: AST
   state_name: Asyut
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '27.04411000'
   longitude: '31.31897000'
-  wikiDataId: Q3502865
-- id: 31764
-  name: Al Badārī
-  state_id: 3236
+- name: Al Badārī
   state_code: AST
   state_name: Asyut
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.99257000'
   longitude: '31.41554000'
-  wikiDataId: Q31865526
-- id: 31781
-  name: Al Qūşīyah
-  state_id: 3236
+- name: Al Qūşīyah
   state_code: AST
   state_name: Asyut
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '27.44020000'
   longitude: '30.81841000'
-  wikiDataId: Q310844
-- id: 31792
-  name: Asyūţ
-  state_id: 3236
+- name: Asyūţ
   state_code: AST
   state_name: Asyut
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '27.18096000'
   longitude: '31.18368000'
-  wikiDataId: Q29962
-- id: 31807
-  name: Dayrūţ
-  state_id: 3236
+- name: Dayrūţ
   state_code: AST
   state_name: Asyut
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '27.55602000'
   longitude: '30.80764000'
-  wikiDataId: Q951804
-- id: 31836
-  name: Manfalūţ
-  state_id: 3236
+- name: Manfalūţ
   state_code: AST
   state_name: Asyut
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '27.31040000'
   longitude: '30.97004000'
-  wikiDataId: Q556095
-- id: 31759
-  name: Abū al Maţāmīr
-  state_id: 3241
+- name: Abū al Maţāmīr
   state_code: BH
   state_name: Beheira
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.91018000'
   longitude: '30.17438000'
-  wikiDataId: Q3502865
-- id: 31760
-  name: Ad Dilinjāt
-  state_id: 3241
+- name: Ad Dilinjāt
   state_code: BH
   state_name: Beheira
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.82796000'
   longitude: '30.53552000'
-  wikiDataId: Q23955761
-- id: 31804
-  name: Damanhūr
-  state_id: 3241
+- name: Damanhūr
   state_code: BH
   state_name: Beheira
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.03408000'
   longitude: '30.46823000'
-  wikiDataId: Q328153
-- id: 31879
-  name: Ḩawsh ‘Īsá
-  state_id: 3241
+- name: Ḩawsh ‘Īsá
   state_code: BH
   state_name: Beheira
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.91280000'
   longitude: '30.29019000'
-  wikiDataId: Q23950194
-- id: 31820
-  name: Idkū
-  state_id: 3241
+- name: Idkū
   state_code: BH
   state_name: Beheira
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.30730000'
   longitude: '30.29810000'
-  wikiDataId: Q2988951
-- id: 31826
-  name: Kafr ad Dawwār
-  state_id: 3241
+- name: Kafr ad Dawwār
   state_code: BH
   state_name: Beheira
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.13379000'
   longitude: '30.12969000'
-  wikiDataId: Q31915573
-- id: 31830
-  name: Kawm Ḩamādah
-  state_id: 3241
+- name: Kawm Ḩamādah
   state_code: BH
   state_name: Beheira
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.76128000'
   longitude: '30.69972000'
-  wikiDataId: Q23949640
-- id: 31857
-  name: Rosetta
-  state_id: 3241
+- name: Rosetta
   state_code: BH
   state_name: Beheira
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.39951000'
   longitude: '30.41718000'
-  wikiDataId: Q243699
-- id: 31768
-  name: Al Fashn
-  state_id: 3230
+- name: Al Fashn
   state_code: BNS
   state_name: Beni Suef
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '28.82431000'
   longitude: '30.89948000'
-  wikiDataId: Q953625
-- id: 31798
-  name: Banī Suwayf
-  state_id: 3230
+- name: Banī Suwayf
   state_code: BNS
   state_name: Beni Suef
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.07441000'
   longitude: '31.09785000'
-  wikiDataId: Q394080
-- id: 31801
-  name: Būsh
-  state_id: 3230
+- name: Būsh
   state_code: BNS
   state_name: Beni Suef
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.14816000'
   longitude: '31.12733000'
-  wikiDataId: Q63233
-- id: 31869
-  name: Sumusţā as Sulţānī
-  state_id: 3230
+- name: Sumusţā as Sulţānī
   state_code: BNS
   state_name: Beni Suef
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '28.91667000'
   longitude: '30.85000000'
-  wikiDataId: Q23935303
-- id: 149582
-  name: Badr
-  state_id: 3223
+- name: Badr
   state_code: C
   state_name: Cairo
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.13600000'
   longitude: '31.71500000'
-  wikiDataId: Q12197650
-- id: 149583
-  name: Bulaq
-  state_id: 3223
+- name: Bulaq
   state_code: C
   state_name: Cairo
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.05300000'
   longitude: '31.23000000'
-  wikiDataId: Q1003523
-- id: 31802
-  name: Cairo
-  state_id: 3223
+- name: Cairo
   state_code: C
   state_name: Cairo
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.06263000'
   longitude: '31.24967000'
-  wikiDataId: Q85
-- id: 149584
-  name: El Mataria
-  state_id: 3223
+- name: El Mataria
   state_code: C
   state_name: Cairo
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.12950000'
   longitude: '31.28890000'
-  wikiDataId: Q398152
-- id: 149585
-  name: Fustat
-  state_id: 3223
+- name: Fustat
   state_code: C
   state_name: Cairo
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.00000000'
   longitude: '31.23333333'
-  wikiDataId: Q839456
-- id: 149586
-  name: Hadayek El Kobba
-  state_id: 3223
+- name: Hadayek El Kobba
   state_code: C
   state_name: Cairo
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.09670000'
   longitude: '31.31030000'
-  wikiDataId: Q4115211
-- id: 149587
-  name: Heliopolis
-  state_id: 3223
+- name: Heliopolis
   state_code: C
   state_name: Cairo
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.13333333'
   longitude: '31.30000000'
-  wikiDataId: Q2739389
-- id: 149588
-  name: Helwan
-  state_id: 3223
+- name: Helwan
   state_code: C
   state_name: Cairo
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.84194444'
   longitude: '31.33416667'
-  wikiDataId: Q771345
-- id: 149589
-  name: Maadi
-  state_id: 3223
+- name: Maadi
   state_code: C
   state_name: Cairo
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.96670000'
   longitude: '31.25000000'
-  wikiDataId: Q589934
-- id: 149590
-  name: Musturud
-  state_id: 3223
+- name: Musturud
   state_code: C
   state_name: Cairo
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.13881944'
   longitude: '31.29241111'
-  wikiDataId: Q12242935
-- id: 149591
-  name: New Administrative Capital of Egypt
-  state_id: 3223
+- name: New Administrative Capital of Egypt
   state_code: C
   state_name: Cairo
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.02750000'
   longitude: '31.76500000'
-  wikiDataId: Q19588497
-- id: 149592
-  name: Shubra
-  state_id: 3223
+- name: Shubra
   state_code: C
   state_name: Cairo
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.07250000'
   longitude: '31.24080000'
-  wikiDataId: Q2096164
-- id: 149593
-  name: Tura
-  state_id: 3223
+- name: Tura
   state_code: C
   state_name: Cairo
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.93927900'
   longitude: '31.29000700'
-  wikiDataId: Q1027627
-- id: 31880
-  name: "‘Izbat al Burj"
-  state_id: 3245
+- name: "‘Izbat al Burj"
   state_code: DK
   state_name: Dakahlia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.50840000'
   longitude: '31.84106000'
-  wikiDataId: Q1010823
-- id: 31762
-  name: Ajā
-  state_id: 3245
+- name: Ajā
   state_code: DK
   state_name: Dakahlia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.94162000'
   longitude: '31.29039000'
-  wikiDataId: Q10961074
-- id: 31770
-  name: Al Jammālīyah
-  state_id: 3245
+- name: Al Jammālīyah
   state_code: DK
   state_name: Dakahlia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.18065000'
   longitude: '31.86497000'
-  wikiDataId: Q203299
-- id: 31775
-  name: Al Manşūrah
-  state_id: 3245
+- name: Al Manşūrah
   state_code: DK
   state_name: Dakahlia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.03637000'
   longitude: '31.38069000'
-  wikiDataId: Q223587
-- id: 31774
-  name: Al Manzalah
-  state_id: 3245
+- name: Al Manzalah
   state_code: DK
   state_name: Dakahlia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.15823000'
   longitude: '31.93600000'
-  wikiDataId: Q3494688
-- id: 31776
-  name: Al Maţarīyah
-  state_id: 3245
+- name: Al Maţarīyah
   state_code: DK
   state_name: Dakahlia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.18287000'
   longitude: '32.03108000'
-  wikiDataId: Q23955475
-- id: 31800
-  name: Bilqās
-  state_id: 3245
+- name: Bilqās
   state_code: DK
   state_name: Dakahlia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.21452000'
   longitude: '31.35798000'
-  wikiDataId: Q950839
-- id: 31808
-  name: Dikirnis
-  state_id: 3245
+- name: Dikirnis
   state_code: DK
   state_name: Dakahlia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.08898000'
   longitude: '31.59478000'
-  wikiDataId: Q23952236
-- id: 31844
-  name: Minyat an Naşr
-  state_id: 3245
+- name: Minyat an Naşr
   state_code: DK
   state_name: Dakahlia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.12624000'
   longitude: '31.64313000'
-  wikiDataId: Q950786
-- id: 31865
-  name: Shirbīn
-  state_id: 3245
+- name: Shirbīn
   state_code: DK
   state_name: Dakahlia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.19688000'
   longitude: '31.52430000'
-  wikiDataId: Q1524502
-- id: 31876
-  name: Ţalkhā
-  state_id: 3245
+- name: Ţalkhā
   state_code: DK
   state_name: Dakahlia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.05390000'
   longitude: '31.37787000'
-  wikiDataId: Q952118
-- id: 31794
-  name: Az Zarqā
-  state_id: 3224
+- name: Az Zarqā
   state_code: DT
   state_name: Damietta
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.20864000'
   longitude: '31.63528000'
-  wikiDataId: Q4119153
-- id: 31805
-  name: Damietta
-  state_id: 3224
+- name: Damietta
   state_code: DT
   state_name: Damietta
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.41648000'
   longitude: '31.81332000'
-  wikiDataId: Q189383
-- id: 31815
-  name: Fāraskūr
-  state_id: 3224
+- name: Fāraskūr
   state_code: DT
   state_name: Damietta
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.32977000'
   longitude: '31.71507000'
-  wikiDataId: Q4166604
-- id: 31769
-  name: Al Fayyūm
-  state_id: 3238
+- name: Al Fayyūm
   state_code: FYM
   state_name: Faiyum
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.30995000'
   longitude: '30.84180000'
-  wikiDataId: Q203299
-- id: 31782
-  name: Al Wāsiţah
-  state_id: 3238
+- name: Al Wāsiţah
   state_code: FYM
   state_name: Faiyum
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.33778000'
   longitude: '31.20556000'
-  wikiDataId: Q4105094
-- id: 31818
-  name: Ibshawāy
-  state_id: 3238
+- name: Ibshawāy
   state_code: FYM
   state_name: Faiyum
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.35896000'
   longitude: '30.68061000'
-  wikiDataId: Q23949980
-- id: 31823
-  name: Iţsā
-  state_id: 3238
+- name: Iţsā
   state_code: FYM
   state_name: Faiyum
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.23760000'
   longitude: '30.78944000'
-  wikiDataId: Q23950077
-- id: 31877
-  name: Ţāmiyah
-  state_id: 3238
+- name: Ţāmiyah
   state_code: FYM
   state_name: Faiyum
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.47639000'
   longitude: '30.96119000'
-  wikiDataId: Q952118
-- id: 31777
-  name: Al Maḩallah al Kubrá
-  state_id: 3234
+- name: Al Maḩallah al Kubrá
   state_code: GH
   state_name: Gharbia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.97063000'
   longitude: '31.16690000'
-  wikiDataId: Q312723
-- id: 31799
-  name: Basyūn
-  state_id: 3234
+- name: Basyūn
   state_code: GH
   state_name: Gharbia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.93976000'
   longitude: '30.81338000'
-  wikiDataId: Q1072210
-- id: 31828
-  name: Kafr az Zayyāt
-  state_id: 3234
+- name: Kafr az Zayyāt
   state_code: GH
   state_name: Gharbia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.82480000'
   longitude: '30.81805000'
-  wikiDataId: Q951867
-- id: 31855
-  name: Quţūr
-  state_id: 3234
+- name: Quţūr
   state_code: GH
   state_name: Gharbia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.97225000'
   longitude: '30.95614000'
-  wikiDataId: Q23938961
-- id: 31860
-  name: Samannūd
-  state_id: 3234
+- name: Samannūd
   state_code: GH
   state_name: Gharbia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.96160000'
   longitude: '31.24069000'
-  wikiDataId: Q1243772
-- id: 31872
-  name: Tanda
-  state_id: 3234
+- name: Tanda
   state_code: GH
   state_name: Gharbia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.78847000'
   longitude: '31.00192000'
-  wikiDataId: Q271771
-- id: 31874
-  name: Zefta
-  state_id: 3234
+- name: Zefta
   state_code: GH
   state_name: Gharbia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.71420000'
   longitude: '31.24425000'
-  wikiDataId: Q2392142
-- id: 31786
-  name: Al ‘Ayyāţ
-  state_id: 3239
+- name: Al ‘Ayyāţ
   state_code: GZ
   state_name: Giza
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.61972000'
   longitude: '31.25750000'
-  wikiDataId: Q23955572
-- id: 31766
-  name: Al Bawīţī
-  state_id: 3239
+- name: Al Bawīţī
   state_code: GZ
   state_name: Giza
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '28.34919000'
   longitude: '28.86591000'
-  wikiDataId: Q4116186
-- id: 31783
-  name: Al Ḩawāmidīyah
-  state_id: 3239
+- name: Al Ḩawāmidīyah
   state_code: GZ
   state_name: Giza
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.90000000'
   longitude: '31.25000000'
-  wikiDataId: Q23955406
-- id: 31795
-  name: Aş Şaff
-  state_id: 3239
+- name: Aş Şaff
   state_code: GZ
   state_name: Giza
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.56472000'
   longitude: '31.28111000'
-  wikiDataId: Q23955229
-- id: 31793
-  name: Awsīm
-  state_id: 3239
+- name: Awsīm
   state_code: GZ
   state_name: Giza
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.12303000'
   longitude: '31.13571000'
-  wikiDataId: Q10423667
-- id: 31816
-  name: Giza
-  state_id: 3239
+- name: Giza
   state_code: GZ
   state_name: Giza
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.00808000'
   longitude: '31.21093000'
-  wikiDataId: Q81788
-- id: 31833
-  name: Madīnat Sittah Uktūbar
-  state_id: 3239
+- name: Madīnat Sittah Uktūbar
   state_code: GZ
   state_name: Giza
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.81667000'
   longitude: '31.05000000'
-  wikiDataId: Q130514
-- id: 31821
-  name: Ismailia
-  state_id: 3244
+- name: Ismailia
   state_code: IS
   state_name: Ismailia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.60427000'
   longitude: '32.27225000'
-  wikiDataId: Q217156
-- id: 31784
-  name: Al Ḩāmūl
-  state_id: 3222
+- name: Al Ḩāmūl
   state_code: KFS
   state_name: Kafr El-Sheikh
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.31146000'
   longitude: '31.14766000'
-  wikiDataId: Q23955404
-- id: 31810
-  name: Disūq
-  state_id: 3222
+- name: Disūq
   state_code: KFS
   state_name: Kafr El-Sheikh
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.13259000'
   longitude: '30.64784000'
-  wikiDataId: Q23951808
-- id: 31814
-  name: Fuwwah
-  state_id: 3222
+- name: Fuwwah
   state_code: KFS
   state_name: Kafr El-Sheikh
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.20365000'
   longitude: '30.54908000'
-  wikiDataId: Q23951368
-- id: 31827
-  name: Kafr ash Shaykh
-  state_id: 3222
+- name: Kafr ash Shaykh
   state_code: KFS
   state_name: Kafr El-Sheikh
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.11174000'
   longitude: '30.93991000'
-  wikiDataId: Q31915573
-- id: 31837
-  name: Markaz Disūq
-  state_id: 3222
+- name: Markaz Disūq
   state_code: KFS
   state_name: Kafr El-Sheikh
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.14590000'
   longitude: '30.71609000'
-  wikiDataId: Q556095
-- id: 31845
-  name: Munshāt ‘Alī Āghā
-  state_id: 3222
+- name: Munshāt ‘Alī Āghā
   state_code: KFS
   state_name: Kafr El-Sheikh
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.15791000'
   longitude: '30.70177000'
-  wikiDataId: Q950786
-- id: 31870
-  name: Sīdī Sālim
-  state_id: 3222
+- name: Sīdī Sālim
   state_code: KFS
   state_name: Kafr El-Sheikh
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.27133000'
   longitude: '30.78617000'
-  wikiDataId: Q23936898
-- id: 31832
-  name: Luxor
-  state_id: 3242
+- name: Luxor
   state_code: LX
   state_name: Luxor
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '25.69893000'
   longitude: '32.64210000'
-  wikiDataId: Q130514
-- id: 31840
-  name: Markaz al Uqşur
-  state_id: 3242
+- name: Markaz al Uqşur
   state_code: LX
   state_name: Luxor
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '25.62986000'
   longitude: '32.59017000'
-  wikiDataId: Q556095
-- id: 31785
-  name: Al ‘Alamayn
-  state_id: 3231
+- name: Al ‘Alamayn
   state_code: MT
   state_name: Matrouh
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.83007000'
   longitude: '28.95502000'
-  wikiDataId: Q204439
-- id: 31843
-  name: Mersa Matruh
-  state_id: 3231
+- name: Mersa Matruh
   state_code: MT
   state_name: Matrouh
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.35290000'
   longitude: '27.23725000'
-  wikiDataId: Q393829
-- id: 31866
-  name: Siwa Oasis
-  state_id: 3231
+- name: Siwa Oasis
   state_code: MT
   state_name: Matrouh
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.20320000'
   longitude: '25.51965000'
-  wikiDataId: Q1524502
-- id: 31757
-  name: Abū Qurqāş
-  state_id: 3243
+- name: Abū Qurqāş
   state_code: MN
   state_name: Minya
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '27.93120000'
   longitude: '30.83841000'
-  wikiDataId: Q3646152
-- id: 31778
-  name: Al Minyā
-  state_id: 3243
+- name: Al Minyā
   state_code: MN
   state_name: Minya
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '28.10988000'
   longitude: '30.75030000'
-  wikiDataId: Q310117
-- id: 31797
-  name: Banī Mazār
-  state_id: 3243
+- name: Banī Mazār
   state_code: MN
   state_name: Minya
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '28.50360000'
   longitude: '30.80040000'
-  wikiDataId: Q951324
-- id: 31806
-  name: Dayr Mawās
-  state_id: 3243
+- name: Dayr Mawās
   state_code: MN
   state_name: Minya
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '27.64176000'
   longitude: '30.84662000'
-  wikiDataId: Q3652748
-- id: 31835
-  name: Mallawī
-  state_id: 3243
+- name: Mallawī
   state_code: MN
   state_name: Minya
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '27.73140000'
   longitude: '30.84165000'
-  wikiDataId: Q393498
-- id: 31842
-  name: Maţāy
-  state_id: 3243
+- name: Maţāy
   state_code: MN
   state_name: Minya
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '28.41899000'
   longitude: '30.77924000'
-  wikiDataId: Q3498842
-- id: 31861
-  name: Samālūţ
-  state_id: 3243
+- name: Samālūţ
   state_code: MN
   state_name: Minya
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '28.31214000'
   longitude: '30.71007000'
-  wikiDataId: Q950924
-- id: 31767
-  name: Al Bājūr
-  state_id: 3228
+- name: Al Bājūr
   state_code: MNF
   state_name: Monufia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.43046000'
   longitude: '31.03679000'
-  wikiDataId: Q4164479
-- id: 31789
-  name: Ash Shuhadā’
-  state_id: 3228
+- name: Ash Shuhadā’
   state_code: MNF
   state_name: Monufia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.59683000'
   longitude: '30.89931000'
-  wikiDataId: Q7504702
-- id: 31790
-  name: Ashmūn
-  state_id: 3228
+- name: Ashmūn
   state_code: MNF
   state_name: Monufia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.29735000'
   longitude: '30.97641000'
-  wikiDataId: Q951186
-- id: 31846
-  name: Munūf
-  state_id: 3228
+- name: Munūf
   state_code: MNF
   state_name: Monufia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.46597000'
   longitude: '30.93199000'
-  wikiDataId: Q951268
-- id: 31854
-  name: Quwaysinā
-  state_id: 3228
+- name: Quwaysinā
   state_code: MNF
   state_name: Monufia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.56482000'
   longitude: '31.15777000'
-  wikiDataId: Q7273033
-- id: 31863
-  name: Shibīn al Kawm
-  state_id: 3228
+- name: Shibīn al Kawm
   state_code: MNF
   state_name: Monufia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.55258000'
   longitude: '31.00904000'
-  wikiDataId: Q31350
-- id: 31871
-  name: Talā
-  state_id: 3228
+- name: Talā
   state_code: MNF
   state_name: Monufia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.67980000'
   longitude: '30.94364000'
-  wikiDataId: Q7678737
-- id: 31772
-  name: Al Khārijah
-  state_id: 3246
+- name: Al Khārijah
   state_code: WAD
   state_name: New Valley
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '25.45141000'
   longitude: '30.54635000'
-  wikiDataId: Q4063326
-- id: 31852
-  name: Qaşr al Farāfirah
-  state_id: 3246
+- name: Qaşr al Farāfirah
   state_code: WAD
   state_name: New Valley
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '27.05680000'
   longitude: '27.96979000'
-  wikiDataId: Q14208893
-- id: 31788
-  name: Arish
-  state_id: 3227
+- name: Arish
   state_code: SIN
   state_name: North Sinai
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.13159000'
   longitude: '33.79844000'
-  wikiDataId: Q238452
-- id: 31850
-  name: Port Said
-  state_id: 3229
+- name: Port Said
   state_code: PTS
   state_name: Port Said
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.25654000'
   longitude: '32.28411000'
-  wikiDataId: Q134509
-- id: 31771
-  name: Al Khānkah
-  state_id: 3232
+- name: Al Khānkah
   state_code: KB
   state_name: Qalyubia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.21035000'
   longitude: '31.36812000'
-  wikiDataId: Q23955433
-- id: 31779
-  name: Al Qanāţir al Khayrīyah
-  state_id: 3232
+- name: Al Qanāţir al Khayrīyah
   state_code: KB
   state_name: Qalyubia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.19327000'
   longitude: '31.13703000'
-  wikiDataId: Q23955489
-- id: 31796
-  name: Banhā
-  state_id: 3232
+- name: Banhā
   state_code: KB
   state_name: Qalyubia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.45977000'
   longitude: '31.18420000'
-  wikiDataId: Q336966
-- id: 31851
-  name: Qalyūb
-  state_id: 3232
+- name: Qalyūb
   state_code: KB
   state_name: Qalyubia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.17922000'
   longitude: '31.20560000'
-  wikiDataId: Q336724
-- id: 31864
-  name: Shibīn al Qanāṭir
-  state_id: 3232
+- name: Shibīn al Qanāṭir
   state_code: KB
   state_name: Qalyubia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.31269000'
   longitude: '31.32018000'
-  wikiDataId: Q31350
-- id: 31873
-  name: Toukh
-  state_id: 3232
+- name: Toukh
   state_code: KB
   state_name: Qalyubia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.35487000'
   longitude: '31.20105000'
-  wikiDataId: Q23934694
-- id: 31809
-  name: Dishnā
-  state_id: 3247
+- name: Dishnā
   state_code: KN
   state_name: Qena
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.12467000'
   longitude: '32.47598000'
-  wikiDataId: Q23951929
-- id: 31813
-  name: Farshūţ
-  state_id: 3247
+- name: Farshūţ
   state_code: KN
   state_name: Qena
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.05494000'
   longitude: '32.16329000'
-  wikiDataId: Q23951614
-- id: 31822
-  name: Isnā
-  state_id: 3247
+- name: Isnā
   state_code: KN
   state_name: Qena
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '25.29336000'
   longitude: '32.55402000'
-  wikiDataId: Q626031
-- id: 31831
-  name: Kousa
-  state_id: 3247
+- name: Kousa
   state_code: KN
   state_name: Qena
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '25.91407000'
   longitude: '32.76362000'
-  wikiDataId: Q1816589
-- id: 31847
-  name: Naja' Ḥammādī
-  state_id: 3247
+- name: Naja' Ḥammādī
   state_code: KN
   state_name: Qena
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.04949000'
   longitude: '32.24142000'
-  wikiDataId: Q270754
-- id: 31853
-  name: Qinā
-  state_id: 3247
+- name: Qinā
   state_code: KN
   state_name: Qena
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.16418000'
   longitude: '32.72671000'
-  wikiDataId: Q336661
-- id: 31780
-  name: Al Quşayr
-  state_id: 3240
+- name: Al Quşayr
   state_code: BA
   state_name: Red Sea
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.10426000'
   longitude: '34.27793000'
-  wikiDataId: Q310751
-- id: 31811
-  name: El Gouna
-  state_id: 3240
+- name: El Gouna
   state_code: BA
   state_name: Red Sea
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '27.39417000'
   longitude: '33.67825000'
-  wikiDataId: Q286510
-- id: 31817
-  name: Hurghada
-  state_id: 3240
+- name: Hurghada
   state_code: BA
   state_name: Red Sea
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '27.25738000'
   longitude: '33.81291000'
-  wikiDataId: Q187284
-- id: 31834
-  name: Makadi Bay
-  state_id: 3240
+- name: Makadi Bay
   state_code: BA
   state_name: Red Sea
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.99123000'
   longitude: '33.89952000'
-  wikiDataId: Q1521754
-- id: 31841
-  name: Marsa Alam
-  state_id: 3240
+- name: Marsa Alam
   state_code: BA
   state_name: Red Sea
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '25.06305000'
   longitude: '34.89005000'
-  wikiDataId: Q1001901
-- id: 31856
-  name: Ras Gharib
-  state_id: 3240
+- name: Ras Gharib
   state_code: BA
   state_name: Red Sea
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '28.35831000'
   longitude: '33.07829000'
-  wikiDataId: Q1404020
-- id: 31858
-  name: Safaga
-  state_id: 3240
+- name: Safaga
   state_code: BA
   state_name: Red Sea
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.74906000'
   longitude: '33.93891000'
-  wikiDataId: Q986325
-- id: 149220
-  name: 10th of Ramadan
-  state_id: 5067
+- name: 10th of Ramadan
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.29939390'
   longitude: '31.61417890'
-  wikiDataId: Q337539
-- id: 149228
-  name: Al Qurein
-  state_id: 5067
+- name: Al Qurein
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.29300660'
   longitude: '31.84950350'
-  wikiDataId: Q13634887
-- id: 149223
-  name: Awlad Saqr
-  state_id: 5067
+- name: Awlad Saqr
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.93096230'
   longitude: '31.69132380'
-  wikiDataId: Q22928786
-- id: 149224
-  name: Bilbeis
-  state_id: 5067
+- name: Bilbeis
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.41676920'
   longitude: '31.55430480'
-  wikiDataId: Q393495
-- id: 149225
-  name: Diyarb Negm
-  state_id: 5067
+- name: Diyarb Negm
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.74800820'
   longitude: '31.38893080'
-  wikiDataId: Q23951814
-- id: 149226
-  name: El Husseiniya
-  state_id: 5067
+- name: El Husseiniya
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '31.13933960'
   longitude: '32.14949670'
-  wikiDataId: Q5949897
-- id: 149229
-  name: Faqous
-  state_id: 5067
+- name: Faqous
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.72291740'
   longitude: '31.76136580'
-  wikiDataId: Q22930182
-- id: 149230
-  name: Hihya
-  state_id: 5067
+- name: Hihya
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.65516210'
   longitude: '31.50671570'
-  wikiDataId: Q4165655
-- id: 149231
-  name: Kafr Saqr
-  state_id: 5067
+- name: Kafr Saqr
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.77955140'
   longitude: '31.61774120'
-  wikiDataId: Q4165658
-- id: 149221
-  name: Markaz Abū Ḩammād
-  state_id: 5067
+- name: Markaz Abū Ḩammād
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.53604430'
   longitude: '31.65970230'
-  wikiDataId: Q22928517
-- id: 149232
-  name: Mashtoul El Souk
-  state_id: 5067
+- name: Mashtoul El Souk
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.35570110'
   longitude: '31.36278530'
-  wikiDataId: Q16126100
-- id: 149233
-  name: Minya El Qamh
-  state_id: 5067
+- name: Minya El Qamh
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.50037450'
   longitude: '31.23766850'
-  wikiDataId: Q6024576
-- id: 149234
-  name: New Salhia
-  state_id: 5067
+- name: New Salhia
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.62868790'
   longitude: '31.92099060'
-  wikiDataId: Q5352068
-- id: 149235
-  name: Zagazig
-  state_id: 5067
+- name: Zagazig
   state_code: SHR
   state_name: Sharqia
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '30.58456230'
   longitude: '31.34747790'
-  wikiDataId: Q140304
-- id: 31763
-  name: Akhmīm
-  state_id: 3226
+- name: Akhmīm
   state_code: SHG
   state_name: Sohag
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.56217000'
   longitude: '31.74503000'
-  wikiDataId: Q31865526
-- id: 31765
-  name: Al Balyanā
-  state_id: 3226
+- name: Al Balyanā
   state_code: SHG
   state_name: Sohag
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.23568000'
   longitude: '32.00347000'
-  wikiDataId: Q2210877
-- id: 31773
-  name: Al Manshāh
-  state_id: 3226
+- name: Al Manshāh
   state_code: SHG
   state_name: Sohag
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.47686000'
   longitude: '31.80350000'
-  wikiDataId: Q23955470
-- id: 31824
-  name: Jirjā
-  state_id: 3226
+- name: Jirjā
   state_code: SHG
   state_name: Sohag
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.33826000'
   longitude: '31.89161000'
-  wikiDataId: Q749187
-- id: 31825
-  name: Juhaynah
-  state_id: 3226
+- name: Juhaynah
   state_code: SHG
   state_name: Sohag
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.67319000'
   longitude: '31.49760000'
-  wikiDataId: Q23949850
-- id: 31838
-  name: Markaz Jirjā
-  state_id: 3226
+- name: Markaz Jirjā
   state_code: SHG
   state_name: Sohag
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.30683000'
   longitude: '31.84574000'
-  wikiDataId: Q556095
-- id: 31839
-  name: Markaz Sūhāj
-  state_id: 3226
+- name: Markaz Sūhāj
   state_code: SHG
   state_name: Sohag
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.53948000'
   longitude: '31.67524000'
-  wikiDataId: Q556095
-- id: 31867
-  name: Sohag
-  state_id: 3226
+- name: Sohag
   state_code: SHG
   state_name: Sohag
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.55695000'
   longitude: '31.69478000'
-  wikiDataId: Q1524502
-- id: 31875
-  name: Ţahţā
-  state_id: 3226
+- name: Ţahţā
   state_code: SHG
   state_name: Sohag
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '26.76930000'
   longitude: '31.50214000'
-  wikiDataId: Q951369
-- id: 31803
-  name: Dahab
-  state_id: 3237
+- name: Dahab
   state_code: JS
   state_name: South Sinai
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '28.48208000'
   longitude: '34.49505000'
-  wikiDataId: Q370495
-- id: 31812
-  name: El-Tor
-  state_id: 3237
+- name: El-Tor
   state_code: JS
   state_name: South Sinai
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '28.24168000'
   longitude: '33.62220000'
-  wikiDataId: Q867603
-- id: 31849
-  name: Nuwaybi‘a
-  state_id: 3237
+- name: Nuwaybi‘a
   state_code: JS
   state_name: South Sinai
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.04681000'
   longitude: '34.66340000'
-  wikiDataId: Q1011488
-- id: 31859
-  name: Saint Catherine
-  state_id: 3237
+- name: Saint Catherine
   state_code: JS
   state_name: South Sinai
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '28.56191000'
   longitude: '33.94934000'
-  wikiDataId: Q986325
-- id: 31862
-  name: Sharm el-Sheikh
-  state_id: 3237
+- name: Sharm el-Sheikh
   state_code: JS
   state_name: South Sinai
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '27.91582000'
   longitude: '34.32995000'
-  wikiDataId: Q644
-- id: 31761
-  name: Ain Sukhna
-  state_id: 3233
+- name: Ain Sukhna
   state_code: SUZ
   state_name: Suez
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.60018000'
   longitude: '32.31671000'
-  wikiDataId: Q23955761
-- id: 31868
-  name: Suez
-  state_id: 3233
+- name: Suez
   state_code: SUZ
   state_name: Suez
-  country_id: 65
-  country_code: EG
-  country_name: Egypt
   latitude: '29.97371000'
   longitude: '32.52627000'
-  wikiDataId: Q134514

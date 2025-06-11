@@ -1,3224 +1,1466 @@
 ---
-- id: 31227
-  name: Adrar
-  state_id: 1118
+- name: Adrar
   state_code: '01'
   state_name: Adrar
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '27.87429000'
   longitude: "-0.29388000"
-  wikiDataId: Q251181
-- id: 31234
-  name: Aoulef
-  state_id: 1118
+- name: Aoulef
   state_code: '01'
   state_name: Adrar
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '26.96667000'
   longitude: '1.08333000'
-  wikiDataId: Q602548
-- id: 31406
-  name: Reggane
-  state_id: 1118
+- name: Reggane
   state_code: '01'
   state_name: Adrar
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '26.71576000'
   longitude: '0.17140000'
-  wikiDataId: Q582905
-- id: 31450
-  name: Timimoun
-  state_id: 1118
+- name: Timimoun
   state_code: '01'
   state_name: Adrar
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '29.26388000'
   longitude: '0.23098000'
-  wikiDataId: Q1021173
-- id: 31243
-  name: Aïn Defla
-  state_id: 1119
+- name: Aïn Defla
   state_code: '44'
   state_name: Aïn Defla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.26405000'
   longitude: '1.96790000'
-  wikiDataId: Q168846
-- id: 31325
-  name: El Abadia
-  state_id: 1119
+- name: El Abadia
   state_code: '44'
   state_name: Aïn Defla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.26951000'
   longitude: '1.68609000'
-  wikiDataId: Q1649058
-- id: 31331
-  name: El Attaf
-  state_id: 1119
+- name: El Attaf
   state_code: '44'
   state_name: Aïn Defla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.22393000'
   longitude: '1.67187000'
-  wikiDataId: Q1029528
-- id: 31361
-  name: Khemis Miliana
-  state_id: 1119
+- name: Khemis Miliana
   state_code: '44'
   state_name: Aïn Defla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.26104000'
   longitude: '2.22015000'
-  wikiDataId: Q954285
-- id: 31448
-  name: Theniet el Had
-  state_id: 1119
+- name: Theniet el Had
   state_code: '44'
   state_name: Aïn Defla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.87111000'
   longitude: '2.02806000'
-  wikiDataId: Q3054256
-- id: 31250
-  name: Aïn Temouchent
-  state_id: 1122
+- name: Aïn Temouchent
   state_code: '46'
   state_name: Aïn Témouchent
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.29749000'
   longitude: "-1.14037000"
-  wikiDataId: Q2876387
-- id: 31265
-  name: Beni Saf
-  state_id: 1122
+- name: Beni Saf
   state_code: '46'
   state_name: Aïn Témouchent
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.30099000'
   longitude: "-1.38226000"
-  wikiDataId: Q80408
-- id: 31329
-  name: El Amria
-  state_id: 1122
+- name: El Amria
   state_code: '46'
   state_name: Aïn Témouchent
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.52439000'
   longitude: "-1.01577000"
-  wikiDataId: Q1657351
-- id: 31340
-  name: El Malah
-  state_id: 1122
+- name: El Malah
   state_code: '46'
   state_name: Aïn Témouchent
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.39137000'
   longitude: "-1.09238000"
-  wikiDataId: Q1649298
-- id: 31351
-  name: Hammam Bou Hadjar
-  state_id: 1122
+- name: Hammam Bou Hadjar
   state_code: '46'
   state_name: Aïn Témouchent
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.37889000'
   longitude: "-0.96778000"
-  wikiDataId: Q887319
-- id: 31249
-  name: Aïn Taya
-  state_id: 1144
+- name: Aïn Taya
   state_code: '16'
   state_name: Algiers
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.79333000'
   longitude: '3.28694000'
-  wikiDataId: Q2876387
-- id: 31230
-  name: Algiers
-  state_id: 1144
+- name: Algiers
   state_code: '16'
   state_name: Algiers
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.73225000'
   longitude: '3.08746000'
-  wikiDataId: Q3561
-- id: 31254
-  name: Bab Ezzouar
-  state_id: 1144
+- name: Bab Ezzouar
   state_code: '16'
   state_name: Algiers
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.72615000'
   longitude: '3.18291000'
-  wikiDataId: Q59579
-- id: 31274
-  name: Birkhadem
-  state_id: 1144
+- name: Birkhadem
   state_code: '16'
   state_name: Algiers
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.71499000'
   longitude: '3.05002000'
-  wikiDataId: Q2904515
-- id: 31281
-  name: Bordj el Kiffan
-  state_id: 1144
+- name: Bordj el Kiffan
   state_code: '16'
   state_name: Algiers
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.74871000'
   longitude: '3.19249000'
-  wikiDataId: Q1184993
-- id: 31312
-  name: Dar el Beïda
-  state_id: 1144
+- name: Dar el Beïda
   state_code: '16'
   state_name: Algiers
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.71333000'
   longitude: '3.21250000'
-  wikiDataId: Q59419
-- id: 31413
-  name: Rouiba
-  state_id: 1144
+- name: Rouiba
   state_code: '16'
   state_name: Algiers
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.73829000'
   longitude: '3.28079000'
-  wikiDataId: Q2215980
-- id: 31233
-  name: Annaba
-  state_id: 1103
+- name: Annaba
   state_code: '23'
   state_name: Annaba
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.90000000'
   longitude: '7.76667000'
-  wikiDataId: Q45942
-- id: 31267
-  name: Berrahal
-  state_id: 1103
+- name: Berrahal
   state_code: '23'
   state_name: Annaba
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.83528000'
   longitude: '7.45333000'
-  wikiDataId: Q1649131
-- id: 31323
-  name: Drean
-  state_id: 1103
+- name: Drean
   state_code: '23'
   state_name: Annaba
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.68482000'
   longitude: '7.75111000'
-  wikiDataId: Q1924629
-- id: 31334
-  name: El Hadjar
-  state_id: 1103
+- name: El Hadjar
   state_code: '23'
   state_name: Annaba
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.80377000'
   longitude: '7.73684000'
-  wikiDataId: Q3043115
-- id: 31251
-  name: Aïn Touta
-  state_id: 1142
+- name: Aïn Touta
   state_code: '05'
   state_name: Batna
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.37675000'
   longitude: '5.90001000'
-  wikiDataId: Q2876412
-- id: 31237
-  name: Arris
-  state_id: 1142
+- name: Arris
   state_code: '05'
   state_name: Batna
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.25881000'
   longitude: '6.34706000'
-  wikiDataId: Q1388056
-- id: 31257
-  name: Barika
-  state_id: 1142
+- name: Barika
   state_code: '05'
   state_name: Batna
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.38901000'
   longitude: '5.36584000'
-  wikiDataId: Q648253
-- id: 31258
-  name: Batna
-  state_id: 1142
+- name: Batna
   state_code: '05'
   state_name: Batna
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.55597000'
   longitude: '6.17414000'
-  wikiDataId: Q338844
-- id: 31292
-  name: Boumagueur
-  state_id: 1142
+- name: Boumagueur
   state_code: '05'
   state_name: Batna
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.50520000'
   longitude: '5.55250000'
-  wikiDataId: Q1648911
-- id: 31382
-  name: Merouana
-  state_id: 1142
+- name: Merouana
   state_code: '05'
   state_name: Batna
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.63106000'
   longitude: '5.91186000'
-  wikiDataId: Q3174992
-- id: 31415
-  name: Râs el Aïoun
-  state_id: 1142
+- name: Râs el Aïoun
   state_code: '05'
   state_name: Batna
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.67384000'
   longitude: '5.64530000'
-  wikiDataId: Q982735
-- id: 31444
-  name: Tazoult-Lambese
-  state_id: 1142
+- name: Tazoult-Lambese
   state_code: '05'
   state_name: Batna
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.48171000'
   longitude: '6.26074000'
-  wikiDataId: Q1309744
-- id: 31298
-  name: Béchar
-  state_id: 1108
+- name: Béchar
   state_code: '08'
   state_name: Béchar
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '31.61667000'
   longitude: "-2.21667000"
-  wikiDataId: Q638704
-- id: 31229
-  name: Akbou
-  state_id: 1128
+- name: Akbou
   state_code: '06'
   state_name: Béjaïa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.45750000'
   longitude: '4.53494000'
-  wikiDataId: Q2828968
-- id: 31231
-  name: Amizour
-  state_id: 1128
+- name: Amizour
   state_code: '06'
   state_name: Béjaïa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.64022000'
   longitude: '4.90131000'
-  wikiDataId: Q2214578
-- id: 31256
-  name: Barbacha
-  state_id: 1128
+- name: Barbacha
   state_code: '06'
   state_name: Béjaïa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.56667000'
   longitude: '4.96667000'
-  wikiDataId: Q2214633
-- id: 31259
-  name: Bejaïa
-  state_id: 1128
+- name: Bejaïa
   state_code: '06'
   state_name: Béjaïa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.75587000'
   longitude: '5.08433000'
-  wikiDataId: Q59975
-- id: 31467
-  name: el hed
-  state_id: 1128
+- name: el hed
   state_code: '06'
   state_name: Béjaïa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.65000000'
   longitude: '4.77361000'
-  wikiDataId: Q3575264
-- id: 31339
-  name: El Kseur
-  state_id: 1128
+- name: El Kseur
   state_code: '06'
   state_name: Béjaïa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.67942000'
   longitude: '4.85550000'
-  wikiDataId: Q1649095
-- id: 31344
-  name: Feraoun
-  state_id: 1128
+- name: Feraoun
   state_code: '06'
   state_name: Béjaïa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.56041000'
   longitude: '4.85454000'
-  wikiDataId: Q2215098
-- id: 31421
-  name: Seddouk
-  state_id: 1128
+- name: Seddouk
   state_code: '06'
   state_name: Béjaïa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.54722000'
   longitude: '4.68611000'
-  wikiDataId: Q2223541
-- id: 31275
-  name: Biskra
-  state_id: 1114
+- name: Biskra
   state_code: '07'
   state_name: Biskra
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.85038000'
   longitude: '5.72805000'
-  wikiDataId: Q312759
-- id: 31405
-  name: Oumache
-  state_id: 1114
+- name: Oumache
   state_code: '07'
   state_name: Biskra
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.69292000'
   longitude: '5.68092000'
-  wikiDataId: Q3358295
-- id: 31427
-  name: Sidi Khaled
-  state_id: 1114
+- name: Sidi Khaled
   state_code: '07'
   state_name: Biskra
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.38700000'
   longitude: '4.98785000'
-  wikiDataId: Q2215511
-- id: 31430
-  name: Sidi Okba
-  state_id: 1114
+- name: Sidi Okba
   state_code: '07'
   state_name: Biskra
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.74512000'
   longitude: '5.89833000'
-  wikiDataId: Q2215485
-- id: 31461
-  name: Tolga
-  state_id: 1114
+- name: Tolga
   state_code: '07'
   state_name: Biskra
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.72224000'
   longitude: '5.37845000'
-  wikiDataId: Q2280394
-- id: 31466
-  name: Zeribet el Oued
-  state_id: 1114
+- name: Zeribet el Oued
   state_code: '07'
   state_name: Biskra
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.68284000'
   longitude: '6.51109000'
-  wikiDataId: Q3575264
-- id: 31263
-  name: Beni Mered
-  state_id: 1111
+- name: Beni Mered
   state_code: '09'
   state_name: Blida
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.52389000'
   longitude: '2.86131000'
-  wikiDataId: Q2895897
-- id: 31276
-  name: Blida
-  state_id: 1111
+- name: Blida
   state_code: '09'
   state_name: Blida
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.47004000'
   longitude: '2.82770000'
-  wikiDataId: Q216990
-- id: 31296
-  name: Boû Arfa
-  state_id: 1111
+- name: Boû Arfa
   state_code: '09'
   state_name: Blida
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.46298000'
   longitude: '2.81464000'
-  wikiDataId: Q23820810
-- id: 31287
-  name: Boufarik
-  state_id: 1111
+- name: Boufarik
   state_code: '09'
   state_name: Blida
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.57413000'
   longitude: '2.91214000'
-  wikiDataId: Q2344308
-- id: 31289
-  name: Bougara
-  state_id: 1111
+- name: Bougara
   state_code: '09'
   state_name: Blida
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.54178000'
   longitude: '3.08100000'
-  wikiDataId: Q2573679
-- id: 31290
-  name: Bouinan
-  state_id: 1111
+- name: Bouinan
   state_code: '09'
   state_name: Blida
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.53167000'
   longitude: '2.99194000'
-  wikiDataId: Q2921643
-- id: 31301
-  name: Chebli
-  state_id: 1111
+- name: Chebli
   state_code: '09'
   state_name: Blida
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.57722000'
   longitude: '3.00917000'
-  wikiDataId: Q1649700
-- id: 31307
-  name: Chiffa
-  state_id: 1111
+- name: Chiffa
   state_code: '09'
   state_name: Blida
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.46293000'
   longitude: '2.73873000'
-  wikiDataId: Q2963503
-- id: 31369
-  name: Larbaâ
-  state_id: 1111
+- name: Larbaâ
   state_code: '09'
   state_name: Blida
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.56471000'
   longitude: '3.15434000'
-  wikiDataId: Q6488718
-- id: 31377
-  name: Meftah
-  state_id: 1111
+- name: Meftah
   state_code: '09'
   state_name: Blida
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.62040000'
   longitude: '3.22248000'
-  wikiDataId: Q2215400
-- id: 31428
-  name: Sidi Moussa
-  state_id: 1111
+- name: Sidi Moussa
   state_code: '09'
   state_name: Blida
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.60637000'
   longitude: '3.08783000'
-  wikiDataId: Q2215533
-- id: 31438
-  name: Souma
-  state_id: 1111
+- name: Souma
   state_code: '09'
   state_name: Blida
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.51833000'
   longitude: '2.90528000'
-  wikiDataId: Q23788953
-- id: 31278
-  name: Bordj Bou Arreridj
-  state_id: 1116
+- name: Bordj Bou Arreridj
   state_code: '34'
   state_name: Bordj Bou Arréridj
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.07321000'
   longitude: '4.76108000'
-  wikiDataId: Q544733
-- id: 31279
-  name: Bordj Ghdir
-  state_id: 1116
+- name: Bordj Ghdir
   state_code: '34'
   state_name: Bordj Bou Arréridj
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.90111000'
   longitude: '4.89806000'
-  wikiDataId: Q23820716
-- id: 31280
-  name: Bordj Zemoura
-  state_id: 1116
+- name: Bordj Zemoura
   state_code: '34'
   state_name: Bordj Bou Arréridj
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.27462000'
   longitude: '4.85668000'
-  wikiDataId: Q1648662
-- id: 31327
-  name: El Achir
-  state_id: 1116
+- name: El Achir
   state_code: '34'
   state_name: Bordj Bou Arréridj
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.06386000'
   longitude: '4.62744000'
-  wikiDataId: Q3049676
-- id: 31373
-  name: Mansourah
-  state_id: 1116
+- name: Mansourah
   state_code: '34'
   state_name: Bordj Bou Arréridj
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.08725000'
   longitude: '4.45192000'
-  wikiDataId: Q3286577
-- id: 31381
-  name: Melouza
-  state_id: 1116
+- name: Melouza
   state_code: '34'
   state_name: Bordj Bou Arréridj
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.97999000'
   longitude: '4.18665000'
-  wikiDataId: Q23802689
-- id: 31416
-  name: Râs el Oued
-  state_id: 1116
+- name: Râs el Oued
   state_code: '34'
   state_name: Bordj Bou Arréridj
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.94410000'
   longitude: '5.03107000'
-  wikiDataId: Q23795725
-- id: 31241
-  name: Aïn Bessem
-  state_id: 1104
+- name: Aïn Bessem
   state_code: '10'
   state_name: Bouïra
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.29333000'
   longitude: '3.67319000'
-  wikiDataId: Q2876271
-- id: 31295
-  name: Bouïra
-  state_id: 1104
+- name: Bouïra
   state_code: '10'
   state_name: Bouïra
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.37489000'
   longitude: '3.90200000'
-  wikiDataId: Q722522
-- id: 31309
-  name: Chorfa
-  state_id: 1104
+- name: Chorfa
   state_code: '10'
   state_name: Bouïra
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.36505000'
   longitude: '4.32636000'
-  wikiDataId: Q23816562
-- id: 31322
-  name: Draa el Mizan
-  state_id: 1104
+- name: Draa el Mizan
   state_code: '10'
   state_name: Bouïra
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.53628000'
   longitude: '3.83340000'
-  wikiDataId: Q4119323
-- id: 31368
-  name: Lakhdaria
-  state_id: 1104
+- name: Lakhdaria
   state_code: '10'
   state_name: Bouïra
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.56463000'
   longitude: '3.59330000'
-  wikiDataId: Q2522066
-- id: 31439
-  name: Sour el Ghozlane
-  state_id: 1104
+- name: Sour el Ghozlane
   state_code: '10'
   state_name: Bouïra
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.14766000'
   longitude: '3.69123000'
-  wikiDataId: Q312000
-- id: 31235
-  name: Arbatache
-  state_id: 1125
+- name: Arbatache
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.63773000'
   longitude: '3.37127000'
-  wikiDataId: Q23824843
-- id: 31261
-  name: Beni Amrane
-  state_id: 1125
+- name: Beni Amrane
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.66774000'
   longitude: '3.59115000'
-  wikiDataId: Q2223571
-- id: 31286
-  name: Boudouaou
-  state_id: 1125
+- name: Boudouaou
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.72735000'
   longitude: '3.40995000'
-  wikiDataId: Q311984
-- id: 31294
-  name: Boumerdas
-  state_id: 1125
+- name: Boumerdas
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.76639000'
   longitude: '3.47717000'
-  wikiDataId: Q770518
-- id: 31299
-  name: Chabet el Ameur
-  state_id: 1125
+- name: Chabet el Ameur
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.63709000'
   longitude: '3.69474000'
-  wikiDataId: Q37926868
-- id: 31314
-  name: Dellys
-  state_id: 1125
+- name: Dellys
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.91716000'
   longitude: '3.91311000'
-  wikiDataId: Q3021755
-- id: 31362
-  name: Khemis el Khechna
-  state_id: 1125
+- name: Khemis el Khechna
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.64997000'
   longitude: '3.33080000'
-  wikiDataId: Q3142813
-- id: 31372
-  name: Makouda
-  state_id: 1125
+- name: Makouda
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.78567000'
   longitude: '4.06273000'
-  wikiDataId: Q3280947
-- id: 31393
-  name: Naciria
-  state_id: 1125
+- name: Naciria
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.74625000'
   longitude: '3.83163000'
-  wikiDataId: Q6957278
-- id: 31403
-  name: Ouled Moussa
-  state_id: 1125
+- name: Ouled Moussa
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.68394000'
   longitude: '3.36661000'
-  wikiDataId: Q3055250
-- id: 31407
-  name: Reghaïa
-  state_id: 1125
+- name: Reghaïa
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.73587000'
   longitude: '3.34018000'
-  wikiDataId: Q1649935
-- id: 31441
-  name: Tadmaït
-  state_id: 1125
+- name: Tadmaït
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.74413000'
   longitude: '3.90045000'
-  wikiDataId: Q3513734
-- id: 31447
-  name: Thenia
-  state_id: 1125
+- name: Thenia
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.72544000'
   longitude: '3.55665000'
-  wikiDataId: Q2225013
-- id: 31456
-  name: Tizi Gheniff
-  state_id: 1125
+- name: Tizi Gheniff
   state_code: '35'
   state_name: Boumerdès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.58839000'
   longitude: '3.77445000'
-  wikiDataId: Q3529984
-- id: 31226
-  name: Abou el Hassan
-  state_id: 1105
+- name: Abou el Hassan
   state_code: '02'
   state_name: Chlef
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.41657000'
   longitude: '1.19616000'
-  wikiDataId: Q2821729
-- id: 31291
-  name: Boukadir
-  state_id: 1105
+- name: Boukadir
   state_code: '02'
   state_name: Chlef
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.06629000'
   longitude: '1.12602000'
-  wikiDataId: Q1648911
-- id: 31308
-  name: Chlef
-  state_id: 1105
+- name: Chlef
   state_code: '02'
   state_name: Chlef
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.16525000'
   longitude: '1.33452000'
-  wikiDataId: Q849561
-- id: 31324
-  name: Ech Chettia
-  state_id: 1105
+- name: Ech Chettia
   state_code: '02'
   state_name: Chlef
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.19591000'
   longitude: '1.25537000'
-  wikiDataId: Q2962891
-- id: 31397
-  name: Oued Fodda
-  state_id: 1105
+- name: Oued Fodda
   state_code: '02'
   state_name: Chlef
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.18503000'
   longitude: '1.53299000'
-  wikiDataId: Q3358021
-- id: 31399
-  name: Oued Sly
-  state_id: 1105
+- name: Oued Sly
   state_code: '02'
   state_name: Chlef
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.10124000'
   longitude: '1.19949000'
-  wikiDataId: Q1649555
-- id: 31424
-  name: Sidi Akkacha
-  state_id: 1105
+- name: Sidi Akkacha
   state_code: '02'
   state_name: Chlef
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.46472000'
   longitude: '1.30258000'
-  wikiDataId: Q1650037
-- id: 31469
-  name: "’Aïn Abid"
-  state_id: 1121
+- name: "’Aïn Abid"
   state_code: '25'
   state_name: Constantine
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.23194000'
   longitude: '6.94333000'
-  wikiDataId: Q1649776
-- id: 31248
-  name: Aïn Smara
-  state_id: 1121
+- name: Aïn Smara
   state_code: '25'
   state_name: Constantine
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.26740000'
   longitude: '6.50135000'
-  wikiDataId: Q2876376
-- id: 31310
-  name: Constantine
-  state_id: 1121
+- name: Constantine
   state_code: '25'
   state_name: Constantine
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.36500000'
   longitude: '6.61472000'
-  wikiDataId: Q1093156
-- id: 31315
-  name: Didouche Mourad
-  state_id: 1121
+- name: Didouche Mourad
   state_code: '25'
   state_name: Constantine
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.45250000'
   longitude: '6.63639000'
-  wikiDataId: Q3027257
-- id: 31338
-  name: El Khroub
-  state_id: 1121
+- name: El Khroub
   state_code: '25'
   state_name: Constantine
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.26333000'
   longitude: '6.69361000'
-  wikiDataId: Q391129
-- id: 31350
-  name: Hamma Bouziane
-  state_id: 1121
+- name: Hamma Bouziane
   state_code: '25'
   state_name: Constantine
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.41205000'
   longitude: '6.59603000'
-  wikiDataId: Q3126488
-- id: 31474
-  name: "’Aïn el Bell"
-  state_id: 1098
+- name: "’Aïn el Bell"
   state_code: '17'
   state_name: Djelfa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.34381000'
   longitude: '3.22475000'
-  wikiDataId: Q599887
-- id: 31246
-  name: Aïn Oussera
-  state_id: 1098
+- name: Aïn Oussera
   state_code: '17'
   state_name: Djelfa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.45139000'
   longitude: '2.90583000'
-  wikiDataId: Q651497
-- id: 31273
-  name: Birine
-  state_id: 1098
+- name: Birine
   state_code: '17'
   state_name: Djelfa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.63500000'
   longitude: '3.22500000'
-  wikiDataId: Q1649303
-- id: 31300
-  name: Charef
-  state_id: 1098
+- name: Charef
   state_code: '17'
   state_name: Djelfa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.62098000'
   longitude: '2.79503000'
-  wikiDataId: Q1649151
-- id: 31311
-  name: Dar Chioukh
-  state_id: 1098
+- name: Dar Chioukh
   state_code: '17'
   state_name: Djelfa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.89638000'
   longitude: '3.48543000'
-  wikiDataId: Q3015935
-- id: 31318
-  name: Djelfa
-  state_id: 1098
+- name: Djelfa
   state_code: '17'
   state_name: Djelfa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.67279000'
   longitude: '3.26300000'
-  wikiDataId: Q2794758
-- id: 31336
-  name: El Idrissia
-  state_id: 1098
+- name: El Idrissia
   state_code: '17'
   state_name: Djelfa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.44542000'
   longitude: '2.52749000'
-  wikiDataId: Q1884792
-- id: 31385
-  name: Messaad
-  state_id: 1098
+- name: Messaad
   state_code: '17'
   state_name: Djelfa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.15429000'
   longitude: '3.50309000'
-  wikiDataId: Q609487
-- id: 31297
-  name: Brezina
-  state_id: 1129
+- name: Brezina
   state_code: '32'
   state_name: El Bayadh
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.09892000'
   longitude: '1.26082000'
-  wikiDataId: Q2924791
-- id: 31326
-  name: El Abiodh Sidi Cheikh
-  state_id: 1129
+- name: El Abiodh Sidi Cheikh
   state_code: '32'
   state_name: El Bayadh
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '32.89300000'
   longitude: '0.54839000'
-  wikiDataId: Q3049673
-- id: 31332
-  name: El Bayadh
-  state_id: 1129
+- name: El Bayadh
   state_code: '32'
   state_name: El Bayadh
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.68318000'
   longitude: '1.01927000'
-  wikiDataId: Q648784
-- id: 31313
-  name: Debila
-  state_id: 1099
+- name: Debila
   state_code: '39'
   state_name: El Oued
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.51667000'
   longitude: '6.95000000'
-  wikiDataId: Q3020835
-- id: 31341
-  name: El Oued
-  state_id: 1099
+- name: El Oued
   state_code: '39'
   state_name: El Oued
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.35608000'
   longitude: '6.86319000'
-  wikiDataId: Q1649298
-- id: 31408
-  name: Reguiba
-  state_id: 1099
+- name: Reguiba
   state_code: '39'
   state_name: El Oued
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.56391000'
   longitude: '6.70326000'
-  wikiDataId: Q3325064
-- id: 31411
-  name: Robbah
-  state_id: 1099
+- name: Robbah
   state_code: '39'
   state_name: El Oued
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.27967000'
   longitude: '6.90984000'
-  wikiDataId: Q2364827
-- id: 31260
-  name: Ben Mehidi
-  state_id: 1100
+- name: Ben Mehidi
   state_code: '36'
   state_name: El Tarf
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.76967000'
   longitude: '7.90641000'
-  wikiDataId: Q253342
-- id: 31270
-  name: Besbes
-  state_id: 1100
+- name: Besbes
   state_code: '36'
   state_name: El Tarf
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.70222000'
   longitude: '7.84722000'
-  wikiDataId: Q1649634
-- id: 31337
-  name: El Kala
-  state_id: 1100
+- name: El Kala
   state_code: '36'
   state_name: El Tarf
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.89556000'
   longitude: '8.44333000'
-  wikiDataId: Q3050005
-- id: 31342
-  name: El Tarf
-  state_id: 1100
+- name: El Tarf
   state_code: '36'
   state_name: El Tarf
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.76720000'
   longitude: '8.31377000'
-  wikiDataId: Q770653
-- id: 31268
-  name: Berriane
-  state_id: 1127
+- name: Berriane
   state_code: '47'
   state_name: Ghardaïa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '32.82648000'
   longitude: '3.76689000'
-  wikiDataId: Q1649062
-- id: 31347
-  name: Ghardaïa
-  state_id: 1127
+- name: Ghardaïa
   state_code: '47'
   state_name: Ghardaïa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '32.49094000'
   longitude: '3.67347000'
-  wikiDataId: Q622841
-- id: 31386
-  name: Metlili Chaamba
-  state_id: 1127
+- name: Metlili Chaamba
   state_code: '47'
   state_name: Ghardaïa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '32.26667000'
   longitude: '3.63333000'
-  wikiDataId: Q3307398
-- id: 31293
-  name: Boumahra Ahmed
-  state_id: 1137
+- name: Boumahra Ahmed
   state_code: '24'
   state_name: Guelma
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.45833000'
   longitude: '7.51389000'
-  wikiDataId: Q1649113
-- id: 31348
-  name: Guelma
-  state_id: 1137
+- name: Guelma
   state_code: '24'
   state_name: Guelma
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.46214000'
   longitude: '7.42608000'
-  wikiDataId: Q609871
-- id: 31355
-  name: Héliopolis
-  state_id: 1137
+- name: Héliopolis
   state_code: '24'
   state_name: Guelma
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.50361000'
   longitude: '7.44278000'
-  wikiDataId: Q3144664
-- id: 31358
-  name: Illizi
-  state_id: 1112
+- name: Illizi
   state_code: '33'
   state_name: Illizi
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '26.48333000'
   longitude: '8.46667000'
-  wikiDataId: Q640740
-- id: 31359
-  name: Jijel
-  state_id: 1113
+- name: Jijel
   state_code: '18'
   state_name: Jijel
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.82055000'
   longitude: '5.76671000'
-  wikiDataId: Q402726
-- id: 31363
-  name: Khenchela
-  state_id: 1126
+- name: Khenchela
   state_code: '40'
   state_name: Khenchela
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.43583000'
   longitude: '7.14333000'
-  wikiDataId: Q1649570
-- id: 31228
-  name: Aflou
-  state_id: 1138
+- name: Aflou
   state_code: '03'
   state_name: Laghouat
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.11279000'
   longitude: '2.10228000'
-  wikiDataId: Q500560
-- id: 31367
-  name: Laghouat
-  state_id: 1138
+- name: Laghouat
   state_code: '03'
   state_name: Laghouat
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.80000000'
   longitude: '2.86514000'
-  wikiDataId: Q402733
-- id: 31468
-  name: "‘Aïn el Hadjel"
-  state_id: 1134
+- name: "‘Aïn el Hadjel"
   state_code: '28'
   state_name: M'Sila
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.67003000'
   longitude: '3.88153000'
-  wikiDataId: Q1649776
-- id: 31477
-  name: "’Aïn el Melh"
-  state_id: 1134
+- name: "’Aïn el Melh"
   state_code: '28'
   state_name: M'Sila
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.84146000'
   longitude: '4.16383000'
-  wikiDataId: Q599887
-- id: 31391
-  name: M’Sila
-  state_id: 1134
+- name: M’Sila
   state_code: '28'
   state_name: M'Sila
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.70583000'
   longitude: '4.54194000'
-  wikiDataId: Q402825
-- id: 31426
-  name: Sidi Aïssa
-  state_id: 1134
+- name: Sidi Aïssa
   state_code: '28'
   state_name: M'Sila
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.88548000'
   longitude: '3.77236000'
-  wikiDataId: Q2214999
-- id: 31282
-  name: Bou Hanifia el Hamamat
-  state_id: 1124
+- name: Bou Hanifia el Hamamat
   state_code: '29'
   state_name: Mascara
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.31473000'
   longitude: "-0.05037000"
-  wikiDataId: Q2911890
-- id: 31375
-  name: Mascara
-  state_id: 1124
+- name: Mascara
   state_code: '29'
   state_name: Mascara
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.39664000'
   longitude: '0.14027000'
-  wikiDataId: Q545707
-- id: 31400
-  name: Oued el Abtal
-  state_id: 1124
+- name: Oued el Abtal
   state_code: '29'
   state_name: Mascara
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.45595000'
   longitude: '0.68778000'
-  wikiDataId: Q3358012
-- id: 31433
-  name: Sig
-  state_id: 1124
+- name: Sig
   state_code: '29'
   state_name: Mascara
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.52832000'
   longitude: "-0.19369000"
-  wikiDataId: Q2744832
-- id: 31471
-  name: "’Aïn Boucif"
-  state_id: 1109
+- name: "’Aïn Boucif"
   state_code: '26'
   state_name: Médéa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.89123000'
   longitude: '3.15850000'
-  wikiDataId: Q2876264
-- id: 31269
-  name: Berrouaghia
-  state_id: 1109
+- name: Berrouaghia
   state_code: '26'
   state_name: Médéa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.13516000'
   longitude: '2.91085000'
-  wikiDataId: Q2214965
-- id: 31366
-  name: Ksar el Boukhari
-  state_id: 1109
+- name: Ksar el Boukhari
   state_code: '26'
   state_name: Médéa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.88889000'
   longitude: '2.74905000'
-  wikiDataId: Q3200144
-- id: 31390
-  name: Médéa
-  state_id: 1109
+- name: Médéa
   state_code: '26'
   state_name: Médéa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.26417000'
   longitude: '2.75393000'
-  wikiDataId: Q1982137
-- id: 31302
-  name: Chelghoum el Aïd
-  state_id: 1132
+- name: Chelghoum el Aïd
   state_code: '43'
   state_name: Mila
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.16286000'
   longitude: '6.16651000'
-  wikiDataId: Q23818040
-- id: 31387
-  name: Mila
-  state_id: 1132
+- name: Mila
   state_code: '43'
   state_name: Mila
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.45028000'
   longitude: '6.26444000'
-  wikiDataId: Q335676
-- id: 31412
-  name: Rouached
-  state_id: 1132
+- name: Rouached
   state_code: '43'
   state_name: Mila
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.45774000'
   longitude: '6.04267000'
-  wikiDataId: Q23791421
-- id: 31429
-  name: Sidi Mérouane
-  state_id: 1132
+- name: Sidi Mérouane
   state_code: '43'
   state_name: Mila
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.52056000'
   longitude: '6.26111000'
-  wikiDataId: Q2215533
-- id: 31446
-  name: Telerghma
-  state_id: 1132
+- name: Telerghma
   state_code: '43'
   state_name: Mila
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.11653000'
   longitude: '6.35434000'
-  wikiDataId: Q3517295
-- id: 31388
-  name: Mostaganem
-  state_id: 1140
+- name: Mostaganem
   state_code: '27'
   state_name: Mostaganem
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.93115000'
   longitude: '0.08918000'
-  wikiDataId: Q849524
-- id: 31247
-  name: Aïn Sefra
-  state_id: 1102
+- name: Aïn Sefra
   state_code: '45'
   state_name: Naama
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '32.75000000'
   longitude: "-0.58333000"
-  wikiDataId: Q2745712
-- id: 31392
-  name: Naama
-  state_id: 1102
+- name: Naama
   state_code: '45'
   state_name: Naama
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.26667000'
   longitude: "-0.31667000"
-  wikiDataId: Q798212
-- id: 31478
-  name: "’Aïn el Turk"
-  state_id: 1101
+- name: "’Aïn el Turk"
   state_code: '31'
   state_name: Oran
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.74381000'
   longitude: "-0.76930000"
-  wikiDataId: Q740498
-- id: 31252
-  name: Aïn el Bya
-  state_id: 1101
+- name: Aïn el Bya
   state_code: '31'
   state_name: Oran
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.80389000'
   longitude: "-0.30178000"
-  wikiDataId: Q23826440
-- id: 31272
-  name: Bir el Djir
-  state_id: 1101
+- name: Bir el Djir
   state_code: '31'
   state_name: Oran
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.72000000'
   longitude: "-0.54500000"
-  wikiDataId: Q401759
-- id: 31284
-  name: Bou Tlelis
-  state_id: 1101
+- name: Bou Tlelis
   state_code: '31'
   state_name: Oran
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.57272000'
   longitude: "-0.89960000"
-  wikiDataId: Q23819224
-- id: 31343
-  name: Es Senia
-  state_id: 1101
+- name: Es Senia
   state_code: '31'
   state_name: Oran
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.64779000'
   longitude: "-0.62397000"
-  wikiDataId: Q649874
-- id: 31383
-  name: Mers el Kebir
-  state_id: 1101
+- name: Mers el Kebir
   state_code: '31'
   state_name: Oran
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.72790000'
   longitude: "-0.70810000"
-  wikiDataId: Q31085
-- id: 31395
-  name: Oran
-  state_id: 1101
+- name: Oran
   state_code: '31'
   state_name: Oran
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.69906000'
   longitude: "-0.63588000"
-  wikiDataId: Q131818
-- id: 31432
-  name: Sidi ech Chahmi
-  state_id: 1101
+- name: Sidi ech Chahmi
   state_code: '31'
   state_name: Oran
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.65903000'
   longitude: "-0.52168000"
-  wikiDataId: Q2621177
-- id: 31316
-  name: Djamaa
-  state_id: 1139
+- name: Djamaa
   state_code: '30'
   state_name: Ouargla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.53388000'
   longitude: '5.99306000'
-  wikiDataId: Q3032751
-- id: 31335
-  name: El Hadjira
-  state_id: 1139
+- name: El Hadjira
   state_code: '30'
   state_name: Ouargla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '32.61336000'
   longitude: '5.51259000'
-  wikiDataId: Q3049930
-- id: 31353
-  name: Hassi Messaoud
-  state_id: 1139
+- name: Hassi Messaoud
   state_code: '30'
   state_name: Ouargla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '31.68041000'
   longitude: '6.07286000'
-  wikiDataId: Q1000139
-- id: 31378
-  name: Megarine
-  state_id: 1139
+- name: Megarine
   state_code: '30'
   state_name: Ouargla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.19195000'
   longitude: '6.08695000'
-  wikiDataId: Q2384877
-- id: 31396
-  name: Ouargla
-  state_id: 1139
+- name: Ouargla
   state_code: '30'
   state_name: Ouargla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '31.94932000'
   longitude: '5.32502000'
-  wikiDataId: Q852469
-- id: 31414
-  name: Rouissat
-  state_id: 1139
+- name: Rouissat
   state_code: '30'
   state_name: Ouargla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '31.92427000'
   longitude: '5.35018000'
-  wikiDataId: Q1649802
-- id: 31425
-  name: Sidi Amrane
-  state_id: 1139
+- name: Sidi Amrane
   state_code: '30'
   state_name: Ouargla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.49885000'
   longitude: '6.00803000'
-  wikiDataId: Q3325140
-- id: 31445
-  name: Tebesbest
-  state_id: 1139
+- name: Tebesbest
   state_code: '30'
   state_name: Ouargla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.11667000'
   longitude: '6.08333000'
-  wikiDataId: Q601174
-- id: 31462
-  name: Touggourt
-  state_id: 1139
+- name: Touggourt
   state_code: '30'
   state_name: Ouargla
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.10527000'
   longitude: '6.05796000'
-  wikiDataId: Q852515
-- id: 31242
-  name: Aïn Beïda
-  state_id: 1136
+- name: Aïn Beïda
   state_code: '04'
   state_name: Oum El Bouaghi
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.79639000'
   longitude: '7.39278000'
-  wikiDataId: Q2088349
-- id: 31244
-  name: Aïn Fakroun
-  state_id: 1136
+- name: Aïn Fakroun
   state_code: '04'
   state_name: Oum El Bouaghi
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.97108000'
   longitude: '6.87374000'
-  wikiDataId: Q2876323
-- id: 31245
-  name: Aïn Kercha
-  state_id: 1136
+- name: Aïn Kercha
   state_code: '04'
   state_name: Oum El Bouaghi
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.92472000'
   longitude: '6.69528000'
-  wikiDataId: Q593739
-- id: 31330
-  name: El Aouinet
-  state_id: 1136
+- name: El Aouinet
   state_code: '04'
   state_name: Oum El Bouaghi
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.86691000'
   longitude: '7.88673000'
-  wikiDataId: Q921801
-- id: 31384
-  name: Meskiana
-  state_id: 1136
+- name: Meskiana
   state_code: '04'
   state_name: Oum El Bouaghi
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.63058000'
   longitude: '7.66606000'
-  wikiDataId: Q3306857
-- id: 31404
-  name: Oum el Bouaghi
-  state_id: 1136
+- name: Oum el Bouaghi
   state_code: '04'
   state_name: Oum El Bouaghi
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.87541000'
   longitude: '7.11353000'
-  wikiDataId: Q5478122
-- id: 31473
-  name: "’Aïn Merane"
-  state_id: 1130
+- name: "’Aïn Merane"
   state_code: '48'
   state_name: Relizane
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.16277000'
   longitude: '0.97037000'
-  wikiDataId: Q2876264
-- id: 31232
-  name: Ammi Moussa
-  state_id: 1130
+- name: Ammi Moussa
   state_code: '48'
   state_name: Relizane
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.86781000'
   longitude: '1.11143000'
-  wikiDataId: Q4747238
-- id: 31319
-  name: Djidiouia
-  state_id: 1130
+- name: Djidiouia
   state_code: '48'
   state_name: Relizane
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.92989000'
   longitude: '0.82871000'
-  wikiDataId: Q3032949
-- id: 31376
-  name: Mazouna
-  state_id: 1130
+- name: Mazouna
   state_code: '48'
   state_name: Relizane
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.12232000'
   longitude: '0.89865000'
-  wikiDataId: Q978267
-- id: 31398
-  name: Oued Rhiou
-  state_id: 1130
+- name: Oued Rhiou
   state_code: '48'
   state_name: Relizane
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.96124000'
   longitude: '0.91896000'
-  wikiDataId: Q1571443
-- id: 31409
-  name: Relizane
-  state_id: 1130
+- name: Relizane
   state_code: '48'
   state_name: Relizane
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.73734000'
   longitude: '0.55599000'
-  wikiDataId: Q402738
-- id: 31435
-  name: Smala
-  state_id: 1130
+- name: Smala
   state_code: '48'
   state_name: Relizane
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.71652000'
   longitude: '0.75437000'
-  wikiDataId: Q2292517
-- id: 31464
-  name: Zemoura
-  state_id: 1130
+- name: Zemoura
   state_code: '48'
   state_name: Relizane
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.72251000'
   longitude: '0.75509000'
-  wikiDataId: Q3324824
-- id: 31475
-  name: "’Aïn el Hadjar"
-  state_id: 1123
+- name: "’Aïn el Hadjar"
   state_code: '20'
   state_name: Saïda
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.75846000'
   longitude: '0.14528000'
-  wikiDataId: Q599887
-- id: 31419
-  name: Saïda
-  state_id: 1123
+- name: Saïda
   state_code: '20'
   state_name: Saïda
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.83033000'
   longitude: '0.15171000'
-  wikiDataId: Q401452
-- id: 31240
-  name: Aïn Arnat
-  state_id: 1141
+- name: Aïn Arnat
   state_code: '19'
   state_name: Sétif
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.18683000'
   longitude: '5.31347000'
-  wikiDataId: Q2876253
-- id: 31253
-  name: BABOR - VILLE
-  state_id: 1141
+- name: BABOR - VILLE
   state_code: '19'
   state_name: Sétif
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.48994000'
   longitude: '5.53930000'
-  wikiDataId: Q23826440
-- id: 31288
-  name: Bougaa
-  state_id: 1141
+- name: Bougaa
   state_code: '19'
   state_name: Sétif
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.33293000'
   longitude: '5.08843000'
-  wikiDataId: Q2921542
-- id: 31333
-  name: El Eulma
-  state_id: 1141
+- name: El Eulma
   state_code: '19'
   state_name: Sétif
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.15281000'
   longitude: '5.69016000'
-  wikiDataId: Q401747
-- id: 31417
-  name: Salah Bey
-  state_id: 1141
+- name: Salah Bey
   state_code: '19'
   state_name: Sétif
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.85451000'
   longitude: '5.29053000'
-  wikiDataId: Q3469526
-- id: 31440
-  name: Sétif
-  state_id: 1141
+- name: Sétif
   state_code: '19'
   state_name: Sétif
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.19112000'
   longitude: '5.41373000'
-  wikiDataId: Q244004
-- id: 146185
-  name: Aïn El Berd District
-  state_id: 4902
+- name: Aïn El Berd District
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.35000000'
   longitude: "-0.51667000"
-  wikiDataId: Q4833272
-- id: 146186
-  name: Balidat Ameur
-  state_id: 4902
+- name: Balidat Ameur
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '32.95138900'
   longitude: '5.98055600'
-  wikiDataId: Q2906568
-- id: 146187
-  name: Belarbi
-  state_id: 4902
+- name: Belarbi
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.15149480'
   longitude: "-0.45679090"
-  wikiDataId: Q1648915
-- id: 146188
-  name: Ben Badis Sid Bel Abbés
-  state_id: 4902
+- name: Ben Badis Sid Bel Abbés
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.95277778'
   longitude: "-0.91444444"
-  wikiDataId: Q2895336
-- id: 146189
-  name: Djamaa
-  state_id: 4902
+- name: Djamaa
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.53137870'
   longitude: '5.99098210'
-  wikiDataId: Q3032751
-- id: 146190
-  name: El Bour
-  state_id: 4902
+- name: El Bour
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '32.16305556'
   longitude: '5.34527778'
-  wikiDataId: Q12403129
-- id: 146191
-  name: El Hadjira
-  state_id: 4902
+- name: El Hadjira
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '32.61666667'
   longitude: '5.51666667'
-  wikiDataId: Q3049930
-- id: 146192
-  name: Haoud El Hamra
-  state_id: 4902
+- name: Haoud El Hamra
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '31.88944444'
   longitude: '5.97305556'
-  wikiDataId: Q12470040
-- id: 146193
-  name: Hassi Messaoud
-  state_id: 4902
+- name: Hassi Messaoud
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '31.70000000'
   longitude: '6.06666667'
-  wikiDataId: Q1000139
-- id: 146194
-  name: Lamtar
-  state_id: 4902
+- name: Lamtar
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.07062700'
   longitude: "-0.79814000"
-  wikiDataId: Q3216882
-- id: 146195
-  name: Marhoum
-  state_id: 4902
+- name: Marhoum
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.44600420'
   longitude: "-0.19502440"
-  wikiDataId: Q3290834
-- id: 146196
-  name: Megarine
-  state_id: 4902
+- name: Megarine
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.19262320'
   longitude: '6.09346390'
-  wikiDataId: Q2384877
-- id: 146197
-  name: Merine
-  state_id: 4902
+- name: Merine
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.78074720'
   longitude: "-0.45104030"
-  wikiDataId: Q1649208
-- id: 146198
-  name: Mezaourou
-  state_id: 4902
+- name: Mezaourou
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.81732670'
   longitude: "-0.62331890"
-  wikiDataId: Q1649368
-- id: 146199
-  name: Moggar
-  state_id: 4902
+- name: Moggar
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.26722222'
   longitude: '6.06777778'
-  wikiDataId: Q12646398
-- id: 146200
-  name: Moulay Slissen
-  state_id: 4902
+- name: Moulay Slissen
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.81666667'
   longitude: "-0.76666667"
-  wikiDataId: Q1649394
-- id: 146201
-  name: N'Goussa
-  state_id: 4902
+- name: N'Goussa
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '32.14087970'
   longitude: '5.30828480'
-  wikiDataId: Q3334101
-- id: 146202
-  name: Ouargla
-  state_id: 4902
+- name: Ouargla
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '31.95000000'
   longitude: '5.31666667'
-  wikiDataId: Q852469
-- id: 146203
-  name: Rouissat
-  state_id: 4902
+- name: Rouissat
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '31.93657600'
   longitude: '5.33540730'
-  wikiDataId: Q1649802
-- id: 146204
-  name: Sfissef
-  state_id: 4902
+- name: Sfissef
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.23440280'
   longitude: "-0.24341580"
-  wikiDataId: Q3481104
-- id: 146205
-  name: Sidi Ali Boussidi
-  state_id: 4902
+- name: Sidi Ali Boussidi
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.10000000'
   longitude: "-0.83333333"
-  wikiDataId: Q1650046
-- id: 146206
-  name: Sidi Amrane
-  state_id: 4902
+- name: Sidi Amrane
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.50000000'
   longitude: '6.01666667'
-  wikiDataId: Q3325140
-- id: 146207
-  name: Sidi Bel Abbès
-  state_id: 4902
+- name: Sidi Bel Abbès
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.20000000'
   longitude: "-0.63333333"
-  wikiDataId: Q852276
-- id: 146208
-  name: Sidi Brahim
-  state_id: 4902
+- name: Sidi Brahim
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.26055600'
   longitude: "-0.56750000"
-  wikiDataId: Q1650068
-- id: 146209
-  name: Sidi Hamadouche
-  state_id: 4902
+- name: Sidi Hamadouche
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.29916667'
   longitude: "-0.54888889"
-  wikiDataId: Q1650247
-- id: 146210
-  name: Sidi Slimane
-  state_id: 4902
+- name: Sidi Slimane
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.28861111'
   longitude: '6.09472222'
-  wikiDataId: Q3483291
-- id: 146211
-  name: Sidi Yacoub
-  state_id: 4902
+- name: Sidi Yacoub
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.13333333'
   longitude: "-0.78333333"
-  wikiDataId: Q1649961
-- id: 146212
-  name: Sidi Yahia
-  state_id: 4902
+- name: Sidi Yahia
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.52166667'
   longitude: '5.94555556'
-  wikiDataId: Q11811858
-- id: 146213
-  name: Tabia Sid Bel Abbés
-  state_id: 4902
+- name: Tabia Sid Bel Abbés
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.01783660'
   longitude: "-0.73385240"
-  wikiDataId: Q3512757
-- id: 146214
-  name: Taibet
-  state_id: 4902
+- name: Taibet
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.08391890'
   longitude: '6.39996530'
-  wikiDataId: Q3513962
-- id: 146215
-  name: Tamellaht
-  state_id: 4902
+- name: Tamellaht
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.01190000'
   longitude: '6.00972000'
-  wikiDataId: Q12641156
-- id: 146216
-  name: Tamerna Djedida
-  state_id: 4902
+- name: Tamerna Djedida
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.44640000'
   longitude: '5.95639000'
-  wikiDataId: Q11773942
-- id: 146217
-  name: Tebesbest
-  state_id: 4902
+- name: Tebesbest
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.12001290'
   longitude: '6.08007430'
-  wikiDataId: Q601174
-- id: 146218
-  name: Teghalimet
-  state_id: 4902
+- name: Teghalimet
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.88283300'
   longitude: "-0.56000230"
-  wikiDataId: Q3517138
-- id: 146219
-  name: Telagh
-  state_id: 4902
+- name: Telagh
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.78490640'
   longitude: "-0.57317730"
-  wikiDataId: Q2215476
-- id: 146220
-  name: Tenezara
-  state_id: 4902
+- name: Tenezara
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.96341170'
   longitude: "-0.61446190"
-  wikiDataId: Q3518076
-- id: 146221
-  name: Tenira
-  state_id: 4902
+- name: Tenira
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.01966420'
   longitude: "-0.53206440"
-  wikiDataId: Q1650283
-- id: 146222
-  name: Tessala
-  state_id: 4902
+- name: Tessala
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.24300000'
   longitude: "-0.77316300"
-  wikiDataId: Q2381247
-- id: 146223
-  name: Touggourt
-  state_id: 4902
+- name: Touggourt
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '33.10000000'
   longitude: '6.06666667'
-  wikiDataId: Q852515
-- id: 146224
-  name: Zerouala
-  state_id: 4902
+- name: Zerouala
   state_code: '22'
   state_name: Sidi Bel Abbès
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.24232450'
   longitude: "-0.52219390"
-  wikiDataId: Q1650844
-- id: 31239
-  name: Azzaba
-  state_id: 1110
+- name: Azzaba
   state_code: '21'
   state_name: Skikda
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.73944000'
   longitude: '7.10528000'
-  wikiDataId: Q23823384
-- id: 31360
-  name: Karkira
-  state_id: 1110
+- name: Karkira
   state_code: '21'
   state_name: Skikda
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.92917000'
   longitude: '6.58556000'
-  wikiDataId: Q1649432
-- id: 31434
-  name: Skikda
-  state_id: 1110
+- name: Skikda
   state_code: '21'
   state_name: Skikda
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.87617000'
   longitude: '6.90921000'
-  wikiDataId: Q2292517
-- id: 31442
-  name: Tamalous
-  state_id: 1110
+- name: Tamalous
   state_code: '21'
   state_name: Skikda
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.83763000'
   longitude: '6.64018000'
-  wikiDataId: Q1650231
-- id: 31422
-  name: Sedrata
-  state_id: 1143
+- name: Sedrata
   state_code: '41'
   state_name: Souk Ahras
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.12868000'
   longitude: '7.53376000'
-  wikiDataId: Q1649881
-- id: 31437
-  name: Souk Ahras
-  state_id: 1143
+- name: Souk Ahras
   state_code: '41'
   state_name: Souk Ahras
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.28639000'
   longitude: '7.95111000'
-  wikiDataId: Q402992
-- id: 31356
-  name: I-n-Salah
-  state_id: 1135
+- name: I-n-Salah
   state_code: '11'
   state_name: Tamanghasset
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '27.19351000'
   longitude: '2.46069000'
-  wikiDataId: Q32061388
-- id: 31443
-  name: Tamanrasset
-  state_id: 1135
+- name: Tamanrasset
   state_code: '11'
   state_name: Tamanghasset
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '22.78500000'
   longitude: '5.52278000'
-  wikiDataId: Q205792
-- id: 31271
-  name: Bir el Ater
-  state_id: 1117
+- name: Bir el Ater
   state_code: '12'
   state_name: Tébessa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.74488000'
   longitude: '8.06024000'
-  wikiDataId: Q2904370
-- id: 31305
-  name: Cheria
-  state_id: 1117
+- name: Cheria
   state_code: '12'
   state_name: Tébessa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.27306000'
   longitude: '7.75194000'
-  wikiDataId: Q736205
-- id: 31352
-  name: Hammamet
-  state_id: 1117
+- name: Hammamet
   state_code: '12'
   state_name: Tébessa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.44862000'
   longitude: '7.95184000'
-  wikiDataId: Q3126511
-- id: 31463
-  name: Tébessa
-  state_id: 1117
+- name: Tébessa
   state_code: '12'
   state_name: Tébessa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.40417000'
   longitude: '8.12417000'
-  wikiDataId: Q984575
-- id: 31472
-  name: "’Aïn Deheb"
-  state_id: 1106
+- name: "’Aïn Deheb"
   state_code: '14'
   state_name: Tiaret
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.84218000'
   longitude: '1.54697000'
-  wikiDataId: Q2876264
-- id: 31317
-  name: Djebilet Rosfa
-  state_id: 1106
+- name: Djebilet Rosfa
   state_code: '14'
   state_name: Tiaret
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.86375000'
   longitude: '0.83496000'
-  wikiDataId: Q1649054
-- id: 31346
-  name: Frenda
-  state_id: 1106
+- name: Frenda
   state_code: '14'
   state_name: Tiaret
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.06544000'
   longitude: '1.04945000'
-  wikiDataId: Q2215495
-- id: 31365
-  name: Ksar Chellala
-  state_id: 1106
+- name: Ksar Chellala
   state_code: '14'
   state_name: Tiaret
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.21222000'
   longitude: '2.31889000'
-  wikiDataId: Q1648944
-- id: 31379
-  name: Mehdia daira de meghila
-  state_id: 1106
+- name: Mehdia daira de meghila
   state_code: '14'
   state_name: Tiaret
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.43058000'
   longitude: '1.75714000'
-  wikiDataId: Q3277676
-- id: 31436
-  name: Sougueur
-  state_id: 1106
+- name: Sougueur
   state_code: '14'
   state_name: Tiaret
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.18568000'
   longitude: '1.49612000'
-  wikiDataId: Q1483423
-- id: 31449
-  name: Tiaret
-  state_id: 1106
+- name: Tiaret
   state_code: '14'
   state_name: Tiaret
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.37103000'
   longitude: '1.31699000'
-  wikiDataId: Q565568
-- id: 31452
-  name: Tindouf
-  state_id: 1120
+- name: Tindouf
   state_code: '37'
   state_name: Tindouf
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '27.67111000'
   longitude: "-8.14743000"
-  wikiDataId: Q328510
-- id: 31470
-  name: "’Aïn Benian"
-  state_id: 1115
+- name: "’Aïn Benian"
   state_code: '42'
   state_name: Tipasa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.80277000'
   longitude: '2.92185000'
-  wikiDataId: Q2876264
-- id: 31255
-  name: Baraki
-  state_id: 1115
+- name: Baraki
   state_code: '42'
   state_name: Tipasa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.66655000'
   longitude: '3.09606000'
-  wikiDataId: Q2736044
-- id: 31283
-  name: Bou Ismaïl
-  state_id: 1115
+- name: Bou Ismaïl
   state_code: '42'
   state_name: Tipasa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.64262000'
   longitude: '2.69007000'
-  wikiDataId: Q1438489
-- id: 31304
-  name: Cheraga
-  state_id: 1115
+- name: Cheraga
   state_code: '42'
   state_name: Tipasa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.76775000'
   longitude: '2.95924000'
-  wikiDataId: Q335751
-- id: 31320
-  name: Douera
-  state_id: 1115
+- name: Douera
   state_code: '42'
   state_name: Tipasa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.67000000'
   longitude: '2.94444000'
-  wikiDataId: Q1649106
-- id: 31328
-  name: El Affroun
-  state_id: 1115
+- name: El Affroun
   state_code: '42'
   state_name: Tipasa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.47010000'
   longitude: '2.62528000'
-  wikiDataId: Q3049687
-- id: 31349
-  name: Hadjout
-  state_id: 1115
+- name: Hadjout
   state_code: '42'
   state_name: Tipasa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.51257000'
   longitude: '2.41382000'
-  wikiDataId: Q3125565
-- id: 31364
-  name: Kolea
-  state_id: 1115
+- name: Kolea
   state_code: '42'
   state_name: Tipasa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.63888000'
   longitude: '2.76845000'
-  wikiDataId: Q3198497
-- id: 31389
-  name: Mouzaïa
-  state_id: 1115
+- name: Mouzaïa
   state_code: '42'
   state_name: Tipasa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.46695000'
   longitude: '2.68991000'
-  wikiDataId: Q1649746
-- id: 31401
-  name: Oued el Alleug
-  state_id: 1115
+- name: Oued el Alleug
   state_code: '42'
   state_name: Tipasa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.55528000'
   longitude: '2.79028000'
-  wikiDataId: Q941199
-- id: 31418
-  name: Saoula
-  state_id: 1115
+- name: Saoula
   state_code: '42'
   state_name: Tipasa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.70456000'
   longitude: '3.02462000'
-  wikiDataId: Q1884982
-- id: 31453
-  name: Tipasa
-  state_id: 1115
+- name: Tipasa
   state_code: '42'
   state_name: Tipasa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.58972000'
   longitude: '2.44750000'
-  wikiDataId: Q328510
-- id: 31465
-  name: Zeralda
-  state_id: 1115
+- name: Zeralda
   state_code: '42'
   state_name: Tipasa
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.71169000'
   longitude: '2.84244000'
-  wikiDataId: Q2215424
-- id: 31370
-  name: Lardjem
-  state_id: 1133
+- name: Lardjem
   state_code: '38'
   state_name: Tissemsilt
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.74922000'
   longitude: '1.54778000'
-  wikiDataId: Q3217877
-- id: 31455
-  name: Tissemsilt
-  state_id: 1133
+- name: Tissemsilt
   state_code: '38'
   state_name: Tissemsilt
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.60722000'
   longitude: '1.81081000'
-  wikiDataId: Q770447
-- id: 31476
-  name: "’Aïn el Hammam"
-  state_id: 1131
+- name: "’Aïn el Hammam"
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.56471000'
   longitude: '4.30619000'
-  wikiDataId: Q599887
-- id: 31236
-  name: Arhribs
-  state_id: 1131
+- name: Arhribs
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.79361000'
   longitude: '4.31158000'
-  wikiDataId: Q1648638
-- id: 31238
-  name: Azazga
-  state_id: 1131
+- name: Azazga
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.74472000'
   longitude: '4.37222000'
-  wikiDataId: Q2875118
-- id: 31262
-  name: Beni Douala
-  state_id: 1131
+- name: Beni Douala
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.61954000'
   longitude: '4.08282000'
-  wikiDataId: Q2895885
-- id: 31277
-  name: Boghni
-  state_id: 1131
+- name: Boghni
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.54222000'
   longitude: '3.95306000'
-  wikiDataId: Q1649016
-- id: 31285
-  name: Boudjima
-  state_id: 1131
+- name: Boudjima
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.80218000'
   longitude: '4.15187000'
-  wikiDataId: Q2921489
-- id: 31303
-  name: Chemini
-  state_id: 1131
+- name: Chemini
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.60000000'
   longitude: '4.61667000'
-  wikiDataId: Q2962465
-- id: 31321
-  name: Draa Ben Khedda
-  state_id: 1131
+- name: Draa Ben Khedda
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.73436000'
   longitude: '3.96223000'
-  wikiDataId: Q5306152
-- id: 31345
-  name: Freha
-  state_id: 1131
+- name: Freha
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.75234000'
   longitude: '4.31550000'
-  wikiDataId: Q1895391
-- id: 31357
-  name: Ighram
-  state_id: 1131
+- name: Ighram
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.46295000'
   longitude: '4.50532000'
-  wikiDataId: Q2215840
-- id: 31371
-  name: L’Arbaa Naït Irathen
-  state_id: 1131
+- name: L’Arbaa Naït Irathen
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.63112000'
   longitude: '4.19864000'
-  wikiDataId: Q764741
-- id: 31380
-  name: Mekla
-  state_id: 1131
+- name: Mekla
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.68178000'
   longitude: '4.26378000'
-  wikiDataId: Q1649145
-- id: 31451
-  name: Timizart
-  state_id: 1131
+- name: Timizart
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.80000000'
   longitude: '4.26667000'
-  wikiDataId: Q3529010
-- id: 31454
-  name: Tirmitine
-  state_id: 1131
+- name: Tirmitine
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.65393000'
   longitude: '3.98143000'
-  wikiDataId: Q3529393
-- id: 31457
-  name: Tizi Ouzou
-  state_id: 1131
+- name: Tizi Ouzou
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.71182000'
   longitude: '4.04591000'
-  wikiDataId: Q277201
-- id: 31458
-  name: Tizi Rached
-  state_id: 1131
+- name: Tizi Rached
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.67176000'
   longitude: '4.19176000'
-  wikiDataId: Q3529993
-- id: 31459
-  name: Tizi-n-Tleta
-  state_id: 1131
+- name: Tizi-n-Tleta
   state_code: '15'
   state_name: Tizi Ouzou
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '36.54569000'
   longitude: '4.05712000'
-  wikiDataId: Q23782332
-- id: 31264
-  name: Beni Mester
-  state_id: 1107
+- name: Beni Mester
   state_code: '13'
   state_name: Tlemcen
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.87045000'
   longitude: "-1.42319000"
-  wikiDataId: Q1649238
-- id: 31266
-  name: Bensekrane
-  state_id: 1107
+- name: Bensekrane
   state_code: '13'
   state_name: Tlemcen
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.07465000'
   longitude: "-1.22431000"
-  wikiDataId: Q282544
-- id: 31306
-  name: Chetouane
-  state_id: 1107
+- name: Chetouane
   state_code: '13'
   state_name: Tlemcen
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.92129000'
   longitude: "-1.29512000"
-  wikiDataId: Q2962883
-- id: 31354
-  name: Hennaya
-  state_id: 1107
+- name: Hennaya
   state_code: '13'
   state_name: Tlemcen
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.95139000'
   longitude: "-1.36806000"
-  wikiDataId: Q3130297
-- id: 31374
-  name: Mansoûra
-  state_id: 1107
+- name: Mansoûra
   state_code: '13'
   state_name: Tlemcen
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.86158000'
   longitude: "-1.33935000"
-  wikiDataId: Q3286584
-- id: 31394
-  name: Nedroma
-  state_id: 1107
+- name: Nedroma
   state_code: '13'
   state_name: Tlemcen
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.01361000'
   longitude: "-1.74799000"
-  wikiDataId: Q2670516
-- id: 31402
-  name: Ouled Mimoun
-  state_id: 1107
+- name: Ouled Mimoun
   state_code: '13'
   state_name: Tlemcen
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.90472000'
   longitude: "-1.03394000"
-  wikiDataId: Q2110236
-- id: 31410
-  name: Remchi
-  state_id: 1107
+- name: Remchi
   state_code: '13'
   state_name: Tlemcen
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.06196000'
   longitude: "-1.43362000"
-  wikiDataId: Q3424477
-- id: 31420
-  name: Sebdou
-  state_id: 1107
+- name: Sebdou
   state_code: '13'
   state_name: Tlemcen
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.63703000'
   longitude: "-1.33143000"
-  wikiDataId: Q1649930
-- id: 31423
-  name: Sidi Abdelli
-  state_id: 1107
+- name: Sidi Abdelli
   state_code: '13'
   state_name: Tlemcen
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '35.06937000'
   longitude: "-1.13706000"
-  wikiDataId: Q3483155
-- id: 31431
-  name: Sidi Senoussi سيدي سنوسي
-  state_id: 1107
+- name: Sidi Senoussi سيدي سنوسي
   state_code: '13'
   state_name: Tlemcen
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.99691000'
   longitude: "-1.09449000"
-  wikiDataId: Q2215485
-- id: 31460
-  name: Tlemcen
-  state_id: 1107
+- name: Tlemcen
   state_code: '13'
   state_name: Tlemcen
-  country_id: 4
-  country_code: DZ
-  country_name: Algeria
   latitude: '34.87833000'
   longitude: "-1.31500000"
-  wikiDataId: Q185134

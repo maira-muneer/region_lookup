@@ -1,1706 +1,776 @@
 ---
-- id: 77159
-  name: Boaco
-  state_id: 946
+- name: Boaco
   state_code: BO
   state_name: Boaco
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.47224000'
   longitude: "-85.65860000"
-  wikiDataId: Q887488
-- id: 77163
-  name: Camoapa
-  state_id: 946
+- name: Camoapa
   state_code: BO
   state_name: Boaco
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.38383000'
   longitude: "-85.51277000"
-  wikiDataId: Q2605022
-- id: 77260
-  name: San José de los Remates
-  state_id: 946
+- name: San José de los Remates
   state_code: BO
   state_name: Boaco
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.59750000'
   longitude: "-85.76174000"
-  wikiDataId: Q2215558
-- id: 77265
-  name: San Lorenzo
-  state_id: 946
+- name: San Lorenzo
   state_code: BO
   state_name: Boaco
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.37830000'
   longitude: "-85.66646000"
-  wikiDataId: Q1647826
-- id: 77273
-  name: Santa Lucía
-  state_id: 946
+- name: Santa Lucía
   state_code: BO
   state_name: Boaco
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.53262000'
   longitude: "-85.71074000"
-  wikiDataId: Q1647681
-- id: 77285
-  name: Teustepe
-  state_id: 946
+- name: Teustepe
   state_code: BO
   state_name: Boaco
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.42030000'
   longitude: "-85.79798000"
-  wikiDataId: Q2216040
-- id: 77176
-  name: Diriamba
-  state_id: 950
+- name: Diriamba
   state_code: CA
   state_name: Carazo
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.85812000'
   longitude: "-86.23922000"
-  wikiDataId: Q1227687
-- id: 77179
-  name: Dolores
-  state_id: 950
+- name: Dolores
   state_code: CA
   state_name: Carazo
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.85672000'
   longitude: "-86.21552000"
-  wikiDataId: Q1647920
-- id: 77187
-  name: El Rosario
-  state_id: 950
+- name: El Rosario
   state_code: CA
   state_name: Carazo
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.77756000'
   longitude: "-86.37374000"
-  wikiDataId: Q1648222
-- id: 77195
-  name: Jinotepe
-  state_id: 950
+- name: Jinotepe
   state_code: CA
   state_name: Carazo
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.84962000'
   longitude: "-86.19903000"
-  wikiDataId: Q477580
-- id: 77202
-  name: La Conquista
-  state_id: 950
+- name: La Conquista
   state_code: CA
   state_name: Carazo
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.73426000'
   longitude: "-86.19279000"
-  wikiDataId: Q3820751
-- id: 77206
-  name: La Paz de Carazo
-  state_id: 950
+- name: La Paz de Carazo
   state_code: CA
   state_name: Carazo
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.82311000'
   longitude: "-86.12781000"
-  wikiDataId: Q2215549
-- id: 77236
-  name: Municipio de San Marcos
-  state_id: 950
+- name: Municipio de San Marcos
   state_code: CA
   state_name: Carazo
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.91784000'
   longitude: "-86.27474000"
-  wikiDataId: Q2214920
-- id: 77267
-  name: San Marcos
-  state_id: 950
+- name: San Marcos
   state_code: CA
   state_name: Carazo
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.90949000'
   longitude: "-86.20351000"
-  wikiDataId: Q1013654
-- id: 77275
-  name: Santa Teresa
-  state_id: 950
+- name: Santa Teresa
   state_code: CA
   state_name: Carazo
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.74321000'
   longitude: "-86.21413000"
-  wikiDataId: Q21054785
-- id: 77165
-  name: Chichigalpa
-  state_id: 954
+- name: Chichigalpa
   state_code: CI
   state_name: Chinandega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.57758000'
   longitude: "-87.02705000"
-  wikiDataId: Q1072117
-- id: 77166
-  name: Chinandega
-  state_id: 954
+- name: Chinandega
   state_code: CI
   state_name: Chinandega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.62937000'
   longitude: "-87.13105000"
-  wikiDataId: Q974354
-- id: 77167
-  name: Cinco Pinos
-  state_id: 954
+- name: Cinco Pinos
   state_code: CI
   state_name: Chinandega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.22956000'
   longitude: "-86.86808000"
-  wikiDataId: Q1647867
-- id: 77172
-  name: Corinto
-  state_id: 954
+- name: Corinto
   state_code: CI
   state_name: Chinandega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.48250000'
   longitude: "-87.17304000"
-  wikiDataId: Q1132939
-- id: 77186
-  name: El Realejo
-  state_id: 954
+- name: El Realejo
   state_code: CI
   state_name: Chinandega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.54333000'
   longitude: "-87.16517000"
-  wikiDataId: Q368227
-- id: 77190
-  name: El Viejo
-  state_id: 954
+- name: El Viejo
   state_code: CI
   state_name: Chinandega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.66348000'
   longitude: "-87.16663000"
-  wikiDataId: Q516482
-- id: 77196
-  name: Jiquilillo
-  state_id: 954
+- name: Jiquilillo
   state_code: CI
   state_name: Chinandega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.74593000'
   longitude: "-87.45160000"
-  wikiDataId: Q21054284
-- id: 77232
-  name: Municipio de San Francisco del Norte
-  state_id: 954
+- name: Municipio de San Francisco del Norte
   state_code: CI
   state_name: Chinandega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.21187000'
   longitude: "-86.77107000"
-  wikiDataId: Q2214920
-- id: 77246
-  name: Posoltega
-  state_id: 954
+- name: Posoltega
   state_code: CI
   state_name: Chinandega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.54422000'
   longitude: "-86.97982000"
-  wikiDataId: Q2604656
-- id: 77251
-  name: Puerto Morazán
-  state_id: 954
+- name: Puerto Morazán
   state_code: CI
   state_name: Chinandega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.85042000'
   longitude: "-87.17167000"
-  wikiDataId: Q2605034
-- id: 77278
-  name: Santo Tomás del Norte
-  state_id: 954
+- name: Santo Tomás del Norte
   state_code: CI
   state_name: Chinandega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.18610000'
   longitude: "-86.92267000"
-  wikiDataId: Q31513084
-- id: 77280
-  name: Somotillo
-  state_id: 954
+- name: Somotillo
   state_code: CI
   state_name: Chinandega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.04387000'
   longitude: "-86.90506000"
-  wikiDataId: Q2604179
-- id: 77155
-  name: Acoyapa
-  state_id: 940
+- name: Acoyapa
   state_code: CO
   state_name: Chontales
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.97028000'
   longitude: "-85.17113000"
-  wikiDataId: Q1186803
-- id: 77170
-  name: Comalapa
-  state_id: 940
+- name: Comalapa
   state_code: CO
   state_name: Chontales
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.28345000'
   longitude: "-85.51081000"
-  wikiDataId: Q677924
-- id: 77174
-  name: Cuapa
-  state_id: 940
+- name: Cuapa
   state_code: CO
   state_name: Chontales
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.26875000'
   longitude: "-85.38205000"
-  wikiDataId: Q2215598
-- id: 77181
-  name: El Ayote
-  state_id: 940
+- name: El Ayote
   state_code: CO
   state_name: Chontales
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.19046000'
   longitude: "-85.28737000"
-  wikiDataId: Q2215912
-- id: 77197
-  name: Juigalpa
-  state_id: 940
+- name: Juigalpa
   state_code: CO
   state_name: Chontales
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.10629000'
   longitude: "-85.36452000"
-  wikiDataId: Q1025801
-- id: 77204
-  name: La Libertad
-  state_id: 940
+- name: La Libertad
   state_code: CO
   state_name: Chontales
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.21635000'
   longitude: "-85.16595000"
-  wikiDataId: Q2606938
-- id: 77276
-  name: Santo Domingo
-  state_id: 940
+- name: Santo Domingo
   state_code: CO
   state_name: Chontales
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.26438000'
   longitude: "-85.08235000"
-  wikiDataId: Q1647902
-- id: 77277
-  name: Santo Tomás
-  state_id: 940
+- name: Santo Tomás
   state_code: CO
   state_name: Chontales
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.06938000'
   longitude: "-85.09059000"
-  wikiDataId: Q31513084
-- id: 77293
-  name: Villa Sandino
-  state_id: 940
+- name: Villa Sandino
   state_code: CO
   state_name: Chontales
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.04830000'
   longitude: "-84.99362000"
-  wikiDataId: Q21054975
-- id: 77171
-  name: Condega
-  state_id: 945
+- name: Condega
   state_code: ES
   state_name: Estelí
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.36502000'
   longitude: "-86.39846000"
-  wikiDataId: Q1012589
-- id: 77191
-  name: Estelí
-  state_id: 945
+- name: Estelí
   state_code: ES
   state_name: Estelí
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.09185000'
   longitude: "-86.35384000"
-  wikiDataId: Q1007634
-- id: 77207
-  name: La Trinidad
-  state_id: 945
+- name: La Trinidad
   state_code: ES
   state_name: Estelí
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.96881000'
   longitude: "-86.23534000"
-  wikiDataId: Q993829
-- id: 77249
-  name: Pueblo Nuevo
-  state_id: 945
+- name: Pueblo Nuevo
   state_code: ES
   state_name: Estelí
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.37984000'
   longitude: "-86.48075000"
-  wikiDataId: Q1647679
-- id: 77261
-  name: San Juan de Limay
-  state_id: 945
+- name: San Juan de Limay
   state_code: ES
   state_name: Estelí
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.17603000'
   longitude: "-86.61234000"
-  wikiDataId: Q2215462
-- id: 77178
-  name: Diriá
-  state_id: 943
+- name: Diriá
   state_code: GR
   state_name: Granada
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.88420000'
   longitude: "-86.05508000"
-  wikiDataId: Q1647847
-- id: 77177
-  name: Diriomo
-  state_id: 943
+- name: Diriomo
   state_code: GR
   state_name: Granada
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.87631000'
   longitude: "-86.05184000"
-  wikiDataId: Q2215569
-- id: 77192
-  name: Granada
-  state_id: 943
+- name: Granada
   state_code: GR
   state_name: Granada
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.92988000'
   longitude: "-85.95602000"
-  wikiDataId: Q205648
-- id: 77240
-  name: Nandaime
-  state_id: 943
+- name: Nandaime
   state_code: GR
   state_name: Granada
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.75696000'
   longitude: "-86.05286000"
-  wikiDataId: Q1964554
-- id: 77183
-  name: El Cuá
-  state_id: 955
+- name: El Cuá
   state_code: JI
   state_name: Jinotega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.41667000'
   longitude: "-85.75000000"
-  wikiDataId: Q2214906
-- id: 77194
-  name: Jinotega
-  state_id: 955
+- name: Jinotega
   state_code: JI
   state_name: Jinotega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.09103000'
   longitude: "-86.00234000"
-  wikiDataId: Q1026296
-- id: 77201
-  name: La Concordia
-  state_id: 955
+- name: La Concordia
   state_code: JI
   state_name: Jinotega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.19528000'
   longitude: "-86.16659000"
-  wikiDataId: Q2395382
-- id: 77210
-  name: Las Praderas
-  state_id: 955
+- name: Las Praderas
   state_code: JI
   state_name: Jinotega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.17000000'
   longitude: "-85.85000000"
-  wikiDataId: Q2217474
-- id: 77199
-  name: LLano de La Cruz
-  state_id: 955
+- name: LLano de La Cruz
   state_code: JI
   state_name: Jinotega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.12449000'
   longitude: "-86.00833000"
-  wikiDataId: Q1647889
-- id: 77258
-  name: San José de Bocay
-  state_id: 955
+- name: San José de Bocay
   state_code: JI
   state_name: Jinotega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.54204000'
   longitude: "-85.53942000"
-  wikiDataId: Q2215147
-- id: 77269
-  name: San Rafael del Norte
-  state_id: 955
+- name: San Rafael del Norte
   state_code: JI
   state_name: Jinotega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.21248000'
   longitude: "-86.11089000"
-  wikiDataId: Q2604700
-- id: 77272
-  name: San Sebastián de Yalí
-  state_id: 955
+- name: San Sebastián de Yalí
   state_code: JI
   state_name: Jinotega
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.30540000'
   longitude: "-86.18641000"
-  wikiDataId: Q2215401
-- id: 77154
-  name: Achuapa
-  state_id: 944
+- name: Achuapa
   state_code: LE
   state_name: León
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.05370000'
   longitude: "-86.59004000"
-  wikiDataId: Q8075286
-- id: 77184
-  name: El Jicaral
-  state_id: 944
+- name: El Jicaral
   state_code: LE
   state_name: León
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.72676000'
   longitude: "-86.38057000"
-  wikiDataId: Q369423
-- id: 77188
-  name: El Sauce
-  state_id: 944
+- name: El Sauce
   state_code: LE
   state_name: León
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.88687000'
   longitude: "-86.53903000"
-  wikiDataId: Q1647835
-- id: 77205
-  name: La Paz Centro
-  state_id: 944
+- name: La Paz Centro
   state_code: LE
   state_name: León
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.34000000'
   longitude: "-86.67528000"
-  wikiDataId: Q21052193
-- id: 77209
-  name: Larreynaga
-  state_id: 944
+- name: Larreynaga
   state_code: LE
   state_name: León
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.67692000'
   longitude: "-86.57193000"
-  wikiDataId: Q2215577
-- id: 77212
-  name: León
-  state_id: 944
+- name: León
   state_code: LE
   state_name: León
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.43787000'
   longitude: "-86.87804000"
-  wikiDataId: Q208151
-- id: 77239
-  name: Nagarote
-  state_id: 944
+- name: Nagarote
   state_code: LE
   state_name: León
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.26593000'
   longitude: "-86.56474000"
-  wikiDataId: Q2604568
-- id: 77252
-  name: Quezalguaque
-  state_id: 944
+- name: Quezalguaque
   state_code: LE
   state_name: León
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.50683000'
   longitude: "-86.90292000"
-  wikiDataId: Q739841
-- id: 77274
-  name: Santa Rosa del Peñón
-  state_id: 944
+- name: Santa Rosa del Peñón
   state_code: LE
   state_name: León
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.80116000'
   longitude: "-86.36994000"
-  wikiDataId: Q2215566
-- id: 77282
-  name: Telica
-  state_id: 944
+- name: Telica
   state_code: LE
   state_name: León
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.52200000'
   longitude: "-86.85938000"
-  wikiDataId: Q1647817
-- id: 77211
-  name: Las Sabanas
-  state_id: 948
+- name: Las Sabanas
   state_code: MD
   state_name: Madriz
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.34302000'
   longitude: "-86.62184000"
-  wikiDataId: Q2215117
-- id: 77245
-  name: Palacagüina
-  state_id: 948
+- name: Palacagüina
   state_code: MD
   state_name: Madriz
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.45566000'
   longitude: "-86.40622000"
-  wikiDataId: Q2215620
-- id: 77259
-  name: San José de Cusmapa
-  state_id: 948
+- name: San José de Cusmapa
   state_code: MD
   state_name: Madriz
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.28841000'
   longitude: "-86.65539000"
-  wikiDataId: Q2215949
-- id: 77263
-  name: San Juan de Río Coco
-  state_id: 948
+- name: San Juan de Río Coco
   state_code: MD
   state_name: Madriz
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.54476000'
   longitude: "-86.16499000"
-  wikiDataId: Q1647654
-- id: 77266
-  name: San Lucas
-  state_id: 948
+- name: San Lucas
   state_code: MD
   state_name: Madriz
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.41380000'
   longitude: "-86.61110000"
-  wikiDataId: Q1647851
-- id: 77281
-  name: Somoto
-  state_id: 948
+- name: Somoto
   state_code: MD
   state_name: Madriz
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.48082000'
   longitude: "-86.58208000"
-  wikiDataId: Q1010954
-- id: 77283
-  name: Telpaneca
-  state_id: 948
+- name: Telpaneca
   state_code: MD
   state_name: Madriz
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.53151000'
   longitude: "-86.28710000"
-  wikiDataId: Q2216981
-- id: 77290
-  name: Totogalpa
-  state_id: 948
+- name: Totogalpa
   state_code: MD
   state_name: Madriz
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.56284000'
   longitude: "-86.49254000"
-  wikiDataId: Q2216999
-- id: 77296
-  name: Yalagüina
-  state_id: 948
+- name: Yalagüina
   state_code: MD
   state_name: Madriz
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.48383000'
   longitude: "-86.49305000"
-  wikiDataId: Q2216994
-- id: 77169
-  name: Ciudad Sandino
-  state_id: 941
+- name: Ciudad Sandino
   state_code: MN
   state_name: Managua
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.15889000'
   longitude: "-86.34417000"
-  wikiDataId: Q2720849
-- id: 77182
-  name: El Crucero
-  state_id: 941
+- name: El Crucero
   state_code: MN
   state_name: Managua
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.99008000'
   longitude: "-86.30954000"
-  wikiDataId: Q2605353
-- id: 77213
-  name: Managua
-  state_id: 941
+- name: Managua
   state_code: MN
   state_name: Managua
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.13282000'
   longitude: "-86.25040000"
-  wikiDataId: Q3274
-- id: 77214
-  name: Masachapa
-  state_id: 941
+- name: Masachapa
   state_code: MN
   state_name: Managua
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.78687000'
   longitude: "-86.51416000"
-  wikiDataId: Q21053389
-- id: 77270
-  name: San Rafael del Sur
-  state_id: 941
+- name: San Rafael del Sur
   state_code: MN
   state_name: Managua
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.84854000'
   longitude: "-86.43839000"
-  wikiDataId: Q964406
-- id: 77286
-  name: Ticuantepe
-  state_id: 941
+- name: Ticuantepe
   state_code: MN
   state_name: Managua
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.02263000'
   longitude: "-86.20493000"
-  wikiDataId: Q2216951
-- id: 77287
-  name: Tipitapa
-  state_id: 941
+- name: Tipitapa
   state_code: MN
   state_name: Managua
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.19732000'
   longitude: "-86.09706000"
-  wikiDataId: Q1365146
-- id: 77291
-  name: Valle San Francisco
-  state_id: 941
+- name: Valle San Francisco
   state_code: MN
   state_name: Managua
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.51667000'
   longitude: "-86.28333000"
-  wikiDataId: Q21054823
-- id: 77292
-  name: Villa El Carmen
-  state_id: 941
+- name: Villa El Carmen
   state_code: MN
   state_name: Managua
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.98009000'
   longitude: "-86.50571000"
-  wikiDataId: Q21054975
-- id: 77164
-  name: Catarina
-  state_id: 953
+- name: Catarina
   state_code: MS
   state_name: Masaya
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.91197000'
   longitude: "-86.07383000"
-  wikiDataId: Q1647897
-- id: 77200
-  name: La Concepción
-  state_id: 953
+- name: La Concepción
   state_code: MS
   state_name: Masaya
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.93711000'
   longitude: "-86.18976000"
-  wikiDataId: Q538269
-- id: 77215
-  name: Masatepe
-  state_id: 953
+- name: Masatepe
   state_code: MS
   state_name: Masaya
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.91445000'
   longitude: "-86.14458000"
-  wikiDataId: Q2720586
-- id: 77216
-  name: Masaya
-  state_id: 953
+- name: Masaya
   state_code: MS
   state_name: Masaya
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.97444000'
   longitude: "-86.09417000"
-  wikiDataId: Q1001914
-- id: 77226
-  name: Municipio de Masatepe
-  state_id: 953
+- name: Municipio de Masatepe
   state_code: MS
   state_name: Masaya
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.90567000'
   longitude: "-86.14946000"
-  wikiDataId: Q1647907
-- id: 77228
-  name: Municipio de Nandasmo
-  state_id: 953
+- name: Municipio de Nandasmo
   state_code: MS
   state_name: Masaya
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.93333000'
   longitude: "-86.11667000"
-  wikiDataId: Q1647907
-- id: 77229
-  name: Municipio de Niquinohomo
-  state_id: 953
+- name: Municipio de Niquinohomo
   state_code: MS
   state_name: Masaya
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.88228000'
   longitude: "-86.10035000"
-  wikiDataId: Q1647907
-- id: 77234
-  name: Municipio de San Juan de Oriente
-  state_id: 953
+- name: Municipio de San Juan de Oriente
   state_code: MS
   state_name: Masaya
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.90517000'
   longitude: "-86.07460000"
-  wikiDataId: Q2214920
-- id: 77241
-  name: Nandasmo
-  state_id: 953
+- name: Nandasmo
   state_code: MS
   state_name: Masaya
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.92411000'
   longitude: "-86.12072000"
-  wikiDataId: Q641207
-- id: 77242
-  name: Nindirí
-  state_id: 953
+- name: Nindirí
   state_code: MS
   state_name: Masaya
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.00386000'
   longitude: "-86.12128000"
-  wikiDataId: Q2215135
-- id: 77243
-  name: Niquinohomo
-  state_id: 953
+- name: Niquinohomo
   state_code: MS
   state_name: Masaya
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.90518000'
   longitude: "-86.09446000"
-  wikiDataId: Q1514478
-- id: 77262
-  name: San Juan de Oriente
-  state_id: 953
+- name: San Juan de Oriente
   state_code: MS
   state_name: Masaya
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.90624000'
   longitude: "-86.07343000"
-  wikiDataId: Q384555
-- id: 77288
-  name: Tisma
-  state_id: 953
+- name: Tisma
   state_code: MS
   state_name: Masaya
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.08194000'
   longitude: "-86.01739000"
-  wikiDataId: Q2216452
-- id: 77168
-  name: Ciudad Darío
-  state_id: 947
+- name: Ciudad Darío
   state_code: MT
   state_name: Matagalpa
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.73143000'
   longitude: "-86.12402000"
-  wikiDataId: Q1015865
-- id: 77217
-  name: Matagalpa
-  state_id: 947
+- name: Matagalpa
   state_code: MT
   state_name: Matagalpa
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.92559000'
   longitude: "-85.91747000"
-  wikiDataId: Q3851689
-- id: 77218
-  name: Matiguás
-  state_id: 947
+- name: Matiguás
   state_code: MT
   state_name: Matagalpa
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.83734000'
   longitude: "-85.46218000"
-  wikiDataId: Q2215416
-- id: 77238
-  name: Muy Muy
-  state_id: 947
+- name: Muy Muy
   state_code: MT
   state_name: Matagalpa
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.76224000'
   longitude: "-85.62915000"
-  wikiDataId: Q2215631
-- id: 77254
-  name: Río Blanco
-  state_id: 947
+- name: Río Blanco
   state_code: MT
   state_name: Matagalpa
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.93435000'
   longitude: "-85.22354000"
-  wikiDataId: Q2605369
-- id: 77256
-  name: San Dionisio
-  state_id: 947
+- name: San Dionisio
   state_code: MT
   state_name: Matagalpa
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.76023000'
   longitude: "-85.85018000"
-  wikiDataId: Q1647872
-- id: 77271
-  name: San Ramón
-  state_id: 947
+- name: San Ramón
   state_code: MT
   state_name: Matagalpa
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.92344000'
   longitude: "-85.83898000"
-  wikiDataId: Q2395748
-- id: 77284
-  name: Terrabona
-  state_id: 947
+- name: Terrabona
   state_code: MT
   state_name: Matagalpa
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.73028000'
   longitude: "-85.96474000"
-  wikiDataId: Q664620
-- id: 77161
-  name: Bonanza
-  state_id: 951
+- name: Bonanza
   state_code: AN
   state_name: North Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '14.02885000'
   longitude: "-84.59103000"
-  wikiDataId: Q892092
-- id: 77248
-  name: Prinzapolka
-  state_id: 951
+- name: Prinzapolka
   state_code: AN
   state_name: North Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.40708000'
   longitude: "-83.56452000"
-  wikiDataId: Q1018776
-- id: 77250
-  name: Puerto Cabezas
-  state_id: 951
+- name: Puerto Cabezas
   state_code: AN
   state_name: North Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '14.03507000'
   longitude: "-83.38882000"
-  wikiDataId: Q1008456
-- id: 77279
-  name: Siuna
-  state_id: 951
+- name: Siuna
   state_code: AN
   state_name: North Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.73321000'
   longitude: "-84.77725000"
-  wikiDataId: Q1329302
-- id: 77294
-  name: Waslala
-  state_id: 951
+- name: Waslala
   state_code: AN
   state_name: North Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.23333000'
   longitude: "-85.38333000"
-  wikiDataId: Q1018767
-- id: 77295
-  name: Waspán
-  state_id: 951
+- name: Waspán
   state_code: AN
   state_name: North Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '14.74189000'
   longitude: "-83.97170000"
-  wikiDataId: Q2217458
-- id: 149132
-  name: Ciudad Antigua
-  state_id: 4964
+- name: Ciudad Antigua
   state_code: NS
   state_name: Nueva Segovia
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.63929030'
   longitude: "-86.31189830"
-  wikiDataId: Q2215588
-- id: 149133
-  name: Dipilto
-  state_id: 4964
+- name: Dipilto
   state_code: NS
   state_name: Nueva Segovia
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.72225520'
   longitude: "-86.51366060"
-  wikiDataId: Q2215450
-- id: 149134
-  name: El Jícaro
-  state_id: 4964
+- name: El Jícaro
   state_code: NS
   state_name: Nueva Segovia
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.72222480'
   longitude: "-86.14115420"
-  wikiDataId: Q2394975
-- id: 149135
-  name: Jalapa
-  state_id: 4964
+- name: Jalapa
   state_code: NS
   state_name: Nueva Segovia
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.92071420'
   longitude: "-86.14212330"
-  wikiDataId: Q2395471
-- id: 149136
-  name: Macuelizo
-  state_id: 4964
+- name: Macuelizo
   state_code: NS
   state_name: Nueva Segovia
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.65192960'
   longitude: "-86.61427170"
-  wikiDataId: Q1647684
-- id: 149137
-  name: Mozonte
-  state_id: 4964
+- name: Mozonte
   state_code: NS
   state_name: Nueva Segovia
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.65956840'
   longitude: "-86.44536490"
-  wikiDataId: Q2215922
-- id: 149138
-  name: Murra
-  state_id: 4964
+- name: Murra
   state_code: NS
   state_name: Nueva Segovia
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.75927550'
   longitude: "-86.02196840"
-  wikiDataId: Q2215609
-- id: 149139
-  name: Ocotal
-  state_id: 4964
+- name: Ocotal
   state_code: NS
   state_name: Nueva Segovia
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.63411380'
   longitude: "-86.50107470"
-  wikiDataId: Q1025830
-- id: 149140
-  name: Quilalí
-  state_id: 4964
+- name: Quilalí
   state_code: NS
   state_name: Nueva Segovia
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.56491080'
   longitude: "-86.02921480"
-  wikiDataId: Q2604559
-- id: 149141
-  name: San Fernando
-  state_id: 4964
+- name: San Fernando
   state_code: NS
   state_name: Nueva Segovia
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.67873430'
   longitude: "-86.32079750"
-  wikiDataId: Q1647665
-- id: 149142
-  name: Santa María
-  state_id: 4964
+- name: Santa María
   state_code: NS
   state_name: Nueva Segovia
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.74665480'
   longitude: "-86.71124070"
-  wikiDataId: Q1647660
-- id: 149143
-  name: Wiwilí
-  state_id: 4964
+- name: Wiwilí
   state_code: NS
   state_name: Nueva Segovia
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.62076450'
   longitude: "-85.83169700"
-  wikiDataId: Q1014671
-- id: 77180
-  name: El Almendro
-  state_id: 949
+- name: El Almendro
   state_code: SJ
   state_name: Río San Juan
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.67859000'
   longitude: "-84.70269000"
-  wikiDataId: Q2621532
-- id: 77193
-  name: Greytown
-  state_id: 949
+- name: Greytown
   state_code: SJ
   state_name: Río San Juan
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '10.94684000'
   longitude: "-83.73467000"
-  wikiDataId: Q2063725
-- id: 77219
-  name: Morrito
-  state_id: 949
+- name: Morrito
   state_code: SJ
   state_name: Río San Juan
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.62118000'
   longitude: "-85.08052000"
-  wikiDataId: Q2621523
-- id: 77255
-  name: San Carlos
-  state_id: 949
+- name: San Carlos
   state_code: SJ
   state_name: Río San Juan
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.12360000'
   longitude: "-84.77795000"
-  wikiDataId: Q1020320
-- id: 77268
-  name: San Miguelito
-  state_id: 949
+- name: San Miguelito
   state_code: SJ
   state_name: Río San Juan
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.40255000'
   longitude: "-84.89991000"
-  wikiDataId: Q1015364
-- id: 77156
-  name: Altagracia
-  state_id: 942
+- name: Altagracia
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.56615000'
   longitude: "-85.57840000"
-  wikiDataId: Q1186803
-- id: 77157
-  name: Belén
-  state_id: 942
+- name: Belén
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.50299000'
   longitude: "-85.88935000"
-  wikiDataId: Q1647916
-- id: 77162
-  name: Buenos Aires
-  state_id: 942
+- name: Buenos Aires
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.46916000'
   longitude: "-85.81661000"
-  wikiDataId: Q1648230
-- id: 77175
-  name: Cárdenas
-  state_id: 942
+- name: Cárdenas
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.19639000'
   longitude: "-85.50890000"
-  wikiDataId: Q1647924
-- id: 77220
-  name: Moyogalpa
-  state_id: 942
+- name: Moyogalpa
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.54006000'
   longitude: "-85.69795000"
-  wikiDataId: Q2215641
-- id: 77222
-  name: Municipio de Altagracia
-  state_id: 942
+- name: Municipio de Altagracia
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.47983000'
   longitude: "-85.54166000"
-  wikiDataId: Q1647907
-- id: 77223
-  name: Municipio de Belén
-  state_id: 942
+- name: Municipio de Belén
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.57193000'
   longitude: "-85.96316000"
-  wikiDataId: Q1647907
-- id: 77224
-  name: Municipio de Buenos Aires
-  state_id: 942
+- name: Municipio de Buenos Aires
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.51760000'
   longitude: "-85.78333000"
-  wikiDataId: Q1647907
-- id: 77225
-  name: Municipio de Cárdenas
-  state_id: 942
+- name: Municipio de Cárdenas
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.14912000'
   longitude: "-85.42323000"
-  wikiDataId: Q1647907
-- id: 77227
-  name: Municipio de Moyogalpa
-  state_id: 942
+- name: Municipio de Moyogalpa
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.52632000'
   longitude: "-85.67329000"
-  wikiDataId: Q1647907
-- id: 77230
-  name: Municipio de Potosí
-  state_id: 942
+- name: Municipio de Potosí
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.57854000'
   longitude: "-85.87764000"
-  wikiDataId: Q1647907
-- id: 77231
-  name: Municipio de Rivas
-  state_id: 942
+- name: Municipio de Rivas
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.43931000'
   longitude: "-85.82700000"
-  wikiDataId: Q1647907
-- id: 77233
-  name: Municipio de San Jorge
-  state_id: 942
+- name: Municipio de San Jorge
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.42703000'
   longitude: "-85.78904000"
-  wikiDataId: Q2214920
-- id: 77235
-  name: Municipio de San Juan del Sur
-  state_id: 942
+- name: Municipio de San Juan del Sur
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.22368000'
   longitude: "-85.78289000"
-  wikiDataId: Q2214920
-- id: 77237
-  name: Municipio de Tola
-  state_id: 942
+- name: Municipio de Tola
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.46009000'
   longitude: "-86.00789000"
-  wikiDataId: Q2214920
-- id: 77247
-  name: Potosí
-  state_id: 942
+- name: Potosí
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.49416000'
   longitude: "-85.85680000"
-  wikiDataId: Q1647911
-- id: 77253
-  name: Rivas
-  state_id: 942
+- name: Rivas
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.43716000'
   longitude: "-85.82632000"
-  wikiDataId: Q1757609
-- id: 77257
-  name: San Jorge
-  state_id: 942
+- name: San Jorge
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.45584000'
   longitude: "-85.80308000"
-  wikiDataId: Q956573
-- id: 77264
-  name: San Juan del Sur
-  state_id: 942
+- name: San Juan del Sur
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.25292000'
   longitude: "-85.87049000"
-  wikiDataId: Q240247
-- id: 77289
-  name: Tola
-  state_id: 942
+- name: Tola
   state_code: RI
   state_name: Rivas
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.43927000'
   longitude: "-85.93891000"
-  wikiDataId: Q942590
-- id: 77158
-  name: Bluefields
-  state_id: 952
+- name: Bluefields
   state_code: AS
   state_name: South Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.01366000'
   longitude: "-83.76353000"
-  wikiDataId: Q885996
-- id: 77160
-  name: Bocana de Paiwas
-  state_id: 952
+- name: Bocana de Paiwas
   state_code: AS
   state_name: South Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.78571000'
   longitude: "-85.12269000"
-  wikiDataId: Q691374
-- id: 77173
-  name: Corn Island
-  state_id: 952
+- name: Corn Island
   state_code: AS
   state_name: South Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.17575000'
   longitude: "-83.06145000"
-  wikiDataId: Q22280935
-- id: 77185
-  name: El Rama
-  state_id: 952
+- name: El Rama
   state_code: AS
   state_name: South Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.15965000'
   longitude: "-84.21952000"
-  wikiDataId: Q21054015
-- id: 77189
-  name: El Tortuguero
-  state_id: 952
+- name: El Tortuguero
   state_code: AS
   state_name: South Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.82247000'
   longitude: "-84.19629000"
-  wikiDataId: Q21053675
-- id: 77198
-  name: Kukrahill
-  state_id: 952
+- name: Kukrahill
   state_code: AS
   state_name: South Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.24096000'
   longitude: "-83.74517000"
-  wikiDataId: Q1647889
-- id: 77203
-  name: La Cruz de Río Grande
-  state_id: 952
+- name: La Cruz de Río Grande
   state_code: AS
   state_name: South Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '13.11290000'
   longitude: "-84.18588000"
-  wikiDataId: Q963732
-- id: 77208
-  name: Laguna de Perlas
-  state_id: 952
+- name: Laguna de Perlas
   state_code: AS
   state_name: South Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.34294000'
   longitude: "-83.67123000"
-  wikiDataId: Q2215086
-- id: 77221
-  name: Muelle de los Bueyes
-  state_id: 952
+- name: Muelle de los Bueyes
   state_code: AS
   state_name: South Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '12.06999000'
   longitude: "-84.53503000"
-  wikiDataId: Q2215047
-- id: 77244
-  name: Nueva Guinea
-  state_id: 952
+- name: Nueva Guinea
   state_code: AS
   state_name: South Caribbean Coast
-  country_id: 159
-  country_code: NI
-  country_name: Nicaragua
   latitude: '11.68758000'
   longitude: "-84.45616000"
-  wikiDataId: Q2554341

@@ -1,441 +1,201 @@
 ---
-- id: 109003
-  name: Changhua
-  state_id: 3404
+- name: Changhua
   state_code: CHA
   state_name: Changhua
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.95361000'
   longitude: '120.49083000'
-  wikiDataId: Q133865
-- id: 109038
-  name: Yuanlin
-  state_id: 3404
+- name: Yuanlin
   state_code: CHA
   state_name: Changhua
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.95671000'
   longitude: '120.57608000'
-  wikiDataId: Q237258
-- id: 109004
-  name: Chiayi
-  state_id: 3408
+- name: Chiayi
   state_code: CYI
   state_name: Chiayi
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.47722000'
   longitude: '120.44527000'
-  wikiDataId: Q249995
-- id: 109026
-  name: Pizitou
-  state_id: 3408
+- name: Pizitou
   state_code: CYI
   state_name: Chiayi
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.48556000'
   longitude: '120.44472000'
-  wikiDataId: Q194989
-- id: 109005
-  name: Chiayi County
-  state_id: 3418
+- name: Chiayi County
   state_code: CYQ
   state_name: Chiayi
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.46333000'
   longitude: '120.58166000'
-  wikiDataId: Q166977
-- id: 109010
-  name: Hsinchu
-  state_id: 3423
+- name: Hsinchu
   state_code: HSQ
   state_name: Hsinchu
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '24.80361000'
   longitude: '120.96861000'
-  wikiDataId: Q249994
-- id: 109011
-  name: Hsinchu County
-  state_id: 3417
+- name: Hsinchu County
   state_code: HSZ
   state_name: Hsinchu
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '24.67416000'
   longitude: '121.16111000'
-  wikiDataId: Q74054
-- id: 109012
-  name: Hualien
-  state_id: 3411
+- name: Hualien
   state_code: HUA
   state_name: Hualien
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.78166000'
   longitude: '121.39333000'
-  wikiDataId: Q249868
-- id: 109013
-  name: Hualien City
-  state_id: 3411
+- name: Hualien City
   state_code: HUA
   state_name: Hualien
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.97694000'
   longitude: '121.60444000'
-  wikiDataId: Q713310
-- id: 109016
-  name: Kaohsiung
-  state_id: 3412
+- name: Kaohsiung
   state_code: KHH
   state_name: Kaohsiung
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '22.61626000'
   longitude: '120.31333000'
-  wikiDataId: Q181557
-- id: 109014
-  name: Jincheng
-  state_id: 3415
+- name: Jincheng
   state_code: KIN
   state_name: Kinmen
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '24.43415000'
   longitude: '118.31712000'
-  wikiDataId: Q706539
-- id: 109017
-  name: Kinmen County
-  state_id: 3415
+- name: Kinmen County
   state_code: KIN
   state_name: Kinmen
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '24.45333000'
   longitude: '118.38861000'
-  wikiDataId: Q249870
-- id: 109018
-  name: Lienchiang
-  state_id: 3420
+- name: Lienchiang
   state_code: LIE
   state_name: Lienchiang
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '26.37004000'
   longitude: '120.49545000'
-  wikiDataId: Q249872
-- id: 109022
-  name: Nangan
-  state_id: 3420
+- name: Nangan
   state_code: LIE
   state_name: Lienchiang
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '26.15039000'
   longitude: '119.93284000'
-  wikiDataId: Q702125
-- id: 109021
-  name: Miaoli
-  state_id: 3413
+- name: Miaoli
   state_code: MIA
   state_name: Miaoli
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '24.48972000'
   longitude: '120.90638000'
-  wikiDataId: Q63706
-- id: 109019
-  name: Lugu
-  state_id: 3407
+- name: Lugu
   state_code: NAN
   state_name: Nantou
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.74639000'
   longitude: '120.75250000'
-  wikiDataId: Q249872
-- id: 109023
-  name: Nantou
-  state_id: 3407
+- name: Nantou
   state_code: NAN
   state_name: Nantou
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.83419000'
   longitude: '120.92704000'
-  wikiDataId: Q82357
-- id: 109027
-  name: Puli
-  state_id: 3407
+- name: Puli
   state_code: NAN
   state_name: Nantou
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.96639000'
   longitude: '120.96952000'
-  wikiDataId: Q706544
-- id: 109041
-  name: Zhongxing New Village
-  state_id: 3407
+- name: Zhongxing New Village
   state_code: NAN
   state_name: Nantou
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.95908000'
   longitude: '120.68516000'
-  wikiDataId: Q197930
-- id: 109020
-  name: Magong
-  state_id: 3403
+- name: Magong
   state_code: PEN
   state_name: Penghu
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.56540000'
   longitude: '119.58627000'
-  wikiDataId: Q701428
-- id: 109024
-  name: Penghu County
-  state_id: 3403
+- name: Penghu County
   state_code: PEN
   state_name: Penghu
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.57111000'
   longitude: '119.61138000'
-  wikiDataId: Q198525
-- id: 109007
-  name: Donggang
-  state_id: 3405
+- name: Donggang
   state_code: PIF
   state_name: Pingtung
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '22.46515000'
   longitude: '120.44927000'
-  wikiDataId: Q166977
-- id: 109009
-  name: Hengchun
-  state_id: 3405
+- name: Hengchun
   state_code: PIF
   state_name: Pingtung
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '22.00417000'
   longitude: '120.74389000'
-  wikiDataId: Q669566
-- id: 109025
-  name: Pingtung
-  state_id: 3405
+- name: Pingtung
   state_code: PIF
   state_name: Pingtung
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '22.49555000'
   longitude: '120.61444000'
-  wikiDataId: Q194989
-- id: 109028
-  name: Taichung
-  state_id: 3406
+- name: Taichung
   state_code: TXG
   state_name: Taichung
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '24.14690000'
   longitude: '120.68390000'
-  wikiDataId: Q706544
-- id: 109029
-  name: Taichung City
-  state_id: 3406
+- name: Taichung City
   state_code: TXG
   state_name: Taichung
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '24.15472000'
   longitude: '120.67297000'
-  wikiDataId: Q706544
-- id: 109030
-  name: Tainan
-  state_id: 3421
+- name: Tainan
   state_code: TNN
   state_name: Tainan
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '22.99083000'
   longitude: '120.21333000'
-  wikiDataId: Q140631
-- id: 109039
-  name: Yujing
-  state_id: 3421
+- name: Yujing
   state_code: TNN
   state_name: Tainan
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.12493000'
   longitude: '120.46138000'
-  wikiDataId: Q237258
-- id: 109002
-  name: Banqiao
-  state_id: 3422
+- name: Banqiao
   state_code: TPE
   state_name: Taipei
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '25.01427000'
   longitude: '121.46719000'
-  wikiDataId: Q3394651
-- id: 109015
-  name: Jiufen
-  state_id: 3422
+- name: Jiufen
   state_code: TPE
   state_name: Taipei
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '25.10957000'
   longitude: '121.84424000'
-  wikiDataId: Q31093
-- id: 109031
-  name: Taipei
-  state_id: 3422
+- name: Taipei
   state_code: TPE
   state_name: Taipei
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '25.04776000'
   longitude: '121.53185000'
-  wikiDataId: Q1867
-- id: 109032
-  name: Taipei City
-  state_id: 3422
+- name: Taipei City
   state_code: TPE
   state_name: Taipei
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '25.08300000'
   longitude: '121.55331000'
-  wikiDataId: Q1867
-- id: 109033
-  name: Taitung
-  state_id: 3410
+- name: Taitung
   state_code: TTT
   state_name: Taitung
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '22.88361000'
   longitude: '121.04833000'
-  wikiDataId: Q249904
-- id: 109034
-  name: Taitung City
-  state_id: 3410
+- name: Taitung City
   state_code: TTT
   state_name: Taitung
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '22.75830000'
   longitude: '121.14440000'
-  wikiDataId: Q713381
-- id: 109006
-  name: Daxi
-  state_id: 3419
+- name: Daxi
   state_code: TAO
   state_name: Taoyuan
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '24.88373000'
   longitude: '121.29043000'
-  wikiDataId: Q166977
-- id: 109035
-  name: Taoyuan
-  state_id: 3419
+- name: Taoyuan
   state_code: TAO
   state_name: Taoyuan
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '24.89500000'
   longitude: '121.24611000'
-  wikiDataId: Q115256
-- id: 109036
-  name: Taoyuan City
-  state_id: 3419
+- name: Taoyuan City
   state_code: TAO
   state_name: Taoyuan
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '24.99368000'
   longitude: '121.29696000'
-  wikiDataId: Q715975
-- id: 109037
-  name: Yilan
-  state_id: 3402
+- name: Yilan
   state_code: ILA
   state_name: Yilan
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '24.54250000'
   longitude: '121.63361000'
-  wikiDataId: Q237258
-- id: 109008
-  name: Douliu
-  state_id: 3416
+- name: Douliu
   state_code: YUN
   state_name: Yunlin
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.70944000'
   longitude: '120.54333000'
-  wikiDataId: Q669566
-- id: 109040
-  name: Yunlin
-  state_id: 3416
+- name: Yunlin
   state_code: YUN
   state_name: Yunlin
-  country_id: 216
-  country_code: TW
-  country_name: Taiwan
   latitude: '23.70701000'
   longitude: '120.38481000'
-  wikiDataId: Q153221

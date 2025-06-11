@@ -1,155 +1,71 @@
 ---
-- id: 154920
-  name: Ituʻau
-  state_id: 5375
+- name: Ituʻau
   state_code: '02'
   state_name: Eastern
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.30616430"
   longitude: "-170.80691440"
-  wikiDataId: Q3688257
-- id: 154921
-  name: Maʻoputasi
-  state_id: 5375
+- name: Maʻoputasi
   state_code: '02'
   state_name: Eastern
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.25216850"
   longitude: "-170.74187670"
-  wikiDataId: Q3688363
-- id: 154924
-  name: Saʻole
-  state_id: 5375
+- name: Saʻole
   state_code: '02'
   state_name: Eastern
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.29995700"
   longitude: "-170.61763370"
-  wikiDataId: Q3688580
-- id: 154923
-  name: Sua
-  state_id: 5375
+- name: Sua
   state_code: '02'
   state_name: Eastern
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.27710880"
   longitude: "-170.71442630"
-  wikiDataId: Q3688661
-- id: 154922
-  name: Vaifanua
-  state_id: 5375
+- name: Vaifanua
   state_code: '02'
   state_name: Eastern
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.25578040"
   longitude: "-170.76301810"
-  wikiDataId: Q3688712
-- id: 154928
-  name: Faleasao
-  state_id: 5376
+- name: Faleasao
   state_code: '03'
   state_name: Manuʻa
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.20385490"
   longitude: "-169.54907370"
-  wikiDataId: Q3688174
-- id: 154929
-  name: Fitiuta
-  state_id: 5376
+- name: Fitiuta
   state_code: '03'
   state_name: Manuʻa
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.20386340"
   longitude: "-169.51690440"
-  wikiDataId: Q3688179
-- id: 154925
-  name: Ofu
-  state_id: 5376
+- name: Ofu
   state_code: '03'
   state_name: Manuʻa
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.17135950"
   longitude: "-169.71939120"
-  wikiDataId: Q3688471
-- id: 154926
-  name: Olosega
-  state_id: 5376
+- name: Olosega
   state_code: '03'
   state_name: Manuʻa
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.17422270"
   longitude: "-169.63981240"
-  wikiDataId: Q3688476
-- id: 154927
-  name: Tau
-  state_id: 5376
+- name: Tau
   state_code: '03'
   state_name: Manuʻa
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.24215010"
   longitude: "-169.55101650"
-  wikiDataId: Q21847427
-- id: 154916
-  name: Lealataua
-  state_id: 5374
+- name: Lealataua
   state_code: '01'
   state_name: Western
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.32261520"
   longitude: "-170.90849930"
-  wikiDataId: Q3688321
-- id: 154917
-  name: Leasina
-  state_id: 5374
+- name: Leasina
   state_code: '01'
   state_name: Western
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.29581640"
   longitude: "-170.80459320"
-  wikiDataId: Q3688323
-- id: 154918
-  name: Tualatai
-  state_id: 5374
+- name: Tualatai
   state_code: '01'
   state_name: Western
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.37923540"
   longitude: "-170.81033120"
-  wikiDataId: Q3688697
-- id: 154919
-  name: Tualauta
-  state_id: 5374
+- name: Tualauta
   state_code: '01'
   state_name: Western
-  country_id: 5
-  country_code: AS
-  country_name: American Samoa
   latitude: "-14.35876890"
   longitude: "-170.75583320"
-  wikiDataId: Q3688698

@@ -1,309 +1,141 @@
 ---
-- id: 48131
-  name: Cocobeach
-  state_id: 2727
+- name: Cocobeach
   state_code: '1'
   state_name: Estuaire
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: '1.00019000'
   longitude: '9.58229000'
-  wikiDataId: Q491801
-- id: 48138
-  name: Libreville
-  state_id: 2727
+- name: Libreville
   state_code: '1'
   state_name: Estuaire
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: '0.39241000'
   longitude: '9.45356000'
-  wikiDataId: Q3825
-- id: 48150
-  name: Ntoum
-  state_id: 2727
+- name: Ntoum
   state_code: '1'
   state_name: Estuaire
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: '0.39051000'
   longitude: '9.76096000'
-  wikiDataId: Q1316415
-- id: 48133
-  name: Franceville
-  state_id: 2726
+- name: Franceville
   state_code: '2'
   state_name: Haut-Ogooué
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-1.63333000"
   longitude: '13.58357000'
-  wikiDataId: Q459369
-- id: 48139
-  name: Lékoni
-  state_id: 2726
+- name: Lékoni
   state_code: '2'
   state_name: Haut-Ogooué
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-1.58431000"
   longitude: '14.25905000'
-  wikiDataId: Q6350743
-- id: 48145
-  name: Moanda
-  state_id: 2726
+- name: Moanda
   state_code: '2'
   state_name: Haut-Ogooué
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-1.56652000"
   longitude: '13.19870000'
-  wikiDataId: Q1015100
-- id: 48147
-  name: Mounana
-  state_id: 2726
+- name: Mounana
   state_code: '2'
   state_name: Haut-Ogooué
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-1.40850000"
   longitude: '13.15857000'
-  wikiDataId: Q1200140
-- id: 48151
-  name: Okondja
-  state_id: 2726
+- name: Okondja
   state_code: '2'
   state_name: Haut-Ogooué
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-0.65487000"
   longitude: '13.67533000'
-  wikiDataId: Q4332646
-- id: 48136
-  name: Lambaréné
-  state_id: 2730
+- name: Lambaréné
   state_code: '3'
   state_name: Moyen-Ogooué
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-0.70010000"
   longitude: '10.24055000'
-  wikiDataId: Q874197
-- id: 48149
-  name: Ndjolé
-  state_id: 2730
+- name: Ndjolé
   state_code: '3'
   state_name: Moyen-Ogooué
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-0.17827000"
   longitude: '10.76488000'
-  wikiDataId: Q1316415
-- id: 48132
-  name: Fougamou
-  state_id: 2731
+- name: Fougamou
   state_code: '4'
   state_name: Ngounié
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-1.21544000"
   longitude: '10.58378000'
-  wikiDataId: Q1106169
-- id: 48142
-  name: Mbigou
-  state_id: 2731
+- name: Mbigou
   state_code: '4'
   state_name: Ngounié
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-1.90046000"
   longitude: '11.90600000'
-  wikiDataId: Q3303524
-- id: 48143
-  name: Mimongo
-  state_id: 2731
+- name: Mimongo
   state_code: '4'
   state_name: Ngounié
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-1.61952000"
   longitude: '11.60675000'
-  wikiDataId: Q3314639
-- id: 48146
-  name: Mouila
-  state_id: 2731
+- name: Mouila
   state_code: '4'
   state_name: Ngounié
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-1.86846000"
   longitude: '11.05594000'
-  wikiDataId: Q746670
-- id: 48148
-  name: Ndendé
-  state_id: 2731
+- name: Ndendé
   state_code: '4'
   state_name: Ngounié
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-2.40077000"
   longitude: '11.35813000'
-  wikiDataId: Q1200140
-- id: 48141
-  name: Mayumba
-  state_id: 2725
+- name: Mayumba
   state_code: '5'
   state_name: Nyanga
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-3.43198000"
   longitude: '10.65540000'
-  wikiDataId: Q2738426
-- id: 48155
-  name: Tchibanga
-  state_id: 2725
+- name: Tchibanga
   state_code: '5'
   state_name: Nyanga
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-2.93323000"
   longitude: '10.98178000'
-  wikiDataId: Q690421
-- id: 48130
-  name: Booué
-  state_id: 2724
+- name: Booué
   state_code: '6'
   state_name: Ogooué-Ivindo
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-0.09207000"
   longitude: '11.93846000'
-  wikiDataId: Q1052014
-- id: 48140
-  name: Makokou
-  state_id: 2724
+- name: Makokou
   state_code: '6'
   state_name: Ogooué-Ivindo
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: '0.57381000'
   longitude: '12.86419000'
-  wikiDataId: Q1002583
-- id: 48156
-  name: Zadie
-  state_id: 2724
+- name: Zadie
   state_code: '6'
   state_name: Ogooué-Ivindo
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: '0.92582000'
   longitude: '13.90813000'
-  wikiDataId: Q690421
-- id: 48135
-  name: Koulamoutou
-  state_id: 2729
+- name: Koulamoutou
   state_code: '7'
   state_name: Ogooué-Lolo
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-1.13667000"
   longitude: '12.46399000'
-  wikiDataId: Q985614
-- id: 48137
-  name: Lastoursville
-  state_id: 2729
+- name: Lastoursville
   state_code: '7'
   state_name: Ogooué-Lolo
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-0.81742000"
   longitude: '12.70818000'
-  wikiDataId: Q1818610
-- id: 48134
-  name: Gamba
-  state_id: 2728
+- name: Gamba
   state_code: '8'
   state_name: Ogooué-Maritime
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-2.65000000"
   longitude: '10.00000000'
-  wikiDataId: Q1492877
-- id: 48152
-  name: Omboué
-  state_id: 2728
+- name: Omboué
   state_code: '8'
   state_name: Ogooué-Maritime
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-1.57464000"
   longitude: '9.26184000'
-  wikiDataId: Q2717524
-- id: 48154
-  name: Port-Gentil
-  state_id: 2728
+- name: Port-Gentil
   state_code: '8'
   state_name: Ogooué-Maritime
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: "-0.71933000"
   longitude: '8.78151000'
-  wikiDataId: Q501715
-- id: 48129
-  name: Bitam
-  state_id: 2723
+- name: Bitam
   state_code: '9'
   state_name: Woleu-Ntem
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: '2.07597000'
   longitude: '11.50065000'
-  wikiDataId: Q1023124
-- id: 48144
-  name: Mitzic
-  state_id: 2723
+- name: Mitzic
   state_code: '9'
   state_name: Woleu-Ntem
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: '0.78205000'
   longitude: '11.54904000'
-  wikiDataId: Q3135733
-- id: 48153
-  name: Oyem
-  state_id: 2723
+- name: Oyem
   state_code: '9'
   state_name: Woleu-Ntem
-  country_id: 79
-  country_code: GA
-  country_name: Gabon
   latitude: '1.59950000'
   longitude: '11.57933000'
-  wikiDataId: Q983886

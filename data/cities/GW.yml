@@ -1,155 +1,71 @@
 ---
-- id: 53807
-  name: Bafatá
-  state_id: 2720
+- name: Bafatá
   state_code: BA
   state_name: Bafatá
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '12.16583000'
   longitude: "-14.66167000"
-  wikiDataId: Q799788
-- id: 53815
-  name: Contuboel Sector
-  state_id: 2720
+- name: Contuboel Sector
   state_code: BA
   state_name: Bafatá
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '12.55500000'
   longitude: "-14.64100000"
-  wikiDataId: Q524784
-- id: 53820
-  name: Quinhámel
-  state_id: 2714
+- name: Quinhámel
   state_code: BM
   state_name: Biombo
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '11.88694000'
   longitude: "-15.85556000"
-  wikiDataId: Q2622522
-- id: 53809
-  name: Bolama
-  state_id: 2722
+- name: Bolama
   state_code: BL
   state_name: Bolama
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '11.57694000'
   longitude: "-15.47611000"
-  wikiDataId: Q681802
-- id: 53811
-  name: Bubaque
-  state_id: 2722
+- name: Bubaque
   state_code: BL
   state_name: Bolama
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '11.28333000'
   longitude: "-15.83333000"
-  wikiDataId: Q997407
-- id: 53812
-  name: Cacheu
-  state_id: 2713
+- name: Cacheu
   state_code: CA
   state_name: Cacheu
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '12.27444000'
   longitude: "-16.16528000"
-  wikiDataId: Q1002807
-- id: 53813
-  name: Canchungo
-  state_id: 2713
+- name: Canchungo
   state_code: CA
   state_name: Cacheu
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '12.06722000'
   longitude: "-16.03333000"
-  wikiDataId: Q1318022
-- id: 53817
-  name: Gabú
-  state_id: 2719
+- name: Gabú
   state_code: GA
   state_name: Gabú
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '12.28000000'
   longitude: "-14.22222000"
-  wikiDataId: Q1015891
-- id: 53808
-  name: Bissorã
-  state_id: 2718
+- name: Bissorã
   state_code: OI
   state_name: Oio
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '12.22306000'
   longitude: "-15.44750000"
-  wikiDataId: Q799788
-- id: 53816
-  name: Farim
-  state_id: 2718
+- name: Farim
   state_code: OI
   state_name: Oio
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '12.48389000'
   longitude: "-15.22167000"
-  wikiDataId: Q1022984
-- id: 53818
-  name: Mansôa
-  state_id: 2718
+- name: Mansôa
   state_code: OI
   state_name: Oio
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '12.07333000'
   longitude: "-15.31889000"
-  wikiDataId: Q1368576
-- id: 53810
-  name: Buba
-  state_id: 2715
+- name: Buba
   state_code: QU
   state_name: Quinara
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '11.58889000'
   longitude: "-14.99583000"
-  wikiDataId: Q997402
-- id: 53814
-  name: Catió
-  state_id: 2712
+- name: Catió
   state_code: TO
   state_name: Tombali
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '11.28250000'
   longitude: "-15.25472000"
-  wikiDataId: Q1190869
-- id: 53819
-  name: Quebo
-  state_id: 2712
+- name: Quebo
   state_code: TO
   state_name: Tombali
-  country_id: 93
-  country_code: GW
-  country_name: Guinea-Bissau
   latitude: '11.33333000'
   longitude: "-14.93333000"
-  wikiDataId: Q2622522

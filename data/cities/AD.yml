@@ -1,111 +1,51 @@
 ---
-- id: 1
-  name: Andorra la Vella
-  state_id: 488
+- name: Andorra la Vella
   state_code: '07'
   state_name: Andorra la Vella
-  country_id: 6
-  country_code: AD
-  country_name: Andorra
   latitude: '42.50779000'
   longitude: '1.52109000'
-  wikiDataId: Q1863
-- id: 3
-  name: Canillo
-  state_id: 489
+- name: Canillo
   state_code: '02'
   state_name: Canillo
-  country_id: 6
-  country_code: AD
-  country_name: Andorra
   latitude: '42.56760000'
   longitude: '1.59756000'
-  wikiDataId: Q386802
-- id: 4
-  name: El Tarter
-  state_id: 489
+- name: El Tarter
   state_code: '02'
   state_name: Canillo
-  country_id: 6
-  country_code: AD
-  country_name: Andorra
   latitude: '42.57952000'
   longitude: '1.65362000'
-  wikiDataId: Q24413
-- id: 5
-  name: Encamp
-  state_id: 487
+- name: Encamp
   state_code: '03'
   state_name: Encamp
-  country_id: 6
-  country_code: AD
-  country_name: Andorra
   latitude: '42.53474000'
   longitude: '1.58014000'
-  wikiDataId: Q989558
-- id: 7
-  name: Pas de la Casa
-  state_id: 487
+- name: Pas de la Casa
   state_code: '03'
   state_name: Encamp
-  country_id: 6
-  country_code: AD
-  country_name: Andorra
   latitude: '42.54277000'
   longitude: '1.73361000'
-  wikiDataId: Q24456
-- id: 10
-  name: les Escaldes
-  state_id: 492
+- name: les Escaldes
   state_code: '08'
   state_name: Escaldes-Engordany
-  country_id: 6
-  country_code: AD
-  country_name: Andorra
   latitude: '42.50729000'
   longitude: '1.53414000'
-  wikiDataId: Q1050185
-- id: 2
-  name: Arinsal
-  state_id: 493
+- name: Arinsal
   state_code: '04'
   state_name: La Massana
-  country_id: 6
-  country_code: AD
-  country_name: Andorra
   latitude: '42.57205000'
   longitude: '1.48453000'
-  wikiDataId: Q24554
-- id: 9
-  name: la Massana
-  state_id: 493
+- name: la Massana
   state_code: '04'
   state_name: La Massana
-  country_id: 6
-  country_code: AD
-  country_name: Andorra
   latitude: '42.54499000'
   longitude: '1.51483000'
-  wikiDataId: Q3820973
-- id: 6
-  name: Ordino
-  state_id: 491
+- name: Ordino
   state_code: '05'
   state_name: Ordino
-  country_id: 6
-  country_code: AD
-  country_name: Andorra
   latitude: '42.55623000'
   longitude: '1.53319000'
-  wikiDataId: Q3885480
-- id: 8
-  name: Sant Julià de Lòria
-  state_id: 490
+- name: Sant Julià de Lòria
   state_code: '06'
   state_name: Sant Julià de Lòria
-  country_id: 6
-  country_code: AD
-  country_name: Andorra
   latitude: '42.46372000'
   longitude: '1.49129000'
-  wikiDataId: Q1120573

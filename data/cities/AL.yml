@@ -1,1431 +1,651 @@
 ---
-- id: 153
-  name: Banaj
-  state_id: 629
+- name: Banaj
   state_code: BR
   state_name: Berat
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.82492000'
   longitude: '19.84074000'
-  wikiDataId: Q3301181
-- id: 154
-  name: Bashkia Berat
-  state_id: 629
+- name: Bashkia Berat
   state_code: BR
   state_name: Berat
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.69997000'
   longitude: '19.94983000'
-  wikiDataId: Q3301181
-- id: 170
-  name: Bashkia Kuçovë
-  state_id: 629
+- name: Bashkia Kuçovë
   state_code: BR
   state_name: Berat
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.82489000'
   longitude: '19.95350000'
-  wikiDataId: Q16350064
-- id: 180
-  name: Bashkia Poliçan
-  state_id: 629
+- name: Bashkia Poliçan
   state_code: BR
   state_name: Berat
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.58608000'
   longitude: '20.04535000'
-  wikiDataId: Q16350064
-- id: 186
-  name: Bashkia Skrapar
-  state_id: 629
+- name: Bashkia Skrapar
   state_code: BR
   state_name: Berat
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.56036000'
   longitude: '20.25477000'
-  wikiDataId: Q16350064
-- id: 191
-  name: Berat
-  state_id: 629
+- name: Berat
   state_code: BR
   state_name: Berat
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.70583000'
   longitude: '19.95222000'
-  wikiDataId: Q170244
-- id: 280
-  name: Çorovodë
-  state_id: 629
+- name: Çorovodë
   state_code: BR
   state_name: Berat
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.50417000'
   longitude: '20.22722000'
-  wikiDataId: Q19307
-- id: 219
-  name: Kuçovë
-  state_id: 629
+- name: Kuçovë
   state_code: BR
   state_name: Berat
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.80028000'
   longitude: '19.91667000'
-  wikiDataId: Q18774
-- id: 238
-  name: Poliçan
-  state_id: 629
+- name: Poliçan
   state_code: BR
   state_name: Berat
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.61222000'
   longitude: '20.09806000'
-  wikiDataId: Q18751
-- id: 242
-  name: Rrethi i Beratit
-  state_id: 629
+- name: Rrethi i Beratit
   state_code: BR
   state_name: Berat
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.66667000'
   longitude: '20.00000000'
-  wikiDataId: Q202981
-- id: 253
-  name: Rrethi i Kuçovës
-  state_id: 629
+- name: Rrethi i Kuçovës
   state_code: BR
   state_name: Berat
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.83333000'
   longitude: '19.91667000'
-  wikiDataId: Q211946
-- id: 258
-  name: Rrethi i Skraparit
-  state_id: 629
+- name: Rrethi i Skraparit
   state_code: BR
   state_name: Berat
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.55000000'
   longitude: '20.26667000'
-  wikiDataId: Q194381
-- id: 273
-  name: Ura Vajgurore
-  state_id: 629
+- name: Ura Vajgurore
   state_code: BR
   state_name: Berat
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.76889000'
   longitude: '19.87778000'
-  wikiDataId: Q1524575
-- id: 155
-  name: Bashkia Bulqizë
-  state_id: 610
+- name: Bashkia Bulqizë
   state_code: '09'
   state_name: Dibër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.47152000'
   longitude: '20.33192000'
-  wikiDataId: Q3301181
-- id: 165
-  name: Bashkia Klos
-  state_id: 610
+- name: Bashkia Klos
   state_code: '09'
   state_name: Dibër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.50826000'
   longitude: '20.07107000'
-  wikiDataId: Q16350064
-- id: 176
-  name: Bashkia Mat
-  state_id: 610
+- name: Bashkia Mat
   state_code: '09'
   state_name: Dibër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.63317000'
   longitude: '20.01228000'
-  wikiDataId: Q16350064
-- id: 193
-  name: Bulqizë
-  state_id: 610
+- name: Bulqizë
   state_code: '09'
   state_name: Dibër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.49167000'
   longitude: '20.22194000'
-  wikiDataId: Q463384
-- id: 194
-  name: Burrel
-  state_id: 610
+- name: Burrel
   state_code: '09'
   state_name: Dibër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.61028000'
   longitude: '20.00889000'
-  wikiDataId: Q461313
-- id: 209
-  name: Klos
-  state_id: 610
+- name: Klos
   state_code: '09'
   state_name: Dibër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.50694000'
   longitude: '20.08667000'
-  wikiDataId: Q278613
-- id: 236
-  name: Peshkopi
-  state_id: 610
+- name: Peshkopi
   state_code: '09'
   state_name: Dibër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.68500000'
   longitude: '20.42889000'
-  wikiDataId: Q223154
-- id: 243
-  name: Rrethi i Bulqizës
-  state_id: 610
+- name: Rrethi i Bulqizës
   state_code: '09'
   state_name: Dibër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.50000000'
   longitude: '20.33333000'
-  wikiDataId: Q191872
-- id: 246
-  name: Rrethi i Dibrës
-  state_id: 610
+- name: Rrethi i Dibrës
   state_code: '09'
   state_name: Dibër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.75000000'
   longitude: '20.33333000'
-  wikiDataId: Q192123
-- id: 256
-  name: Rrethi i Matit
-  state_id: 610
+- name: Rrethi i Matit
   state_code: '09'
   state_name: Dibër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.58333000'
   longitude: '20.08333000'
-  wikiDataId: Q202665
-- id: 272
-  name: Ulëz
-  state_id: 610
+- name: Ulëz
   state_code: '09'
   state_name: Dibër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.68278000'
   longitude: '19.89333000'
-  wikiDataId: Q2542462
-- id: 159
-  name: Bashkia Durrës
-  state_id: 639
+- name: Bashkia Durrës
   state_code: DR
   state_name: Durrës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.42743000'
   longitude: '19.48690000'
-  wikiDataId: Q16350064
-- id: 168
-  name: Bashkia Krujë
-  state_id: 639
+- name: Bashkia Krujë
   state_code: DR
   state_name: Durrës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.50091000'
   longitude: '19.72571000'
-  wikiDataId: Q16350064
-- id: 185
-  name: Bashkia Shijak
-  state_id: 639
+- name: Bashkia Shijak
   state_code: DR
   state_name: Durrës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.33558000'
   longitude: '19.58977000'
-  wikiDataId: Q16350064
-- id: 197
-  name: Durrës
-  state_id: 639
+- name: Durrës
   state_code: DR
   state_name: Durrës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.32355000'
   longitude: '19.45469000'
-  wikiDataId: Q83285
-- id: 198
-  name: Durrës District
-  state_id: 639
+- name: Durrës District
   state_code: DR
   state_name: Durrës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.31660000'
   longitude: '19.45000000'
-  wikiDataId: Q37662
-- id: 203
-  name: Fushë-Krujë
-  state_id: 639
+- name: Fushë-Krujë
   state_code: DR
   state_name: Durrës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.47833000'
   longitude: '19.71778000'
-  wikiDataId: Q22012409
-- id: 214
-  name: Krujë
-  state_id: 639
+- name: Krujë
   state_code: DR
   state_name: Durrës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.50917000'
   longitude: '19.79278000'
-  wikiDataId: Q194164
-- id: 250
-  name: Rrethi i Krujës
-  state_id: 639
+- name: Rrethi i Krujës
   state_code: DR
   state_name: Durrës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.55000000'
   longitude: '19.75000000'
-  wikiDataId: Q194178
-- id: 265
-  name: Shijak
-  state_id: 639
+- name: Shijak
   state_code: DR
   state_name: Durrës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.34556000'
   longitude: '19.56722000'
-  wikiDataId: Q18791
-- id: 269
-  name: Sukth
-  state_id: 639
+- name: Sukth
   state_code: DR
   state_name: Durrës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.38056000'
   longitude: '19.53778000'
-  wikiDataId: Q593557
-- id: 152
-  name: Ballsh
-  state_id: 631
+- name: Ballsh
   state_code: '04'
   state_name: Fier
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.59889000'
   longitude: '19.73472000'
-  wikiDataId: Q743016
-- id: 157
-  name: Bashkia Divjakë
-  state_id: 631
+- name: Bashkia Divjakë
   state_code: '04'
   state_name: Fier
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.95716000'
   longitude: '19.52364000'
-  wikiDataId: Q16350064
-- id: 160
-  name: Bashkia Fier
-  state_id: 631
+- name: Bashkia Fier
   state_code: '04'
   state_name: Fier
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.72937000'
   longitude: '19.48690000'
-  wikiDataId: Q16350064
-- id: 174
-  name: Bashkia Mallakastër
-  state_id: 631
+- name: Bashkia Mallakastër
   state_code: '04'
   state_name: Fier
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.55669000'
   longitude: '19.77347000'
-  wikiDataId: Q16350064
-- id: 179
-  name: Bashkia Patos
-  state_id: 631
+- name: Bashkia Patos
   state_code: '04'
   state_name: Fier
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.67793000'
   longitude: '19.65591000'
-  wikiDataId: Q16350064
-- id: 196
-  name: Divjakë
-  state_id: 631
+- name: Divjakë
   state_code: '04'
   state_name: Fier
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.99667000'
   longitude: '19.52944000'
-  wikiDataId: Q1945622
-- id: 200
-  name: Fier
-  state_id: 631
+- name: Fier
   state_code: '04'
   state_name: Fier
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.72389000'
   longitude: '19.55611000'
-  wikiDataId: Q190897
-- id: 201
-  name: Fier-Çifçi
-  state_id: 631
+- name: Fier-Çifçi
   state_code: '04'
   state_name: Fier
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.71667000'
   longitude: '19.56667000'
-  wikiDataId: Q22012402
-- id: 227
-  name: Lushnjë
-  state_id: 631
+- name: Lushnjë
   state_code: '04'
   state_name: Fier
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.94194000'
   longitude: '19.70500000'
-  wikiDataId: Q212680
-- id: 234
-  name: Patos
-  state_id: 631
+- name: Patos
   state_code: '04'
   state_name: Fier
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.68333000'
   longitude: '19.61944000'
-  wikiDataId: Q18709
-- id: 235
-  name: Patos Fshat
-  state_id: 631
+- name: Patos Fshat
   state_code: '04'
   state_name: Fier
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.64278000'
   longitude: '19.65083000'
-  wikiDataId: Q13044035
-- id: 241
-  name: Roskovec
-  state_id: 631
+- name: Roskovec
   state_code: '04'
   state_name: Fier
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.73750000'
   longitude: '19.70222000'
-  wikiDataId: Q18746
-- id: 254
-  name: Rrethi i Mallakastrës
-  state_id: 631
+- name: Rrethi i Mallakastrës
   state_code: '04'
   state_name: Fier
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.55000000'
   longitude: '19.78333000'
-  wikiDataId: Q211946
-- id: 158
-  name: Bashkia Dropull
-  state_id: 621
+- name: Bashkia Dropull
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '39.98584000'
   longitude: '20.30529000'
-  wikiDataId: Q16350064
-- id: 164
-  name: Bashkia Kelcyrë
-  state_id: 621
+- name: Bashkia Kelcyrë
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.36196000'
   longitude: '20.16476000'
-  wikiDataId: Q16350064
-- id: 172
-  name: Bashkia Libohovë
-  state_id: 621
+- name: Bashkia Libohovë
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.10754000'
   longitude: '20.25753000'
-  wikiDataId: Q16350064
-- id: 177
-  name: Bashkia Memaliaj
-  state_id: 621
+- name: Bashkia Memaliaj
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.41524000'
   longitude: '19.96911000'
-  wikiDataId: Q16350064
-- id: 183
-  name: Bashkia Përmet
-  state_id: 621
+- name: Bashkia Përmet
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.23246000'
   longitude: '20.41091000'
-  wikiDataId: Q16350064
-- id: 187
-  name: Bashkia Tepelenë
-  state_id: 621
+- name: Bashkia Tepelenë
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.26736000'
   longitude: '19.97003000'
-  wikiDataId: Q16350064
-- id: 204
-  name: Gjinkar
-  state_id: 621
+- name: Gjinkar
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.19944000'
   longitude: '20.40611000'
-  wikiDataId: Q155137
-- id: 205
-  name: Gjirokastër
-  state_id: 621
+- name: Gjirokastër
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.07583000'
   longitude: '20.13889000'
-  wikiDataId: Q173690
-- id: 220
-  name: Këlcyrë
-  state_id: 621
+- name: Këlcyrë
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.31306000'
   longitude: '20.18944000'
-  wikiDataId: Q1007556
-- id: 221
-  name: Lazarat
-  state_id: 621
+- name: Lazarat
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.04667000'
   longitude: '20.14750000'
-  wikiDataId: Q2713473
-- id: 225
-  name: Libohovë
-  state_id: 621
+- name: Libohovë
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.03111000'
   longitude: '20.26306000'
-  wikiDataId: Q18738
-- id: 231
-  name: Memaliaj
-  state_id: 621
+- name: Memaliaj
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.35167000'
   longitude: '19.98028000'
-  wikiDataId: Q18749
-- id: 240
-  name: Përmet
-  state_id: 621
+- name: Përmet
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.23361000'
   longitude: '20.35167000'
-  wikiDataId: Q642856
-- id: 270
-  name: Tepelenë
-  state_id: 621
+- name: Tepelenë
   state_code: GJ
   state_name: Gjirokastër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.29583000'
   longitude: '20.01917000'
-  wikiDataId: Q81631
-- id: 156
-  name: Bashkia Devoll
-  state_id: 630
+- name: Bashkia Devoll
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.60078000'
   longitude: '20.93814000'
-  wikiDataId: Q3301181
-- id: 166
-  name: Bashkia Kolonjë
-  state_id: 630
+- name: Bashkia Kolonjë
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.31420000'
   longitude: '20.61482000'
-  wikiDataId: Q16350064
-- id: 173
-  name: Bashkia Maliq
-  state_id: 630
+- name: Bashkia Maliq
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.75508000'
   longitude: '20.60748000'
-  wikiDataId: Q16350064
-- id: 182
-  name: Bashkia Pustec
-  state_id: 630
+- name: Bashkia Pustec
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.83591000'
   longitude: '20.89405000'
-  wikiDataId: Q16350064
-- id: 192
-  name: Bilisht
-  state_id: 630
+- name: Bilisht
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.62750000'
   longitude: '20.99000000'
-  wikiDataId: Q817140
-- id: 199
-  name: Ersekë
-  state_id: 630
+- name: Ersekë
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.33778000'
   longitude: '20.67889000'
-  wikiDataId: Q18793
-- id: 212
-  name: Korçë
-  state_id: 630
+- name: Korçë
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.61861000'
   longitude: '20.78083000'
-  wikiDataId: Q116341
-- id: 223
-  name: Leskovik
-  state_id: 630
+- name: Leskovik
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.15139000'
   longitude: '20.59722000'
-  wikiDataId: Q18768
-- id: 226
-  name: Libonik
-  state_id: 630
+- name: Libonik
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.70444000'
   longitude: '20.70861000'
-  wikiDataId: Q628181
-- id: 228
-  name: Maliq
-  state_id: 630
+- name: Maliq
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.70583000'
   longitude: '20.69972000'
-  wikiDataId: Q772248
-- id: 230
-  name: Mborje
-  state_id: 630
+- name: Mborje
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.60333000'
   longitude: '20.80306000'
-  wikiDataId: Q16347657
-- id: 237
-  name: Pogradec
-  state_id: 630
+- name: Pogradec
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.90250000'
   longitude: '20.65250000'
-  wikiDataId: Q73639
-- id: 245
-  name: Rrethi i Devollit
-  state_id: 630
+- name: Rrethi i Devollit
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.58333000'
   longitude: '20.91667000'
-  wikiDataId: Q192126
-- id: 249
-  name: Rrethi i Kolonjës
-  state_id: 630
+- name: Rrethi i Kolonjës
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.25000000'
   longitude: '20.66667000'
-  wikiDataId: Q194178
-- id: 275
-  name: Velçan
-  state_id: 630
+- name: Velçan
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.95472000'
   longitude: '20.46222000'
-  wikiDataId: Q285899
-- id: 278
-  name: Voskopojë
-  state_id: 630
+- name: Voskopojë
   state_code: '06'
   state_name: Korçë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.63306000'
   longitude: '20.58889000'
-  wikiDataId: Q757298
-- id: 151
-  name: Bajram Curri
-  state_id: 623
+- name: Bajram Curri
   state_code: KU
   state_name: Kukës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.35734000'
   longitude: '20.07679000'
-  wikiDataId: Q18705
-- id: 215
-  name: Krumë
-  state_id: 623
+- name: Krumë
   state_code: KU
   state_name: Kukës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.19694000'
   longitude: '20.41333000'
-  wikiDataId: Q958899
-- id: 217
-  name: Kukës
-  state_id: 623
+- name: Kukës
   state_code: KU
   state_name: Kukës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.07694000'
   longitude: '20.42194000'
-  wikiDataId: Q210197
-- id: 247
-  name: Rrethi i Hasit
-  state_id: 623
+- name: Rrethi i Hasit
   state_code: KU
   state_name: Kukës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.16667000'
   longitude: '20.33333000'
-  wikiDataId: Q207007
-- id: 251
-  name: Rrethi i Kukësit
-  state_id: 623
+- name: Rrethi i Kukësit
   state_code: KU
   state_name: Kukës
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.00000000'
   longitude: '20.33333000'
-  wikiDataId: Q123395
-- id: 169
-  name: Bashkia Kurbin
-  state_id: 609
+- name: Bashkia Kurbin
   state_code: '08'
   state_name: Lezhë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.62215000'
   longitude: '19.70734000'
-  wikiDataId: Q16350064
-- id: 171
-  name: Bashkia Lezhë
-  state_id: 609
+- name: Bashkia Lezhë
   state_code: '08'
   state_name: Lezhë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.81320000'
   longitude: '19.64121000'
-  wikiDataId: Q16350064
-- id: 178
-  name: Bashkia Mirditë
-  state_id: 609
+- name: Bashkia Mirditë
   state_code: '08'
   state_name: Lezhë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.80953000'
   longitude: '19.99024000'
-  wikiDataId: Q16350064
-- id: 218
-  name: Kurbnesh
-  state_id: 609
+- name: Kurbnesh
   state_code: '08'
   state_name: Lezhë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.77972000'
   longitude: '20.08361000'
-  wikiDataId: Q616927
-- id: 222
-  name: Laç
-  state_id: 609
+- name: Laç
   state_code: '08'
   state_name: Lezhë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.63556000'
   longitude: '19.71306000'
-  wikiDataId: Q18768
-- id: 224
-  name: Lezhë
-  state_id: 609
+- name: Lezhë
   state_code: '08'
   state_name: Lezhë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.78361000'
   longitude: '19.64361000'
-  wikiDataId: Q169160
-- id: 229
-  name: Mamurras
-  state_id: 609
+- name: Mamurras
   state_code: '08'
   state_name: Lezhë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.57750000'
   longitude: '19.69222000'
-  wikiDataId: Q991268
-- id: 232
-  name: Milot
-  state_id: 609
+- name: Milot
   state_code: '08'
   state_name: Lezhë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.68389000'
   longitude: '19.71556000'
-  wikiDataId: Q18749
-- id: 261
-  name: Rrëshen
-  state_id: 609
+- name: Rrëshen
   state_code: '08'
   state_name: Lezhë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.76750000'
   longitude: '19.87556000'
-  wikiDataId: Q18737
-- id: 252
-  name: Rrethi i Kurbinit
-  state_id: 609
+- name: Rrethi i Kurbinit
   state_code: '08'
   state_name: Lezhë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.63333000'
   longitude: '19.71667000'
-  wikiDataId: Q123602
-- id: 262
-  name: Rubik
-  state_id: 609
+- name: Rubik
   state_code: '08'
   state_name: Lezhë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.77444000'
   longitude: '19.78611000'
-  wikiDataId: Q19259
-- id: 267
-  name: Shëngjin
-  state_id: 609
+- name: Shëngjin
   state_code: '08'
   state_name: Lezhë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.81361000'
   longitude: '19.59389000'
-  wikiDataId: Q606485
-- id: 175
-  name: Bashkia Malësi e Madhe
-  state_id: 626
+- name: Bashkia Malësi e Madhe
   state_code: SH
   state_name: Shkodër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.36798000'
   longitude: '19.58977000'
-  wikiDataId: Q16350064
-- id: 181
-  name: Bashkia Pukë
-  state_id: 626
+- name: Bashkia Pukë
   state_code: SH
   state_name: Shkodër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.02997000'
   longitude: '19.92778000'
-  wikiDataId: Q16350064
-- id: 188
-  name: Bashkia Vau i Dejës
-  state_id: 626
+- name: Bashkia Vau i Dejës
   state_code: SH
   state_name: Shkodër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.04834000'
   longitude: '19.69999000'
-  wikiDataId: Q16350064
-- id: 202
-  name: Fushë-Arrëz
-  state_id: 626
+- name: Fushë-Arrëz
   state_code: SH
   state_name: Shkodër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.06222000'
   longitude: '20.01667000'
-  wikiDataId: Q22005048
-- id: 211
-  name: Koplik
-  state_id: 626
+- name: Koplik
   state_code: SH
   state_name: Shkodër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.21361000'
   longitude: '19.43639000'
-  wikiDataId: Q991288
-- id: 239
-  name: Pukë
-  state_id: 626
+- name: Pukë
   state_code: SH
   state_name: Shkodër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.04444000'
   longitude: '19.89972000'
-  wikiDataId: Q19310
-- id: 255
-  name: Rrethi i Malësia e Madhe
-  state_id: 626
+- name: Rrethi i Malësia e Madhe
   state_code: SH
   state_name: Shkodër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.33333000'
   longitude: '19.58333000'
-  wikiDataId: Q236845
-- id: 257
-  name: Rrethi i Shkodrës
-  state_id: 626
+- name: Rrethi i Shkodrës
   state_code: SH
   state_name: Shkodër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.06917000'
   longitude: '19.53506000'
-  wikiDataId: Q194176
-- id: 266
-  name: Shkodër
-  state_id: 626
+- name: Shkodër
   state_code: SH
   state_name: Shkodër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.06828000'
   longitude: '19.51258000'
-  wikiDataId: Q131638
-- id: 274
-  name: Vau i Dejës
-  state_id: 626
+- name: Vau i Dejës
   state_code: SH
   state_name: Shkodër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.01000000'
   longitude: '19.62472000'
-  wikiDataId: Q1787536
-- id: 279
-  name: Vukatanë
-  state_id: 626
+- name: Vukatanë
   state_code: SH
   state_name: Shkodër
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '42.02806000'
   longitude: '19.54778000'
-  wikiDataId: Q757298
-- id: 163
-  name: Bashkia Kavajë
-  state_id: 633
+- name: Bashkia Kavajë
   state_code: TR
   state_name: Tirana
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.18127000'
   longitude: '19.55579000'
-  wikiDataId: Q16350064
-- id: 190
-  name: Bashkia Vorë
-  state_id: 633
+- name: Bashkia Vorë
   state_code: TR
   state_name: Tirana
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.39804000'
   longitude: '19.67703000'
-  wikiDataId: Q16350064
-- id: 207
-  name: Kamëz
-  state_id: 633
+- name: Kamëz
   state_code: TR
   state_name: Tirana
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.38167000'
   longitude: '19.76028000'
-  wikiDataId: Q605160
-- id: 208
-  name: Kavajë
-  state_id: 633
+- name: Kavajë
   state_code: TR
   state_name: Tirana
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.18556000'
   longitude: '19.55694000'
-  wikiDataId: Q46702
-- id: 213
-  name: Krrabë
-  state_id: 633
+- name: Krrabë
   state_code: TR
   state_name: Tirana
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.21556000'
   longitude: '19.97139000'
-  wikiDataId: Q22009668
-- id: 248
-  name: Rrethi i Kavajës
-  state_id: 633
+- name: Rrethi i Kavajës
   state_code: TR
   state_name: Tirana
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.16667000'
   longitude: '19.58333000'
-  wikiDataId: Q194182
-- id: 259
-  name: Rrethi i Tiranës
-  state_id: 633
+- name: Rrethi i Tiranës
   state_code: TR
   state_name: Tirana
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.33333000'
   longitude: '19.91667000'
-  wikiDataId: Q201073
-- id: 260
-  name: Rrogozhinë
-  state_id: 633
+- name: Rrogozhinë
   state_code: TR
   state_name: Tirana
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.07639000'
   longitude: '19.66528000'
-  wikiDataId: Q22008389
-- id: 268
-  name: Sinaballaj
-  state_id: 633
+- name: Sinaballaj
   state_code: TR
   state_name: Tirana
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.06889000'
   longitude: '19.69944000'
-  wikiDataId: Q602969
-- id: 271
-  name: Tirana
-  state_id: 633
+- name: Tirana
   state_code: TR
   state_name: Tirana
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.32750000'
   longitude: '19.81889000'
-  wikiDataId: Q19689
-- id: 277
-  name: Vorë
-  state_id: 633
+- name: Vorë
   state_code: TR
   state_name: Tirana
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '41.39083000'
   longitude: '19.65500000'
-  wikiDataId: Q22007611
-- id: 161
-  name: Bashkia Finiq
-  state_id: 634
+- name: Bashkia Finiq
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '39.84393000'
   longitude: '20.16659000'
-  wikiDataId: Q16350064
-- id: 162
-  name: Bashkia Himarë
-  state_id: 634
+- name: Bashkia Himarë
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.11581000'
   longitude: '19.81389000'
-  wikiDataId: Q16350064
-- id: 167
-  name: Bashkia Konispol
-  state_id: 634
+- name: Bashkia Konispol
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '39.70064000'
   longitude: '20.13353000'
-  wikiDataId: Q16350064
-- id: 184
-  name: Bashkia Selenicë
-  state_id: 634
+- name: Bashkia Selenicë
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.39503000'
   longitude: '19.65958000'
-  wikiDataId: Q16350064
-- id: 189
-  name: Bashkia Vlorë
-  state_id: 634
+- name: Bashkia Vlorë
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.41340000'
   longitude: '19.49792000'
-  wikiDataId: Q16350064
-- id: 195
-  name: Delvinë
-  state_id: 634
+- name: Delvinë
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '39.95111000'
   longitude: '20.09778000'
-  wikiDataId: Q372872
-- id: 206
-  name: Himarë
-  state_id: 634
+- name: Himarë
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.10167000'
   longitude: '19.74472000'
-  wikiDataId: Q5765138
-- id: 210
-  name: Konispol
-  state_id: 634
+- name: Konispol
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '39.65889000'
   longitude: '20.18139000'
-  wikiDataId: Q18731
-- id: 216
-  name: Ksamil
-  state_id: 634
+- name: Ksamil
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '39.76889000'
   longitude: '19.99972000'
-  wikiDataId: Q1790776
-- id: 233
-  name: Orikum
-  state_id: 634
+- name: Orikum
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.32528000'
   longitude: '19.47139000'
-  wikiDataId: Q22009845
-- id: 244
-  name: Rrethi i Delvinës
-  state_id: 634
+- name: Rrethi i Delvinës
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '39.91667000'
   longitude: '20.08333000'
-  wikiDataId: Q166959
-- id: 263
-  name: Sarandë
-  state_id: 634
+- name: Sarandë
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '39.87534000'
   longitude: '20.00477000'
-  wikiDataId: Q193226
-- id: 264
-  name: Selenicë
-  state_id: 634
+- name: Selenicë
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.53056000'
   longitude: '19.63583000'
-  wikiDataId: Q134613
-- id: 276
-  name: Vlorë
-  state_id: 634
+- name: Vlorë
   state_code: '12'
   state_name: Vlorë
-  country_id: 3
-  country_code: AL
-  country_name: Albania
   latitude: '40.46860000'
   longitude: '19.48318000'
-  wikiDataId: Q159610

@@ -1,7327 +1,3331 @@
 ---
-- id: 79688
-  name: Åseral
-  state_id: 1014
+- name: Åseral
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.61730000'
   longitude: '7.41118000'
-  wikiDataId: Q271275
-- id: 79049
-  name: Audnedal
-  state_id: 1014
+- name: Audnedal
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.28378000'
   longitude: '7.35487000'
-  wikiDataId: Q499842
-- id: 79134
-  name: Farsund
-  state_id: 1014
+- name: Farsund
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.09538000'
   longitude: '6.80403000'
-  wikiDataId: Q490462
-- id: 79149
-  name: Flekkefjord
-  state_id: 1014
+- name: Flekkefjord
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.29791000'
   longitude: '6.66345000'
-  wikiDataId: Q493481
-- id: 79246
-  name: Hægebostad
-  state_id: 1014
+- name: Hægebostad
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.37572000'
   longitude: '7.21973000'
-  wikiDataId: Q488962
-- id: 79260
-  name: Justvik
-  state_id: 1014
+- name: Justvik
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.19691000'
   longitude: '8.03107000'
-  wikiDataId: Q1788207
-- id: 79287
-  name: Kristiansand
-  state_id: 1014
+- name: Kristiansand
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.14642000'
   longitude: '7.99687000'
-  wikiDataId: Q2415
-- id: 79292
-  name: Kvinesdal
-  state_id: 1014
+- name: Kvinesdal
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.23894000'
   longitude: '6.71445000'
-  wikiDataId: Q488747
-- id: 79322
-  name: Liknes
-  state_id: 1014
+- name: Liknes
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.31216000'
   longitude: '6.96180000'
-  wikiDataId: Q2110437
-- id: 79325
-  name: Lindesnes
-  state_id: 1014
+- name: Lindesnes
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.08435000'
   longitude: '7.30162000'
-  wikiDataId: Q489038
-- id: 79337
-  name: Lyngdal
-  state_id: 1014
+- name: Lyngdal
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.13829000'
   longitude: '7.06836000'
-  wikiDataId: Q505952
-- id: 79350
-  name: Mandal
-  state_id: 1014
+- name: Mandal
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.02633000'
   longitude: '7.45014000'
-  wikiDataId: Q108966
-- id: 79353
-  name: Marnardal
-  state_id: 1014
+- name: Marnardal
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.19802000'
   longitude: '7.52802000'
-  wikiDataId: Q378704
-- id: 79400
-  name: Nodeland
-  state_id: 1014
+- name: Nodeland
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.15517000'
   longitude: '7.83576000'
-  wikiDataId: Q2094768
-- id: 79499
-  name: Sirdal
-  state_id: 1014
+- name: Sirdal
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.66510000'
   longitude: '6.71585000'
-  wikiDataId: Q281835
-- id: 79523
-  name: Skålevik
-  state_id: 1014
+- name: Skålevik
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.07955000'
   longitude: '8.01602000'
-  wikiDataId: Q2119389
-- id: 79533
-  name: Songdalen
-  state_id: 1014
+- name: Songdalen
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.15273000'
   longitude: '7.83677000'
-  wikiDataId: Q505956
-- id: 79576
-  name: Søgne
-  state_id: 1014
+- name: Søgne
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.09663000'
   longitude: '7.81491000'
-  wikiDataId: Q501401
-- id: 79554
-  name: Strai
-  state_id: 1014
+- name: Strai
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.18930000'
   longitude: '7.92826000'
-  wikiDataId: Q3366307
-- id: 79602
-  name: Tonstad
-  state_id: 1014
+- name: Tonstad
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.66263000'
   longitude: '6.71694000'
-  wikiDataId: Q1985569
-- id: 79613
-  name: Tveit
-  state_id: 1014
+- name: Tveit
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.23366000'
   longitude: '8.12199000'
-  wikiDataId: Q1025357
-- id: 79631
-  name: Vanse
-  state_id: 1014
+- name: Vanse
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.09812000'
   longitude: '6.69184000'
-  wikiDataId: Q1006472
-- id: 79639
-  name: Vennesla
-  state_id: 1014
+- name: Vennesla
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.34271000'
   longitude: '7.97596000'
-  wikiDataId: Q500227
-- id: 79643
-  name: Vestbygd
-  state_id: 1014
+- name: Vestbygd
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.09991000'
   longitude: '6.58696000'
-  wikiDataId: Q1789912
-- id: 79649
-  name: Vigeland
-  state_id: 1014
+- name: Vigeland
   state_code: '42'
   state_name: Agder
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.08437000'
   longitude: '7.30497000'
-  wikiDataId: Q1208376
-- id: 79040
-  name: Alvdal
-  state_id: 1009
+- name: Alvdal
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.10854000'
   longitude: '10.63483000'
-  wikiDataId: Q48723
-- id: 79679
-  name: Åmot
-  state_id: 1009
+- name: Åmot
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.13199000'
   longitude: '11.37328000'
-  wikiDataId: Q271063
-- id: 79690
-  name: Åsnes
-  state_id: 1009
+- name: Åsnes
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.61363000'
   longitude: '12.01200000'
-  wikiDataId: Q48769
-- id: 79059
-  name: Bagn
-  state_id: 1009
+- name: Bagn
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.82249000'
   longitude: '9.55207000'
-  wikiDataId: Q50644
-- id: 79089
-  name: Brumunddal
-  state_id: 1009
+- name: Brumunddal
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.88095000'
   longitude: '10.93948000'
-  wikiDataId: Q992492
-- id: 79101
-  name: Dokka
-  state_id: 1009
+- name: Dokka
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.83500000'
   longitude: '10.07362000'
-  wikiDataId: Q1856800
-- id: 79102
-  name: Dombås
-  state_id: 1009
+- name: Dombås
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.07554000'
   longitude: '9.12785000'
-  wikiDataId: Q1025951
-- id: 79103
-  name: Dovre
-  state_id: 1009
+- name: Dovre
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.98582000'
   longitude: '9.24947000'
-  wikiDataId: Q486677
-- id: 79114
-  name: Eidskog
-  state_id: 1009
+- name: Eidskog
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.98556000'
   longitude: '12.12502000'
-  wikiDataId: Q48913
-- id: 79122
-  name: Elverum
-  state_id: 1009
+- name: Elverum
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.88159000'
   longitude: '11.56314000'
-  wikiDataId: Q109140
-- id: 79124
-  name: Engerdal
-  state_id: 1009
+- name: Engerdal
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.75774000'
   longitude: '11.95966000'
-  wikiDataId: Q48909
-- id: 79127
-  name: Etnedal
-  state_id: 1009
+- name: Etnedal
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.88872000'
   longitude: '9.64031000'
-  wikiDataId: Q488049
-- id: 79131
-  name: Fagernes
-  state_id: 1009
+- name: Fagernes
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.98584000'
   longitude: '9.23236000'
-  wikiDataId: Q2832251
-- id: 79154
-  name: Folldal
-  state_id: 1009
+- name: Folldal
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.13329000'
   longitude: '9.99710000'
-  wikiDataId: Q484064
-- id: 79157
-  name: Fossbergom
-  state_id: 1009
+- name: Fossbergom
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.83772000'
   longitude: '8.56842000'
-  wikiDataId: Q2603155
-- id: 79173
-  name: Gausdal
-  state_id: 1009
+- name: Gausdal
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.22685000'
   longitude: '10.22145000'
-  wikiDataId: Q486713
-- id: 79180
-  name: Gjøvik
-  state_id: 1009
+- name: Gjøvik
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.79472000'
   longitude: '10.69287000'
-  wikiDataId: Q108031
-- id: 79185
-  name: Gran
-  state_id: 1009
+- name: Gran
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.39293000'
   longitude: '10.56045000'
-  wikiDataId: Q501518
-- id: 79191
-  name: Grua
-  state_id: 1009
+- name: Grua
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.25701000'
   longitude: '10.66222000'
-  wikiDataId: Q1011086
-- id: 79192
-  name: Grue
-  state_id: 1009
+- name: Grue
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.45133000'
   longitude: '12.05489000'
-  wikiDataId: Q488783
-- id: 79201
-  name: Hamar
-  state_id: 1009
+- name: Hamar
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.79450000'
   longitude: '11.06798000'
-  wikiDataId: Q3738335
-- id: 79237
-  name: Hov
-  state_id: 1009
+- name: Hov
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.69870000'
   longitude: '10.35193000'
-  wikiDataId: Q584923
-- id: 79238
-  name: Hundorp
-  state_id: 1009
+- name: Hundorp
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.55523000'
   longitude: '9.94069000'
-  wikiDataId: Q1772488
-- id: 79254
-  name: Innbygda
-  state_id: 1009
+- name: Innbygda
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.31484000'
   longitude: '12.26374000'
-  wikiDataId: Q1789922
-- id: 79257
-  name: Jevnaker
-  state_id: 1009
+- name: Jevnaker
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.24060000'
   longitude: '10.38587000'
-  wikiDataId: Q486704
-- id: 79271
-  name: Kirkenær
-  state_id: 1009
+- name: Kirkenær
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.45790000'
   longitude: '12.05855000'
-  wikiDataId: Q1773779
-- id: 79282
-  name: Kongsvinger
-  state_id: 1009
+- name: Kongsvinger
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.19117000'
   longitude: '11.99916000'
-  wikiDataId: Q109499
-- id: 79284
-  name: Koppang
-  state_id: 1009
+- name: Koppang
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.57219000'
   longitude: '11.04659000'
-  wikiDataId: Q1021744
-- id: 79315
-  name: Lena
-  state_id: 1009
+- name: Lena
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.67391000'
   longitude: '10.81317000'
-  wikiDataId: Q3356142
-- id: 79318
-  name: Lesja
-  state_id: 1009
+- name: Lesja
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.11785000'
   longitude: '8.86262000'
-  wikiDataId: Q488405
-- id: 79323
-  name: Lillehammer
-  state_id: 1009
+- name: Lillehammer
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.11464000'
   longitude: '10.46743000'
-  wikiDataId: Q101341
-- id: 79327
-  name: Lom
-  state_id: 1009
+- name: Lom
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.83639000'
   longitude: '8.56811000'
-  wikiDataId: Q488395
-- id: 79347
-  name: Løten
-  state_id: 1009
+- name: Løten
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.81771000'
   longitude: '11.34373000'
-  wikiDataId: Q488951
-- id: 79333
-  name: Lunner
-  state_id: 1009
+- name: Lunner
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.29462000'
   longitude: '10.60860000'
-  wikiDataId: Q488398
-- id: 79369
-  name: Moelv
-  state_id: 1009
+- name: Moelv
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.93333000'
   longitude: '10.70000000'
-  wikiDataId: Q1863851
-- id: 79402
-  name: Nord-Aurdal
-  state_id: 1009
+- name: Nord-Aurdal
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.98531000'
   longitude: '9.23661000'
-  wikiDataId: Q484074
-- id: 79403
-  name: Nord-Fron
-  state_id: 1009
+- name: Nord-Fron
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.59556000'
   longitude: '9.74830000'
-  wikiDataId: Q488401
-- id: 79404
-  name: Nord-Odal
-  state_id: 1009
+- name: Nord-Odal
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.39195000'
   longitude: '11.54151000'
-  wikiDataId: Q484218
-- id: 79408
-  name: Nordre Land
-  state_id: 1009
+- name: Nordre Land
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.83471000'
   longitude: '10.07543000'
-  wikiDataId: Q486741
-- id: 79422
-  name: Os
-  state_id: 1009
+- name: Os
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.49536000'
   longitude: '11.22807000'
-  wikiDataId: Q507562
-- id: 79427
-  name: Otta
-  state_id: 1009
+- name: Otta
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.77120000'
   longitude: '9.53529000'
-  wikiDataId: Q980616
-- id: 79699
-  name: Østre Toten
-  state_id: 1009
+- name: Østre Toten
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.67659000'
   longitude: '10.81997000'
-  wikiDataId: Q308420
-- id: 79701
-  name: Øyer
-  state_id: 1009
+- name: Øyer
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.26495000'
   longitude: '10.41297000'
-  wikiDataId: Q316779
-- id: 79704
-  name: Øystre Slidre
-  state_id: 1009
+- name: Øystre Slidre
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.13377000'
   longitude: '9.07872000'
-  wikiDataId: Q329894
-- id: 79439
-  name: Raufoss
-  state_id: 1009
+- name: Raufoss
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.72604000'
   longitude: '10.61330000'
-  wikiDataId: Q2632394
-- id: 79443
-  name: Reinsvoll
-  state_id: 1009
+- name: Reinsvoll
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.67977000'
   longitude: '10.62175000'
-  wikiDataId: Q1769623
-- id: 79444
-  name: Rena
-  state_id: 1009
+- name: Rena
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.13222000'
   longitude: '11.37156000'
-  wikiDataId: Q1453033
-- id: 79445
-  name: Rendalen
-  state_id: 1009
+- name: Rendalen
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.89004000'
   longitude: '11.07694000'
-  wikiDataId: Q488229
-- id: 79450
-  name: Ringebu
-  state_id: 1009
+- name: Ringebu
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.52980000'
   longitude: '10.14180000'
-  wikiDataId: Q48637
-- id: 79452
-  name: Ringsaker
-  state_id: 1009
+- name: Ringsaker
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.88216000'
   longitude: '10.95030000'
-  wikiDataId: Q113466
-- id: 79477
-  name: Sand
-  state_id: 1009
+- name: Sand
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.39220000'
   longitude: '11.54030000'
-  wikiDataId: Q740386
-- id: 79490
-  name: Sel
-  state_id: 1009
+- name: Sel
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.77278000'
   longitude: '9.53415000'
-  wikiDataId: Q507499
-- id: 79504
-  name: Skarnes
-  state_id: 1009
+- name: Skarnes
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.25391000'
   longitude: '11.68485000'
-  wikiDataId: Q1770939
-- id: 79512
-  name: Skjåk
-  state_id: 1009
+- name: Skjåk
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.88349000'
   longitude: '8.26490000'
-  wikiDataId: Q484116
-- id: 79519
-  name: Skotterud
-  state_id: 1009
+- name: Skotterud
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.98281000'
   longitude: '12.12825000'
-  wikiDataId: Q2199159
-- id: 79520
-  name: Skreia
-  state_id: 1009
+- name: Skreia
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.65257000'
   longitude: '10.93564000'
-  wikiDataId: Q1769694
-- id: 79578
-  name: Søndre Land
-  state_id: 1009
+- name: Søndre Land
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.69944000'
   longitude: '10.35086000'
-  wikiDataId: Q484093
-- id: 79579
-  name: Sør-Aurdal
-  state_id: 1009
+- name: Sør-Aurdal
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.82242000'
   longitude: '9.54836000'
-  wikiDataId: Q48414
-- id: 79580
-  name: Sør-Fron
-  state_id: 1009
+- name: Sør-Fron
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.55652000'
   longitude: '9.93949000'
-  wikiDataId: Q488054
-- id: 79581
-  name: Sør-Odal
-  state_id: 1009
+- name: Sør-Odal
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.25455000'
   longitude: '11.68246000'
-  wikiDataId: Q48615
-- id: 79535
-  name: Spetalen
-  state_id: 1009
+- name: Spetalen
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.18333000'
   longitude: '11.90000000'
-  wikiDataId: Q48844
-- id: 79537
-  name: Stange
-  state_id: 1009
+- name: Stange
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.71576000'
   longitude: '11.19069000'
-  wikiDataId: Q48542
-- id: 79547
-  name: Stor-Elvdal
-  state_id: 1009
+- name: Stor-Elvdal
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.57198000'
   longitude: '11.04759000'
-  wikiDataId: Q48526
-- id: 79599
-  name: Tolga
-  state_id: 1009
+- name: Tolga
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.40984000'
   longitude: '10.99770000'
-  wikiDataId: Q507549
-- id: 79606
-  name: Tretten
-  state_id: 1009
+- name: Tretten
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.31423000'
   longitude: '10.30066000'
-  wikiDataId: Q1770106
-- id: 79610
-  name: Trysil
-  state_id: 1009
+- name: Trysil
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.31549000'
   longitude: '12.26422000'
-  wikiDataId: Q48529
-- id: 79615
-  name: Tynset
-  state_id: 1009
+- name: Tynset
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.27387000'
   longitude: '10.77626000'
-  wikiDataId: Q488779
-- id: 79665
-  name: Vågå
-  state_id: 1009
+- name: Vågå
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.87565000'
   longitude: '9.09572000'
-  wikiDataId: Q113438
-- id: 79666
-  name: Vågåmo
-  state_id: 1009
+- name: Vågåmo
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.87505000'
   longitude: '9.09671000'
-  wikiDataId: Q1777208
-- id: 79667
-  name: Våler
-  state_id: 1009
+- name: Våler
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.67845000'
   longitude: '11.83314000'
-  wikiDataId: Q501413
-- id: 79630
-  name: Vang
-  state_id: 1009
+- name: Vang
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.12564000'
   longitude: '8.57167000'
-  wikiDataId: Q503637
-- id: 79645
-  name: Vestre Slidre
-  state_id: 1009
+- name: Vestre Slidre
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.08842000'
   longitude: '8.98196000'
-  wikiDataId: Q488439
-- id: 79646
-  name: Vestre Toten
-  state_id: 1009
+- name: Vestre Toten
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.72593000'
   longitude: '10.60764000'
-  wikiDataId: Q48717
-- id: 79659
-  name: Vinstra
-  state_id: 1009
+- name: Vinstra
   state_code: '34'
   state_name: Innlandet
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.59496000'
   longitude: '9.75134000'
-  wikiDataId: Q1016362
-- id: 79678
-  name: Ålesund
-  state_id: 1020
+- name: Ålesund
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.47225000'
   longitude: '6.15492000'
-  wikiDataId: Q42900680
-- id: 79680
-  name: Åndalsnes
-  state_id: 1020
+- name: Åndalsnes
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.56749000'
   longitude: '7.68709000'
-  wikiDataId: Q271083
-- id: 79050
-  name: Aukra
-  state_id: 1020
+- name: Aukra
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.80500000'
   longitude: '6.88722000'
-  wikiDataId: Q489342
-- id: 79052
-  name: Aure
-  state_id: 1020
+- name: Aure
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.26750000'
   longitude: '8.52778000'
-  wikiDataId: Q499429
-- id: 79058
-  name: Averøy
-  state_id: 1020
+- name: Averøy
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.05344000'
   longitude: '7.63265000'
-  wikiDataId: Q484111
-- id: 79066
-  name: Batnfjordsøra
-  state_id: 1020
+- name: Batnfjordsøra
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.89463000'
   longitude: '7.67251000'
-  wikiDataId: Q1780612
-- id: 79086
-  name: Brattvåg
-  state_id: 1020
+- name: Brattvåg
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.59991000'
   longitude: '6.44426000'
-  wikiDataId: Q3229418
-- id: 79111
-  name: Eide
-  state_id: 1020
+- name: Eide
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.91570000'
   longitude: '7.44496000'
-  wikiDataId: Q493296
-- id: 79116
-  name: Eidsvåg
-  state_id: 1020
+- name: Eidsvåg
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.77656000'
   longitude: '8.06550000'
-  wikiDataId: Q1971033
-- id: 79121
-  name: Elnesvågen
-  state_id: 1020
+- name: Elnesvågen
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.85426000'
   longitude: '7.13769000'
-  wikiDataId: Q2185966
-- id: 79164
-  name: Fræna
-  state_id: 1020
+- name: Fræna
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.85375000'
   longitude: '7.15380000'
-  wikiDataId: Q484128
-- id: 79176
-  name: Giske
-  state_id: 1020
+- name: Giske
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.50070000'
   longitude: '6.13472000'
-  wikiDataId: Q494670
-- id: 79177
-  name: Gjemnes
-  state_id: 1020
+- name: Gjemnes
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.89379000'
   longitude: '7.67714000'
-  wikiDataId: Q493283
-- id: 79200
-  name: Halsa
-  state_id: 1020
+- name: Halsa
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.11855000'
   longitude: '8.31536000'
-  wikiDataId: Q488247
-- id: 79205
-  name: Haram
-  state_id: 1020
+- name: Haram
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.59898000'
   longitude: '6.44483000'
-  wikiDataId: Q499575
-- id: 79207
-  name: Hareid
-  state_id: 1020
+- name: Hareid
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.36742000'
   longitude: '6.02114000'
-  wikiDataId: Q494029
-- id: 79221
-  name: Herøy
-  state_id: 1020
+- name: Herøy
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.33333000'
   longitude: '5.63598000'
-  wikiDataId: Q493762
-- id: 79225
-  name: Hjelset
-  state_id: 1020
+- name: Hjelset
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.78050000'
   longitude: '7.49277000'
-  wikiDataId: Q1770680
-- id: 79234
-  name: Hopen
-  state_id: 1020
+- name: Hopen
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.46539000'
   longitude: '8.01437000'
-  wikiDataId: Q4573729
-- id: 79288
-  name: Kristiansund
-  state_id: 1020
+- name: Kristiansund
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.11152000'
   longitude: '7.73198000'
-  wikiDataId: Q109483
-- id: 79303
-  name: Larsnes
-  state_id: 1020
+- name: Larsnes
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.20282000'
   longitude: '5.57729000'
-  wikiDataId: Q1781160
-- id: 79364
-  name: Midsund
-  state_id: 1020
+- name: Midsund
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.67614000'
   longitude: '6.67776000'
-  wikiDataId: Q488380
-- id: 79372
-  name: Molde
-  state_id: 1020
+- name: Molde
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.73807000'
   longitude: '7.15882000'
-  wikiDataId: Q104095
-- id: 79397
-  name: Nesset
-  state_id: 1020
+- name: Nesset
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.77619000'
   longitude: '8.06623000'
-  wikiDataId: Q484046
-- id: 79405
-  name: Norddal
-  state_id: 1020
+- name: Norddal
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.29910000'
   longitude: '7.26145000'
-  wikiDataId: Q494011
-- id: 79410
-  name: Nordstranda
-  state_id: 1020
+- name: Nordstranda
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.51384000'
   longitude: '6.13166000'
-  wikiDataId: Q3364828
-- id: 79697
-  name: Ørskog
-  state_id: 1020
+- name: Ørskog
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.48450000'
   longitude: '6.82025000'
-  wikiDataId: Q308260
-- id: 79698
-  name: Ørsta
-  state_id: 1020
+- name: Ørsta
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.19937000'
   longitude: '6.13084000'
-  wikiDataId: Q156453
-- id: 79440
-  name: Rauma
-  state_id: 1020
+- name: Rauma
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.56810000'
   longitude: '7.68612000'
-  wikiDataId: Q500205
-- id: 79448
-  name: Rensvik
-  state_id: 1020
+- name: Rensvik
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.09843000'
   longitude: '7.82026000'
-  wikiDataId: Q1797586
-- id: 79481
-  name: Sande
-  state_id: 1020
+- name: Sande
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.20455000'
   longitude: '5.57971000'
-  wikiDataId: Q501510
-- id: 79486
-  name: Sandøy
-  state_id: 1020
+- name: Sandøy
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.78167000'
   longitude: '6.46875000'
-  wikiDataId: Q48794
-- id: 79501
-  name: Sjøholt
-  state_id: 1020
+- name: Sjøholt
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.48263000'
   longitude: '6.81376000'
-  wikiDataId: Q3315591
-- id: 79514
-  name: Skodje
-  state_id: 1020
+- name: Skodje
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.50306000'
   longitude: '6.69817000'
-  wikiDataId: Q48265
-- id: 79525
-  name: Smøla
-  state_id: 1020
+- name: Smøla
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.46526000'
   longitude: '8.01814000'
-  wikiDataId: Q483899
-- id: 79542
-  name: Steinshamn
-  state_id: 1020
+- name: Steinshamn
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.78389000'
   longitude: '6.47065000'
-  wikiDataId: Q2266366
-- id: 79549
-  name: Stordal
-  state_id: 1020
+- name: Stordal
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.38214000'
   longitude: '6.98708000'
-  wikiDataId: Q48560
-- id: 79556
-  name: Stranda
-  state_id: 1020
+- name: Stranda
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.31132000'
   longitude: '6.93115000'
-  wikiDataId: Q48501
-- id: 79562
-  name: Sula
-  state_id: 1020
+- name: Sula
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.44447000'
   longitude: '6.21229000'
-  wikiDataId: Q507524
-- id: 79565
-  name: Sunndal
-  state_id: 1020
+- name: Sunndal
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.67464000'
   longitude: '8.56188000'
-  wikiDataId: Q48521
-- id: 79566
-  name: Sunndalsøra
-  state_id: 1020
+- name: Sunndalsøra
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.67519000'
   longitude: '8.56327000'
-  wikiDataId: Q716536
-- id: 79567
-  name: Surnadal
-  state_id: 1020
+- name: Surnadal
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.97533000'
   longitude: '8.72490000'
-  wikiDataId: Q48545
-- id: 79573
-  name: Sykkylven
-  state_id: 1020
+- name: Sykkylven
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.38962000'
   longitude: '6.57825000'
-  wikiDataId: Q48508
-- id: 79593
-  name: Tingvoll
-  state_id: 1020
+- name: Tingvoll
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.91194000'
   longitude: '8.20673000'
-  wikiDataId: Q488252
-- id: 79600
-  name: Tomra
-  state_id: 1020
+- name: Tomra
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.58118000'
   longitude: '6.93106000'
-  wikiDataId: Q1773379
-- id: 79623
-  name: Ulstein
-  state_id: 1020
+- name: Ulstein
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.34423000'
   longitude: '5.85241000'
-  wikiDataId: Q493961
-- id: 79624
-  name: Ulsteinvik
-  state_id: 1020
+- name: Ulsteinvik
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.34317000'
   longitude: '5.84869000'
-  wikiDataId: Q1812809
-- id: 79625
-  name: Ulsteinvik weather pws station
-  state_id: 1020
+- name: Ulsteinvik weather pws station
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.34338000'
   longitude: '5.84385000'
-  wikiDataId: Q1812809
-- id: 79632
-  name: Vanylven
-  state_id: 1020
+- name: Vanylven
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.10003000'
   longitude: '5.55827000'
-  wikiDataId: Q493992
-- id: 79635
-  name: Vatne
-  state_id: 1020
+- name: Vatne
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.55826000'
   longitude: '6.61708000'
-  wikiDataId: Q2205922
-- id: 79644
-  name: Vestnes
-  state_id: 1020
+- name: Vestnes
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.62130000'
   longitude: '7.08966000'
-  wikiDataId: Q488060
-- id: 79660
-  name: Volda
-  state_id: 1020
+- name: Volda
   state_code: '15'
   state_name: Møre og Romsdal
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.14678000'
   longitude: '6.06800000'
-  wikiDataId: Q488445
-- id: 79038
-  name: Alstahaug
-  state_id: 1025
+- name: Alstahaug
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.97556000'
   longitude: '12.56836000'
-  wikiDataId: Q217808
-- id: 79041
-  name: Andenes
-  state_id: 1025
+- name: Andenes
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.31428000'
   longitude: '16.11939000'
-  wikiDataId: Q167305
-- id: 79042
-  name: Andøy
-  state_id: 1025
+- name: Andøy
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.08033000'
   longitude: '15.77637000'
-  wikiDataId: Q113710
-- id: 79061
-  name: Ballangen
-  state_id: 1025
+- name: Ballangen
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.34365000'
   longitude: '16.83317000'
-  wikiDataId: Q113514
-- id: 79067
-  name: Beiarn
-  state_id: 1025
+- name: Beiarn
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.00725000'
   longitude: '14.57304000'
-  wikiDataId: Q487524
-- id: 79074
-  name: Bindal
-  state_id: 1025
+- name: Bindal
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.08780000'
   longitude: '12.37747000'
-  wikiDataId: Q489362
-- id: 79076
-  name: Bjerkvik
-  state_id: 1025
+- name: Bjerkvik
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.54917000'
   longitude: '17.55709000'
-  wikiDataId: Q2388512
-- id: 79081
-  name: Bodø
-  state_id: 1025
+- name: Bodø
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.28325000'
   longitude: '14.38319000'
-  wikiDataId: Q221119
-- id: 79082
-  name: Bogen
-  state_id: 1025
+- name: Bogen
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.52647000'
   longitude: '16.99280000'
-  wikiDataId: Q2047509
-- id: 79096
-  name: Bø
-  state_id: 1025
+- name: Bø
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.68823000'
   longitude: '14.47899000'
-  wikiDataId: Q484012
-- id: 79091
-  name: Brønnøy
-  state_id: 1025
+- name: Brønnøy
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.46786000'
   longitude: '12.20626000'
-  wikiDataId: Q112855
-- id: 79092
-  name: Brønnøysund
-  state_id: 1025
+- name: Brønnøysund
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.47487000'
   longitude: '12.21285000'
-  wikiDataId: Q995929
-- id: 79108
-  name: Dønna
-  state_id: 1025
+- name: Dønna
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.10606000'
   longitude: '12.48189000'
-  wikiDataId: Q489347
-- id: 79128
-  name: Evenes
-  state_id: 1025
+- name: Evenes
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.52334000'
   longitude: '17.00888000'
-  wikiDataId: Q48897
-- id: 79130
-  name: Evjen
-  state_id: 1025
+- name: Evjen
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.26667000'
   longitude: '13.73333000'
-  wikiDataId: Q2232941
-- id: 79135
-  name: Fauske
-  state_id: 1025
+- name: Fauske
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.25963000'
   longitude: '15.39410000'
-  wikiDataId: Q48696
-- id: 79146
-  name: Flakstad
-  state_id: 1025
+- name: Flakstad
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.09292000'
   longitude: '13.23310000'
-  wikiDataId: Q494680
-- id: 79175
-  name: Gildeskål
-  state_id: 1025
+- name: Gildeskål
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.03394000'
   longitude: '14.02582000'
-  wikiDataId: Q484208
-- id: 79181
-  name: Gladstad
-  state_id: 1025
+- name: Gladstad
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.67683000'
   longitude: '11.96218000'
-  wikiDataId: Q2195796
-- id: 79182
-  name: Glomfjord
-  state_id: 1025
+- name: Glomfjord
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.81663000'
   longitude: '13.94404000'
-  wikiDataId: Q1019570
-- id: 79186
-  name: Grane
-  state_id: 1025
+- name: Grane
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.53865000'
   longitude: '13.38499000'
-  wikiDataId: Q493758
-- id: 79189
-  name: Gravdal
-  state_id: 1025
+- name: Gravdal
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.11832000'
   longitude: '13.55339000'
-  wikiDataId: Q2211730
-- id: 79197
-  name: Hadsel
-  state_id: 1025
+- name: Hadsel
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.56328000'
   longitude: '14.90835000'
-  wikiDataId: Q484043
-- id: 79202
-  name: Hamarøy
-  state_id: 1025
+- name: Hamarøy
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.08381000'
   longitude: '15.61671000'
-  wikiDataId: Q487538
-- id: 79210
-  name: Hattfjelldal
-  state_id: 1025
+- name: Hattfjelldal
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.59765000'
   longitude: '13.98948000'
-  wikiDataId: Q488384
-- id: 79213
-  name: Hauknes
-  state_id: 1025
+- name: Hauknes
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.28333000'
   longitude: '14.06667000'
-  wikiDataId: Q2364788
-- id: 79215
-  name: Hemnes
-  state_id: 1025
+- name: Hemnes
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.07712000'
   longitude: '13.81350000'
-  wikiDataId: Q488776
-- id: 79216
-  name: Hemnesberget
-  state_id: 1025
+- name: Hemnesberget
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.22489000'
   longitude: '13.61643000'
-  wikiDataId: Q2205396
-- id: 79220
-  name: Herøy
-  state_id: 1025
+- name: Herøy
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.98427000'
   longitude: '12.28916000'
-  wikiDataId: Q493932
-- id: 79255
-  name: Inndyr
-  state_id: 1025
+- name: Inndyr
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.03353000'
   longitude: '14.02663000'
-  wikiDataId: Q2977929
-- id: 79263
-  name: Kabelvåg
-  state_id: 1025
+- name: Kabelvåg
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.21066000'
   longitude: '14.47554000'
-  wikiDataId: Q1719658
-- id: 79273
-  name: Kjøpsvik
-  state_id: 1025
+- name: Kjøpsvik
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.09696000'
   longitude: '16.37416000'
-  wikiDataId: Q1813882
-- id: 79285
-  name: Korgen
-  state_id: 1025
+- name: Korgen
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.07662000'
   longitude: '13.82160000'
-  wikiDataId: Q2300008
-- id: 79309
-  name: Leirfjord
-  state_id: 1025
+- name: Leirfjord
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.06348000'
   longitude: '12.93667000'
-  wikiDataId: Q48870
-- id: 79313
-  name: Leknes
-  state_id: 1025
+- name: Leknes
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.14746000'
   longitude: '13.61151000'
-  wikiDataId: Q1993766
-- id: 79314
-  name: Leland
-  state_id: 1025
+- name: Leland
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.06406000'
   longitude: '12.94325000'
-  wikiDataId: Q2800865
-- id: 79343
-  name: Løding
-  state_id: 1025
+- name: Løding
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.30055000'
   longitude: '14.73852000'
-  wikiDataId: Q2199444
-- id: 79344
-  name: Lødingen
-  state_id: 1025
+- name: Lødingen
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.40998000'
   longitude: '15.99012000'
-  wikiDataId: Q484252
-- id: 79345
-  name: Løpsmarka
-  state_id: 1025
+- name: Løpsmarka
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.31343000'
   longitude: '14.44934000'
-  wikiDataId: Q2674878
-- id: 79334
-  name: Lurøy
-  state_id: 1025
+- name: Lurøy
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.41887000'
   longitude: '12.84248000'
-  wikiDataId: Q48341
-- id: 79358
-  name: Melbu
-  state_id: 1025
+- name: Melbu
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.50246000'
   longitude: '14.79962000'
-  wikiDataId: Q577137
-- id: 79362
-  name: Meløy
-  state_id: 1025
+- name: Meløy
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.87204000'
   longitude: '13.70763000'
-  wikiDataId: Q48323
-- id: 79366
-  name: Mo i Rana
-  state_id: 1025
+- name: Mo i Rana
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.31278000'
   longitude: '14.14278000'
-  wikiDataId: Q59169
-- id: 79373
-  name: Mosjøen
-  state_id: 1025
+- name: Mosjøen
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.83599000'
   longitude: '13.19076000'
-  wikiDataId: Q851998
-- id: 79374
-  name: Moskenes
-  state_id: 1025
+- name: Moskenes
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.93467000'
   longitude: '13.09109000'
-  wikiDataId: Q487636
-- id: 79377
-  name: Myre
-  state_id: 1025
+- name: Myre
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.91400000'
   longitude: '15.07843000'
-  wikiDataId: Q1897127
-- id: 79386
-  name: Narvik
-  state_id: 1025
+- name: Narvik
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.43896000'
   longitude: '17.42775000'
-  wikiDataId: Q1215658
-- id: 79393
-  name: Nesna
-  state_id: 1025
+- name: Nesna
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.19796000'
   longitude: '13.02229000'
-  wikiDataId: Q494062
-- id: 79692
-  name: Øksnes
-  state_id: 1025
+- name: Øksnes
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.91463000'
   longitude: '15.08703000'
-  wikiDataId: Q308134
-- id: 79696
-  name: Ørnes
-  state_id: 1025
+- name: Ørnes
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.86878000'
   longitude: '13.70579000'
-  wikiDataId: Q308223
-- id: 79436
-  name: Rana
-  state_id: 1025
+- name: Rana
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.31122000'
   longitude: '14.13996000'
-  wikiDataId: Q484322
-- id: 79442
-  name: Reine
-  state_id: 1025
+- name: Reine
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.93249000'
   longitude: '13.08955000'
-  wikiDataId: Q593597
-- id: 79455
-  name: Rognan
-  state_id: 1025
+- name: Rognan
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.10021000'
   longitude: '15.39086000'
-  wikiDataId: Q2162122
-- id: 79466
-  name: Rødøy
-  state_id: 1025
+- name: Rødøy
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.71195000'
   longitude: '13.28530000'
-  wikiDataId: Q488046
-- id: 79470
-  name: Røst
-  state_id: 1025
+- name: Røst
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.51727000'
   longitude: '12.11564000'
-  wikiDataId: Q130048
-- id: 79475
-  name: Saltdal
-  state_id: 1025
+- name: Saltdal
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.10144000'
   longitude: '15.39458000'
-  wikiDataId: Q48880
-- id: 79484
-  name: Sandnessjøen
-  state_id: 1025
+- name: Sandnessjøen
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.02166000'
   longitude: '12.63158000'
-  wikiDataId: Q1004686
-- id: 79534
-  name: Sortland
-  state_id: 1025
+- name: Sortland
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.69618000'
   longitude: '15.41174000'
-  wikiDataId: Q48844
-- id: 79577
-  name: Sømna
-  state_id: 1025
+- name: Sømna
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.31379000'
   longitude: '12.16729000'
-  wikiDataId: Q48610
-- id: 79583
-  name: Sørfold
-  state_id: 1025
+- name: Sørfold
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.34803000'
   longitude: '15.59445000'
-  wikiDataId: Q484097
-- id: 79584
-  name: Sørland
-  state_id: 1025
+- name: Sørland
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.66564000'
   longitude: '12.69784000'
-  wikiDataId: Q2335573
-- id: 79540
-  name: Steigen
-  state_id: 1025
+- name: Steigen
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.77625000'
   longitude: '15.01621000'
-  wikiDataId: Q494005
-- id: 79546
-  name: Stokmarknes
-  state_id: 1025
+- name: Stokmarknes
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.56462000'
   longitude: '14.91075000'
-  wikiDataId: Q288577
-- id: 79557
-  name: Straume
-  state_id: 1025
+- name: Straume
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.68880000'
   longitude: '14.47205000'
-  wikiDataId: Q2172806
-- id: 79560
-  name: Straumen
-  state_id: 1025
+- name: Straumen
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.34769000'
   longitude: '15.60493000'
-  wikiDataId: Q2559230
-- id: 79571
-  name: Svolvær
-  state_id: 1025
+- name: Svolvær
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.23417000'
   longitude: '14.56834000'
-  wikiDataId: Q145948
-- id: 79591
-  name: Terråk
-  state_id: 1025
+- name: Terråk
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.08700000'
   longitude: '12.37148000'
-  wikiDataId: Q2254214
-- id: 79595
-  name: Tjeldsund
-  state_id: 1025
+- name: Tjeldsund
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.55557000'
   longitude: '16.36172000'
-  wikiDataId: Q48801
-- id: 79611
-  name: Træna
-  state_id: 1025
+- name: Træna
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '66.50159000'
   longitude: '12.09645000'
-  wikiDataId: Q48620
-- id: 79607
-  name: Trofors
-  state_id: 1025
+- name: Trofors
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.53335000'
   longitude: '13.40631000'
-  wikiDataId: Q1907123
-- id: 79616
-  name: Tysfjord
-  state_id: 1025
+- name: Tysfjord
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.09772000'
   longitude: '16.37591000'
-  wikiDataId: Q493851
-- id: 79663
-  name: Vågan
-  state_id: 1025
+- name: Vågan
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.23220000'
   longitude: '14.56226000'
-  wikiDataId: Q490246
-- id: 79669
-  name: Værøy
-  state_id: 1025
+- name: Værøy
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '67.66374000'
   longitude: '12.69337000'
-  wikiDataId: Q48629
-- id: 79637
-  name: Vefsn
-  state_id: 1025
+- name: Vefsn
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.84109000'
   longitude: '13.20024000'
-  wikiDataId: Q503654
-- id: 79638
-  name: Vega
-  state_id: 1025
+- name: Vega
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.67539000'
   longitude: '11.96456000'
-  wikiDataId: Q488375
-- id: 79647
-  name: Vestvågøy
-  state_id: 1025
+- name: Vestvågøy
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.14830000'
   longitude: '13.61119000'
-  wikiDataId: Q507201
-- id: 79648
-  name: Vevelstad
-  state_id: 1025
+- name: Vevelstad
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.70002000'
   longitude: '12.43921000'
-  wikiDataId: Q494068
-- id: 79651
-  name: Vik
-  state_id: 1025
+- name: Vik
   state_code: '18'
   state_name: Nordland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.31254000'
   longitude: '12.16734000'
-  wikiDataId: Q2559281
-- id: 79425
-  name: Oslo
-  state_id: 1007
+- name: Oslo
   state_code: '03'
   state_name: Oslo
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.91273000'
   longitude: '10.74609000'
-  wikiDataId: Q585
-- id: 79502
-  name: Sjølyststranda
-  state_id: 1007
+- name: Sjølyststranda
   state_code: '03'
   state_name: Oslo
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.92105000'
   longitude: '10.68017000'
-  wikiDataId: Q3315591
-- id: 79676
-  name: Åkrehamn
-  state_id: 1021
+- name: Åkrehamn
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.26053000'
   longitude: '5.18689000'
-  wikiDataId: Q2648207
-- id: 79075
-  name: Bjerkreim
-  state_id: 1021
+- name: Bjerkreim
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.63050000'
   longitude: '6.08130000'
-  wikiDataId: Q493308
-- id: 79083
-  name: Bokn
-  state_id: 1021
+- name: Bokn
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.23062000'
   longitude: '5.43524000'
-  wikiDataId: Q489351
-- id: 79090
-  name: Bryne
-  state_id: 1021
+- name: Bryne
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.73536000'
   longitude: '5.64766000'
-  wikiDataId: Q2332350
-- id: 79109
-  name: Egersund
-  state_id: 1021
+- name: Egersund
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.45133000'
   longitude: '5.99970000'
-  wikiDataId: Q1020025
-- id: 79117
-  name: Eigersund
-  state_id: 1021
+- name: Eigersund
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.45236000'
   longitude: '6.00314000'
-  wikiDataId: Q483877
-- id: 79118
-  name: Eike
-  state_id: 1021
+- name: Eike
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.39833000'
   longitude: '5.36389000'
-  wikiDataId: Q3433183
-- id: 79141
-  name: Finnøy
-  state_id: 1021
+- name: Finnøy
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.17117000'
   longitude: '5.87398000'
-  wikiDataId: Q48750
-- id: 79155
-  name: Forsand
-  state_id: 1021
+- name: Forsand
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.89929000'
   longitude: '6.09642000'
-  wikiDataId: Q484309
-- id: 79179
-  name: Gjesdal
-  state_id: 1021
+- name: Gjesdal
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.76478000'
   longitude: '5.85500000'
-  wikiDataId: Q255148
-- id: 79245
-  name: Hå
-  state_id: 1021
+- name: Hå
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.61610000'
   longitude: '5.64497000'
-  wikiDataId: Q485608
-- id: 79211
-  name: Hauge i Dalane
-  state_id: 1021
+- name: Hauge i Dalane
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.34361000'
   longitude: '6.28121000'
-  wikiDataId: Q1789941
-- id: 79212
-  name: Haugesund
-  state_id: 1021
+- name: Haugesund
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.41015000'
   longitude: '5.27551000'
-  wikiDataId: Q109036
-- id: 79224
-  name: Hjelmeland
-  state_id: 1021
+- name: Hjelmeland
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.23668000'
   longitude: '6.17912000'
-  wikiDataId: Q250055
-- id: 79232
-  name: Hommersåk
-  state_id: 1021
+- name: Hommersåk
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.92556000'
   longitude: '5.85104000'
-  wikiDataId: Q2441500
-- id: 79262
-  name: Jørpeland
-  state_id: 1021
+- name: Jørpeland
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.02251000'
   longitude: '6.04078000'
-  wikiDataId: Q1851053
-- id: 79259
-  name: Judaberg
-  state_id: 1021
+- name: Judaberg
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.17204000'
   longitude: '5.87617000'
-  wikiDataId: Q1771142
-- id: 79267
-  name: Karmøy
-  state_id: 1021
+- name: Karmøy
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.28079000'
   longitude: '5.30529000'
-  wikiDataId: Q483902
-- id: 79274
-  name: Klepp
-  state_id: 1021
+- name: Klepp
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.77655000'
   longitude: '5.63009000'
-  wikiDataId: Q500223
-- id: 79283
-  name: Kopervik
-  state_id: 1021
+- name: Kopervik
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.28354000'
   longitude: '5.30669000'
-  wikiDataId: Q2109119
-- id: 79295
-  name: Kvitsøy
-  state_id: 1021
+- name: Kvitsøy
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.06471000'
   longitude: '5.40537000'
-  wikiDataId: Q494024
-- id: 79330
-  name: Lund
-  state_id: 1021
+- name: Lund
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.45715000'
   longitude: '6.54871000'
-  wikiDataId: Q515536
-- id: 79336
-  name: Lyefjell
-  state_id: 1021
+- name: Lyefjell
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.73539000'
   longitude: '5.73615000'
-  wikiDataId: Q503612
-- id: 79371
-  name: Moi
-  state_id: 1021
+- name: Moi
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.45674000'
   longitude: '6.55184000'
-  wikiDataId: Q1770346
-- id: 79415
-  name: Nærbø
-  state_id: 1021
+- name: Nærbø
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.66546000'
   longitude: '5.63788000'
-  wikiDataId: Q2141864
-- id: 79693
-  name: Ølen
-  state_id: 1021
+- name: Ølen
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.60437000'
   longitude: '5.80799000'
-  wikiDataId: Q6517575
-- id: 79437
-  name: Randaberg
-  state_id: 1021
+- name: Randaberg
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.99870000'
   longitude: '5.62055000'
-  wikiDataId: Q492115
-- id: 79447
-  name: Rennesøy
-  state_id: 1021
+- name: Rennesøy
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.09899000'
   longitude: '5.69966000'
-  wikiDataId: Q494045
-- id: 79483
-  name: Sandnes
-  state_id: 1021
+- name: Sandnes
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.84760000'
   longitude: '5.72855000'
-  wikiDataId: Q27587
-- id: 79488
-  name: Sauda
-  state_id: 1021
+- name: Sauda
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.65067000'
   longitude: '6.35312000'
-  wikiDataId: Q485297
-- id: 79575
-  name: Sæveland
-  state_id: 1021
+- name: Sæveland
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.26667000'
   longitude: '5.20000000'
-  wikiDataId: Q7665822
-- id: 79521
-  name: Skudeneshavn
-  state_id: 1021
+- name: Skudeneshavn
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.14856000'
   longitude: '5.25687000'
-  wikiDataId: Q1900046
-- id: 79530
-  name: Sokndal
-  state_id: 1021
+- name: Sokndal
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.34256000'
   longitude: '6.29425000'
-  wikiDataId: Q48858
-- id: 79531
-  name: Sola
-  state_id: 1021
+- name: Sola
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.88806000'
   longitude: '5.64728000'
-  wikiDataId: Q488948
-- id: 79538
-  name: Stavanger
-  state_id: 1021
+- name: Stavanger
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.96941000'
   longitude: '5.72856000'
-  wikiDataId: Q25416
-- id: 79555
-  name: Strand
-  state_id: 1021
+- name: Strand
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.02353000'
   longitude: '6.04343000'
-  wikiDataId: Q48591
-- id: 79563
-  name: Suldal
-  state_id: 1021
+- name: Suldal
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.48571000'
   longitude: '6.25222000'
-  wikiDataId: Q48577
-- id: 79589
-  name: Tananger
-  state_id: 1021
+- name: Tananger
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.93618000'
   longitude: '5.57410000'
-  wikiDataId: Q2211190
-- id: 79590
-  name: Tau
-  state_id: 1021
+- name: Tau
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.06481000'
   longitude: '5.92250000'
-  wikiDataId: Q2760222
-- id: 79592
-  name: Time
-  state_id: 1021
+- name: Time
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.73636000'
   longitude: '5.65297000'
-  wikiDataId: Q493981
-- id: 79618
-  name: Tysvær
-  state_id: 1021
+- name: Tysvær
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.42159000'
   longitude: '5.44781000'
-  wikiDataId: Q493977
-- id: 79627
-  name: Utsira
-  state_id: 1021
+- name: Utsira
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.30565000'
   longitude: '4.88621000'
-  wikiDataId: Q499485
-- id: 79634
-  name: Varhaug
-  state_id: 1021
+- name: Varhaug
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.61810000'
   longitude: '5.65702000'
-  wikiDataId: Q1771466
-- id: 79636
-  name: Vedavågen
-  state_id: 1021
+- name: Vedavågen
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.29483000'
   longitude: '5.21874000'
-  wikiDataId: Q7917946
-- id: 79650
-  name: Vigrestad
-  state_id: 1021
+- name: Vigrestad
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.57103000'
   longitude: '5.68182000'
-  wikiDataId: Q1771452
-- id: 79654
-  name: Vikeså
-  state_id: 1021
+- name: Vikeså
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.63759000'
   longitude: '6.09133000'
-  wikiDataId: Q1787854
-- id: 79655
-  name: Vikevåg
-  state_id: 1021
+- name: Vikevåg
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.09754000'
   longitude: '5.69790000'
-  wikiDataId: Q6673737
-- id: 79657
-  name: Vindafjord
-  state_id: 1021
+- name: Vindafjord
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.60543000'
   longitude: '5.80784000'
-  wikiDataId: Q502197
-- id: 79661
-  name: Vormedal
-  state_id: 1021
+- name: Vormedal
   state_code: '11'
   state_name: Rogaland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.35607000'
   longitude: '5.31962000'
-  wikiDataId: Q7941816
-- id: 79039
-  name: Alta
-  state_id: 1015
+- name: Alta
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.97675000'
   longitude: '23.29634000'
-  wikiDataId: Q6535
-- id: 79672
-  name: Ávanuorri
-  state_id: 1015
+- name: Ávanuorri
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.99634000'
   longitude: '24.66217000'
-  wikiDataId: Q1456622
-- id: 79062
-  name: Balsfjord
-  state_id: 1015
+- name: Balsfjord
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.24024000'
   longitude: '19.22653000'
-  wikiDataId: Q486717
-- id: 79064
-  name: Bardu
-  state_id: 1015
+- name: Bardu
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.86058000'
   longitude: '18.35052000'
-  wikiDataId: Q493315
-- id: 79093
-  name: Båtsfjord
-  state_id: 1015
+- name: Båtsfjord
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.63428000'
   longitude: '29.71750000'
-  wikiDataId: Q12713964
-- id: 79068
-  name: Berg
-  state_id: 1015
+- name: Berg
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.44444000'
   longitude: '17.29950000'
-  wikiDataId: Q503912
-- id: 79072
-  name: Berlevåg
-  state_id: 1015
+- name: Berlevåg
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.85778000'
   longitude: '29.08636000'
-  wikiDataId: Q13629355
-- id: 79079
-  name: Bjørnevatn
-  state_id: 1015
+- name: Bjørnevatn
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.66745000'
   longitude: '29.98722000'
-  wikiDataId: Q2796487
-- id: 79084
-  name: Borkenes
-  state_id: 1015
+- name: Borkenes
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.77261000'
   longitude: '16.17115000'
-  wikiDataId: Q2040661
-- id: 79107
-  name: Dyrøy
-  state_id: 1015
+- name: Dyrøy
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.09154000'
   longitude: '17.69094000'
-  wikiDataId: Q252381
-- id: 79129
-  name: Evenskjer
-  state_id: 1015
+- name: Evenskjer
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.58283000'
   longitude: '16.57203000'
-  wikiDataId: Q2232941
-- id: 79140
-  name: Finnsnes
-  state_id: 1015
+- name: Finnsnes
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.22959000'
   longitude: '17.98114000'
-  wikiDataId: Q1015949
-- id: 79170
-  name: Gamvik
-  state_id: 1015
+- name: Gamvik
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '71.04107000'
   longitude: '27.85144000'
-  wikiDataId: Q113729
-- id: 79188
-  name: Gratangen
-  state_id: 1015
+- name: Gratangen
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.69273000'
   longitude: '17.53186000'
-  wikiDataId: Q175704
-- id: 79193
-  name: Gryllefjord
-  state_id: 1015
+- name: Gryllefjord
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.36304000'
   longitude: '17.05284000'
-  wikiDataId: Q1817061
-- id: 79203
-  name: Hammerfest
-  state_id: 1015
+- name: Hammerfest
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.66257000'
   longitude: '23.68295000'
-  wikiDataId: Q107351
-- id: 79204
-  name: Hansnes
-  state_id: 1015
+- name: Hansnes
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.96701000'
   longitude: '19.62752000'
-  wikiDataId: Q2011187
-- id: 79208
-  name: Harstad
-  state_id: 1015
+- name: Harstad
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.79896000'
   longitude: '16.52930000'
-  wikiDataId: Q62140
-- id: 79209
-  name: Hasvik
-  state_id: 1015
+- name: Hasvik
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.59164000'
   longitude: '22.30272000'
-  wikiDataId: Q109841
-- id: 79233
-  name: Honningsvåg
-  state_id: 1015
+- name: Honningsvåg
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.98209000'
   longitude: '25.97037000'
-  wikiDataId: Q493472
-- id: 79250
-  name: Ibestad
-  state_id: 1015
+- name: Ibestad
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.77866000'
   longitude: '17.17661000'
-  wikiDataId: Q488258
-- id: 79300
-  name: Kåfjord
-  state_id: 1015
+- name: Kåfjord
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.60400000'
   longitude: '20.53456000'
-  wikiDataId: Q493942
-- id: 79299
-  name: Kárášjohka
-  state_id: 1015
+- name: Kárášjohka
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.47187000'
   longitude: '25.51122000'
-  wikiDataId: Q5377085
-- id: 79264
-  name: Karasjok
-  state_id: 1015
+- name: Karasjok
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.47224000'
   longitude: '25.51885000'
-  wikiDataId: Q1825
-- id: 79266
-  name: Karlsøy
-  state_id: 1015
+- name: Karlsøy
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.96185000'
   longitude: '19.61811000'
-  wikiDataId: Q48728
-- id: 79268
-  name: Kautokeino
-  state_id: 1015
+- name: Kautokeino
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.01151000'
   longitude: '23.04151000'
-  wikiDataId: Q6459
-- id: 79270
-  name: Kirkenes
-  state_id: 1015
+- name: Kirkenes
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.72706000'
   longitude: '30.04578000'
-  wikiDataId: Q209423
-- id: 79272
-  name: Kjøllefjord
-  state_id: 1015
+- name: Kjøllefjord
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.94574000'
   longitude: '27.34650000'
-  wikiDataId: Q1744093
-- id: 79290
-  name: Kvalsund
-  state_id: 1015
+- name: Kvalsund
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.49910000'
   longitude: '23.97393000'
-  wikiDataId: Q493007
-- id: 79296
-  name: Kvæfjord
-  state_id: 1015
+- name: Kvæfjord
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.77201000'
   longitude: '16.17294000'
-  wikiDataId: Q649541
-- id: 79297
-  name: Kvænangen
-  state_id: 1015
+- name: Kvænangen
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.93890000'
   longitude: '22.04935000'
-  wikiDataId: Q488959
-- id: 79301
-  name: Lakselv
-  state_id: 1015
+- name: Lakselv
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.05133000'
   longitude: '24.97182000'
-  wikiDataId: Q531041
-- id: 79306
-  name: Lavangen
-  state_id: 1015
+- name: Lavangen
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.74722000'
   longitude: '17.80558000'
-  wikiDataId: Q502217
-- id: 79307
-  name: Lebesby
-  state_id: 1015
+- name: Lebesby
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.94535000'
   longitude: '27.35134000'
-  wikiDataId: Q48760
-- id: 79316
-  name: Lenvik
-  state_id: 1015
+- name: Lenvik
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.23111000'
   longitude: '17.98739000'
-  wikiDataId: Q499770
-- id: 79329
-  name: Loppa
-  state_id: 1015
+- name: Loppa
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.23952000'
   longitude: '22.35136000'
-  wikiDataId: Q48848
-- id: 79338
-  name: Lyngen
-  state_id: 1015
+- name: Lyngen
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.57621000'
   longitude: '20.21702000'
-  wikiDataId: Q494018
-- id: 79339
-  name: Lyngseidet
-  state_id: 1015
+- name: Lyngseidet
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.57629000'
   longitude: '20.21887000'
-  wikiDataId: Q787028
-- id: 79379
-  name: Målselv
-  state_id: 1015
+- name: Målselv
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.12389000'
   longitude: '18.61498000'
-  wikiDataId: Q488955
-- id: 79381
-  name: Måsøy
-  state_id: 1015
+- name: Måsøy
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.99654000'
   longitude: '24.66146000'
-  wikiDataId: Q113697
-- id: 79356
-  name: Mehamn
-  state_id: 1015
+- name: Mehamn
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '71.04137000'
   longitude: '27.85133000'
-  wikiDataId: Q1917221
-- id: 79370
-  name: Moen
-  state_id: 1015
+- name: Moen
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.13043000'
   longitude: '18.61226000'
-  wikiDataId: Q1782739
-- id: 79396
-  name: Nesseby
-  state_id: 1015
+- name: Nesseby
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.88541000'
   longitude: '28.43368000'
-  wikiDataId: Q113662
-- id: 79407
-  name: Nordkapp
-  state_id: 1015
+- name: Nordkapp
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.97808000'
   longitude: '25.97473000'
-  wikiDataId: Q62641
-- id: 79409
-  name: Nordreisa
-  state_id: 1015
+- name: Nordreisa
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.76825000'
   longitude: '21.02569000'
-  wikiDataId: Q494059
-- id: 79418
-  name: Olderdalen
-  state_id: 1015
+- name: Olderdalen
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.60407000'
   longitude: '20.53272000'
-  wikiDataId: Q2578185
-- id: 79691
-  name: Øksfjord
-  state_id: 1015
+- name: Øksfjord
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.23936000'
   longitude: '22.35070000'
-  wikiDataId: Q308093
-- id: 79429
-  name: Porsanger
-  state_id: 1015
+- name: Porsanger
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.05214000'
   longitude: '24.95592000'
-  wikiDataId: Q483885
-- id: 79462
-  name: Rypefjord
-  state_id: 1015
+- name: Rypefjord
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.64126000'
   longitude: '23.67213000'
-  wikiDataId: Q1783401
-- id: 79474
-  name: Salangen
-  state_id: 1015
+- name: Salangen
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.87669000'
   longitude: '17.83375000'
-  wikiDataId: Q500194
-- id: 79496
-  name: Setermoen
-  state_id: 1015
+- name: Setermoen
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.86099000'
   longitude: '18.34857000'
-  wikiDataId: Q1994507
-- id: 79503
-  name: Sjøvegan
-  state_id: 1015
+- name: Sjøvegan
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.87363000'
   longitude: '17.84706000'
-  wikiDataId: Q2185971
-- id: 79524
-  name: Skånland
-  state_id: 1015
+- name: Skånland
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '68.58378000'
   longitude: '16.57305000'
-  wikiDataId: Q490038
-- id: 79511
-  name: Skjervøy
-  state_id: 1015
+- name: Skjervøy
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.03379000'
   longitude: '20.97365000'
-  wikiDataId: Q128762
-- id: 79582
-  name: Sør-Varanger
-  state_id: 1015
+- name: Sør-Varanger
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.72859000'
   longitude: '30.04264000'
-  wikiDataId: Q48827
-- id: 79585
-  name: Sørreisa
-  state_id: 1015
+- name: Sørreisa
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.14697000'
   longitude: '18.15629000'
-  wikiDataId: Q48325
-- id: 79551
-  name: Storfjord
-  state_id: 1015
+- name: Storfjord
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.26860000'
   longitude: '19.96089000'
-  wikiDataId: Q48657
-- id: 79552
-  name: Storslett
-  state_id: 1015
+- name: Storslett
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.76783000'
   longitude: '21.02466000'
-  wikiDataId: Q2305415
-- id: 79553
-  name: Storsteinnes
-  state_id: 1015
+- name: Storsteinnes
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.24081000'
   longitude: '19.23437000'
-  wikiDataId: Q2740148
-- id: 79588
-  name: Tana
-  state_id: 1015
+- name: Tana
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.19976000'
   longitude: '28.18494000'
-  wikiDataId: Q483964
-- id: 79603
-  name: Torsken
-  state_id: 1015
+- name: Torsken
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.36184000'
   longitude: '17.05384000'
-  wikiDataId: Q48581
-- id: 79605
-  name: Tranøy
-  state_id: 1015
+- name: Tranøy
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.17022000'
   longitude: '17.73480000'
-  wikiDataId: Q48597
-- id: 79608
-  name: Tromsø
-  state_id: 1015
+- name: Tromsø
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '69.64961000'
   longitude: '18.95702000'
-  wikiDataId: Q26087
-- id: 79628
-  name: Vadsø
-  state_id: 1015
+- name: Vadsø
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.07412000'
   longitude: '29.74922000'
-  wikiDataId: Q104379
-- id: 79633
-  name: Vardø
-  state_id: 1015
+- name: Vardø
   state_code: '54'
   state_name: Troms og Finnmark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '70.37040000'
   longitude: '31.10866000'
-  wikiDataId: Q108983
-- id: 79673
-  name: Å i Åfjord
-  state_id: 1006
+- name: Å i Åfjord
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.96068000'
   longitude: '10.22468000'
-  wikiDataId: Q12011429
-- id: 79674
-  name: Åfjord
-  state_id: 1006
+- name: Åfjord
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.96196000'
   longitude: '10.22587000'
-  wikiDataId: Q270835
-- id: 79037
-  name: Agdenes
-  state_id: 1006
+- name: Agdenes
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.50575000'
   longitude: '9.82623000'
-  wikiDataId: Q392093
-- id: 79071
-  name: Berkåk
-  state_id: 1006
+- name: Berkåk
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.82496000'
   longitude: '10.01177000'
-  wikiDataId: Q953197
-- id: 79077
-  name: Bjugn
-  state_id: 1006
+- name: Bjugn
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.76522000'
   longitude: '9.80940000'
-  wikiDataId: Q484243
-- id: 79085
-  name: Botngård
-  state_id: 1006
+- name: Botngård
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.76484000'
   longitude: '9.80863000'
-  wikiDataId: Q1799091
-- id: 79087
-  name: Brekstad
-  state_id: 1006
+- name: Brekstad
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.68697000'
   longitude: '9.66541000'
-  wikiDataId: Q2449403
-- id: 79139
-  name: Fillan
-  state_id: 1006
+- name: Fillan
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.60638000'
   longitude: '8.96961000'
-  wikiDataId: Q3071969
-- id: 79147
-  name: Flatanger
-  state_id: 1006
+- name: Flatanger
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.41282000'
   longitude: '11.03285000'
-  wikiDataId: Q48276
-- id: 79156
-  name: Fosnes
-  state_id: 1006
+- name: Fosnes
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.65910000'
   longitude: '11.26535000'
-  wikiDataId: Q494688
-- id: 79163
-  name: Frosta
-  state_id: 1006
+- name: Frosta
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.58910000'
   longitude: '10.74230000'
-  wikiDataId: Q25659204
-- id: 79165
-  name: Frøya
-  state_id: 1006
+- name: Frøya
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.73005000'
   longitude: '8.82426000'
-  wikiDataId: Q484119
-- id: 79190
-  name: Grong
-  state_id: 1006
+- name: Grong
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.46397000'
   longitude: '12.31114000'
-  wikiDataId: Q258084
-- id: 79214
-  name: Hemne
-  state_id: 1006
+- name: Hemne
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.29095000'
   longitude: '9.08893000'
-  wikiDataId: Q488388
-- id: 79222
-  name: Hitra
-  state_id: 1006
+- name: Hitra
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.54528000'
   longitude: '8.78029000'
-  wikiDataId: Q109025
-- id: 79230
-  name: Holtålen
-  state_id: 1006
+- name: Holtålen
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.84318000'
   longitude: '11.29284000'
-  wikiDataId: Q484084
-- id: 79231
-  name: Hommelvik
-  state_id: 1006
+- name: Hommelvik
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.41083000'
   longitude: '10.79424000'
-  wikiDataId: Q1869819
-- id: 79249
-  name: Høylandet
-  state_id: 1006
+- name: Høylandet
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.62759000'
   longitude: '12.30041000'
-  wikiDataId: Q162144
-- id: 79251
-  name: Inderøy
-  state_id: 1006
+- name: Inderøy
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.87826000'
   longitude: '11.28424000'
-  wikiDataId: Q488970
-- id: 79253
-  name: Indre Fosen
-  state_id: 1006
+- name: Indre Fosen
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.58897000'
   longitude: '9.95847000'
-  wikiDataId: Q25428806
-- id: 79275
-  name: Klæbu
-  state_id: 1006
+- name: Klæbu
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.30060000'
   longitude: '10.48188000'
-  wikiDataId: Q484106
-- id: 79280
-  name: Kolvereid
-  state_id: 1006
+- name: Kolvereid
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.86549000'
   longitude: '11.60465000'
-  wikiDataId: Q3230544
-- id: 79298
-  name: Kyrksæterøra
-  state_id: 1006
+- name: Kyrksæterøra
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.29057000'
   longitude: '9.08909000'
-  wikiDataId: Q1769683
-- id: 79305
-  name: Lauvsnes
-  state_id: 1006
+- name: Lauvsnes
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.50061000'
   longitude: '10.89396000'
-  wikiDataId: Q3353260
-- id: 79312
-  name: Leka
-  state_id: 1006
+- name: Leka
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '65.09244000'
   longitude: '11.70513000'
-  wikiDataId: Q503591
-- id: 79319
-  name: Levanger
-  state_id: 1006
+- name: Levanger
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.74585000'
   longitude: '11.29991000'
-  wikiDataId: Q216430
-- id: 79321
-  name: Lierne
-  state_id: 1006
+- name: Lierne
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.46413000'
   longitude: '13.59249000'
-  wikiDataId: Q493999
-- id: 79331
-  name: Lundamo
-  state_id: 1006
+- name: Lundamo
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.15216000'
   longitude: '10.28555000'
-  wikiDataId: Q1781145
-- id: 79348
-  name: Malm
-  state_id: 1006
+- name: Malm
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.07534000'
   longitude: '11.22398000'
-  wikiDataId: Q1772243
-- id: 79349
-  name: Malvik
-  state_id: 1006
+- name: Malvik
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.41057000'
   longitude: '10.79382000'
-  wikiDataId: Q493988
-- id: 79359
-  name: Meldal
-  state_id: 1006
+- name: Meldal
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.04598000'
   longitude: '9.71088000'
-  wikiDataId: Q484191
-- id: 79360
-  name: Melhus
-  state_id: 1006
+- name: Melhus
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.28755000'
   longitude: '10.27686000'
-  wikiDataId: Q488762
-- id: 79363
-  name: Meråker
-  state_id: 1006
+- name: Meråker
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.41423000'
   longitude: '11.74558000'
-  wikiDataId: Q48732
-- id: 79365
-  name: Midtre Gauldal
-  state_id: 1006
+- name: Midtre Gauldal
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.03902000'
   longitude: '10.28701000'
-  wikiDataId: Q492244
-- id: 79382
-  name: Namdalseid
-  state_id: 1006
+- name: Namdalseid
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.10843000'
   longitude: '10.91862000'
-  wikiDataId: Q502193
-- id: 79383
-  name: Namsos
-  state_id: 1006
+- name: Namsos
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.47842000'
   longitude: '11.54182000'
-  wikiDataId: Q111039
-- id: 79384
-  name: Namsskogan
-  state_id: 1006
+- name: Namsskogan
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.92597000'
   longitude: '13.15932000'
-  wikiDataId: Q493996
-- id: 79416
-  name: Nærøy
-  state_id: 1006
+- name: Nærøy
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.86298000'
   longitude: '11.60505000'
-  wikiDataId: Q488979
-- id: 79419
-  name: Oppdal
-  state_id: 1006
+- name: Oppdal
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.59495000'
   longitude: '9.68761000'
-  wikiDataId: Q113595
-- id: 79421
-  name: Orkdal
-  state_id: 1006
+- name: Orkdal
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.29989000'
   longitude: '9.84365000'
-  wikiDataId: Q500284
-- id: 79424
-  name: Osen
-  state_id: 1006
+- name: Osen
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.29875000'
   longitude: '10.51284000'
-  wikiDataId: Q484257
-- id: 79428
-  name: Overhalla
-  state_id: 1006
+- name: Overhalla
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.49380000'
   longitude: '11.94753000'
-  wikiDataId: Q499761
-- id: 79695
-  name: Ørland
-  state_id: 1006
+- name: Ørland
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.68574000'
   longitude: '9.66633000'
-  wikiDataId: Q308245
-- id: 79433
-  name: Raarvihke - Røyrvik
-  state_id: 1006
+- name: Raarvihke - Røyrvik
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.88380000'
   longitude: '13.56310000'
-  wikiDataId: Q484088
-- id: 79438
-  name: Ranemsletta
-  state_id: 1006
+- name: Ranemsletta
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.49447000'
   longitude: '11.94912000'
-  wikiDataId: Q1799084
-- id: 79446
-  name: Rennebu
-  state_id: 1006
+- name: Rennebu
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.82864000'
   longitude: '10.00487000'
-  wikiDataId: Q488124
-- id: 79449
-  name: Rindal
-  state_id: 1006
+- name: Rindal
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.05511000'
   longitude: '9.21274000'
-  wikiDataId: Q488242
-- id: 79454
-  name: Roan
-  state_id: 1006
+- name: Roan
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.17281000'
   longitude: '10.22511000'
-  wikiDataId: Q503600
-- id: 79468
-  name: Røros
-  state_id: 1006
+- name: Røros
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.57562000'
   longitude: '11.38730000'
-  wikiDataId: Q108999
-- id: 79469
-  name: Rørvik
-  state_id: 1006
+- name: Rørvik
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.86185000'
   longitude: '11.23969000'
-  wikiDataId: Q247062
-- id: 79472
-  name: Røyrvik
-  state_id: 1006
+- name: Røyrvik
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.88394000'
   longitude: '13.56256000'
-  wikiDataId: Q47482855
-- id: 79491
-  name: Selbu
-  state_id: 1006
+- name: Selbu
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.21770000'
   longitude: '11.03938000'
-  wikiDataId: Q492209
-- id: 79500
-  name: Sistranda
-  state_id: 1006
+- name: Sistranda
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.72523000'
   longitude: '8.83318000'
-  wikiDataId: Q1774497
-- id: 79505
-  name: Skaun
-  state_id: 1006
+- name: Skaun
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.32386000'
   longitude: '10.06745000'
-  wikiDataId: Q500186
-- id: 79516
-  name: Skogn
-  state_id: 1006
+- name: Skogn
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.70374000'
   longitude: '11.19262000'
-  wikiDataId: Q3357691
-- id: 79527
-  name: Snåase
-  state_id: 1006
+- name: Snåase
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.24570000'
   longitude: '12.37779000'
-  wikiDataId: Q7548932
-- id: 79528
-  name: Snåase - Snåsa
-  state_id: 1006
+- name: Snåase - Snåsa
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.24606000'
   longitude: '12.38294000'
-  wikiDataId: Q493846
-- id: 79526
-  name: Snillfjord
-  state_id: 1006
+- name: Snillfjord
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.39973000'
   longitude: '9.50194000'
-  wikiDataId: Q48568
-- id: 79541
-  name: Steinkjer
-  state_id: 1006
+- name: Steinkjer
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.19303000'
   longitude: '11.38505000'
-  wikiDataId: Q110431
-- id: 79543
-  name: Stjørdal
-  state_id: 1006
+- name: Stjørdal
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.56699000'
   longitude: '11.02730000'
-  wikiDataId: Q217802
-- id: 79544
-  name: Stjørdalshalsen
-  state_id: 1006
+- name: Stjørdalshalsen
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.46810000'
   longitude: '10.92618000'
-  wikiDataId: Q2619068
-- id: 79559
-  name: Straumen
-  state_id: 1006
+- name: Straumen
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.87163000'
   longitude: '11.29617000'
-  wikiDataId: Q603050
-- id: 79609
-  name: Trondheim
-  state_id: 1006
+- name: Trondheim
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.42811000'
   longitude: '10.39687000'
-  wikiDataId: Q1324436
-- id: 79614
-  name: Tydal
-  state_id: 1006
+- name: Tydal
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.04477000'
   longitude: '11.65038000'
-  wikiDataId: Q494053
-- id: 79640
-  name: Verdal
-  state_id: 1006
+- name: Verdal
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '63.90023000'
   longitude: '11.72724000'
-  wikiDataId: Q503660
-- id: 79641
-  name: Verran
-  state_id: 1006
+- name: Verran
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.07100000'
   longitude: '11.21795000'
-  wikiDataId: Q499779
-- id: 79656
-  name: Vikna
-  state_id: 1006
+- name: Vikna
   state_code: '50'
   state_name: Trøndelag
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '64.86362000'
   longitude: '11.24198000'
-  wikiDataId: Q48833
-- id: 79686
-  name: Årøysund
-  state_id: 1024
+- name: Årøysund
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.18321000'
   longitude: '10.45743000'
-  wikiDataId: Q1788218
-- id: 79689
-  name: Åsgårdstrand
-  state_id: 1024
+- name: Åsgårdstrand
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.34938000'
   longitude: '10.46948000'
-  wikiDataId: Q271269
-- id: 79063
-  name: Bamble
-  state_id: 1024
+- name: Bamble
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.00146000'
   longitude: '9.74573000'
-  wikiDataId: Q484052
-- id: 79065
-  name: Barkåker
-  state_id: 1024
+- name: Barkåker
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.31859000'
   longitude: '10.38963000'
-  wikiDataId: Q1785120
-- id: 79070
-  name: Berger
-  state_id: 1024
+- name: Berger
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.54994000'
   longitude: '10.38641000'
-  wikiDataId: Q3366014
-- id: 79095
-  name: Bø
-  state_id: 1024
+- name: Bø
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.41281000'
   longitude: '9.06618000'
-  wikiDataId: Q499450
-- id: 79100
-  name: Dalen
-  state_id: 1024
+- name: Dalen
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.44499000'
   longitude: '8.00492000'
-  wikiDataId: Q1019138
-- id: 79105
-  name: Drangedal
-  state_id: 1024
+- name: Drangedal
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.09655000'
   longitude: '9.05960000'
-  wikiDataId: Q2367
-- id: 79168
-  name: Færder
-  state_id: 1024
+- name: Færder
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.22791000'
   longitude: '10.41530000'
-  wikiDataId: Q42320251
-- id: 79167
-  name: Fyresdal
-  state_id: 1024
+- name: Fyresdal
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.18651000'
   longitude: '8.08953000'
-  wikiDataId: Q1881
-- id: 79195
-  name: Gullhaug
-  state_id: 1024
+- name: Gullhaug
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.50130000'
   longitude: '10.25224000'
-  wikiDataId: Q2275078
-- id: 79196
-  name: Gvarv
-  state_id: 1024
+- name: Gvarv
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.38767000'
   longitude: '9.17240000'
-  wikiDataId: Q1771487
-- id: 79219
-  name: Herre
-  state_id: 1024
+- name: Herre
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.10351000'
   longitude: '9.56195000'
-  wikiDataId: Q1773454
-- id: 79223
-  name: Hjartdal
-  state_id: 1024
+- name: Hjartdal
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.61276000'
   longitude: '8.94942000'
-  wikiDataId: Q2354
-- id: 79229
-  name: Holmestrand
-  state_id: 1024
+- name: Holmestrand
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.48976000'
   longitude: '10.31515000'
-  wikiDataId: Q483871
-- id: 79236
-  name: Horten
-  state_id: 1024
+- name: Horten
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.41547000'
   longitude: '10.48527000'
-  wikiDataId: Q109048
-- id: 79286
-  name: Kragerø
-  state_id: 1024
+- name: Kragerø
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '58.86792000'
   longitude: '9.41099000'
-  wikiDataId: Q2372
-- id: 79294
-  name: Kviteseid
-  state_id: 1024
+- name: Kviteseid
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.40194000'
   longitude: '8.49459000'
-  wikiDataId: Q2232
-- id: 79304
-  name: Larvik
-  state_id: 1024
+- name: Larvik
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.05234000'
   longitude: '10.02701000'
-  wikiDataId: Q156125
-- id: 79332
-  name: Lunde
-  state_id: 1024
+- name: Lunde
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.29832000'
   longitude: '9.10268000'
-  wikiDataId: Q845911
-- id: 79361
-  name: Melsomvik
-  state_id: 1024
+- name: Melsomvik
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.22394000'
   longitude: '10.33616000'
-  wikiDataId: Q1777265
-- id: 79398
-  name: Nissedal
-  state_id: 1024
+- name: Nissedal
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.01958000'
   longitude: '8.52127000'
-  wikiDataId: Q2229
-- id: 79401
-  name: Nome
-  state_id: 1024
+- name: Nome
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.28136000'
   longitude: '9.25678000'
-  wikiDataId: Q2375
-- id: 79414
-  name: Notodden
-  state_id: 1024
+- name: Notodden
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.55992000'
   longitude: '9.26046000'
-  wikiDataId: Q2326
-- id: 79430
-  name: Porsgrunn
-  state_id: 1024
+- name: Porsgrunn
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.14190000'
   longitude: '9.65680000'
-  wikiDataId: Q2290
-- id: 79431
-  name: Prestestranda
-  state_id: 1024
+- name: Prestestranda
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.09773000'
   longitude: '9.05866000'
-  wikiDataId: Q3285644
-- id: 79441
-  name: Re
-  state_id: 1024
+- name: Re
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.35056000'
   longitude: '10.24763000'
-  wikiDataId: Q499570
-- id: 79453
-  name: Rjukan
-  state_id: 1024
+- name: Rjukan
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.87891000'
   longitude: '8.59411000'
-  wikiDataId: Q991201
-- id: 79480
-  name: Sande
-  state_id: 1024
+- name: Sande
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.59362000'
   longitude: '10.20757000'
-  wikiDataId: Q183029
-- id: 79482
-  name: Sandefjord
-  state_id: 1024
+- name: Sandefjord
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.12881000'
   longitude: '10.21971000'
-  wikiDataId: Q109005
-- id: 79489
-  name: Sauherad
-  state_id: 1024
+- name: Sauherad
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.39642000'
   longitude: '9.24910000'
-  wikiDataId: Q2381
-- id: 79493
-  name: Seljord
-  state_id: 1024
+- name: Seljord
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.48274000'
   longitude: '8.62672000'
-  wikiDataId: Q2236
-- id: 79494
-  name: Selvik
-  state_id: 1024
+- name: Selvik
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.56645000'
   longitude: '10.26004000'
-  wikiDataId: Q2354706
-- id: 79495
-  name: Sem
-  state_id: 1024
+- name: Sem
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.28230000'
   longitude: '10.33004000'
-  wikiDataId: Q3355934
-- id: 79498
-  name: Siljan
-  state_id: 1024
+- name: Siljan
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.28251000'
   longitude: '9.73368000'
-  wikiDataId: Q2308
-- id: 79508
-  name: Skien
-  state_id: 1024
+- name: Skien
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.20748000'
   longitude: '9.61052000'
-  wikiDataId: Q2272
-- id: 79518
-  name: Skoppum
-  state_id: 1024
+- name: Skoppum
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.38613000'
   longitude: '10.41077000'
-  wikiDataId: Q2490964
-- id: 79539
-  name: Stavern
-  state_id: 1024
+- name: Stavern
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.00000000'
   longitude: '10.03333000'
-  wikiDataId: Q1541556
-- id: 79545
-  name: Stokke
-  state_id: 1024
+- name: Stokke
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.22255000'
   longitude: '10.30055000'
-  wikiDataId: Q513649
-- id: 79570
-  name: Svelvik
-  state_id: 1024
+- name: Svelvik
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.60677000'
   longitude: '10.40225000'
-  wikiDataId: Q48701
-- id: 79594
-  name: Tinn
-  state_id: 1024
+- name: Tinn
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.83486000'
   longitude: '9.13528000'
-  wikiDataId: Q2365
-- id: 79596
-  name: Tjøme
-  state_id: 1024
+- name: Tjøme
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.11090000'
   longitude: '10.39330000'
-  wikiDataId: Q48801
-- id: 79598
-  name: Tokke
-  state_id: 1024
+- name: Tokke
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.44569000'
   longitude: '8.01388000'
-  wikiDataId: Q2241
-- id: 79619
-  name: Tønsberg
-  state_id: 1024
+- name: Tønsberg
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.26754000'
   longitude: '10.40762000'
-  wikiDataId: Q10853792
-- id: 79620
-  name: Ulefoss
-  state_id: 1024
+- name: Ulefoss
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.28245000'
   longitude: '9.26548000'
-  wikiDataId: Q3491782
-- id: 79658
-  name: Vinje
-  state_id: 1024
+- name: Vinje
   state_code: '38'
   state_name: Vestfold og Telemark
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.56924000'
   longitude: '7.98896000'
-  wikiDataId: Q2245
-- id: 79675
-  name: Ågotnes
-  state_id: 1018
+- name: Ågotnes
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.40306000'
   longitude: '5.01927000'
-  wikiDataId: Q2347592
-- id: 79682
-  name: Årdal
-  state_id: 1018
+- name: Årdal
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.23639000'
   longitude: '7.70204000'
-  wikiDataId: Q271140
-- id: 79683
-  name: Årdalstangen
-  state_id: 1018
+- name: Årdalstangen
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.23581000'
   longitude: '7.70370000'
-  wikiDataId: Q2311858
-- id: 79048
-  name: Askøy
-  state_id: 1018
+- name: Askøy
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.40916000'
   longitude: '5.22599000'
-  wikiDataId: Q215374
-- id: 79047
-  name: Askvoll
-  state_id: 1018
+- name: Askvoll
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.34850000'
   longitude: '5.05318000'
-  wikiDataId: Q504817
-- id: 79053
-  name: Aurland
-  state_id: 1018
+- name: Aurland
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.90556000'
   longitude: '7.18734000'
-  wikiDataId: Q486700
-- id: 79056
-  name: Austevoll
-  state_id: 1018
+- name: Austevoll
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.09578000'
   longitude: '5.22722000'
-  wikiDataId: Q484008
-- id: 79057
-  name: Austrheim
-  state_id: 1018
+- name: Austrheim
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.77742000'
   longitude: '4.93227000'
-  wikiDataId: Q484080
-- id: 79060
-  name: Balestrand
-  state_id: 1018
+- name: Balestrand
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.20809000'
   longitude: '6.53551000'
-  wikiDataId: Q493292
-- id: 79069
-  name: Bergen
-  state_id: 1018
+- name: Bergen
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.39200000'
   longitude: '5.32800000'
-  wikiDataId: Q10428388
-- id: 79097
-  name: Bømlo
-  state_id: 1018
+- name: Bømlo
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.79384000'
   longitude: '5.17624000'
-  wikiDataId: Q113552
-- id: 79088
-  name: Bremanger
-  state_id: 1018
+- name: Bremanger
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.76862000'
   longitude: '5.28907000'
-  wikiDataId: Q499455
-- id: 79098
-  name: Dale
-  state_id: 1018
+- name: Dale
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.58639000'
   longitude: '5.81888000'
-  wikiDataId: Q1951189
-- id: 79110
-  name: Eid
-  state_id: 1018
+- name: Eid
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.90684000'
   longitude: '5.99321000'
-  wikiDataId: Q500198
-- id: 79112
-  name: Eidfjord
-  state_id: 1018
+- name: Eidfjord
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.46741000'
   longitude: '7.06971000'
-  wikiDataId: Q483977
-- id: 79119
-  name: Eikelandsosen
-  state_id: 1018
+- name: Eikelandsosen
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.24175000'
   longitude: '5.74433000'
-  wikiDataId: Q1812223
-- id: 79120
-  name: Eivindvik
-  state_id: 1018
+- name: Eivindvik
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.98133000'
   longitude: '5.07497000'
-  wikiDataId: Q1926397
-- id: 79125
-  name: Espeland
-  state_id: 1018
+- name: Espeland
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.38249000'
   longitude: '5.46570000'
-  wikiDataId: Q2930257
-- id: 79126
-  name: Etne
-  state_id: 1018
+- name: Etne
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.66472000'
   longitude: '5.93438000'
-  wikiDataId: Q48782
-- id: 79133
-  name: Farnes
-  state_id: 1018
+- name: Farnes
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.30850000'
   longitude: '7.79694000'
-  wikiDataId: Q2491662
-- id: 79136
-  name: Fedje
-  state_id: 1018
+- name: Fedje
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.77873000'
   longitude: '4.71965000'
-  wikiDataId: Q484213
-- id: 79142
-  name: Fitjar
-  state_id: 1018
+- name: Fitjar
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.91742000'
   longitude: '5.31637000'
-  wikiDataId: Q113491
-- id: 79143
-  name: Fjaler
-  state_id: 1018
+- name: Fjaler
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.36383000'
   longitude: '5.39808000'
-  wikiDataId: Q499397
-- id: 79144
-  name: Fjell
-  state_id: 1018
+- name: Fjell
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.36267000'
   longitude: '5.12194000'
-  wikiDataId: Q473529
-- id: 79151
-  name: Flora
-  state_id: 1018
+- name: Flora
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.59994000'
   longitude: '5.03144000'
-  wikiDataId: Q493811
-- id: 79152
-  name: Florø
-  state_id: 1018
+- name: Florø
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.59957000'
   longitude: '5.03280000'
-  wikiDataId: Q1020010
-- id: 79169
-  name: Førde
-  state_id: 1018
+- name: Førde
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.45045000'
   longitude: '5.85397000'
-  wikiDataId: Q113571
-- id: 79160
-  name: Frekhaug
-  state_id: 1018
+- name: Frekhaug
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.51321000'
   longitude: '5.24252000'
-  wikiDataId: Q1779169
-- id: 79166
-  name: Fusa
-  state_id: 1018
+- name: Fusa
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.24072000'
   longitude: '5.74458000'
-  wikiDataId: Q493279
-- id: 79171
-  name: Gaular
-  state_id: 1018
+- name: Gaular
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.32564000'
   longitude: '5.79523000'
-  wikiDataId: Q493273
-- id: 79172
-  name: Gaupne
-  state_id: 1018
+- name: Gaupne
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.40472000'
   longitude: '7.29458000'
-  wikiDataId: Q174636
-- id: 79183
-  name: Gloppen
-  state_id: 1018
+- name: Gloppen
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.77728000'
   longitude: '6.21561000'
-  wikiDataId: Q383492
-- id: 79187
-  name: Granvin
-  state_id: 1018
+- name: Granvin
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.52629000'
   longitude: '6.72178000'
-  wikiDataId: Q484186
-- id: 79194
-  name: Gulen
-  state_id: 1018
+- name: Gulen
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.98192000'
   longitude: '5.07408000'
-  wikiDataId: Q217793
-- id: 79198
-  name: Hagavik
-  state_id: 1018
+- name: Hagavik
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.18076000'
   longitude: '5.40146000'
-  wikiDataId: Q3273415
-- id: 79206
-  name: Hardbakke
-  state_id: 1018
+- name: Hardbakke
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.07562000'
   longitude: '4.84111000'
-  wikiDataId: Q1780033
-- id: 79218
-  name: Hermansverk
-  state_id: 1018
+- name: Hermansverk
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.18461000'
   longitude: '6.85016000'
-  wikiDataId: Q844106
-- id: 79235
-  name: Hornindal
-  state_id: 1018
+- name: Hornindal
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.96925000'
   longitude: '6.52249000'
-  wikiDataId: Q494049
-- id: 79248
-  name: Høyanger
-  state_id: 1018
+- name: Høyanger
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.21880000'
   longitude: '6.07308000'
-  wikiDataId: Q113720
-- id: 79243
-  name: Hylkje
-  state_id: 1018
+- name: Hylkje
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.51028000'
   longitude: '5.35444000'
-  wikiDataId: Q2347371
-- id: 79244
-  name: Hyllestad
-  state_id: 1018
+- name: Hyllestad
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.17036000'
   longitude: '5.29614000'
-  wikiDataId: Q494037
-- id: 79252
-  name: Indre Arna
-  state_id: 1018
+- name: Indre Arna
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.41768000'
   longitude: '5.47087000'
-  wikiDataId: Q3356134
-- id: 79258
-  name: Jondal
-  state_id: 1018
+- name: Jondal
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.27620000'
   longitude: '6.25257000'
-  wikiDataId: Q113638
-- id: 79261
-  name: Jølster
-  state_id: 1018
+- name: Jølster
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.56923000'
   longitude: '6.48351000'
-  wikiDataId: Q484101
-- id: 79269
-  name: Kinsarvik
-  state_id: 1018
+- name: Kinsarvik
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.37567000'
   longitude: '6.71948000'
-  wikiDataId: Q1779150
-- id: 79277
-  name: Knappskog
-  state_id: 1018
+- name: Knappskog
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.37906000'
   longitude: '5.05602000'
-  wikiDataId: Q3398172
-- id: 79279
-  name: Knarvik
-  state_id: 1018
+- name: Knarvik
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.54530000'
   longitude: '5.28208000'
-  wikiDataId: Q1016083
-- id: 79291
-  name: Kvam
-  state_id: 1018
+- name: Kvam
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.36977000'
   longitude: '6.14344000'
-  wikiDataId: Q487529
-- id: 79293
-  name: Kvinnherad
-  state_id: 1018
+- name: Kvinnherad
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.98421000'
   longitude: '6.01227000'
-  wikiDataId: Q484070
-- id: 79341
-  name: Lærdal
-  state_id: 1018
+- name: Lærdal
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.09842000'
   longitude: '7.48101000'
-  wikiDataId: Q488975
-- id: 79342
-  name: Lærdalsøyri
-  state_id: 1018
+- name: Lærdalsøyri
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.10001000'
   longitude: '7.47374000'
-  wikiDataId: Q2741974
-- id: 79308
-  name: Leikanger
-  state_id: 1018
+- name: Leikanger
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.18556000'
   longitude: '6.82199000'
-  wikiDataId: Q107396
-- id: 79311
-  name: Leirvik
-  state_id: 1018
+- name: Leirvik
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.77977000'
   longitude: '5.50051000'
-  wikiDataId: Q1022729
-- id: 79326
-  name: Lindås
-  state_id: 1018
+- name: Lindås
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.54910000'
   longitude: '5.28559000'
-  wikiDataId: Q113682
-- id: 79328
-  name: Lonevåg
-  state_id: 1018
+- name: Lonevåg
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.52556000'
   longitude: '5.49563000'
-  wikiDataId: Q1776445
-- id: 79335
-  name: Luster
-  state_id: 1018
+- name: Luster
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.40310000'
   longitude: '7.29793000'
-  wikiDataId: Q503612
-- id: 79380
-  name: Måløy
-  state_id: 1018
+- name: Måløy
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.93535000'
   longitude: '5.11362000'
-  wikiDataId: Q980129
-- id: 79351
-  name: Manger
-  state_id: 1018
+- name: Manger
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.64145000'
   longitude: '5.04136000'
-  wikiDataId: Q669863
-- id: 79354
-  name: Masfjorden
-  state_id: 1018
+- name: Masfjorden
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.79947000'
   longitude: '5.30035000'
-  wikiDataId: Q48299
-- id: 79357
-  name: Meland
-  state_id: 1018
+- name: Meland
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.51777000'
   longitude: '5.24063000'
-  wikiDataId: Q488392
-- id: 79367
-  name: Modalen
-  state_id: 1018
+- name: Modalen
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.81735000'
   longitude: '5.80790000'
-  wikiDataId: Q202605
-- id: 79376
-  name: Mosterhamn
-  state_id: 1018
+- name: Mosterhamn
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.69919000'
   longitude: '5.38585000'
-  wikiDataId: Q663354
-- id: 79387
-  name: Naustdal
-  state_id: 1018
+- name: Naustdal
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.51034000'
   longitude: '5.71719000'
-  wikiDataId: Q503622
-- id: 79406
-  name: Nordfjordeid
-  state_id: 1018
+- name: Nordfjordeid
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.91220000'
   longitude: '5.98557000'
-  wikiDataId: Q783301
-- id: 79413
-  name: Norheimsund
-  state_id: 1018
+- name: Norheimsund
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.37089000'
   longitude: '6.14562000'
-  wikiDataId: Q999333
-- id: 79417
-  name: Odda
-  state_id: 1018
+- name: Odda
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.06697000'
   longitude: '6.54541000'
-  wikiDataId: Q109494
-- id: 79423
-  name: Os
-  state_id: 1018
+- name: Os
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.18547000'
   longitude: '5.46962000'
-  wikiDataId: Q493936
-- id: 79426
-  name: Osterøy
-  state_id: 1018
+- name: Osterøy
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.52389000'
   longitude: '5.50551000'
-  wikiDataId: Q488067
-- id: 79702
-  name: Øygarden
-  state_id: 1018
+- name: Øygarden
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.59041000'
   longitude: '4.83890000'
-  wikiDataId: Q317321
-- id: 79703
-  name: Øystese
-  state_id: 1018
+- name: Øystese
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.38825000'
   longitude: '6.19251000'
-  wikiDataId: Q1771861
-- id: 79434
-  name: Radøy
-  state_id: 1018
+- name: Radøy
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.64187000'
   longitude: '5.04110000'
-  wikiDataId: Q488966
-- id: 79457
-  name: Rosendal
-  state_id: 1018
+- name: Rosendal
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.98589000'
   longitude: '6.01157000'
-  wikiDataId: Q736489
-- id: 79459
-  name: Rubbestadneset
-  state_id: 1018
+- name: Rubbestadneset
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.81559000'
   longitude: '5.26822000'
-  wikiDataId: Q2112605
-- id: 79473
-  name: Sagvåg
-  state_id: 1018
+- name: Sagvåg
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.78139000'
   longitude: '5.38996000'
-  wikiDataId: Q1890945
-- id: 79476
-  name: Samnanger
-  state_id: 1018
+- name: Samnanger
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.37745000'
   longitude: '5.76219000'
-  wikiDataId: Q488234
-- id: 79478
-  name: Sandane
-  state_id: 1018
+- name: Sandane
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.77277000'
   longitude: '6.21496000'
-  wikiDataId: Q1026464
-- id: 79479
-  name: Sande
-  state_id: 1018
+- name: Sande
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.32511000'
   longitude: '5.79773000'
-  wikiDataId: Q1795942
-- id: 79485
-  name: Sandsli
-  state_id: 1018
+- name: Sandsli
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.30323000'
   longitude: '5.28554000'
-  wikiDataId: Q1004686
-- id: 79492
-  name: Selje
-  state_id: 1018
+- name: Selje
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '62.04263000'
   longitude: '5.34449000'
-  wikiDataId: Q484313
-- id: 79517
-  name: Skogsvågen
-  state_id: 1018
+- name: Skogsvågen
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.25512000'
   longitude: '5.10161000'
-  wikiDataId: Q11517342
-- id: 79529
-  name: Sogndal
-  state_id: 1018
+- name: Sogndal
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.23144000'
   longitude: '7.10301000'
-  wikiDataId: Q490923
-- id: 79532
-  name: Solund
-  state_id: 1018
+- name: Solund
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.07394000'
   longitude: '4.83876000'
-  wikiDataId: Q48647
-- id: 79548
-  name: Stord
-  state_id: 1018
+- name: Stord
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.78092000'
   longitude: '5.49980000'
-  wikiDataId: Q485253
-- id: 79550
-  name: Storebø
-  state_id: 1018
+- name: Storebø
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.09485000'
   longitude: '5.22705000'
-  wikiDataId: Q2204280
-- id: 79558
-  name: Straume
-  state_id: 1018
+- name: Straume
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.36131000'
   longitude: '5.12199000'
-  wikiDataId: Q4581188
-- id: 79561
-  name: Stryn
-  state_id: 1018
+- name: Stryn
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.90406000'
   longitude: '6.72400000'
-  wikiDataId: Q5223
-- id: 79564
-  name: Sund
-  state_id: 1018
+- name: Sund
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.27019000'
   longitude: '5.07225000'
-  wikiDataId: Q507509
-- id: 79568
-  name: Sveio
-  state_id: 1018
+- name: Sveio
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.54303000'
   longitude: '5.35410000'
-  wikiDataId: Q48518
-- id: 79569
-  name: Svelgen
-  state_id: 1018
+- name: Svelgen
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.76976000'
   longitude: '5.29544000'
-  wikiDataId: Q1618217
-- id: 79572
-  name: Syfteland
-  state_id: 1018
+- name: Syfteland
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.23803000'
   longitude: '5.45285000'
-  wikiDataId: Q2680384
-- id: 79617
-  name: Tysnes
-  state_id: 1018
+- name: Tysnes
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.04076000'
   longitude: '5.53129000'
-  wikiDataId: Q48316
-- id: 79622
-  name: Ullensvang
-  state_id: 1018
+- name: Ullensvang
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.37501000'
   longitude: '6.72073000'
-  wikiDataId: Q484077
-- id: 79626
-  name: Ulvik
-  state_id: 1018
+- name: Ulvik
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.56719000'
   longitude: '6.91871000'
-  wikiDataId: Q487711
-- id: 79664
-  name: Vågsøy
-  state_id: 1018
+- name: Vågsøy
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.93544000'
   longitude: '5.11402000'
-  wikiDataId: Q499719
-- id: 79629
-  name: Vaksdal
-  state_id: 1018
+- name: Vaksdal
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.59030000'
   longitude: '5.82272000'
-  wikiDataId: Q48928
-- id: 79652
-  name: Vik
-  state_id: 1018
+- name: Vik
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '61.08863000'
   longitude: '6.58512000'
-  wikiDataId: Q303521
-- id: 79662
-  name: Voss
-  state_id: 1018
+- name: Voss
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.62780000'
   longitude: '6.41831000'
-  wikiDataId: Q109031
-- id: 79670
-  name: Ytre Arna
-  state_id: 1018
+- name: Ytre Arna
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.46175000'
   longitude: '5.43265000'
-  wikiDataId: Q3187118
-- id: 79671
-  name: Ytrebygda
-  state_id: 1018
+- name: Ytrebygda
   state_code: '46'
   state_name: Vestland
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.30504000'
   longitude: '5.28236000'
-  wikiDataId: Q3187118
-- id: 79677
-  name: Ål
-  state_id: 1011
+- name: Ål
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.63028000'
   longitude: '8.56115000'
-  wikiDataId: Q113538
-- id: 79681
-  name: Åneby
-  state_id: 1011
+- name: Åneby
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.08926000'
   longitude: '10.86998000'
-  wikiDataId: Q2145757
-- id: 79043
-  name: Aremark
-  state_id: 1011
+- name: Aremark
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.22198000'
   longitude: '11.69582000'
-  wikiDataId: Q48393
-- id: 79684
-  name: Årnes
-  state_id: 1011
+- name: Årnes
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.12237000'
   longitude: '11.47005000'
-  wikiDataId: Q1879347
-- id: 79685
-  name: Åros
-  state_id: 1011
+- name: Åros
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.70610000'
   longitude: '10.51092000'
-  wikiDataId: Q1873950
-- id: 79687
-  name: Ås
-  state_id: 1011
+- name: Ås
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.66366000'
   longitude: '10.79101000'
-  wikiDataId: Q54062
-- id: 79044
-  name: Ask
-  state_id: 1011
+- name: Ask
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.07131000'
   longitude: '11.03620000'
-  wikiDataId: Q3366918
-- id: 79045
-  name: Asker
-  state_id: 1011
+- name: Asker
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.83734000'
   longitude: '10.43595000'
-  wikiDataId: Q56869
-- id: 79046
-  name: Askim
-  state_id: 1011
+- name: Askim
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.58464000'
   longitude: '11.16084000'
-  wikiDataId: Q109469
-- id: 79051
-  name: Auli
-  state_id: 1011
+- name: Auli
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.03450000'
   longitude: '11.36046000'
-  wikiDataId: Q489342
-- id: 79054
-  name: Aurskog-Høland
-  state_id: 1011
+- name: Aurskog-Høland
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.88321000'
   longitude: '11.56491000'
-  wikiDataId: Q56915
-- id: 79055
-  name: Aursmoen
-  state_id: 1011
+- name: Aursmoen
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.92763000'
   longitude: '11.44275000'
-  wikiDataId: Q2667193
-- id: 79094
-  name: Bærum
-  state_id: 1011
+- name: Bærum
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.88996000'
   longitude: '10.52649000'
-  wikiDataId: Q57076
-- id: 79073
-  name: Billingstad
-  state_id: 1011
+- name: Billingstad
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.87548000'
   longitude: '10.48230000'
-  wikiDataId: Q4911979
-- id: 79078
-  name: Bjørkelangen
-  state_id: 1011
+- name: Bjørkelangen
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.88357000'
   longitude: '11.56396000'
-  wikiDataId: Q1882693
-- id: 79080
-  name: Blakstad
-  state_id: 1011
+- name: Blakstad
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.81910000'
   longitude: '10.46450000'
-  wikiDataId: Q4924676
-- id: 79104
-  name: Drammen
-  state_id: 1011
+- name: Drammen
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.74389000'
   longitude: '10.20449000'
-  wikiDataId: Q15138612
-- id: 79106
-  name: Drøbak
-  state_id: 1011
+- name: Drøbak
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.66333000'
   longitude: '10.62975000'
-  wikiDataId: Q995477
-- id: 79113
-  name: Eidsberg
-  state_id: 1011
+- name: Eidsberg
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.55148000'
   longitude: '11.33587000'
-  wikiDataId: Q113740
-- id: 79115
-  name: Eidsvoll
-  state_id: 1011
+- name: Eidsvoll
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.32893000'
   longitude: '11.26119000'
-  wikiDataId: Q57080
-- id: 79123
-  name: Enebakk
-  state_id: 1011
+- name: Enebakk
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.76452000'
   longitude: '11.14492000'
-  wikiDataId: Q57081
-- id: 79132
-  name: Fagerstrand
-  state_id: 1011
+- name: Fagerstrand
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.73746000'
   longitude: '10.59404000'
-  wikiDataId: Q2491662
-- id: 79137
-  name: Fet
-  state_id: 1011
+- name: Fet
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.92216000'
   longitude: '11.16778000'
-  wikiDataId: Q57082
-- id: 79138
-  name: Fetsund
-  state_id: 1011
+- name: Fetsund
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.92463000'
   longitude: '11.15711000'
-  wikiDataId: Q1409180
-- id: 79145
-  name: Fjellfoten
-  state_id: 1011
+- name: Fjellfoten
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.08967000'
   longitude: '11.47222000'
-  wikiDataId: Q3352382
-- id: 79153
-  name: Flå
-  state_id: 1011
+- name: Flå
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.42910000'
   longitude: '9.46611000'
-  wikiDataId: Q93703
-- id: 79148
-  name: Flateby
-  state_id: 1011
+- name: Flateby
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.82951000'
   longitude: '11.15345000'
-  wikiDataId: Q2187953
-- id: 79150
-  name: Flesberg
-  state_id: 1011
+- name: Flesberg
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.83283000'
   longitude: '9.58308000'
-  wikiDataId: Q93633
-- id: 79158
-  name: Fossby
-  state_id: 1011
+- name: Fossby
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.22218000'
   longitude: '11.69928000'
-  wikiDataId: Q2693018
-- id: 79159
-  name: Fredrikstad
-  state_id: 1011
+- name: Fredrikstad
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.21759000'
   longitude: '10.93787000'
-  wikiDataId: Q107135
-- id: 79161
-  name: Frogn
-  state_id: 1011
+- name: Frogn
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.66665000'
   longitude: '10.63566000'
-  wikiDataId: Q57083
-- id: 79162
-  name: Frogner
-  state_id: 1011
+- name: Frogner
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.02463000'
   longitude: '11.10284000'
-  wikiDataId: Q1801834
-- id: 79174
-  name: Geilo
-  state_id: 1011
+- name: Geilo
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.53369000'
   longitude: '8.20539000'
-  wikiDataId: Q728230
-- id: 79178
-  name: Gjerdrum
-  state_id: 1011
+- name: Gjerdrum
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.07159000'
   longitude: '11.03597000'
-  wikiDataId: Q57084
-- id: 79184
-  name: Gol
-  state_id: 1011
+- name: Gol
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.69953000'
   longitude: '8.95024000'
-  wikiDataId: Q493301
-- id: 79199
-  name: Halden
-  state_id: 1011
+- name: Halden
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.12258000'
   longitude: '11.38709000'
-  wikiDataId: Q109042
-- id: 79217
-  name: Hemsedal
-  state_id: 1011
+- name: Hemsedal
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.86114000'
   longitude: '8.56537000'
-  wikiDataId: Q497248
-- id: 79226
-  name: Hobøl
-  state_id: 1011
+- name: Hobøl
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.62252000'
   longitude: '10.94979000'
-  wikiDataId: Q109475
-- id: 79227
-  name: Hol
-  state_id: 1011
+- name: Hol
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.61528000'
   longitude: '8.30194000'
-  wikiDataId: Q484057
-- id: 79228
-  name: Hole
-  state_id: 1011
+- name: Hole
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.08017000'
   longitude: '10.27840000'
-  wikiDataId: Q488622
-- id: 79247
-  name: Hønefoss
-  state_id: 1011
+- name: Hønefoss
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.16804000'
   longitude: '10.25647000'
-  wikiDataId: Q865925
-- id: 79239
-  name: Hurdal
-  state_id: 1011
+- name: Hurdal
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.43518000'
   longitude: '11.06707000'
-  wikiDataId: Q57858
-- id: 79240
-  name: Hurum
-  state_id: 1011
+- name: Hurum
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.61401000'
   longitude: '10.45763000'
-  wikiDataId: Q488611
-- id: 79241
-  name: Hvaler
-  state_id: 1011
+- name: Hvaler
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.02809000'
   longitude: '11.03110000'
-  wikiDataId: Q488435
-- id: 79242
-  name: Hvittingfoss
-  state_id: 1011
+- name: Hvittingfoss
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.48572000'
   longitude: '10.01173000'
-  wikiDataId: Q1770925
-- id: 79256
-  name: Jessheim
-  state_id: 1011
+- name: Jessheim
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.14151000'
   longitude: '11.17515000'
-  wikiDataId: Q990999
-- id: 79265
-  name: Karlshus
-  state_id: 1011
+- name: Karlshus
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.35195000'
   longitude: '10.87226000'
-  wikiDataId: Q2258399
-- id: 79276
-  name: Kløfta
-  state_id: 1011
+- name: Kløfta
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.07407000'
   longitude: '11.13805000'
-  wikiDataId: Q2661348
-- id: 79278
-  name: Knappstad
-  state_id: 1011
+- name: Knappstad
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.62424000'
   longitude: '11.03274000'
-  wikiDataId: Q1778557
-- id: 79281
-  name: Kongsberg
-  state_id: 1011
+- name: Kongsberg
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.66516000'
   longitude: '9.64653000'
-  wikiDataId: Q108988
-- id: 79289
-  name: Krødsherad
-  state_id: 1011
+- name: Krødsherad
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.17944000'
   longitude: '9.62124000'
-  wikiDataId: Q48886
-- id: 79302
-  name: Larkollen
-  state_id: 1011
+- name: Larkollen
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.33196000'
   longitude: '10.66687000'
-  wikiDataId: Q3356486
-- id: 79310
-  name: Leirsund
-  state_id: 1011
+- name: Leirsund
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.99682000'
   longitude: '11.08746000'
-  wikiDataId: Q2521412
-- id: 79317
-  name: Lervik
-  state_id: 1011
+- name: Lervik
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.27119000'
   longitude: '10.74610000'
-  wikiDataId: Q2002924
-- id: 79320
-  name: Lier
-  state_id: 1011
+- name: Lier
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.78663000'
   longitude: '10.24590000'
-  wikiDataId: Q488607
-- id: 79324
-  name: Lillestrøm
-  state_id: 1011
+- name: Lillestrøm
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.95597000'
   longitude: '11.04918000'
-  wikiDataId: Q934871
-- id: 79346
-  name: Lørenskog
-  state_id: 1011
+- name: Lørenskog
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.93209000'
   longitude: '10.96079000'
-  wikiDataId: Q57860
-- id: 79340
-  name: Lysaker
-  state_id: 1011
+- name: Lysaker
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.90994000'
   longitude: '10.63545000'
-  wikiDataId: Q1503983
-- id: 79352
-  name: Marker
-  state_id: 1011
+- name: Marker
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.47952000'
   longitude: '11.65917000'
-  wikiDataId: Q486736
-- id: 79355
-  name: Maura
-  state_id: 1011
+- name: Maura
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.25830000'
   longitude: '11.03192000'
-  wikiDataId: Q2385564
-- id: 79368
-  name: Modum
-  state_id: 1011
+- name: Modum
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.97346000'
   longitude: '10.00468000'
-  wikiDataId: Q484001
-- id: 79375
-  name: Moss
-  state_id: 1011
+- name: Moss
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.43436000'
   longitude: '10.65968000'
-  wikiDataId: Q109021
-- id: 79378
-  name: Mysen
-  state_id: 1011
+- name: Mysen
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.55354000'
   longitude: '11.32578000'
-  wikiDataId: Q2719327
-- id: 79385
-  name: Nannestad
-  state_id: 1011
+- name: Nannestad
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.21707000'
   longitude: '11.01200000'
-  wikiDataId: Q57862
-- id: 79388
-  name: Nedre Eiker
-  state_id: 1011
+- name: Nedre Eiker
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.75023000'
   longitude: '10.00736000'
-  wikiDataId: Q110268
-- id: 79389
-  name: Nes
-  state_id: 1011
+- name: Nes
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.12252000'
   longitude: '11.46570000'
-  wikiDataId: Q488026
-- id: 79391
-  name: Nesbyen
-  state_id: 1011
+- name: Nesbyen
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.56809000'
   longitude: '9.10274000'
-  wikiDataId: Q2723773
-- id: 79392
-  name: Neskollen
-  state_id: 1011
+- name: Neskollen
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.12159000'
   longitude: '11.33926000'
-  wikiDataId: Q2641501
-- id: 79394
-  name: Nesodden
-  state_id: 1011
+- name: Nesodden
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.84220000'
   longitude: '10.64940000'
-  wikiDataId: Q57864
-- id: 79395
-  name: Nesoddtangen
-  state_id: 1011
+- name: Nesoddtangen
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.86244000'
   longitude: '10.66308000'
-  wikiDataId: Q616208
-- id: 79399
-  name: Nittedal
-  state_id: 1011
+- name: Nittedal
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.04278000'
   longitude: '10.88167000'
-  wikiDataId: Q57865
-- id: 79411
-  name: Nore og Uvdal
-  state_id: 1011
+- name: Nore og Uvdal
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.26706000'
   longitude: '8.94635000'
-  wikiDataId: Q48924
-- id: 79412
-  name: Noresund
-  state_id: 1011
+- name: Noresund
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.17985000'
   longitude: '9.62411000'
-  wikiDataId: Q1776829
-- id: 79420
-  name: Oppegård
-  state_id: 1011
+- name: Oppegård
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.81149000'
   longitude: '10.79712000'
-  wikiDataId: Q57868
-- id: 79694
-  name: Ørje
-  state_id: 1011
+- name: Ørje
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.48023000'
   longitude: '11.66016000'
-  wikiDataId: Q2731440
-- id: 79700
-  name: Øvre Eiker
-  state_id: 1011
+- name: Øvre Eiker
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.77111000'
   longitude: '9.90840000'
-  wikiDataId: Q110311
-- id: 79432
-  name: Prestfoss
-  state_id: 1011
+- name: Prestfoss
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.04343000'
   longitude: '9.63520000'
-  wikiDataId: Q1779198
-- id: 79463
-  name: Råde
-  state_id: 1011
+- name: Råde
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.35162000'
   longitude: '10.87135000'
-  wikiDataId: Q483906
-- id: 79464
-  name: Råholt
-  state_id: 1011
+- name: Råholt
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.27513000'
   longitude: '11.17901000'
-  wikiDataId: Q1948164
-- id: 79435
-  name: Rakkestad
-  state_id: 1011
+- name: Rakkestad
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.42822000'
   longitude: '11.34350000'
-  wikiDataId: Q483969
-- id: 79465
-  name: Rælingen
-  state_id: 1011
+- name: Rælingen
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.92626000'
   longitude: '11.06527000'
-  wikiDataId: Q57870
-- id: 79451
-  name: Ringerike
-  state_id: 1011
+- name: Ringerike
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.16018000'
   longitude: '10.25660000'
-  wikiDataId: Q110848
-- id: 79456
-  name: Rollag
-  state_id: 1011
+- name: Rollag
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.98413000'
   longitude: '9.29489000'
-  wikiDataId: Q483911
-- id: 79458
-  name: Rotnes
-  state_id: 1011
+- name: Rotnes
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.05707000'
   longitude: '10.86135000'
-  wikiDataId: Q3353895
-- id: 79467
-  name: Rømskog
-  state_id: 1011
+- name: Rømskog
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.74968000'
   longitude: '11.81122000'
-  wikiDataId: Q113622
-- id: 79471
-  name: Røyken
-  state_id: 1011
+- name: Røyken
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.74019000'
   longitude: '10.41321000'
-  wikiDataId: Q488663
-- id: 79460
-  name: Rygge
-  state_id: 1011
+- name: Rygge
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.40629000'
   longitude: '10.69298000'
-  wikiDataId: Q486696
-- id: 79461
-  name: Ryggebyen
-  state_id: 1011
+- name: Ryggebyen
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.37500000'
   longitude: '10.75000000'
-  wikiDataId: Q1999128
-- id: 79487
-  name: Sarpsborg
-  state_id: 1011
+- name: Sarpsborg
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.28148000'
   longitude: '11.11167000'
-  wikiDataId: Q108025
-- id: 79574
-  name: Sætre
-  state_id: 1011
+- name: Sætre
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.68129000'
   longitude: '10.52749000'
-  wikiDataId: Q2440843
-- id: 79497
-  name: Sigdal
-  state_id: 1011
+- name: Sigdal
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.04592000'
   longitude: '9.63673000'
-  wikiDataId: Q486726
-- id: 79506
-  name: Skedsmo
-  state_id: 1011
+- name: Skedsmo
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.95448000'
   longitude: '11.03952000'
-  wikiDataId: Q57871
-- id: 79507
-  name: Ski
-  state_id: 1011
+- name: Ski
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.72049000'
   longitude: '10.83882000'
-  wikiDataId: Q57912
-- id: 79509
-  name: Skiptvet
-  state_id: 1011
+- name: Skiptvet
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.47751000'
   longitude: '11.16171000'
-  wikiDataId: Q156420
-- id: 79513
-  name: Skjærhalden
-  state_id: 1011
+- name: Skjærhalden
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.02526000'
   longitude: '11.03685000'
-  wikiDataId: Q2728826
-- id: 79510
-  name: Skjeberg
-  state_id: 1011
+- name: Skjeberg
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.21148000'
   longitude: '11.19025000'
-  wikiDataId: Q1988168
-- id: 79515
-  name: Skoger
-  state_id: 1011
+- name: Skoger
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.71327000'
   longitude: '10.25356000'
-  wikiDataId: Q48265
-- id: 79522
-  name: Skui
-  state_id: 1011
+- name: Skui
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.92746000'
   longitude: '10.44750000'
-  wikiDataId: Q7536876
-- id: 79586
-  name: Sørum
-  state_id: 1011
+- name: Sørum
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.98709000'
   longitude: '11.24019000'
-  wikiDataId: Q57914
-- id: 79587
-  name: Sørumsand
-  state_id: 1011
+- name: Sørumsand
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.98621000'
   longitude: '11.24154000'
-  wikiDataId: Q2777579
-- id: 79536
-  name: Spydeberg
-  state_id: 1011
+- name: Spydeberg
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.62028000'
   longitude: '11.08069000'
-  wikiDataId: Q48668
-- id: 79597
-  name: Tofte
-  state_id: 1011
+- name: Tofte
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.54275000'
   longitude: '10.56138000'
-  wikiDataId: Q3434129
-- id: 79601
-  name: Tomter
-  state_id: 1011
+- name: Tomter
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.65910000'
   longitude: '10.99487000'
-  wikiDataId: Q2143217
-- id: 79604
-  name: Tranby
-  state_id: 1011
+- name: Tranby
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.80850000'
   longitude: '10.26114000'
-  wikiDataId: Q2681619
-- id: 79612
-  name: Trøgstad
-  state_id: 1011
+- name: Trøgstad
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.64016000'
   longitude: '11.31890000'
-  wikiDataId: Q48678
-- id: 79621
-  name: Ullensaker
-  state_id: 1011
+- name: Ullensaker
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '60.14401000'
   longitude: '11.17441000'
-  wikiDataId: Q57917
-- id: 79668
-  name: Våler
-  state_id: 1011
+- name: Våler
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.48870000'
   longitude: '10.86551000'
-  wikiDataId: Q499446
-- id: 79642
-  name: Vestby
-  state_id: 1011
+- name: Vestby
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.60228000'
   longitude: '10.74807000'
-  wikiDataId: Q57918
-- id: 79653
-  name: Vikersund
-  state_id: 1011
+- name: Vikersund
   state_code: '30'
   state_name: Viken
-  country_id: 165
-  country_code: 'NO'
-  country_name: Norway
   latitude: '59.96838000'
   longitude: '9.99107000'
-  wikiDataId: Q988426

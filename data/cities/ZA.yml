@@ -1,3455 +1,1571 @@
 ---
-- id: 131015
-  name: Adelaide
-  state_id: 938
+- name: Adelaide
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.70747000"
   longitude: '26.29564000'
-  wikiDataId: Q353952
-- id: 131018
-  name: Alfred Nzo District Municipality
-  state_id: 938
+- name: Alfred Nzo District Municipality
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.66803000"
   longitude: '29.15490000'
-  wikiDataId: Q1664120
-- id: 131019
-  name: Alice
-  state_id: 938
+- name: Alice
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.78749000"
   longitude: '26.83440000'
-  wikiDataId: Q2003910
-- id: 131020
-  name: Aliwal North
-  state_id: 938
+- name: Aliwal North
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.69366000"
   longitude: '26.71141000'
-  wikiDataId: Q2143142
-- id: 131023
-  name: Amathole District Municipality
-  state_id: 938
+- name: Amathole District Municipality
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.55895000"
   longitude: '27.45919000'
-  wikiDataId: Q455705
-- id: 131037
-  name: Bhisho
-  state_id: 938
+- name: Bhisho
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.84721000"
   longitude: '27.44218000'
-  wikiDataId: Q209533
-- id: 131052
-  name: Buffalo City Metropolitan Municipality
-  state_id: 938
+- name: Buffalo City Metropolitan Municipality
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.95141000"
   longitude: '27.61164000'
-  wikiDataId: Q1002006
-- id: 131053
-  name: Burgersdorp
-  state_id: 938
+- name: Burgersdorp
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.99766000"
   longitude: '26.32862000'
-  wikiDataId: Q1014910
-- id: 131054
-  name: Butterworth
-  state_id: 938
+- name: Butterworth
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.33083000"
   longitude: '28.14981000'
-  wikiDataId: Q1018158
-- id: 131055
-  name: Cacadu District Municipality
-  state_id: 938
+- name: Cacadu District Municipality
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.06583000"
   longitude: '24.77583000'
-  wikiDataId: Q1024985
-- id: 131068
-  name: Chris Hani District Municipality
-  state_id: 938
+- name: Chris Hani District Municipality
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.79033000"
   longitude: '26.43965000'
-  wikiDataId: Q1077283
-- id: 131078
-  name: Cradock
-  state_id: 938
+- name: Cradock
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.16422000"
   longitude: '25.61918000'
-  wikiDataId: Q1138465
-- id: 131086
-  name: Dordrecht
-  state_id: 938
+- name: Dordrecht
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.37200000"
   longitude: '27.04878000'
-  wikiDataId: Q652552
-- id: 131093
-  name: East London
-  state_id: 938
+- name: East London
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.01529000"
   longitude: '27.91162000'
-  wikiDataId: Q209537
-- id: 131103
-  name: Elliot
-  state_id: 938
+- name: Elliot
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.33333000"
   longitude: '27.85000000'
-  wikiDataId: Q1880498
-- id: 131109
-  name: Fort Beaufort
-  state_id: 938
+- name: Fort Beaufort
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.77477000"
   longitude: '26.63376000'
-  wikiDataId: Q473216
-- id: 131119
-  name: Graaff-Reinet
-  state_id: 938
+- name: Graaff-Reinet
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.25215000"
   longitude: '24.53075000'
-  wikiDataId: Q1004667
-- id: 131121
-  name: Grahamstown
-  state_id: 938
+- name: Grahamstown
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.30422000"
   longitude: '26.53276000'
-  wikiDataId: Q951161
-- id: 131133
-  name: Ilinge
-  state_id: 938
+- name: Ilinge
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.97676000"
   longitude: '27.04267000'
-  wikiDataId: Q31922881
-- id: 131135
-  name: Joe Gqabi District Municipality
-  state_id: 938
+- name: Joe Gqabi District Municipality
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.94178000"
   longitude: '27.06053000'
-  wikiDataId: Q654849
-- id: 131141
-  name: Kirkwood
-  state_id: 938
+- name: Kirkwood
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.39829000"
   longitude: '25.44279000'
-  wikiDataId: Q3643016
-- id: 131152
-  name: Kruisfontein
-  state_id: 938
+- name: Kruisfontein
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.00333000"
   longitude: '24.73142000'
-  wikiDataId: Q31935880
-- id: 131157
-  name: Lady Frere
-  state_id: 938
+- name: Lady Frere
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.70312000"
   longitude: '27.23290000'
-  wikiDataId: Q3642180
-- id: 131174
-  name: Middelburg
-  state_id: 938
+- name: Middelburg
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.49285000"
   longitude: '25.00633000'
-  wikiDataId: Q1002188
-- id: 131182
-  name: Molteno
-  state_id: 938
+- name: Molteno
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.39675000"
   longitude: '26.36246000'
-  wikiDataId: Q1003348
-- id: 131191
-  name: Mthatha
-  state_id: 938
+- name: Mthatha
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.58893000"
   longitude: '28.78443000'
-  wikiDataId: Q1020914
-- id: 131197
-  name: Nelson Mandela Bay Metropolitan Municipality
-  state_id: 938
+- name: Nelson Mandela Bay Metropolitan Municipality
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.80399000"
   longitude: '25.49213000'
-  wikiDataId: Q1856565
-- id: 131206
-  name: OR Tambo District Municipality
-  state_id: 938
+- name: OR Tambo District Municipality
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.46740000"
   longitude: '29.05247000'
-  wikiDataId: Q2007299
-- id: 131224
-  name: Port Alfred
-  state_id: 938
+- name: Port Alfred
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.58601000"
   longitude: '26.88329000'
-  wikiDataId: Q1693203
-- id: 131225
-  name: Port Elizabeth
-  state_id: 938
+- name: Port Elizabeth
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.96109000"
   longitude: '25.61494000'
-  wikiDataId: Q125434
-- id: 131226
-  name: Port Saint John’s
-  state_id: 938
+- name: Port Saint John’s
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.62291000"
   longitude: '29.54477000'
-  wikiDataId: Q2604557
-- id: 131233
-  name: Queensdale
-  state_id: 938
+- name: Queensdale
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.87101000"
   longitude: '26.97862000'
-  wikiDataId: Q32004551
-- id: 131234
-  name: Queenstown
-  state_id: 938
+- name: Queenstown
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.89756000"
   longitude: '26.87533000'
-  wikiDataId: Q610600
-- id: 131259
-  name: Somerset East
-  state_id: 938
+- name: Somerset East
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.72173000"
   longitude: '25.58804000'
-  wikiDataId: Q1021900
-- id: 131266
-  name: Stutterheim
-  state_id: 938
+- name: Stutterheim
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.57076000"
   longitude: '27.42396000'
-  wikiDataId: Q1021884
-- id: 131279
-  name: Uitenhage
-  state_id: 938
+- name: Uitenhage
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.75757000"
   longitude: '25.39710000'
-  wikiDataId: Q1020192
-- id: 131308
-  name: Whittlesea
-  state_id: 938
+- name: Whittlesea
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.17588000"
   longitude: '26.82437000'
-  wikiDataId: Q1027839
-- id: 131309
-  name: Willowmore
-  state_id: 938
+- name: Willowmore
   state_code: EC
   state_name: Eastern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.29265000"
   longitude: '23.48954000'
-  wikiDataId: Q827319
-- id: 131021
-  name: Allanridge
-  state_id: 932
+- name: Allanridge
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.75431000"
   longitude: '26.64382000'
-  wikiDataId: Q2331526
-- id: 131036
-  name: Bethlehem
-  state_id: 932
+- name: Bethlehem
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.23078000"
   longitude: '28.30707000'
-  wikiDataId: Q831326
-- id: 131038
-  name: Bloemfontein
-  state_id: 932
+- name: Bloemfontein
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.12107000"
   longitude: '26.21400000'
-  wikiDataId: Q37701
-- id: 131043
-  name: Bothaville
-  state_id: 932
+- name: Bothaville
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.38870000"
   longitude: '26.61701000'
-  wikiDataId: Q2795307
-- id: 131044
-  name: Botshabelo
-  state_id: 932
+- name: Botshabelo
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.26737000"
   longitude: '26.72595000'
-  wikiDataId: Q894856
-- id: 131046
-  name: Brandfort
-  state_id: 932
+- name: Brandfort
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.70008000"
   longitude: '26.45968000'
-  wikiDataId: Q2805770
-- id: 131075
-  name: Clocolan
-  state_id: 932
+- name: Clocolan
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.91367000"
   longitude: '27.56555000'
-  wikiDataId: Q1102116
-- id: 131084
-  name: Deneysville
-  state_id: 932
+- name: Deneysville
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.89080000"
   longitude: '28.09707000'
-  wikiDataId: Q1956442
-- id: 131107
-  name: Fezile Dabi District Municipality
-  state_id: 932
+- name: Fezile Dabi District Municipality
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.33918000"
   longitude: '27.71927000'
-  wikiDataId: Q1410315
-- id: 131111
-  name: Frankfort
-  state_id: 932
+- name: Frankfort
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.27888000"
   longitude: '28.49696000'
-  wikiDataId: Q1263830
-- id: 131124
-  name: Harrismith
-  state_id: 932
+- name: Harrismith
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.27276000"
   longitude: '29.12946000'
-  wikiDataId: Q1586262
-- id: 131126
-  name: Heilbron
-  state_id: 932
+- name: Heilbron
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.28115000"
   longitude: '27.97090000'
-  wikiDataId: Q1233509
-- id: 131128
-  name: Hennenman
-  state_id: 932
+- name: Hennenman
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.97654000"
   longitude: '27.02423000'
-  wikiDataId: Q3642568
-- id: 131131
-  name: Hoopstad
-  state_id: 932
+- name: Hoopstad
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.83273000"
   longitude: '25.90833000'
-  wikiDataId: Q1993670
-- id: 131146
-  name: Koppies
-  state_id: 932
+- name: Koppies
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.24179000"
   longitude: '27.57422000'
-  wikiDataId: Q3642525
-- id: 131150
-  name: Kroonstad
-  state_id: 932
+- name: Kroonstad
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.65036000"
   longitude: '27.23488000'
-  wikiDataId: Q264014
-- id: 131154
-  name: Kutloanong
-  state_id: 932
+- name: Kutloanong
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.83333000"
   longitude: '26.75000000'
-  wikiDataId: Q31936566
-- id: 131158
-  name: Ladybrand
-  state_id: 932
+- name: Ladybrand
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.19448000"
   longitude: '27.45739000'
-  wikiDataId: Q608877
-- id: 131161
-  name: Lejweleputswa District Municipality
-  state_id: 932
+- name: Lejweleputswa District Municipality
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.23982000"
   longitude: '26.12649000'
-  wikiDataId: Q1816477
-- id: 131163
-  name: Lindley
-  state_id: 932
+- name: Lindley
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.87910000"
   longitude: '27.91348000'
-  wikiDataId: Q3642967
-- id: 131170
-  name: Mangaung Metropolitan Municipality
-  state_id: 932
+- name: Mangaung Metropolitan Municipality
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.15627000"
   longitude: '26.35116000'
-  wikiDataId: Q1159185
-- id: 131173
-  name: Marquard
-  state_id: 932
+- name: Marquard
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.66449000"
   longitude: '27.43048000'
-  wikiDataId: Q3643543
-- id: 131214
-  name: Parys
-  state_id: 932
+- name: Parys
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.90330000"
   longitude: '27.45727000'
-  wikiDataId: Q2835080
-- id: 131216
-  name: Phuthaditjhaba
-  state_id: 932
+- name: Phuthaditjhaba
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.52423000"
   longitude: '28.81582000'
-  wikiDataId: Q1437581
-- id: 131237
-  name: Reitz
-  state_id: 932
+- name: Reitz
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.80138000"
   longitude: '28.42726000'
-  wikiDataId: Q2208947
-- id: 131249
-  name: Sasolburg
-  state_id: 932
+- name: Sasolburg
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.81358000"
   longitude: '27.81695000'
-  wikiDataId: Q963786
-- id: 131255
-  name: Senekal
-  state_id: 932
+- name: Senekal
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.31971000"
   longitude: '27.62082000'
-  wikiDataId: Q1021742
-- id: 131271
-  name: Thaba Nchu
-  state_id: 932
+- name: Thaba Nchu
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.20932000"
   longitude: '26.83898000'
-  wikiDataId: Q1256430
-- id: 131273
-  name: Thabo Mofutsanyana District Municipality
-  state_id: 932
+- name: Thabo Mofutsanyana District Municipality
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.24378000"
   longitude: '28.34077000'
-  wikiDataId: Q1437719
-- id: 131274
-  name: Theunissen
-  state_id: 932
+- name: Theunissen
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.41098000"
   longitude: '26.70107000'
-  wikiDataId: Q2842892
-- id: 131285
-  name: Ventersburg
-  state_id: 932
+- name: Ventersburg
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.08561000"
   longitude: '27.13814000'
-  wikiDataId: Q3642271
-- id: 131288
-  name: Viljoenskroon
-  state_id: 932
+- name: Viljoenskroon
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.20841000"
   longitude: '26.94855000'
-  wikiDataId: Q2593872
-- id: 131289
-  name: Villiers
-  state_id: 932
+- name: Villiers
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.03026000"
   longitude: '28.60061000'
-  wikiDataId: Q3643597
-- id: 131290
-  name: Virginia
-  state_id: 932
+- name: Virginia
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.10391000"
   longitude: '26.86593000'
-  wikiDataId: Q1027286
-- id: 131292
-  name: Vrede
-  state_id: 932
+- name: Vrede
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.42573000"
   longitude: '29.16585000'
-  wikiDataId: Q1983656
-- id: 131293
-  name: Vredefort
-  state_id: 932
+- name: Vredefort
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.00805000"
   longitude: '27.36460000'
-  wikiDataId: Q1689721
-- id: 131301
-  name: Welkom
-  state_id: 932
+- name: Welkom
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.97742000"
   longitude: '26.73506000'
-  wikiDataId: Q1015631
-- id: 131303
-  name: Wesselsbron
-  state_id: 932
+- name: Wesselsbron
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.85490000"
   longitude: '26.36583000'
-  wikiDataId: Q2234104
-- id: 131310
-  name: Winburg
-  state_id: 932
+- name: Winburg
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.51805000"
   longitude: '27.00933000'
-  wikiDataId: Q238991
-- id: 131314
-  name: Xhariep District Municipality
-  state_id: 932
+- name: Xhariep District Municipality
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.84311000"
   longitude: '25.83286000'
-  wikiDataId: Q2006764
-- id: 131315
-  name: Zastron
-  state_id: 932
+- name: Zastron
   state_code: FS
   state_name: Free State
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.30225000"
   longitude: '27.08395000'
-  wikiDataId: Q148289
-- id: 131017
-  name: Alberton
-  state_id: 936
+- name: Alberton
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.26786000"
   longitude: '28.12225000'
-  wikiDataId: Q1637702
-- id: 131032
-  name: Benoni
-  state_id: 936
+- name: Benoni
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.18848000"
   longitude: '28.32078000'
-  wikiDataId: Q818106
-- id: 131042
-  name: Boksburg
-  state_id: 936
+- name: Boksburg
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.21197000"
   longitude: '28.25958000'
-  wikiDataId: Q891229
-- id: 131045
-  name: Brakpan
-  state_id: 936
+- name: Brakpan
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.23656000"
   longitude: '28.36938000'
-  wikiDataId: Q897489
-- id: 131051
-  name: Bronkhorstspruit
-  state_id: 936
+- name: Bronkhorstspruit
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.81015000"
   longitude: '28.74248000'
-  wikiDataId: Q927671
-- id: 131062
-  name: Carletonville
-  state_id: 936
+- name: Carletonville
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.36094000"
   longitude: '27.39767000'
-  wikiDataId: Q536114
-- id: 131066
-  name: Centurion
-  state_id: 936
+- name: Centurion
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.85891000"
   longitude: '28.18577000'
-  wikiDataId: Q1054450
-- id: 131071
-  name: City of Johannesburg Metropolitan Municipality
-  state_id: 936
+- name: City of Johannesburg Metropolitan Municipality
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.17673000"
   longitude: '27.96353000'
-  wikiDataId: Q2346838
-- id: 131072
-  name: City of Tshwane Metropolitan Municipality
-  state_id: 936
+- name: City of Tshwane Metropolitan Municipality
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.65985000"
   longitude: '28.44343000'
-  wikiDataId: Q1094207
-- id: 131079
-  name: Cullinan
-  state_id: 936
+- name: Cullinan
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.67088000"
   longitude: '28.52364000'
-  wikiDataId: Q2450605
-- id: 131085
-  name: Diepsloot
-  state_id: 936
+- name: Diepsloot
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.93312000"
   longitude: '28.01213000'
-  wikiDataId: Q1956442
-- id: 131094
-  name: Eastleigh
-  state_id: 936
+- name: Eastleigh
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.12965000"
   longitude: '28.15541000'
-  wikiDataId: Q209537
-- id: 131096
-  name: Eden Glen
-  state_id: 936
+- name: Eden Glen
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.13230000"
   longitude: '28.16859000'
-  wikiDataId: Q220249
-- id: 131097
-  name: Eden Glen Ext 60
-  state_id: 936
+- name: Eden Glen Ext 60
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.12593000"
   longitude: '28.16500000'
-  wikiDataId: Q220249
-- id: 131098
-  name: Edenvale
-  state_id: 936
+- name: Edenvale
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.14095000"
   longitude: '28.15247000'
-  wikiDataId: Q3643050
-- id: 131100
-  name: Ekangala
-  state_id: 936
+- name: Ekangala
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.69619000"
   longitude: '28.74918000'
-  wikiDataId: Q31913215
-- id: 131101
-  name: Ekurhuleni Metropolitan Municipality
-  state_id: 936
+- name: Ekurhuleni Metropolitan Municipality
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.19890000"
   longitude: '28.31262000'
-  wikiDataId: Q326891
-- id: 131125
-  name: Heidelberg
-  state_id: 936
+- name: Heidelberg
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.50476000"
   longitude: '28.35921000'
-  wikiDataId: Q1594009
-- id: 131136
-  name: Johannesburg
-  state_id: 936
+- name: Johannesburg
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.20227000"
   longitude: '28.04363000'
-  wikiDataId: Q34647
-- id: 131151
-  name: Krugersdorp
-  state_id: 936
+- name: Krugersdorp
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.08577000"
   longitude: '27.77515000'
-  wikiDataId: Q644506
-- id: 131166
-  name: Mabopane
-  state_id: 936
+- name: Mabopane
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.49768000"
   longitude: '28.10065000'
-  wikiDataId: Q747507
-- id: 131176
-  name: Midrand
-  state_id: 936
+- name: Midrand
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.98953000"
   longitude: '28.12843000'
-  wikiDataId: Q639518
-- id: 131177
-  name: Midstream
-  state_id: 936
+- name: Midstream
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.91849000"
   longitude: '28.19881000'
-  wikiDataId: Q639518
-- id: 131179
-  name: Modderfontein
-  state_id: 936
+- name: Modderfontein
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.08909000"
   longitude: '28.16534000'
-  wikiDataId: Q6888071
-- id: 131193
-  name: Muldersdriseloop
-  state_id: 936
+- name: Muldersdriseloop
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.03673000"
   longitude: '27.83798000'
-  wikiDataId: Q1013531
-- id: 131202
-  name: Nigel
-  state_id: 936
+- name: Nigel
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.43138000"
   longitude: '28.47713000'
-  wikiDataId: Q1989529
-- id: 131207
-  name: Orange Farm
-  state_id: 936
+- name: Orange Farm
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.48333000"
   longitude: '27.86667000'
-  wikiDataId: Q7099614
-- id: 131230
-  name: Pretoria
-  state_id: 936
+- name: Pretoria
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.74486000"
   longitude: '28.18783000'
-  wikiDataId: Q3926
-- id: 131235
-  name: Randburg
-  state_id: 936
+- name: Randburg
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.09410000"
   longitude: '28.00123000'
-  wikiDataId: Q2296366
-- id: 131236
-  name: Randfontein
-  state_id: 936
+- name: Randfontein
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.18440000"
   longitude: '27.70203000'
-  wikiDataId: Q744437
-- id: 131245
-  name: Roodepoort
-  state_id: 936
+- name: Roodepoort
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.16250000"
   longitude: '27.87250000'
-  wikiDataId: Q2166182
-- id: 131253
-  name: Sedibeng District Municipality
-  state_id: 936
+- name: Sedibeng District Municipality
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.56686000"
   longitude: '28.18277000'
-  wikiDataId: Q2038939
-- id: 131260
-  name: Soweto
-  state_id: 936
+- name: Soweto
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.26781000"
   longitude: '27.85849000'
-  wikiDataId: Q217426
-- id: 131262
-  name: Springs
-  state_id: 936
+- name: Springs
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.25000000"
   longitude: '28.40000000'
-  wikiDataId: Q761408
-- id: 131270
-  name: Tembisa
-  state_id: 936
+- name: Tembisa
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.99636000"
   longitude: '28.22680000'
-  wikiDataId: Q1580709
-- id: 131284
-  name: Vanderbijlpark
-  state_id: 936
+- name: Vanderbijlpark
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.71171000"
   longitude: '27.83795000'
-  wikiDataId: Q989955
-- id: 131286
-  name: Vereeniging
-  state_id: 936
+- name: Vereeniging
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.67313000"
   longitude: '27.92615000'
-  wikiDataId: Q503056
-- id: 131305
-  name: West Rand District Municipality
-  state_id: 936
+- name: West Rand District Municipality
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.24565000"
   longitude: '27.55538000'
-  wikiDataId: Q1789890
-- id: 131306
-  name: Westonaria
-  state_id: 936
+- name: Westonaria
   state_code: GP
   state_name: Gauteng
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.31905000"
   longitude: '27.64860000'
-  wikiDataId: Q1789890
-- id: 131022
-  name: Amajuba District Municipality
-  state_id: 935
+- name: Amajuba District Municipality
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.73558000"
   longitude: '30.13537000'
-  wikiDataId: Q452565
-- id: 131027
-  name: Ballito
-  state_id: 935
+- name: Ballito
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.53897000"
   longitude: '31.21439000'
-  wikiDataId: Q2188373
-- id: 131033
-  name: Berea
-  state_id: 935
+- name: Berea
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.85185000"
   longitude: '30.99337000'
-  wikiDataId: Q818106
-- id: 131091
-  name: Dundee
-  state_id: 935
+- name: Dundee
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.16678000"
   longitude: '30.23371000'
-  wikiDataId: Q1265538
-- id: 131092
-  name: Durban
-  state_id: 935
+- name: Durban
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.85790000"
   longitude: '31.02920000'
-  wikiDataId: Q5468
-- id: 131102
-  name: Ekuvukeni
-  state_id: 935
+- name: Ekuvukeni
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.46752000"
   longitude: '30.15513000'
-  wikiDataId: Q5350627
-- id: 131320
-  name: eMkhomazi
-  state_id: 935
+- name: eMkhomazi
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.20674000"
   longitude: '30.79776000'
-  wikiDataId: Q2096887
-- id: 131104
-  name: Empangeni
-  state_id: 935
+- name: Empangeni
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.76197000"
   longitude: '31.89329000'
-  wikiDataId: Q1339143
-- id: 131106
-  name: Eshowe
-  state_id: 935
+- name: Eshowe
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.88649000"
   longitude: '31.46990000'
-  wikiDataId: Q1367652
-- id: 131321
-  name: eSikhaleni
-  state_id: 935
+- name: eSikhaleni
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.87097000"
   longitude: '31.89961000'
-  wikiDataId: Q985865
-- id: 131322
-  name: eThekwini Metropolitan Municipality
-  state_id: 935
+- name: eThekwini Metropolitan Municipality
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.86670000"
   longitude: '31.01670000'
-  wikiDataId: Q311544
-- id: 131118
-  name: Glencoe
-  state_id: 935
+- name: Glencoe
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.17827000"
   longitude: '30.14702000'
-  wikiDataId: Q285782
-- id: 131122
-  name: Greytown
-  state_id: 935
+- name: Greytown
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.06415000"
   longitude: '30.59279000'
-  wikiDataId: Q1021891
-- id: 131130
-  name: Hluhluwe
-  state_id: 935
+- name: Hluhluwe
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.01895000"
   longitude: '32.26762000'
-  wikiDataId: Q1004768
-- id: 131132
-  name: Howick
-  state_id: 935
+- name: Howick
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.47795000"
   longitude: '30.23057000'
-  wikiDataId: Q1503458
-- id: 131323
-  name: iLembe District Municipality
-  state_id: 935
+- name: iLembe District Municipality
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.27326000"
   longitude: '31.14253000'
-  wikiDataId: Q311794
-- id: 131144
-  name: Kokstad
-  state_id: 935
+- name: Kokstad
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.54723000"
   longitude: '29.42412000'
-  wikiDataId: Q1671256
-- id: 131155
-  name: KwaDukuza
-  state_id: 935
+- name: KwaDukuza
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.32816000"
   longitude: '31.28954000'
-  wikiDataId: Q10676708
-- id: 131172
-  name: Margate
-  state_id: 935
+- name: Margate
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.86360000"
   longitude: '30.37052000'
-  wikiDataId: Q631231
-- id: 131183
-  name: Mondlo
-  state_id: 935
+- name: Mondlo
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.98299000"
   longitude: '30.71769000'
-  wikiDataId: Q2611079
-- id: 131185
-  name: Mooirivier
-  state_id: 935
+- name: Mooirivier
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.20824000"
   longitude: '29.99460000'
-  wikiDataId: Q1946653
-- id: 131189
-  name: Mpophomeni
-  state_id: 935
+- name: Mpophomeni
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.56822000"
   longitude: '30.18618000'
-  wikiDataId: Q2491104
-- id: 131190
-  name: Mpumalanga
-  state_id: 935
+- name: Mpumalanga
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.81292000"
   longitude: '30.63646000'
-  wikiDataId: Q1005268
-- id: 131192
-  name: Mtubatuba
-  state_id: 935
+- name: Mtubatuba
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.41789000"
   longitude: '32.18483000'
-  wikiDataId: Q1013531
-- id: 131196
-  name: Ndwedwe
-  state_id: 935
+- name: Ndwedwe
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.51686000"
   longitude: '30.92687000'
-  wikiDataId: Q1717872
-- id: 131199
-  name: Newcastle
-  state_id: 935
+- name: Newcastle
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.75796000"
   longitude: '29.93180000'
-  wikiDataId: Q1027294
-- id: 131218
-  name: Pietermaritzburg
-  state_id: 935
+- name: Pietermaritzburg
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.61679000"
   longitude: '30.39278000'
-  wikiDataId: Q185591
-- id: 131227
-  name: Port Shepstone
-  state_id: 935
+- name: Port Shepstone
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.74137000"
   longitude: '30.45499000'
-  wikiDataId: Q121395
-- id: 131239
-  name: Richards Bay
-  state_id: 935
+- name: Richards Bay
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.78301000"
   longitude: '32.03768000'
-  wikiDataId: Q1471757
-- id: 131240
-  name: Richmond
-  state_id: 935
+- name: Richmond
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.87196000"
   longitude: '30.27235000'
-  wikiDataId: Q1471757
-- id: 131251
-  name: Scottburgh
-  state_id: 935
+- name: Scottburgh
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.28666000"
   longitude: '30.75316000'
-  wikiDataId: Q933028
-- id: 131256
-  name: Sisonke District Municipality
-  state_id: 935
+- name: Sisonke District Municipality
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.11082000"
   longitude: '29.66009000'
-  wikiDataId: Q549746
-- id: 131267
-  name: Sundumbili
-  state_id: 935
+- name: Sundumbili
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.13371000"
   longitude: '31.39752000'
-  wikiDataId: Q32025251
-- id: 131278
-  name: Ugu District Municipality
-  state_id: 935
+- name: Ugu District Municipality
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.54365000"
   longitude: '30.27480000'
-  wikiDataId: Q2091235
-- id: 131280
-  name: Ulundi
-  state_id: 935
+- name: Ulundi
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.33523000"
   longitude: '31.41617000'
-  wikiDataId: Q1013421
-- id: 131324
-  name: uMgungundlovu
-  state_id: 935
+- name: uMgungundlovu
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.50927000"
   longitude: '30.19838000'
-  wikiDataId: Q311803
-- id: 131325
-  name: uMkhanyakude District Municipality
-  state_id: 935
+- name: uMkhanyakude District Municipality
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.62236000"
   longitude: '32.32945000'
-  wikiDataId: Q1654018
-- id: 131326
-  name: uMzinyathi District Municipality
-  state_id: 935
+- name: uMzinyathi District Municipality
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.58570000"
   longitude: '30.55883000'
-  wikiDataId: Q2226837
-- id: 131327
-  name: uThukela District Municipality
-  state_id: 935
+- name: uThukela District Municipality
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.71920000"
   longitude: '29.65799000'
-  wikiDataId: Q1324549
-- id: 131328
-  name: uThungulu District Municipality
-  state_id: 935
+- name: uThungulu District Municipality
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.70046000"
   longitude: '31.51527000'
-  wikiDataId: Q311668
-- id: 131282
-  name: Utrecht
-  state_id: 935
+- name: Utrecht
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.65862000"
   longitude: '30.32166000'
-  wikiDataId: Q18108
-- id: 131297
-  name: Vryheid
-  state_id: 935
+- name: Vryheid
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.76952000"
   longitude: '30.79165000'
-  wikiDataId: Q1023254
-- id: 131318
-  name: Zululand District Municipality
-  state_id: 935
+- name: Zululand District Municipality
   state_code: KZN
   state_name: KwaZulu-Natal
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.81139000"
   longitude: '31.29426000'
-  wikiDataId: Q2309262
-- id: 131040
-  name: Bochum
-  state_id: 933
+- name: Bochum
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-23.28609000"
   longitude: '29.13964000'
-  wikiDataId: Q1150364
-- id: 131061
-  name: Capricorn District Municipality
-  state_id: 933
+- name: Capricorn District Municipality
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-23.48163000"
   longitude: '29.18350000'
-  wikiDataId: Q692290
-- id: 131090
-  name: Duiwelskloof
-  state_id: 933
+- name: Duiwelskloof
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-23.69339000"
   longitude: '30.14002000'
-  wikiDataId: Q2302331
-- id: 131113
-  name: Ga-Kgapane
-  state_id: 933
+- name: Ga-Kgapane
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-23.64378000"
   longitude: '30.22324000'
-  wikiDataId: Q5515188
-- id: 131117
-  name: Giyani
-  state_id: 933
+- name: Giyani
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-23.30246000"
   longitude: '30.71868000'
-  wikiDataId: Q1528852
-- id: 131160
-  name: Lebowakgomo
-  state_id: 933
+- name: Lebowakgomo
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-24.20000000"
   longitude: '29.50000000'
-  wikiDataId: Q544201
-- id: 131164
-  name: Louis Trichardt
-  state_id: 933
+- name: Louis Trichardt
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-23.04385000"
   longitude: '29.90319000'
-  wikiDataId: Q1641474
-- id: 131171
-  name: Mankoeng
-  state_id: 933
+- name: Mankoeng
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-23.90000000"
   longitude: '29.81667000'
-  wikiDataId: Q31949208
-- id: 131180
-  name: Modimolle
-  state_id: 933
+- name: Modimolle
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-24.70000000"
   longitude: '28.40000000'
-  wikiDataId: Q6888071
-- id: 131181
-  name: Mokopane
-  state_id: 933
+- name: Mokopane
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-24.19436000"
   longitude: '29.00974000'
-  wikiDataId: Q326927
-- id: 131187
-  name: Mopani District Municipality
-  state_id: 933
+- name: Mopani District Municipality
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-23.76661000"
   longitude: '30.83600000'
-  wikiDataId: Q611074
-- id: 131194
-  name: Musina
-  state_id: 933
+- name: Musina
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-22.34881000"
   longitude: '30.04074000'
-  wikiDataId: Q1025661
-- id: 131204
-  name: Nkowakowa
-  state_id: 933
+- name: Nkowakowa
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-23.88782000"
   longitude: '30.28708000'
-  wikiDataId: Q2565925
-- id: 131215
-  name: Phalaborwa
-  state_id: 933
+- name: Phalaborwa
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-23.94299000"
   longitude: '31.14107000'
-  wikiDataId: Q1896233
-- id: 131223
-  name: Polokwane
-  state_id: 933
+- name: Polokwane
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-23.90449000"
   longitude: '29.46885000'
-  wikiDataId: Q131662
-- id: 131254
-  name: Sekhukhune District Municipality
-  state_id: 933
+- name: Sekhukhune District Municipality
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-24.82806000"
   longitude: '29.83803000'
-  wikiDataId: Q1544445
-- id: 131272
-  name: Thabazimbi
-  state_id: 933
+- name: Thabazimbi
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-24.59165000"
   longitude: '27.41155000'
-  wikiDataId: Q3643767
-- id: 131275
-  name: Thohoyandou
-  state_id: 933
+- name: Thohoyandou
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-22.94564000"
   longitude: '30.48497000'
-  wikiDataId: Q1025654
-- id: 131276
-  name: Thulamahashi
-  state_id: 933
+- name: Thulamahashi
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-24.72459000"
   longitude: '31.19939000'
-  wikiDataId: Q32028934
-- id: 131277
-  name: Tzaneen
-  state_id: 933
+- name: Tzaneen
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-23.83322000"
   longitude: '30.16351000'
-  wikiDataId: Q964666
-- id: 131287
-  name: Vhembe District Municipality
-  state_id: 933
+- name: Vhembe District Municipality
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-22.75467000"
   longitude: '30.19360000'
-  wikiDataId: Q2305610
-- id: 131298
-  name: Warmbaths
-  state_id: 933
+- name: Warmbaths
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-24.88333000"
   longitude: '28.28333000'
-  wikiDataId: Q32041226
-- id: 131300
-  name: Waterberg District Municipality
-  state_id: 933
+- name: Waterberg District Municipality
   state_code: LP
   state_name: Limpopo
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-24.20514000"
   longitude: '27.97870000'
-  wikiDataId: Q2096830
-- id: 131026
-  name: Balfour
-  state_id: 937
+- name: Balfour
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.66331000"
   longitude: '28.59016000'
-  wikiDataId: Q2188373
-- id: 131028
-  name: Barberton
-  state_id: 937
+- name: Barberton
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.78842000"
   longitude: '31.05319000'
-  wikiDataId: Q807828
-- id: 131031
-  name: Belfast
-  state_id: 937
+- name: Belfast
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.68991000"
   longitude: '30.03504000'
-  wikiDataId: Q301107
-- id: 131035
-  name: Bethal
-  state_id: 937
+- name: Bethal
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.45794000"
   longitude: '29.46553000'
-  wikiDataId: Q747174
-- id: 131049
-  name: Breyten
-  state_id: 937
+- name: Breyten
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.30176000"
   longitude: '29.98696000'
-  wikiDataId: Q2586861
-- id: 131064
-  name: Carolina
-  state_id: 937
+- name: Carolina
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.06927000"
   longitude: '30.11489000'
-  wikiDataId: Q2119900
-- id: 131083
-  name: Delmas
-  state_id: 937
+- name: Delmas
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.14660000"
   longitude: '28.68322000'
-  wikiDataId: Q1184513
-- id: 131089
-  name: Driefontein
-  state_id: 937
+- name: Driefontein
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.01770000"
   longitude: '30.44979000'
-  wikiDataId: Q31912197
-- id: 131099
-  name: Ehlanzeni District
-  state_id: 937
+- name: Ehlanzeni District
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.35100000"
   longitude: '31.36100000'
-  wikiDataId: Q1244497
-- id: 131319
-  name: eMbalenhle
-  state_id: 937
+- name: eMbalenhle
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.53333000"
   longitude: '29.06667000'
-  wikiDataId: Q2522086
-- id: 131105
-  name: Ermelo
-  state_id: 937
+- name: Ermelo
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.53333000"
   longitude: '29.98333000'
-  wikiDataId: Q1027521
-- id: 131116
-  name: Gert Sibande District Municipality
-  state_id: 937
+- name: Gert Sibande District Municipality
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.67100000"
   longitude: '29.92953000'
-  wikiDataId: Q1515346
-- id: 131127
-  name: Hendrina
-  state_id: 937
+- name: Hendrina
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.15881000"
   longitude: '29.71528000'
-  wikiDataId: Q2753004
-- id: 131145
-  name: Komatipoort
-  state_id: 937
+- name: Komatipoort
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.43321000"
   longitude: '31.95478000'
-  wikiDataId: Q1779827
-- id: 131149
-  name: Kriel
-  state_id: 937
+- name: Kriel
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.27391000"
   longitude: '29.22530000'
-  wikiDataId: Q31935641
-- id: 131165
-  name: Lydenburg
-  state_id: 937
+- name: Lydenburg
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.09598000"
   longitude: '30.44393000'
-  wikiDataId: Q1836921
-- id: 131175
-  name: Middelburg
-  state_id: 937
+- name: Middelburg
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.77507000"
   longitude: '29.46482000'
-  wikiDataId: Q1931836
-- id: 131198
-  name: Nelspruit
-  state_id: 937
+- name: Nelspruit
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.47448000"
   longitude: '30.97033000'
-  wikiDataId: Q170313
-- id: 131203
-  name: Nkangala District Municipality
-  state_id: 937
+- name: Nkangala District Municipality
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.71222000"
   longitude: '29.42431000'
-  wikiDataId: Q1856181
-- id: 131217
-  name: Piet Retief
-  state_id: 937
+- name: Piet Retief
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.00706000"
   longitude: '30.81323000'
-  wikiDataId: Q1395427
-- id: 131252
-  name: Secunda
-  state_id: 937
+- name: Secunda
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.55000000"
   longitude: '29.16667000'
-  wikiDataId: Q2110377
-- id: 131257
-  name: Siyabuswa
-  state_id: 937
+- name: Siyabuswa
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.11319000"
   longitude: '29.04454000'
-  wikiDataId: Q1934696
-- id: 131263
-  name: Standerton
-  state_id: 937
+- name: Standerton
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.93366000"
   longitude: '29.24152000'
-  wikiDataId: Q742514
-- id: 131291
-  name: Volksrust
-  state_id: 937
+- name: Volksrust
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.36541000"
   longitude: '29.88175000'
-  wikiDataId: Q118638
-- id: 131307
-  name: White River
-  state_id: 937
+- name: White River
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.33177000"
   longitude: '31.01166000'
-  wikiDataId: Q2046203
-- id: 131311
-  name: Witbank
-  state_id: 937
+- name: Witbank
   state_code: MP
   state_name: Mpumalanga
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.87133000"
   longitude: '29.23323000'
-  wikiDataId: Q311700
-- id: 131039
-  name: Bloemhof
-  state_id: 934
+- name: Bloemhof
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.64685000"
   longitude: '25.60697000'
-  wikiDataId: Q2633575
-- id: 131041
-  name: Bojanala Platinum District Municipality
-  state_id: 934
+- name: Bojanala Platinum District Municipality
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.42612000"
   longitude: '27.22430000'
-  wikiDataId: Q891165
-- id: 131050
-  name: Brits
-  state_id: 934
+- name: Brits
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.63473000"
   longitude: '27.78022000'
-  wikiDataId: Q3948
-- id: 131069
-  name: Christiana
-  state_id: 934
+- name: Christiana
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.91402000"
   longitude: '25.16111000'
-  wikiDataId: Q1082602
-- id: 131087
-  name: Dr Kenneth Kaunda District Municipality
-  state_id: 934
+- name: Dr Kenneth Kaunda District Municipality
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.80678000"
   longitude: '26.56926000'
-  wikiDataId: Q1150452
-- id: 131088
-  name: Dr Ruth Segomotsi Mompati District Municipality
-  state_id: 934
+- name: Dr Ruth Segomotsi Mompati District Municipality
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.63765000"
   longitude: '24.27462000'
-  wikiDataId: Q1254171
-- id: 131108
-  name: Fochville
-  state_id: 934
+- name: Fochville
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.48862000"
   longitude: '27.49387000'
-  wikiDataId: Q2370739
-- id: 131114
-  name: Ga-Rankuwa
-  state_id: 934
+- name: Ga-Rankuwa
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.61692000"
   longitude: '27.99471000'
-  wikiDataId: Q2468130
-- id: 131134
-  name: Jan Kempdorp
-  state_id: 934
+- name: Jan Kempdorp
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.92246000"
   longitude: '24.83051000'
-  wikiDataId: Q2539888
-- id: 131142
-  name: Klerksdorp
-  state_id: 934
+- name: Klerksdorp
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.85213000"
   longitude: '26.66672000'
-  wikiDataId: Q1015647
-- id: 131147
-  name: Koster
-  state_id: 934
+- name: Koster
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.86301000"
   longitude: '26.89756000'
-  wikiDataId: Q3643783
-- id: 131162
-  name: Lichtenburg
-  state_id: 934
+- name: Lichtenburg
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.15200000"
   longitude: '26.15968000'
-  wikiDataId: Q2671213
-- id: 131167
-  name: Mahikeng
-  state_id: 934
+- name: Mahikeng
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.86522000"
   longitude: '25.64421000'
-  wikiDataId: Q211055
-- id: 131168
-  name: Maile
-  state_id: 934
+- name: Maile
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.44152000"
   longitude: '27.28165000'
-  wikiDataId: Q211055
-- id: 131178
-  name: Mmabatho
-  state_id: 934
+- name: Mmabatho
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.85000000"
   longitude: '25.63333000'
-  wikiDataId: Q358762
-- id: 131201
-  name: Ngaka Modiri Molema District Municipality
-  state_id: 934
+- name: Ngaka Modiri Molema District Municipality
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.95559000"
   longitude: '25.80782000'
-  wikiDataId: Q1984191
-- id: 131209
-  name: Orkney
-  state_id: 934
+- name: Orkney
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.98023000"
   longitude: '26.67272000'
-  wikiDataId: Q1788096
-- id: 131229
-  name: Potchefstroom
-  state_id: 934
+- name: Potchefstroom
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.71667000"
   longitude: '27.10000000'
-  wikiDataId: Q605167
-- id: 131247
-  name: Rustenburg
-  state_id: 934
+- name: Rustenburg
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.66756000"
   longitude: '27.24208000'
-  wikiDataId: Q182049
-- id: 131250
-  name: Schweizer-Reneke
-  state_id: 934
+- name: Schweizer-Reneke
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.18871000"
   longitude: '25.32931000'
-  wikiDataId: Q2568047
-- id: 131265
-  name: Stilfontein
-  state_id: 934
+- name: Stilfontein
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.84493000"
   longitude: '26.76829000'
-  wikiDataId: Q2327720
-- id: 131296
-  name: Vryburg
-  state_id: 934
+- name: Vryburg
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-26.95659000"
   longitude: '24.72840000'
-  wikiDataId: Q1027291
-- id: 131312
-  name: Wolmaransstad
-  state_id: 934
+- name: Wolmaransstad
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.19740000"
   longitude: '25.98311000'
-  wikiDataId: Q3642582
-- id: 131316
-  name: Zeerust
-  state_id: 934
+- name: Zeerust
   state_code: NW
   state_name: North West
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-25.53695000"
   longitude: '26.07512000'
-  wikiDataId: Q184412
-- id: 131029
-  name: Barkly West
-  state_id: 931
+- name: Barkly West
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.53537000"
   longitude: '24.52151000'
-  wikiDataId: Q808304
-- id: 131047
-  name: Brandvlei
-  state_id: 931
+- name: Brandvlei
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.46532000"
   longitude: '20.48659000'
-  wikiDataId: Q898384
-- id: 131058
-  name: Calvinia
-  state_id: 931
+- name: Calvinia
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.47069000"
   longitude: '19.77601000'
-  wikiDataId: Q1027757
-- id: 131063
-  name: Carnarvon
-  state_id: 931
+- name: Carnarvon
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.96827000"
   longitude: '22.13303000'
-  wikiDataId: Q625378
-- id: 131076
-  name: Colesberg
-  state_id: 931
+- name: Colesberg
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.71999000"
   longitude: '25.09718000'
-  wikiDataId: Q2232441
-- id: 131080
-  name: Daniëlskuil
-  state_id: 931
+- name: Daniëlskuil
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.18873000"
   longitude: '23.53951000'
-  wikiDataId: Q2296645
-- id: 131081
-  name: De Aar
-  state_id: 931
+- name: De Aar
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.64966000"
   longitude: '24.01230000'
-  wikiDataId: Q743069
-- id: 131110
-  name: Frances Baard District Municipality
-  state_id: 931
+- name: Frances Baard District Municipality
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.30003000"
   longitude: '24.38188000'
-  wikiDataId: Q1263830
-- id: 131112
-  name: Fraserburg
-  state_id: 931
+- name: Fraserburg
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.91566000"
   longitude: '21.51335000'
-  wikiDataId: Q2609896
-- id: 131137
-  name: John Taolo Gaetsewe District Municipality
-  state_id: 931
+- name: John Taolo Gaetsewe District Municipality
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.04549000"
   longitude: '23.04706000'
-  wikiDataId: Q384731
-- id: 131138
-  name: Kathu
-  state_id: 931
+- name: Kathu
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.69569000"
   longitude: '23.04929000'
-  wikiDataId: Q1736557
-- id: 131139
-  name: Kenhardt
-  state_id: 931
+- name: Kenhardt
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.34574000"
   longitude: '21.15786000'
-  wikiDataId: Q3643099
-- id: 131140
-  name: Kimberley
-  state_id: 931
+- name: Kimberley
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.73226000"
   longitude: '24.76232000'
-  wikiDataId: Q125905
-- id: 131153
-  name: Kuruman
-  state_id: 931
+- name: Kuruman
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.45240000"
   longitude: '23.43246000'
-  wikiDataId: Q1025965
-- id: 131195
-  name: Namakwa District Municipality
-  state_id: 931
+- name: Namakwa District Municipality
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.53561000"
   longitude: '19.42892000'
-  wikiDataId: Q617646
-- id: 131205
-  name: Noupoort
-  state_id: 931
+- name: Noupoort
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.18736000"
   longitude: '24.94991000'
-  wikiDataId: Q3642267
-- id: 131208
-  name: Orania
-  state_id: 931
+- name: Orania
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.81381000"
   longitude: '24.41205000'
-  wikiDataId: Q1011020
-- id: 131213
-  name: Pampierstad
-  state_id: 931
+- name: Pampierstad
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-27.78324000"
   longitude: '24.68768000'
-  wikiDataId: Q68597
-- id: 131220
-  name: Pixley ka Seme District Municipality
-  state_id: 931
+- name: Pixley ka Seme District Municipality
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.28920000"
   longitude: '23.25818000'
-  wikiDataId: Q1886098
-- id: 131222
-  name: Pofadder
-  state_id: 931
+- name: Pofadder
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.12830000"
   longitude: '19.39492000'
-  wikiDataId: Q993179
-- id: 131228
-  name: Postmasburg
-  state_id: 931
+- name: Postmasburg
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.33392000"
   longitude: '23.06541000'
-  wikiDataId: Q2580907
-- id: 131231
-  name: Prieska
-  state_id: 931
+- name: Prieska
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.66803000"
   longitude: '22.74251000'
-  wikiDataId: Q1021731
-- id: 131241
-  name: Ritchie
-  state_id: 931
+- name: Ritchie
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.03801000"
   longitude: '24.60278000'
-  wikiDataId: Q2152772
-- id: 131258
-  name: Siyanda District Municipality
-  state_id: 931
+- name: Siyanda District Municipality
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.00013000"
   longitude: '21.18459000'
-  wikiDataId: Q1773268
-- id: 131261
-  name: Springbok
-  state_id: 931
+- name: Springbok
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-29.66434000"
   longitude: '17.88650000'
-  wikiDataId: Q2301363
-- id: 131281
-  name: Upington
-  state_id: 931
+- name: Upington
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.44776000"
   longitude: '21.25612000'
-  wikiDataId: Q575780
-- id: 131283
-  name: Van Wyksvlei
-  state_id: 931
+- name: Van Wyksvlei
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-30.35101000"
   longitude: '21.82498000'
-  wikiDataId: Q18108
-- id: 131299
-  name: Warrenton
-  state_id: 931
+- name: Warrenton
   state_code: NC
   state_name: Northern Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-28.11396000"
   longitude: '24.84753000'
-  wikiDataId: Q1832033
-- id: 131016
-  name: Albertina
-  state_id: 939
+- name: Albertina
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.20544000"
   longitude: '21.58001000'
-  wikiDataId: Q2549949
-- id: 131024
-  name: Arniston
-  state_id: 939
+- name: Arniston
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.66739000"
   longitude: '20.23086000'
-  wikiDataId: Q694016
-- id: 131025
-  name: Atlantis
-  state_id: 939
+- name: Atlantis
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.56668000"
   longitude: '18.48335000'
-  wikiDataId: Q3493630
-- id: 131030
-  name: Beaufort West
-  state_id: 939
+- name: Beaufort West
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.35671000"
   longitude: '22.58295000'
-  wikiDataId: Q813395
-- id: 131034
-  name: Bergvliet
-  state_id: 939
+- name: Bergvliet
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.04746000"
   longitude: '18.45250000'
-  wikiDataId: Q2897143
-- id: 131048
-  name: Bredasdorp
-  state_id: 939
+- name: Bredasdorp
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.53215000"
   longitude: '20.04031000'
-  wikiDataId: Q1640898
-- id: 131056
-  name: Caledon
-  state_id: 939
+- name: Caledon
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.22997000"
   longitude: '19.42650000'
-  wikiDataId: Q777884
-- id: 131057
-  name: Calitzdorp
-  state_id: 939
+- name: Calitzdorp
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.52755000"
   longitude: '21.67620000'
-  wikiDataId: Q1027048
-- id: 131059
-  name: Cape Town
-  state_id: 939
+- name: Cape Town
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.92584000"
   longitude: '18.42322000'
-  wikiDataId: Q5465
-- id: 131060
-  name: Cape Winelands District Municipality
-  state_id: 939
+- name: Cape Winelands District Municipality
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.32249000"
   longitude: '19.68998000'
-  wikiDataId: Q1974486
-- id: 131065
-  name: Central Karoo District Municipality
-  state_id: 939
+- name: Central Karoo District Municipality
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.62812000"
   longitude: '22.21192000'
-  wikiDataId: Q1053888
-- id: 131067
-  name: Ceres
-  state_id: 939
+- name: Ceres
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.36889000"
   longitude: '19.31095000'
-  wikiDataId: Q2038408
-- id: 131070
-  name: City of Cape Town
-  state_id: 939
+- name: City of Cape Town
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.91667000"
   longitude: '18.41667000'
-  wikiDataId: Q1185115
-- id: 131073
-  name: Clanwilliam
-  state_id: 939
+- name: Clanwilliam
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.18173000"
   longitude: '18.89217000'
-  wikiDataId: Q1025657
-- id: 131074
-  name: Claremont
-  state_id: 939
+- name: Claremont
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.98056000"
   longitude: '18.46528000'
-  wikiDataId: Q2975541
-- id: 131077
-  name: Constantia
-  state_id: 939
+- name: Constantia
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.03139000"
   longitude: '18.41833000'
-  wikiDataId: Q1127739
-- id: 131082
-  name: De Rust
-  state_id: 939
+- name: De Rust
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.49035000"
   longitude: '22.53523000'
-  wikiDataId: Q1021906
-- id: 131095
-  name: Eden District Municipality
-  state_id: 939
+- name: Eden District Municipality
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.82139000"
   longitude: '22.01263000'
-  wikiDataId: Q220249
-- id: 131115
-  name: George
-  state_id: 939
+- name: George
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.96300000"
   longitude: '22.46173000'
-  wikiDataId: Q370456
-- id: 131120
-  name: Grabouw
-  state_id: 939
+- name: Grabouw
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.15152000"
   longitude: '19.01509000'
-  wikiDataId: Q1540958
-- id: 131123
-  name: Hardys Memories of Africa
-  state_id: 939
+- name: Hardys Memories of Africa
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.90539000"
   longitude: '20.71690000'
-  wikiDataId: Q1021891
-- id: 131129
-  name: Hermanus
-  state_id: 939
+- name: Hermanus
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.41870000"
   longitude: '19.23446000'
-  wikiDataId: Q1613480
-- id: 131143
-  name: Knysna
-  state_id: 939
+- name: Knysna
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.03627000"
   longitude: '23.04713000'
-  wikiDataId: Q251137
-- id: 131148
-  name: Kraaifontein
-  state_id: 939
+- name: Kraaifontein
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.84808000"
   longitude: '18.71723000'
-  wikiDataId: Q5200520
-- id: 131156
-  name: Ladismith
-  state_id: 939
+- name: Ladismith
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.49331000"
   longitude: '21.26755000'
-  wikiDataId: Q1800028
-- id: 131159
-  name: Lansdowne
-  state_id: 939
+- name: Lansdowne
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.98735000"
   longitude: '18.49746000'
-  wikiDataId: Q6487354
-- id: 131169
-  name: Malmesbury
-  state_id: 939
+- name: Malmesbury
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.46080000"
   longitude: '18.72714000'
-  wikiDataId: Q3113320
-- id: 131184
-  name: Montagu
-  state_id: 939
+- name: Montagu
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.78664000"
   longitude: '20.12106000'
-  wikiDataId: Q1800611
-- id: 131186
-  name: Moorreesburg
-  state_id: 939
+- name: Moorreesburg
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.15388000"
   longitude: '18.66031000'
-  wikiDataId: Q1003332
-- id: 131188
-  name: Mossel Bay
-  state_id: 939
+- name: Mossel Bay
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.18307000"
   longitude: '22.14605000'
-  wikiDataId: Q995615
-- id: 131200
-  name: Newlands
-  state_id: 939
+- name: Newlands
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.97846000"
   longitude: '18.44810000'
-  wikiDataId: Q636253
-- id: 131210
-  name: Oudtshoorn
-  state_id: 939
+- name: Oudtshoorn
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.60047000"
   longitude: '22.19955000'
-  wikiDataId: Q951049
-- id: 131211
-  name: Overberg District Municipality
-  state_id: 939
+- name: Overberg District Municipality
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.26131000"
   longitude: '19.93985000'
-  wikiDataId: Q1899307
-- id: 131212
-  name: Paarl
-  state_id: 939
+- name: Paarl
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.73378000"
   longitude: '18.97523000'
-  wikiDataId: Q1018144
-- id: 131219
-  name: Piketberg
-  state_id: 939
+- name: Piketberg
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.90323000"
   longitude: '18.75704000'
-  wikiDataId: Q2006534
-- id: 131221
-  name: Plettenberg Bay
-  state_id: 939
+- name: Plettenberg Bay
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.05274000"
   longitude: '23.37160000'
-  wikiDataId: Q922360
-- id: 131232
-  name: Prince Albert
-  state_id: 939
+- name: Prince Albert
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.22476000"
   longitude: '22.02673000'
-  wikiDataId: Q1533623
-- id: 131238
-  name: Retreat
-  state_id: 939
+- name: Retreat
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.05515000"
   longitude: '18.47617000'
-  wikiDataId: Q7316910
-- id: 131242
-  name: Riversdale
-  state_id: 939
+- name: Riversdale
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.09345000"
   longitude: '21.25725000'
-  wikiDataId: Q2120963
-- id: 131243
-  name: Robertson
-  state_id: 939
+- name: Robertson
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.80342000"
   longitude: '19.88537000'
-  wikiDataId: Q2096823
-- id: 131244
-  name: Rondebosch
-  state_id: 939
+- name: Rondebosch
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.96333000"
   longitude: '18.47639000'
-  wikiDataId: Q3073398
-- id: 131246
-  name: Rosebank
-  state_id: 939
+- name: Rosebank
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.95556000"
   longitude: '18.47417000'
-  wikiDataId: Q7368057
-- id: 131248
-  name: Saldanha
-  state_id: 939
+- name: Saldanha
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.01167000"
   longitude: '17.94420000'
-  wikiDataId: Q1643816
-- id: 131264
-  name: Stellenbosch
-  state_id: 939
+- name: Stellenbosch
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.93462000"
   longitude: '18.86676000'
-  wikiDataId: Q5460
-- id: 131268
-  name: Sunset Beach
-  state_id: 939
+- name: Sunset Beach
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.85395000"
   longitude: '18.49231000'
-  wikiDataId: Q32025251
-- id: 131269
-  name: Swellendam
-  state_id: 939
+- name: Swellendam
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-34.02262000"
   longitude: '20.44171000'
-  wikiDataId: Q1023257
-- id: 131294
-  name: Vredenburg
-  state_id: 939
+- name: Vredenburg
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.90719000"
   longitude: '17.98997000'
-  wikiDataId: Q2620432
-- id: 131295
-  name: Vredendal
-  state_id: 939
+- name: Vredendal
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-31.66833000"
   longitude: '18.50119000'
-  wikiDataId: Q1341350
-- id: 131302
-  name: Wellington
-  state_id: 939
+- name: Wellington
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.63981000"
   longitude: '19.01120000'
-  wikiDataId: Q1534385
-- id: 131304
-  name: West Coast District Municipality
-  state_id: 939
+- name: West Coast District Municipality
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-32.09506000"
   longitude: '18.62695000'
-  wikiDataId: Q2562901
-- id: 131313
-  name: Worcester
-  state_id: 939
+- name: Worcester
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.64651000"
   longitude: '19.44852000'
-  wikiDataId: Q1025649
-- id: 131317
-  name: Zoar
-  state_id: 939
+- name: Zoar
   state_code: WC
   state_name: Western Cape
-  country_id: 204
-  country_code: ZA
-  country_name: South Africa
   latitude: "-33.49560000"
   longitude: '21.44373000'
-  wikiDataId: Q218020

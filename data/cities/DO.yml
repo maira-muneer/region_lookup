@@ -1,2278 +1,1036 @@
 ---
-- id: 31024
-  name: Azua
-  state_id: 4114
+- name: Azua
   state_code: '02'
   state_name: Azua
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.45319000'
   longitude: "-70.73490000"
-  wikiDataId: Q1836680
-- id: 31060
-  name: El Guayabal
-  state_id: 4114
+- name: El Guayabal
   state_code: '02'
   state_name: Azua
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.74960000'
   longitude: "-70.83690000"
-  wikiDataId: Q984301
-- id: 31070
-  name: Estebanía
-  state_id: 4114
+- name: Estebanía
   state_code: '02'
   state_name: Azua
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.45770000'
   longitude: "-70.64350000"
-  wikiDataId: Q3733396
-- id: 31111
-  name: Las Charcas
-  state_id: 4114
+- name: Las Charcas
   state_code: '02'
   state_name: Azua
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.45026000'
   longitude: "-70.61724000"
-  wikiDataId: Q676874
-- id: 31142
-  name: Padre Las Casas
-  state_id: 4114
+- name: Padre Las Casas
   state_code: '02'
   state_name: Azua
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.75000000'
   longitude: "-70.88333000"
-  wikiDataId: Q966782
-- id: 31144
-  name: Palmar de Ocoa
-  state_id: 4114
+- name: Palmar de Ocoa
   state_code: '02'
   state_name: Azua
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.29656000'
   longitude: "-70.58635000"
-  wikiDataId: Q7128144
-- id: 31153
-  name: Peralta
-  state_id: 4114
+- name: Peralta
   state_code: '02'
   state_name: Azua
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.58164000'
   longitude: "-70.77029000"
-  wikiDataId: Q3899640
-- id: 31160
-  name: Pueblo Viejo
-  state_id: 4114
+- name: Pueblo Viejo
   state_code: '02'
   state_name: Azua
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.40000000'
   longitude: "-70.76765000"
-  wikiDataId: Q3925382
-- id: 31174
-  name: Sabana Yegua
-  state_id: 4114
+- name: Sabana Yegua
   state_code: '02'
   state_name: Azua
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.71667000'
   longitude: "-71.01667000"
-  wikiDataId: Q23762304
-- id: 31207
-  name: Tábara Arriba
-  state_id: 4114
+- name: Tábara Arriba
   state_code: '02'
   state_name: Azua
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.56999000'
   longitude: "-70.87978000"
-  wikiDataId: Q1770884
-- id: 31222
-  name: Villarpando
-  state_id: 4114
+- name: Villarpando
   state_code: '02'
   state_name: Azua
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.65860000'
   longitude: "-71.03916000"
-  wikiDataId: Q7930938
-- id: 31225
-  name: Yayas de Viajama
-  state_id: 4114
+- name: Yayas de Viajama
   state_code: '02'
   state_name: Azua
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.60710000'
   longitude: "-70.92753000"
-  wikiDataId: Q3827307
-- id: 31061
-  name: El Palmar
-  state_id: 4105
+- name: El Palmar
   state_code: '03'
   state_name: Baoruco
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.41139000'
   longitude: "-71.24558000"
-  wikiDataId: Q23774454
-- id: 31074
-  name: Galván
-  state_id: 4105
+- name: Galván
   state_code: '03'
   state_name: Baoruco
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.50228000'
   longitude: "-71.34271000"
-  wikiDataId: Q3757889
-- id: 31109
-  name: La Uvilla
-  state_id: 4105
+- name: La Uvilla
   state_code: '03'
   state_name: Baoruco
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.36186000'
   longitude: "-71.21046000"
-  wikiDataId: Q7876527
-- id: 31122
-  name: Los Ríos
-  state_id: 4105
+- name: Los Ríos
   state_code: '03'
   state_name: Baoruco
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.52131000'
   longitude: "-71.59106000"
-  wikiDataId: Q3837408
-- id: 31138
-  name: Neiba
-  state_id: 4105
+- name: Neiba
   state_code: '03'
   state_name: Baoruco
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.48137000'
   longitude: "-71.41965000"
-  wikiDataId: Q2107258
-- id: 31203
-  name: Tamayo
-  state_id: 4105
+- name: Tamayo
   state_code: '03'
   state_name: Baoruco
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.50000000'
   longitude: "-71.16667000"
-  wikiDataId: Q32750457
-- id: 31218
-  name: Villa Jaragua
-  state_id: 4105
+- name: Villa Jaragua
   state_code: '03'
   state_name: Baoruco
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.49077000'
   longitude: "-71.48377000"
-  wikiDataId: Q4012143
-- id: 31036
-  name: Cabral
-  state_id: 4090
+- name: Cabral
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.19991000'
   longitude: "-71.24660000"
-  wikiDataId: Q1770655
-- id: 31038
-  name: Cachón
-  state_id: 4090
+- name: Cachón
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.24833000'
   longitude: "-71.18912000"
-  wikiDataId: Q5350853
-- id: 31041
-  name: Canoa
-  state_id: 4090
+- name: Canoa
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.35499000'
   longitude: "-71.15851000"
-  wikiDataId: Q23777833
-- id: 31062
-  name: El Peñón
-  state_id: 4090
+- name: El Peñón
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.29643000'
   longitude: "-71.18410000"
-  wikiDataId: Q1770893
-- id: 31066
-  name: Enriquillo
-  state_id: 4090
+- name: Enriquillo
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '17.91667000'
   longitude: "-71.25000000"
-  wikiDataId: Q2433632
-- id: 31073
-  name: Fundación
-  state_id: 4090
+- name: Fundación
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.28668000'
   longitude: "-71.18147000"
-  wikiDataId: Q3754387
-- id: 31090
-  name: Jaquimeyes
-  state_id: 4090
+- name: Jaquimeyes
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.31173000'
   longitude: "-71.16145000"
-  wikiDataId: Q3807300
-- id: 31104
-  name: La Ciénaga
-  state_id: 4090
+- name: La Ciénaga
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.06858000'
   longitude: "-71.10651000"
-  wikiDataId: Q3820737
-- id: 31115
-  name: Las Salinas
-  state_id: 4090
+- name: Las Salinas
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.27485000'
   longitude: "-71.31596000"
-  wikiDataId: Q3827252
-- id: 31145
-  name: Paraíso
-  state_id: 4090
+- name: Paraíso
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.02652000'
   longitude: "-71.20889000"
-  wikiDataId: Q1988637
-- id: 31154
-  name: Pescadería
-  state_id: 4090
+- name: Pescadería
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.26766000'
   longitude: "-71.16612000"
-  wikiDataId: Q7171336
-- id: 31158
-  name: Polo
-  state_id: 4090
+- name: Polo
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.07873000'
   longitude: "-71.28723000"
-  wikiDataId: Q1770610
-- id: 31194
-  name: Santa Cruz de Barahona
-  state_id: 4090
+- name: Santa Cruz de Barahona
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.20854000'
   longitude: "-71.10077000"
-  wikiDataId: Q958586
-- id: 31210
-  name: Vicente Noble
-  state_id: 4090
+- name: Vicente Noble
   state_code: '04'
   state_name: Barahona
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.38443000'
   longitude: "-71.18009000"
-  wikiDataId: Q1770645
-- id: 31053
-  name: Dajabón
-  state_id: 4107
+- name: Dajabón
   state_code: '05'
   state_name: Dajabón
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.54878000'
   longitude: "-71.70829000"
-  wikiDataId: Q1969407
-- id: 31063
-  name: El Pino
-  state_id: 4107
+- name: El Pino
   state_code: '05'
   state_name: Dajabón
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.43537000'
   longitude: "-71.47540000"
-  wikiDataId: Q3720977
-- id: 31118
-  name: Loma de Cabrera
-  state_id: 4107
+- name: Loma de Cabrera
   state_code: '05'
   state_name: Dajabón
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.41667000'
   longitude: "-71.58333000"
-  wikiDataId: Q1771467
-- id: 31146
-  name: Partido
-  state_id: 4107
+- name: Partido
   state_code: '05'
   state_name: Dajabón
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.48403000'
   longitude: "-71.54730000"
-  wikiDataId: Q3896653
-- id: 31165
-  name: Restauración
-  state_id: 4107
+- name: Restauración
   state_code: '05'
   state_name: Dajabón
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.31532000'
   longitude: "-71.69239000"
-  wikiDataId: Q1770897
-- id: 31029
-  name: Bella Vista
-  state_id: 4095
+- name: Bella Vista
   state_code: '01'
   state_name: Distrito Nacional
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.45539000'
   longitude: "-69.94540000"
-  wikiDataId: Q4883376
-- id: 31047
-  name: Ciudad Nueva
-  state_id: 4095
+- name: Ciudad Nueva
   state_code: '01'
   state_name: Distrito Nacional
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.46707000'
   longitude: "-69.89339000"
-  wikiDataId: Q14932551
-- id: 31051
-  name: Cristo Rey
-  state_id: 4095
+- name: Cristo Rey
   state_code: '01'
   state_name: Distrito Nacional
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.50000000'
   longitude: "-69.93333000"
-  wikiDataId: Q5186441
-- id: 31067
-  name: Ensanche Luperón
-  state_id: 4095
+- name: Ensanche Luperón
   state_code: '01'
   state_name: Distrito Nacional
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.50000000'
   longitude: "-69.90000000"
-  wikiDataId: Q5379909
-- id: 31101
-  name: La Agustina
-  state_id: 4095
+- name: La Agustina
   state_code: '01'
   state_name: Distrito Nacional
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.50000000'
   longitude: "-69.93333000"
-  wikiDataId: Q6461013
-- id: 31107
-  name: La Julia
-  state_id: 4095
+- name: La Julia
   state_code: '01'
   state_name: Distrito Nacional
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.46667000'
   longitude: "-69.93333000"
-  wikiDataId: Q6463278
-- id: 31182
-  name: San Carlos
-  state_id: 4095
+- name: San Carlos
   state_code: '01'
   state_name: Distrito Nacional
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.48333000'
   longitude: "-69.90000000"
-  wikiDataId: Q6118516
-- id: 31197
-  name: Santo Domingo
-  state_id: 4095
+- name: Santo Domingo
   state_code: '01'
   state_name: Distrito Nacional
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.47186000'
   longitude: "-69.89232000"
-  wikiDataId: Q34820
-- id: 31213
-  name: Villa Consuelo
-  state_id: 4095
+- name: Villa Consuelo
   state_code: '01'
   state_name: Distrito Nacional
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.48333000'
   longitude: "-69.90000000"
-  wikiDataId: Q7930297
-- id: 31215
-  name: Villa Francisca
-  state_id: 4095
+- name: Villa Francisca
   state_code: '01'
   state_name: Distrito Nacional
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.48278000'
   longitude: "-69.88914000"
-  wikiDataId: Q7930325
-- id: 31019
-  name: Agua Santa del Yuna
-  state_id: 4113
+- name: Agua Santa del Yuna
   state_code: '06'
   state_name: Duarte
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.15072000'
   longitude: "-69.80069000"
-  wikiDataId: Q4694455
-- id: 31022
-  name: Arenoso
-  state_id: 4113
+- name: Arenoso
   state_code: '06'
   state_name: Duarte
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.18732000'
   longitude: "-69.85917000"
-  wikiDataId: Q3622180
-- id: 31043
-  name: Castillo
-  state_id: 4113
+- name: Castillo
   state_code: '06'
   state_name: Duarte
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.25000000'
   longitude: "-70.00000000"
-  wikiDataId: Q3663066
-- id: 31086
-  name: Hostos
-  state_id: 4113
+- name: Hostos
   state_code: '06'
   state_name: Duarte
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.18043000'
   longitude: "-70.02046000"
-  wikiDataId: Q14932517
-- id: 31112
-  name: Las Guáranas
-  state_id: 4113
+- name: Las Guáranas
   state_code: '06'
   state_name: Duarte
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.19310000'
   longitude: "-70.20835000"
-  wikiDataId: Q3827243
-- id: 31156
-  name: Pimentel
-  state_id: 4113
+- name: Pimentel
   state_code: '06'
   state_name: Duarte
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.21667000'
   longitude: "-70.16667000"
-  wikiDataId: Q3905064
-- id: 31185
-  name: San Francisco de Macorís
-  state_id: 4113
+- name: San Francisco de Macorís
   state_code: '06'
   state_name: Duarte
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.30099000'
   longitude: "-70.25259000"
-  wikiDataId: Q681999
-- id: 31219
-  name: Villa Riva
-  state_id: 4113
+- name: Villa Riva
   state_code: '06'
   state_name: Duarte
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.15051000'
   longitude: "-69.88370000"
-  wikiDataId: Q949768
-- id: 31131
-  name: Miches
-  state_id: 4086
+- name: Miches
   state_code: '08'
   state_name: El Seibo
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.98364000'
   longitude: "-69.04760000"
-  wikiDataId: Q1770668
-- id: 31151
-  name: Pedro Sánchez
-  state_id: 4086
+- name: Pedro Sánchez
   state_code: '08'
   state_name: El Seibo
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.86375000'
   longitude: "-69.10868000"
-  wikiDataId: Q7159964
-- id: 31195
-  name: Santa Cruz de El Seibo
-  state_id: 4086
+- name: Santa Cruz de El Seibo
   state_code: '08'
   state_name: El Seibo
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.76559000'
   longitude: "-69.03886000"
-  wikiDataId: Q2420339
-- id: 31044
-  name: Cayetano Germosén
-  state_id: 4102
+- name: Cayetano Germosén
   state_code: '09'
   state_name: Espaillat
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.34285000'
   longitude: "-70.47573000"
-  wikiDataId: Q3664033
-- id: 31075
-  name: Gaspar Hernández
-  state_id: 4102
+- name: Gaspar Hernández
   state_code: '09'
   state_name: Espaillat
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.62748000'
   longitude: "-70.27772000"
-  wikiDataId: Q3758618
-- id: 31089
-  name: Jamao al Norte
-  state_id: 4102
+- name: Jamao al Norte
   state_code: '09'
   state_name: Espaillat
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.63552000'
   longitude: "-70.44664000"
-  wikiDataId: Q3806431
-- id: 31095
-  name: Joba Arriba
-  state_id: 4102
+- name: Joba Arriba
   state_code: '09'
   state_name: Espaillat
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.56667000'
   longitude: "-70.26667000"
-  wikiDataId: Q6206763
-- id: 31097
-  name: Juan López Abajo
-  state_id: 4102
+- name: Juan López Abajo
   state_code: '09'
   state_name: Espaillat
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.43333000'
   longitude: "-70.50000000"
-  wikiDataId: Q6298761
-- id: 31132
-  name: Moca
-  state_id: 4102
+- name: Moca
   state_code: '09'
   state_name: Espaillat
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.50000000'
   longitude: "-70.50000000"
-  wikiDataId: Q1241374
-- id: 31193
-  name: San Víctor Arriba
-  state_id: 4102
+- name: San Víctor Arriba
   state_code: '09'
   state_name: Espaillat
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.47741000'
   longitude: "-70.53585000"
-  wikiDataId: Q23761180
-- id: 31209
-  name: Veragua Arriba
-  state_id: 4102
+- name: Veragua Arriba
   state_code: '09'
   state_name: Espaillat
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.58333000'
   longitude: "-70.33333000"
-  wikiDataId: Q4008204
-- id: 31065
-  name: El Valle
-  state_id: 4106
+- name: El Valle
   state_code: '30'
   state_name: Hato Mayor
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.93333000'
   longitude: "-69.38333000"
-  wikiDataId: Q1770328
-- id: 31080
-  name: Guayabo Dulce
-  state_id: 4106
+- name: Guayabo Dulce
   state_code: '30'
   state_name: Hato Mayor
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.65000000'
   longitude: "-69.28333000"
-  wikiDataId: Q5614361
-- id: 31084
-  name: Hato Mayor del Rey
-  state_id: 4106
+- name: Hato Mayor del Rey
   state_code: '30'
   state_name: Hato Mayor
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.76278000'
   longitude: "-69.25681000"
-  wikiDataId: Q2427660
-- id: 31175
-  name: Sabana de la Mar
-  state_id: 4106
+- name: Sabana de la Mar
   state_code: '30'
   state_name: Hato Mayor
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.03333000'
   longitude: "-69.41667000"
-  wikiDataId: Q23762304
-- id: 31178
-  name: Salcedo
-  state_id: 4089
+- name: Salcedo
   state_code: '19'
   state_name: Hermanas Mirabal
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.41667000'
   longitude: "-70.38333000"
-  wikiDataId: Q1023951
-- id: 31179
-  name: Salsipuedes
-  state_id: 4089
+- name: Salsipuedes
   state_code: '19'
   state_name: Hermanas Mirabal
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.40552000'
   longitude: "-70.37985000"
-  wikiDataId: Q23762401
-- id: 31205
-  name: Tenares
-  state_id: 4089
+- name: Tenares
   state_code: '19'
   state_name: Hermanas Mirabal
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.37439000'
   longitude: "-70.35087000"
-  wikiDataId: Q1770877
-- id: 31220
-  name: Villa Tapia
-  state_id: 4089
+- name: Villa Tapia
   state_code: '19'
   state_name: Hermanas Mirabal
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.30084000'
   longitude: "-70.42199000"
-  wikiDataId: Q1770889
-- id: 31052
-  name: Cristóbal
-  state_id: 4097
+- name: Cristóbal
   state_code: '10'
   state_name: Independencia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.29405000'
   longitude: "-71.29298000"
-  wikiDataId: Q23776103
-- id: 31055
-  name: Duvergé
-  state_id: 4097
+- name: Duvergé
   state_code: '10'
   state_name: Independencia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.31634000'
   longitude: "-71.59451000"
-  wikiDataId: Q3716731
-- id: 31079
-  name: Guayabal
-  state_id: 4097
+- name: Guayabal
   state_code: '10'
   state_name: Independencia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.59810000'
   longitude: "-71.64184000"
-  wikiDataId: Q5614357
-- id: 31094
-  name: Jimaní
-  state_id: 4097
+- name: Jimaní
   state_code: '10'
   state_name: Independencia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.49169000'
   longitude: "-71.85022000"
-  wikiDataId: Q1409818
-- id: 31105
-  name: La Descubierta
-  state_id: 4097
+- name: La Descubierta
   state_code: '10'
   state_name: Independencia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.57053000'
   longitude: "-71.72967000"
-  wikiDataId: Q3820813
-- id: 31130
-  name: Mella
-  state_id: 4097
+- name: Mella
   state_code: '10'
   state_name: Independencia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.35871000'
   longitude: "-71.41716000"
-  wikiDataId: Q3854258
-- id: 31159
-  name: Postrer Río
-  state_id: 4097
+- name: Postrer Río
   state_code: '10'
   state_name: Independencia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.54374000'
   longitude: "-71.63561000"
-  wikiDataId: Q3909478
-- id: 31032
-  name: Boca de Yuma
-  state_id: 4109
+- name: Boca de Yuma
   state_code: '11'
   state_name: La Altagracia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.37825000'
   longitude: "-68.60900000"
-  wikiDataId: Q4936128
-- id: 31085
-  name: Higüey
-  state_id: 4109
+- name: Higüey
   state_code: '11'
   state_name: La Altagracia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.70000000'
   longitude: "-68.66667000"
-  wikiDataId: Q2427660
-- id: 31140
-  name: Otra Banda
-  state_id: 4109
+- name: Otra Banda
   state_code: '11'
   state_name: La Altagracia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.65017000'
   longitude: "-68.66281000"
-  wikiDataId: Q7109031
-- id: 31162
-  name: Punta Cana
-  state_id: 4109
+- name: Punta Cana
   state_code: '11'
   state_name: La Altagracia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.58182000'
   longitude: "-68.40431000"
-  wikiDataId: Q1568095
-- id: 31180
-  name: Salvaleón de Higüey
-  state_id: 4109
+- name: Salvaleón de Higüey
   state_code: '11'
   state_name: La Altagracia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.61501000'
   longitude: "-68.70798000"
-  wikiDataId: Q1020261
-- id: 31192
-  name: San Rafael del Yuma
-  state_id: 4109
+- name: San Rafael del Yuma
   state_code: '11'
   state_name: La Altagracia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.42993000'
   longitude: "-68.67390000"
-  wikiDataId: Q649483
-- id: 31081
-  name: Guaymate
-  state_id: 4087
+- name: Guaymate
   state_code: '12'
   state_name: La Romana
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.58793000'
   longitude: "-68.97867000"
-  wikiDataId: Q628537
-- id: 31108
-  name: La Romana
-  state_id: 4087
+- name: La Romana
   state_code: '12'
   state_name: La Romana
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.42733000'
   longitude: "-68.97285000"
-  wikiDataId: Q40508
-- id: 31048
-  name: Concepción de La Vega
-  state_id: 4116
+- name: Concepción de La Vega
   state_code: '13'
   state_name: La Vega
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.22207000'
   longitude: "-70.52956000"
-  wikiDataId: Q538953
-- id: 31049
-  name: Constanza
-  state_id: 4116
+- name: Constanza
   state_code: '13'
   state_name: La Vega
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.90919000'
   longitude: "-70.74499000"
-  wikiDataId: Q459801
-- id: 31091
-  name: Jarabacoa
-  state_id: 4116
+- name: Jarabacoa
   state_code: '13'
   state_name: La Vega
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.11683000'
   longitude: "-70.63595000"
-  wikiDataId: Q990182
-- id: 31093
-  name: Jima Abajo
-  state_id: 4116
+- name: Jima Abajo
   state_code: '13'
   state_name: La Vega
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.13292000'
   longitude: "-70.37607000"
-  wikiDataId: Q3808393
-- id: 31166
-  name: Rincón
-  state_id: 4116
+- name: Rincón
   state_code: '13'
   state_name: La Vega
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.11938000'
   longitude: "-70.40632000"
-  wikiDataId: Q23763422
-- id: 31169
-  name: Río Verde Arriba
-  state_id: 4116
+- name: Río Verde Arriba
   state_code: '13'
   state_name: La Vega
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.31583000'
   longitude: "-70.56643000"
-  wikiDataId: Q7386429
-- id: 31206
-  name: Tireo Arriba
-  state_id: 4116
+- name: Tireo Arriba
   state_code: '13'
   state_name: La Vega
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.93537000'
   longitude: "-70.68850000"
-  wikiDataId: Q23760139
-- id: 31023
-  name: Arroyo Salado
-  state_id: 4094
+- name: Arroyo Salado
   state_code: '14'
   state_name: María Trinidad Sánchez
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.50000000'
   longitude: "-69.90000000"
-  wikiDataId: Q4796250
-- id: 31037
-  name: Cabrera
-  state_id: 4094
+- name: Cabrera
   state_code: '14'
   state_name: María Trinidad Sánchez
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.64260000'
   longitude: "-69.90489000"
-  wikiDataId: Q23778187
-- id: 31059
-  name: El Factor
-  state_id: 4094
+- name: El Factor
   state_code: '14'
   state_name: María Trinidad Sánchez
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.31834000'
   longitude: "-69.88827000"
-  wikiDataId: Q3720911
-- id: 31106
-  name: La Entrada
-  state_id: 4094
+- name: La Entrada
   state_code: '14'
   state_name: María Trinidad Sánchez
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.55367000'
   longitude: "-69.90762000"
-  wikiDataId: Q23769735
-- id: 31137
-  name: Nagua
-  state_id: 4094
+- name: Nagua
   state_code: '14'
   state_name: María Trinidad Sánchez
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.38320000'
   longitude: "-69.84740000"
-  wikiDataId: Q2306984
-- id: 31168
-  name: Río San Juan
-  state_id: 4094
+- name: Río San Juan
   state_code: '14'
   state_name: María Trinidad Sánchez
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.55022000'
   longitude: "-70.07703000"
-  wikiDataId: Q3943218
-- id: 31034
-  name: Bonao
-  state_id: 4099
+- name: Bonao
   state_code: '28'
   state_name: Monseñor Nouel
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.91667000'
   longitude: "-70.46667000"
-  wikiDataId: Q2306136
-- id: 31096
-  name: Juan Adrián
-  state_id: 4099
+- name: Juan Adrián
   state_code: '28'
   state_name: Monseñor Nouel
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.76365000'
   longitude: "-70.33732000"
-  wikiDataId: Q6298761
-- id: 31124
-  name: Maimón
-  state_id: 4099
+- name: Maimón
   state_code: '28'
   state_name: Monseñor Nouel
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.88333000'
   longitude: "-70.30000000"
-  wikiDataId: Q3843528
-- id: 31155
-  name: Piedra Blanca
-  state_id: 4099
+- name: Piedra Blanca
   state_code: '28'
   state_name: Monseñor Nouel
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.84431000'
   longitude: "-70.31688000"
-  wikiDataId: Q1770214
-- id: 31176
-  name: Sabana del Puerto
-  state_id: 4099
+- name: Sabana del Puerto
   state_code: '28'
   state_name: Monseñor Nouel
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.06667000'
   longitude: "-70.41667000"
-  wikiDataId: Q7395875
-- id: 31040
-  name: Cana Chapetón
-  state_id: 4115
+- name: Cana Chapetón
   state_code: '15'
   state_name: Monte Cristi
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.60703000'
   longitude: "-71.25734000"
-  wikiDataId: Q5029151
-- id: 31042
-  name: Castañuelas
-  state_id: 4115
+- name: Castañuelas
   state_code: '15'
   state_name: Monte Cristi
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.71387000'
   longitude: "-71.49876000"
-  wikiDataId: Q519050
-- id: 31082
-  name: Guayubín
-  state_id: 4115
+- name: Guayubín
   state_code: '15'
   state_name: Monte Cristi
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.61667000'
   longitude: "-71.33333000"
-  wikiDataId: Q628537
-- id: 31083
-  name: Hatillo Palma
-  state_id: 4115
+- name: Hatillo Palma
   state_code: '15'
   state_name: Monte Cristi
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.66256000'
   longitude: "-71.19406000"
-  wikiDataId: Q5681615
-- id: 31114
-  name: Las Matas de Santa Cruz
-  state_id: 4115
+- name: Las Matas de Santa Cruz
   state_code: '15'
   state_name: Monte Cristi
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.67119000'
   longitude: "-71.50471000"
-  wikiDataId: Q3827245
-- id: 31134
-  name: Monte Cristi
-  state_id: 4115
+- name: Monte Cristi
   state_code: '15'
   state_name: Monte Cristi
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.83333000'
   longitude: "-71.61667000"
-  wikiDataId: Q2130701
-- id: 31152
-  name: Pepillo Salcedo
-  state_id: 4115
+- name: Pepillo Salcedo
   state_code: '15'
   state_name: Monte Cristi
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.66667000'
   longitude: "-71.66667000"
-  wikiDataId: Q3899368
-- id: 31184
-  name: San Fernando de Monte Cristi
-  state_id: 4115
+- name: San Fernando de Monte Cristi
   state_code: '15'
   state_name: Monte Cristi
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.84826000'
   longitude: "-71.64597000"
-  wikiDataId: Q373759
-- id: 31214
-  name: Villa Elisa
-  state_id: 4115
+- name: Villa Elisa
   state_code: '15'
   state_name: Monte Cristi
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.68560000'
   longitude: "-71.27007000"
-  wikiDataId: Q7930310
-- id: 31221
-  name: Villa Vásquez
-  state_id: 4115
+- name: Villa Vásquez
   state_code: '15'
   state_name: Monte Cristi
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.80791000'
   longitude: "-71.44000000"
-  wikiDataId: Q1770880
-- id: 31028
-  name: Bayaguana
-  state_id: 4111
+- name: Bayaguana
   state_code: '29'
   state_name: Monte Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.78333000'
   longitude: "-69.60000000"
-  wikiDataId: Q1770505
-- id: 31054
-  name: Don Juan
-  state_id: 4111
+- name: Don Juan
   state_code: '29'
   state_name: Monte Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.82774000'
   longitude: "-69.94629000"
-  wikiDataId: Q5292861
-- id: 31068
-  name: Esperalvillo
-  state_id: 4111
+- name: Esperalvillo
   state_code: '29'
   state_name: Monte Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.81509000'
   longitude: "-70.03557000"
-  wikiDataId: Q3733090
-- id: 31076
-  name: Gonzalo
-  state_id: 4111
+- name: Gonzalo
   state_code: '29'
   state_name: Monte Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.95147000'
   longitude: "-69.75114000"
-  wikiDataId: Q23773798
-- id: 31119
-  name: Los Botados
-  state_id: 4111
+- name: Los Botados
   state_code: '29'
   state_name: Monte Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.73226000'
   longitude: "-69.99536000"
-  wikiDataId: Q6682531
-- id: 31126
-  name: Majagual
-  state_id: 4111
+- name: Majagual
   state_code: '29'
   state_name: Monte Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.04134000'
   longitude: "-69.83616000"
-  wikiDataId: Q6737401
-- id: 31136
-  name: Monte Plata
-  state_id: 4111
+- name: Monte Plata
   state_code: '29'
   state_name: Monte Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.80700000'
   longitude: "-69.78399000"
-  wikiDataId: Q634487
-- id: 31171
-  name: Sabana Grande de Boyá
-  state_id: 4111
+- name: Sabana Grande de Boyá
   state_code: '29'
   state_name: Monte Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.94498000'
   longitude: "-69.79331000"
-  wikiDataId: Q23762283
-- id: 31224
-  name: Yamasá
-  state_id: 4111
+- name: Yamasá
   state_code: '29'
   state_name: Monte Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.77315000'
   longitude: "-70.02583000"
-  wikiDataId: Q4022462
-- id: 31099
-  name: Juancho
-  state_id: 4101
+- name: Juancho
   state_code: '16'
   state_name: Pedernales
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '17.85782000'
   longitude: "-71.29311000"
-  wikiDataId: Q6301488
-- id: 31141
-  name: Oviedo
-  state_id: 4101
+- name: Oviedo
   state_code: '16'
   state_name: Pedernales
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '17.80136000'
   longitude: "-71.40100000"
-  wikiDataId: Q1770802
-- id: 31148
-  name: Pedernales
-  state_id: 4101
+- name: Pedernales
   state_code: '16'
   state_name: Pedernales
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.08333000'
   longitude: "-71.60000000"
-  wikiDataId: Q23764182
-- id: 31027
-  name: Baní
-  state_id: 4096
+- name: Baní
   state_code: '17'
   state_name: Peravia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.27964000'
   longitude: "-70.33185000"
-  wikiDataId: Q1902349
-- id: 31128
-  name: Matanzas
-  state_id: 4096
+- name: Matanzas
   state_code: '17'
   state_name: Peravia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.24297000'
   longitude: "-70.41768000"
-  wikiDataId: Q23765292
-- id: 31139
-  name: Nizao
-  state_id: 4096
+- name: Nizao
   state_code: '17'
   state_name: Peravia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.24697000'
   longitude: "-70.21053000"
-  wikiDataId: Q3877399
-- id: 31147
-  name: Paya
-  state_id: 4096
+- name: Paya
   state_code: '17'
   state_name: Peravia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.26196000'
   longitude: "-70.29560000"
-  wikiDataId: Q23764171
-- id: 31157
-  name: Pizarrete
-  state_id: 4096
+- name: Pizarrete
   state_code: '17'
   state_name: Peravia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.29935000'
   longitude: "-70.22648000"
-  wikiDataId: Q7199936
-- id: 31170
-  name: Sabana Buey
-  state_id: 4096
+- name: Sabana Buey
   state_code: '17'
   state_name: Peravia
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.27351000'
   longitude: "-70.52352000"
-  wikiDataId: Q7395869
-- id: 31020
-  name: Altamira
-  state_id: 4092
+- name: Altamira
   state_code: '18'
   state_name: Puerto Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.70000000'
   longitude: "-70.83333000"
-  wikiDataId: Q23779605
-- id: 31035
-  name: Cabarete
-  state_id: 4092
+- name: Cabarete
   state_code: '18'
   state_name: Puerto Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.74982000'
   longitude: "-70.40829000"
-  wikiDataId: Q459919
-- id: 31071
-  name: Estero Hondo
-  state_id: 4092
+- name: Estero Hondo
   state_code: '18'
   state_name: Puerto Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.82712000'
   longitude: "-71.17411000"
-  wikiDataId: Q5401028
-- id: 31077
-  name: Guananico
-  state_id: 4092
+- name: Guananico
   state_code: '18'
   state_name: Puerto Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.72693000'
   longitude: "-70.92294000"
-  wikiDataId: Q3778171
-- id: 31087
-  name: Imbert
-  state_id: 4092
+- name: Imbert
   state_code: '18'
   state_name: Puerto Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.75371000'
   longitude: "-70.82906000"
-  wikiDataId: Q3796589
-- id: 31120
-  name: Los Hidalgos
-  state_id: 4092
+- name: Los Hidalgos
   state_code: '18'
   state_name: Puerto Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.73333000'
   longitude: "-71.03333000"
-  wikiDataId: Q518820
-- id: 31123
-  name: Luperón
-  state_id: 4092
+- name: Luperón
   state_code: '18'
   state_name: Puerto Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.89131000'
   longitude: "-70.96204000"
-  wikiDataId: Q3840823
-- id: 31135
-  name: Monte Llano
-  state_id: 4092
+- name: Monte Llano
   state_code: '18'
   state_name: Puerto Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.73460000'
   longitude: "-70.59915000"
-  wikiDataId: Q2130701
-- id: 31161
-  name: Puerto Plata
-  state_id: 4092
+- name: Puerto Plata
   state_code: '18'
   state_name: Puerto Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.75119000'
   longitude: "-70.70251000"
-  wikiDataId: Q988413
-- id: 31167
-  name: Río Grande
-  state_id: 4092
+- name: Río Grande
   state_code: '18'
   state_name: Puerto Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.66667000'
   longitude: "-70.76667000"
-  wikiDataId: Q7386283
-- id: 31201
-  name: Sosúa
-  state_id: 4092
+- name: Sosúa
   state_code: '18'
   state_name: Puerto Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.75220000'
   longitude: "-70.51995000"
-  wikiDataId: Q1639488
-- id: 31217
-  name: Villa Isabela
-  state_id: 4092
+- name: Villa Isabela
   state_code: '18'
   state_name: Puerto Plata
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.81564000'
   longitude: "-71.06056000"
-  wikiDataId: Q4012142
-- id: 31116
-  name: Las Terrenas
-  state_id: 4103
+- name: Las Terrenas
   state_code: '20'
   state_name: Samaná
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.31102000'
   longitude: "-69.54280000"
-  wikiDataId: Q1806486
-- id: 31181
-  name: Samaná
-  state_id: 4103
+- name: Samaná
   state_code: '20'
   state_name: Samaná
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.20561000'
   longitude: "-69.33685000"
-  wikiDataId: Q579950
-- id: 31202
-  name: Sánchez
-  state_id: 4103
+- name: Sánchez
   state_code: '20'
   state_name: Samaná
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.22810000'
   longitude: "-69.61370000"
-  wikiDataId: Q23761049
-- id: 31026
-  name: Bajos de Haina
-  state_id: 4091
+- name: Bajos de Haina
   state_code: '21'
   state_name: San Cristóbal
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.41667000'
   longitude: "-70.03333000"
-  wikiDataId: Q2438383
-- id: 31039
-  name: Cambita Garabitos
-  state_id: 4091
+- name: Cambita Garabitos
   state_code: '21'
   state_name: San Cristóbal
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.50000000'
   longitude: "-70.23333000"
-  wikiDataId: Q3651189
-- id: 31056
-  name: El Cacao
-  state_id: 4091
+- name: El Cacao
   state_code: '21'
   state_name: San Cristóbal
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.52719000'
   longitude: "-70.29585000"
-  wikiDataId: Q23775949
-- id: 31057
-  name: El Carril
-  state_id: 4091
+- name: El Carril
   state_code: '21'
   state_name: San Cristóbal
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.44905000'
   longitude: "-70.02785000"
-  wikiDataId: Q5350946
-- id: 31172
-  name: Sabana Grande de Palenque
-  state_id: 4091
+- name: Sabana Grande de Palenque
   state_code: '21'
   state_name: San Cristóbal
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.26256000'
   longitude: "-70.14821000"
-  wikiDataId: Q3944201
-- id: 31183
-  name: San Cristóbal
-  state_id: 4091
+- name: San Cristóbal
   state_code: '21'
   state_name: San Cristóbal
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.41667000'
   longitude: "-70.13333000"
-  wikiDataId: Q373759
-- id: 31186
-  name: San Gregorio de Nigua
-  state_id: 4091
+- name: San Gregorio de Nigua
   state_code: '21'
   state_name: San Cristóbal
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.38333000'
   longitude: "-70.08333000"
-  wikiDataId: Q3947356
-- id: 31211
-  name: Villa Altagracia
-  state_id: 4091
+- name: Villa Altagracia
   state_code: '21'
   state_name: San Cristóbal
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.63333000'
   longitude: "-70.25000000"
-  wikiDataId: Q4011765
-- id: 31223
-  name: Yaguate
-  state_id: 4091
+- name: Yaguate
   state_code: '21'
   state_name: San Cristóbal
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.33333000'
   longitude: "-70.18333000"
-  wikiDataId: Q7930938
-- id: 31189
-  name: San José de Ocoa
-  state_id: 4112
+- name: San José de Ocoa
   state_code: '31'
   state_name: San José de Ocoa
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.54661000'
   longitude: "-70.50631000"
-  wikiDataId: Q2119082
-- id: 31033
-  name: Bohechío
-  state_id: 4098
+- name: Bohechío
   state_code: '22'
   state_name: San Juan
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.77515000'
   longitude: "-70.98889000"
-  wikiDataId: Q23778512
-- id: 31045
-  name: Cercado Abajo
-  state_id: 4098
+- name: Cercado Abajo
   state_code: '22'
   state_name: San Juan
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.72681000'
   longitude: "-71.51742000"
-  wikiDataId: Q23777178
-- id: 31058
-  name: El Cercado
-  state_id: 4098
+- name: El Cercado
   state_code: '22'
   state_name: San Juan
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.70000000'
   longitude: "-71.46667000"
-  wikiDataId: Q5350946
-- id: 31098
-  name: Juan de Herrera
-  state_id: 4098
+- name: Juan de Herrera
   state_code: '22'
   state_name: San Juan
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.87402000'
   longitude: "-71.23830000"
-  wikiDataId: Q3810939
-- id: 31113
-  name: Las Matas de Farfán
-  state_id: 4098
+- name: Las Matas de Farfán
   state_code: '22'
   state_name: San Juan
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.91667000'
   longitude: "-71.50000000"
-  wikiDataId: Q23767955
-- id: 31129
-  name: Matayaya
-  state_id: 4098
+- name: Matayaya
   state_code: '22'
   state_name: San Juan
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.89036000'
   longitude: "-71.59459000"
-  wikiDataId: Q15251099
-- id: 31149
-  name: Pedro Corto
-  state_id: 4098
+- name: Pedro Corto
   state_code: '22'
   state_name: San Juan
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.84856000'
   longitude: "-71.41041000"
-  wikiDataId: Q7159534
-- id: 31190
-  name: San Juan de la Maguana
-  state_id: 4098
+- name: San Juan de la Maguana
   state_code: '22'
   state_name: San Juan
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.80588000'
   longitude: "-71.22991000"
-  wikiDataId: Q2430320
-- id: 31208
-  name: Vallejuelo
-  state_id: 4098
+- name: Vallejuelo
   state_code: '22'
   state_name: San Juan
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.65354000'
   longitude: "-71.33431000"
-  wikiDataId: Q4008204
-- id: 31064
-  name: El Puerto
-  state_id: 4110
+- name: El Puerto
   state_code: '23'
   state_name: San Pedro de Macorís
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.78333000'
   longitude: "-69.46667000"
-  wikiDataId: Q23774554
-- id: 31121
-  name: Los Llanos
-  state_id: 4110
+- name: Los Llanos
   state_code: '23'
   state_name: San Pedro de Macorís
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.62035000'
   longitude: "-69.49581000"
-  wikiDataId: Q3947425
-- id: 31163
-  name: Quisqueya
-  state_id: 4110
+- name: Quisqueya
   state_code: '23'
   state_name: San Pedro de Macorís
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.55542000'
   longitude: "-69.40814000"
-  wikiDataId: Q3928010
-- id: 31164
-  name: Ramón Santana
-  state_id: 4110
+- name: Ramón Santana
   state_code: '23'
   state_name: San Pedro de Macorís
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.54224000'
   longitude: "-69.17979000"
-  wikiDataId: Q3929979
-- id: 31191
-  name: San Pedro de Macorís
-  state_id: 4110
+- name: San Pedro de Macorís
   state_code: '23'
   state_name: San Pedro de Macorís
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.45390000'
   longitude: "-69.30864000"
-  wikiDataId: Q680596
-- id: 31046
-  name: Cevicos
-  state_id: 4088
+- name: Cevicos
   state_code: '24'
   state_name: Sánchez Ramírez
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.00449000'
   longitude: "-69.97896000"
-  wikiDataId: Q3665682
-- id: 31050
-  name: Cotuí
-  state_id: 4088
+- name: Cotuí
   state_code: '24'
   state_name: Sánchez Ramírez
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.05272000'
   longitude: "-70.14939000"
-  wikiDataId: Q2087489
-- id: 31072
-  name: Fantino
-  state_id: 4088
+- name: Fantino
   state_code: '24'
   state_name: Sánchez Ramírez
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.11667000'
   longitude: "-70.30000000"
-  wikiDataId: Q23774194
-- id: 31025
-  name: Baitoa
-  state_id: 4108
+- name: Baitoa
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.32512000'
   longitude: "-70.70357000"
-  wikiDataId: Q4848740
-- id: 31030
-  name: Bisonó
-  state_id: 4108
+- name: Bisonó
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.58333000'
   longitude: "-70.86667000"
-  wikiDataId: Q2690547
-- id: 31100
-  name: Juncalito Abajo
-  state_id: 4108
+- name: Juncalito Abajo
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.21990000'
   longitude: "-70.81905000"
-  wikiDataId: Q5637332
-- id: 31102
-  name: La Canela
-  state_id: 4108
+- name: La Canela
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.47341000'
   longitude: "-70.81629000"
-  wikiDataId: Q23770192
-- id: 31117
-  name: Licey al Medio
-  state_id: 4108
+- name: Licey al Medio
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.45000000'
   longitude: "-70.60000000"
-  wikiDataId: Q1806486
-- id: 31143
-  name: Palmar Arriba
-  state_id: 4108
+- name: Palmar Arriba
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.53957000'
   longitude: "-70.73826000"
-  wikiDataId: Q7128130
-- id: 31150
-  name: Pedro García
-  state_id: 4108
+- name: Pedro García
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.59202000'
   longitude: "-70.65256000"
-  wikiDataId: Q23764196
-- id: 31173
-  name: Sabana Iglesia
-  state_id: 4108
+- name: Sabana Iglesia
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.32114000'
   longitude: "-70.75992000"
-  wikiDataId: Q3944203
-- id: 31188
-  name: San José de Las Matas
-  state_id: 4108
+- name: San José de Las Matas
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.33915000'
   longitude: "-70.93819000"
-  wikiDataId: Q3947426
-- id: 31196
-  name: Santiago de los Caballeros
-  state_id: 4108
+- name: Santiago de los Caballeros
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.45170000'
   longitude: "-70.69703000"
-  wikiDataId: Q42763
-- id: 31200
-  name: Santo Tomás de Jánico
-  state_id: 4108
+- name: Santo Tomás de Jánico
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.23528000'
   longitude: "-70.79515000"
-  wikiDataId: Q3949488
-- id: 31204
-  name: Tamboril
-  state_id: 4108
+- name: Tamboril
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.48538000'
   longitude: "-70.61104000"
-  wikiDataId: Q23760505
-- id: 31212
-  name: Villa Bisonó
-  state_id: 4108
+- name: Villa Bisonó
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.56378000'
   longitude: "-70.87582000"
-  wikiDataId: Q23756782
-- id: 31216
-  name: Villa González
-  state_id: 4108
+- name: Villa González
   state_code: '25'
   state_name: Santiago
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.54057000'
   longitude: "-70.78853000"
-  wikiDataId: Q4012077
-- id: 31133
-  name: Monción
-  state_id: 4100
+- name: Monción
   state_code: '26'
   state_name: Santiago Rodríguez
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.46667000'
   longitude: "-71.16667000"
-  wikiDataId: Q3307947
-- id: 31177
-  name: Sabaneta
-  state_id: 4100
+- name: Sabaneta
   state_code: '26'
   state_name: Santiago Rodríguez
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.47793000'
   longitude: "-71.34125000"
-  wikiDataId: Q7395875
-- id: 31187
-  name: San Ignacio de Sabaneta
-  state_id: 4100
+- name: San Ignacio de Sabaneta
   state_code: '26'
   state_name: Santiago Rodríguez
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.38333000'
   longitude: "-71.35000000"
-  wikiDataId: Q2021983
-- id: 31031
-  name: Boca Chica
-  state_id: 4093
+- name: Boca Chica
   state_code: '32'
   state_name: Santo Domingo
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.45000000'
   longitude: "-69.60000000"
-  wikiDataId: Q888935
-- id: 31198
-  name: Santo Domingo Este
-  state_id: 4093
+- name: Santo Domingo Este
   state_code: '32'
   state_name: Santo Domingo
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.48847000'
   longitude: "-69.85707000"
-  wikiDataId: Q2713354
-- id: 31199
-  name: Santo Domingo Oeste
-  state_id: 4093
+- name: Santo Domingo Oeste
   state_code: '32'
   state_name: Santo Domingo
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '18.50000000'
   longitude: "-70.00000000"
-  wikiDataId: Q3949488
-- id: 31021
-  name: Amina
-  state_id: 4104
+- name: Amina
   state_code: '27'
   state_name: Valverde
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.54813000'
   longitude: "-70.99599000"
-  wikiDataId: Q23779645
-- id: 31069
-  name: Esperanza
-  state_id: 4104
+- name: Esperanza
   state_code: '27'
   state_name: Valverde
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.62379000'
   longitude: "-70.97141000"
-  wikiDataId: Q1770079
-- id: 31078
-  name: Guatapanal
-  state_id: 4104
+- name: Guatapanal
   state_code: '27'
   state_name: Valverde
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.50705000'
   longitude: "-70.91713000"
-  wikiDataId: Q5614204
-- id: 31088
-  name: Jaibón
-  state_id: 4104
+- name: Jaibón
   state_code: '27'
   state_name: Valverde
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.61169000'
   longitude: "-71.14847000"
-  wikiDataId: Q23770722
-- id: 31092
-  name: Jicomé
-  state_id: 4104
+- name: Jicomé
   state_code: '27'
   state_name: Valverde
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.64955000'
   longitude: "-70.94927000"
-  wikiDataId: Q6192099
-- id: 31103
-  name: La Caya
-  state_id: 4104
+- name: La Caya
   state_code: '27'
   state_name: Valverde
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.69981000'
   longitude: "-71.12084000"
-  wikiDataId: Q6461598
-- id: 31110
-  name: Laguna Salada
-  state_id: 4104
+- name: Laguna Salada
   state_code: '27'
   state_name: Valverde
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.70000000'
   longitude: "-71.13333000"
-  wikiDataId: Q1770074
-- id: 31125
-  name: Maizal
-  state_id: 4104
+- name: Maizal
   state_code: '27'
   state_name: Valverde
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.63655000'
   longitude: "-71.02734000"
-  wikiDataId: Q6737246
-- id: 31127
-  name: Mao
-  state_id: 4104
+- name: Mao
   state_code: '27'
   state_name: Valverde
-  country_id: 62
-  country_code: DO
-  country_name: Dominican Republic
   latitude: '19.55186000'
   longitude: "-71.07813000"
-  wikiDataId: Q692560

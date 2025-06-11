@@ -1,1750 +1,796 @@
 ---
-- id: 79773
-  name: Auckland
-  state_id: 4072
+- name: Auckland
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.84853000"
   longitude: '174.76349000'
-  wikiDataId: Q15784197
-- id: 79823
-  name: Mangere
-  state_id: 4072
+- name: Mangere
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.96807000"
   longitude: '174.79875000'
-  wikiDataId: Q742714
-- id: 79824
-  name: Manukau City
-  state_id: 4072
+- name: Manukau City
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.99282000"
   longitude: '174.87986000'
-  wikiDataId: Q986198
-- id: 79833
-  name: Muriwai Beach
-  state_id: 4072
+- name: Muriwai Beach
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.81667000"
   longitude: '174.45000000'
-  wikiDataId: Q495500
-- id: 79834
-  name: Murrays Bay
-  state_id: 4072
+- name: Murrays Bay
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.72819000"
   longitude: '174.75019000'
-  wikiDataId: Q495500
-- id: 79843
-  name: North Shore
-  state_id: 4072
+- name: North Shore
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.80000000"
   longitude: '174.75000000'
-  wikiDataId: Q868671
-- id: 79852
-  name: Pakuranga
-  state_id: 4072
+- name: Pakuranga
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.88333000"
   longitude: '174.91667000'
-  wikiDataId: Q7126082
-- id: 79854
-  name: Papakura
-  state_id: 4072
+- name: Papakura
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.06573000"
   longitude: '174.94393000'
-  wikiDataId: Q1014616
-- id: 79856
-  name: Parakai
-  state_id: 4072
+- name: Parakai
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.65000000"
   longitude: '174.43333000'
-  wikiDataId: Q7615649
-- id: 79865
-  name: Pukekohe East
-  state_id: 4072
+- name: Pukekohe East
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.20000000"
   longitude: '174.95000000'
-  wikiDataId: Q176330
-- id: 79869
-  name: Red Hill
-  state_id: 4072
+- name: Red Hill
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.05820000"
   longitude: '174.97019000'
-  wikiDataId: Q1015735
-- id: 79873
-  name: Rosebank
-  state_id: 4072
+- name: Rosebank
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.87495000"
   longitude: '174.66991000'
-  wikiDataId: Q1099966
-- id: 79874
-  name: Rothesay Bay
-  state_id: 4072
+- name: Rothesay Bay
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.72602000"
   longitude: '174.74064000'
-  wikiDataId: Q3941757
-- id: 79885
-  name: Takanini
-  state_id: 4072
+- name: Takanini
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.04820000"
   longitude: '174.90019000'
-  wikiDataId: Q151841
-- id: 79886
-  name: Tamaki
-  state_id: 4072
+- name: Tamaki
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.88820000"
   longitude: '174.86019000'
-  wikiDataId: Q151841
-- id: 79896
-  name: Titirangi
-  state_id: 4072
+- name: Titirangi
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.93754000"
   longitude: '174.65584000'
-  wikiDataId: Q6517338
-- id: 79907
-  name: Waitakere
-  state_id: 4072
+- name: Waitakere
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.91754000"
   longitude: '174.65773000'
-  wikiDataId: Q782760
-- id: 79910
-  name: Waiuku
-  state_id: 4072
+- name: Waiuku
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.24806000"
   longitude: '174.73489000'
-  wikiDataId: Q584671
-- id: 79914
-  name: Warkworth
-  state_id: 4072
+- name: Warkworth
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.40000000"
   longitude: '174.66667000'
-  wikiDataId: Q590475
-- id: 79917
-  name: Wellsford
-  state_id: 4072
+- name: Wellsford
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.28333000"
   longitude: '174.51667000'
-  wikiDataId: Q618344
-- id: 79924
-  name: Wiri
-  state_id: 4072
+- name: Wiri
   state_code: AUK
   state_name: Auckland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.99820000"
   longitude: '174.86019000'
-  wikiDataId: Q1721802
-- id: 79791
-  name: Edgecumbe
-  state_id: 4074
+- name: Edgecumbe
   state_code: BOP
   state_name: Bay of Plenty
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.98333000"
   longitude: '176.83333000'
-  wikiDataId: Q151981
-- id: 79809
-  name: Katikati
-  state_id: 4074
+- name: Katikati
   state_code: BOP
   state_name: Bay of Plenty
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.55000000"
   longitude: '175.91667000'
-  wikiDataId: Q911377
-- id: 79811
-  name: Kawerau
-  state_id: 4074
+- name: Kawerau
   state_code: BOP
   state_name: Bay of Plenty
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-38.10000000"
   longitude: '176.70000000'
-  wikiDataId: Q1674085
-- id: 79821
-  name: Maketu
-  state_id: 4074
+- name: Maketu
   state_code: BOP
   state_name: Bay of Plenty
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.76667000"
   longitude: '176.45000000'
-  wikiDataId: Q1886343
-- id: 79835
-  name: Murupara
-  state_id: 4074
+- name: Murupara
   state_code: BOP
   state_name: Bay of Plenty
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-38.46667000"
   longitude: '176.70000000'
-  wikiDataId: Q999066
-- id: 79845
-  name: Opotiki
-  state_id: 4074
+- name: Opotiki
   state_code: BOP
   state_name: Bay of Plenty
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-38.00915000"
   longitude: '177.28706000'
-  wikiDataId: Q953871
-- id: 79875
-  name: Rotorua
-  state_id: 4074
+- name: Rotorua
   state_code: BOP
   state_name: Bay of Plenty
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-38.13874000"
   longitude: '176.24516000'
-  wikiDataId: Q208948
-- id: 79889
-  name: Tauranga
-  state_id: 4074
+- name: Tauranga
   state_code: BOP
   state_name: Bay of Plenty
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.68611000"
   longitude: '176.16667000'
-  wikiDataId: Q207756
-- id: 79901
-  name: Waihi Beach
-  state_id: 4074
+- name: Waihi Beach
   state_code: BOP
   state_name: Bay of Plenty
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.40000000"
   longitude: '175.93333000'
-  wikiDataId: Q1520662
-- id: 79919
-  name: Whakatane
-  state_id: 4074
+- name: Whakatane
   state_code: BOP
   state_name: Bay of Plenty
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.95855000"
   longitude: '176.98545000'
-  wikiDataId: Q974074
-- id: 79769
-  name: Amberley
-  state_id: 4066
+- name: Amberley
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.15589000"
   longitude: '172.72975000'
-  wikiDataId: Q457210
-- id: 79771
-  name: Ashburton
-  state_id: 4066
+- name: Ashburton
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.89834000"
   longitude: '171.73011000'
-  wikiDataId: Q724923
-- id: 79772
-  name: Ashburton District
-  state_id: 4066
+- name: Ashburton District
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.90000000"
   longitude: '171.75000000'
-  wikiDataId: Q15784197
-- id: 79780
-  name: Burnham
-  state_id: 4066
+- name: Burnham
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.61667000"
   longitude: '172.31667000'
-  wikiDataId: Q137105
-- id: 79783
-  name: Christchurch
-  state_id: 4066
+- name: Christchurch
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.53333000"
   longitude: '172.63333000'
-  wikiDataId: Q79990
-- id: 79784
-  name: Christchurch City
-  state_id: 4066
+- name: Christchurch City
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.64578000"
   longitude: '172.74586000'
-  wikiDataId: Q32159699
-- id: 79788
-  name: Darfield
-  state_id: 4066
+- name: Darfield
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.48333000"
   longitude: '172.11667000'
-  wikiDataId: Q1165830
-- id: 79795
-  name: Geraldine
-  state_id: 4066
+- name: Geraldine
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-44.09061000"
   longitude: '171.24458000'
-  wikiDataId: Q1002934
-- id: 79805
-  name: Kaiapoi
-  state_id: 4066
+- name: Kaiapoi
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.37832000"
   longitude: '172.64013000'
-  wikiDataId: Q1013339
-- id: 79816
-  name: Leeston
-  state_id: 4066
+- name: Leeston
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.76667000"
   longitude: '172.30000000'
-  wikiDataId: Q985373
-- id: 79818
-  name: Lincoln
-  state_id: 4066
+- name: Lincoln
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.65000000"
   longitude: '172.48333000'
-  wikiDataId: Q1186226
-- id: 79820
-  name: Mackenzie District
-  state_id: 4066
+- name: Mackenzie District
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.93987000"
   longitude: '170.51913000'
-  wikiDataId: Q1760822
-- id: 79829
-  name: Methven
-  state_id: 4066
+- name: Methven
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.63333000"
   longitude: '171.65000000'
-  wikiDataId: Q1925567
-- id: 79849
-  name: Oxford
-  state_id: 4066
+- name: Oxford
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.30000000"
   longitude: '172.18333000'
-  wikiDataId: Q1936464
-- id: 79861
-  name: Pleasant Point
-  state_id: 4066
+- name: Pleasant Point
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-44.26667000"
   longitude: '171.13333000'
-  wikiDataId: Q1474784
-- id: 79864
-  name: Prebbleton
-  state_id: 4066
+- name: Prebbleton
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.58333000"
   longitude: '172.51667000'
-  wikiDataId: Q176330
-- id: 79868
-  name: Rakaia
-  state_id: 4066
+- name: Rakaia
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.75000000"
   longitude: '172.01667000'
-  wikiDataId: Q1015735
-- id: 79872
-  name: Rolleston
-  state_id: 4066
+- name: Rolleston
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.58333000"
   longitude: '172.38333000'
-  wikiDataId: Q1099966
-- id: 79877
-  name: Selwyn District
-  state_id: 4066
+- name: Selwyn District
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.32226000"
   longitude: '171.87064000'
-  wikiDataId: Q1210763
-- id: 79893
-  name: Timaru
-  state_id: 4066
+- name: Timaru
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-44.39672000"
   longitude: '171.25364000'
-  wikiDataId: Q1016574
-- id: 79894
-  name: Timaru District
-  state_id: 4066
+- name: Timaru District
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-44.40000000"
   longitude: '171.21667000'
-  wikiDataId: Q14395599
-- id: 79895
-  name: Tinwald
-  state_id: 4066
+- name: Tinwald
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.91667000"
   longitude: '171.71667000'
-  wikiDataId: Q14395599
-- id: 79902
-  name: Waimakariri District
-  state_id: 4066
+- name: Waimakariri District
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.20750000"
   longitude: '172.33286000'
-  wikiDataId: Q1542322
-- id: 79925
-  name: Woodend
-  state_id: 4066
+- name: Woodend
   state_code: CAN
   state_name: Canterbury
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.31667000"
   longitude: '172.66667000'
-  wikiDataId: Q8032610
-- id: 79908
-  name: Waitangi
-  state_id: 4067
+- name: Waitangi
   state_code: CIT
   state_name: Chatham Islands
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-43.95353000"
   longitude: "-176.55973000"
-  wikiDataId: Q1809774
-- id: 79796
-  name: Gisborne
-  state_id: 4068
+- name: Gisborne
   state_code: GIS
   state_name: Gisborne
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-38.65333000"
   longitude: '178.00417000'
-  wikiDataId: Q233467
-- id: 79800
-  name: Hastings
-  state_id: 4075
+- name: Hastings
   state_code: HKB
   state_name: Hawke's Bay
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.63810000"
   longitude: '176.84918000'
-  wikiDataId: Q1015690
-- id: 79836
-  name: Napier
-  state_id: 4075
+- name: Napier
   state_code: HKB
   state_name: Hawke's Bay
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.49260000"
   longitude: '176.91233000'
-  wikiDataId: Q203380
-- id: 79887
-  name: Taradale
-  state_id: 4075
+- name: Taradale
   state_code: HKB
   state_name: Hawke's Bay
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.53333000"
   longitude: '176.85000000'
-  wikiDataId: Q151841
-- id: 79906
-  name: Wairoa
-  state_id: 4075
+- name: Wairoa
   state_code: HKB
   state_name: Hawke's Bay
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.03333000"
   longitude: '177.36667000'
-  wikiDataId: Q599594
-- id: 79779
-  name: Bulls
-  state_id: 4060
+- name: Bulls
   state_code: MWT
   state_name: Manawatu-Wanganui
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-40.17487000"
   longitude: '175.38463000'
-  wikiDataId: Q834869
-- id: 79794
-  name: Foxton
-  state_id: 4060
+- name: Foxton
   state_code: MWT
   state_name: Manawatu-Wanganui
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-40.46667000"
   longitude: '175.30000000'
-  wikiDataId: Q985095
-- id: 79803
-  name: Horowhenua District
-  state_id: 4060
+- name: Horowhenua District
   state_code: MWT
   state_name: Manawatu-Wanganui
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-40.57733000"
   longitude: '175.38071000'
-  wikiDataId: Q1232367
-- id: 79817
-  name: Levin
-  state_id: 4060
+- name: Levin
   state_code: MWT
   state_name: Manawatu-Wanganui
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-40.63333000"
   longitude: '175.27500000'
-  wikiDataId: Q985373
-- id: 79822
-  name: Manawatu District
-  state_id: 4060
+- name: Manawatu District
   state_code: MWT
   state_name: Manawatu-Wanganui
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-40.11979000"
   longitude: '175.67426000'
-  wikiDataId: Q613305
-- id: 79853
-  name: Palmerston North
-  state_id: 4060
+- name: Palmerston North
   state_code: MWT
   state_name: Manawatu-Wanganui
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-40.35636000"
   longitude: '175.61113000'
-  wikiDataId: Q212289
-- id: 79904
-  name: Waiouru
-  state_id: 4060
+- name: Waiouru
   state_code: MWT
   state_name: Manawatu-Wanganui
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.47753000"
   longitude: '175.66834000'
-  wikiDataId: Q912379
-- id: 79913
-  name: Wanganui
-  state_id: 4060
+- name: Wanganui
   state_code: MWT
   state_name: Manawatu-Wanganui
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.93333000"
   longitude: '175.05000000'
-  wikiDataId: Q1015672
-- id: 79775
-  name: Blenheim
-  state_id: 4063
+- name: Blenheim
   state_code: MBH
   state_name: Marlborough
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.51603000"
   longitude: '173.95280000'
-  wikiDataId: Q883831
-- id: 79860
-  name: Picton
-  state_id: 4063
+- name: Picton
   state_code: MBH
   state_name: Marlborough
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.29067000"
   longitude: '174.00801000'
-  wikiDataId: Q1362879
-- id: 79837
-  name: Nelson
-  state_id: 4070
+- name: Nelson
   state_code: NSN
   state_name: Nelson
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.27078000"
   longitude: '173.28404000'
-  wikiDataId: Q206687
-- id: 79768
-  name: Ahipara
-  state_id: 4059
+- name: Ahipara
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.16667000"
   longitude: '173.16667000'
-  wikiDataId: Q400269
-- id: 79789
-  name: Dargaville
-  state_id: 4059
+- name: Dargaville
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.93333000"
   longitude: '173.88333000'
-  wikiDataId: Q1165830
-- id: 79793
-  name: Far North District
-  state_id: 4059
+- name: Far North District
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.03359000"
   longitude: '173.48841000'
-  wikiDataId: Q1365839
-- id: 79806
-  name: Kaipara District
-  state_id: 4059
+- name: Kaipara District
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.99546000"
   longitude: '174.04688000'
-  wikiDataId: Q163982
-- id: 79807
-  name: Kaitaia
-  state_id: 4059
+- name: Kaitaia
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.11485000"
   longitude: '173.26366000'
-  wikiDataId: Q257417
-- id: 79810
-  name: Kawakawa
-  state_id: 4059
+- name: Kawakawa
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.38333000"
   longitude: '174.06667000'
-  wikiDataId: Q1013579
-- id: 79813
-  name: Kerikeri
-  state_id: 4059
+- name: Kerikeri
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.22676000"
   longitude: '173.94739000'
-  wikiDataId: Q1185949
-- id: 79828
-  name: Maungatapere
-  state_id: 4059
+- name: Maungatapere
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.75000000"
   longitude: '174.20000000'
-  wikiDataId: Q691739
-- id: 79831
-  name: Moerewa
-  state_id: 4059
+- name: Moerewa
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.38333000"
   longitude: '174.03333000'
-  wikiDataId: Q952307
-- id: 79842
-  name: Ngunguru
-  state_id: 4059
+- name: Ngunguru
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.61667000"
   longitude: '174.50000000'
-  wikiDataId: Q513626
-- id: 79851
-  name: Paihia
-  state_id: 4059
+- name: Paihia
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.28067000"
   longitude: '174.09103000'
-  wikiDataId: Q152017
-- id: 79876
-  name: Ruakaka
-  state_id: 4059
+- name: Ruakaka
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.90818000"
   longitude: '174.45019000'
-  wikiDataId: Q208948
-- id: 79882
-  name: Taipa
-  state_id: 4059
+- name: Taipa
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-34.99604000"
   longitude: '173.46665000'
-  wikiDataId: Q1972706
-- id: 79903
-  name: Waimate North
-  state_id: 4059
+- name: Waimate North
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.31667000"
   longitude: '173.88333000'
-  wikiDataId: Q1542322
-- id: 79921
-  name: Whangarei
-  state_id: 4059
+- name: Whangarei
   state_code: NTL
   state_name: Northland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-35.73167000"
   longitude: '174.32391000'
-  wikiDataId: Q744239
-- id: 79770
-  name: Arrowtown
-  state_id: 4062
+- name: Arrowtown
   state_code: OTA
   state_name: Otago
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-44.93837000"
   longitude: '168.81007000'
-  wikiDataId: Q703016
-- id: 79774
-  name: Balclutha
-  state_id: 4062
+- name: Balclutha
   state_code: OTA
   state_name: Otago
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-46.23389000"
   longitude: '169.75000000'
-  wikiDataId: Q804717
-- id: 79785
-  name: Clutha District
-  state_id: 4062
+- name: Clutha District
   state_code: OTA
   state_name: Otago
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-46.03883000"
   longitude: '169.60617000'
-  wikiDataId: Q1103566
-- id: 79787
-  name: Cromwell
-  state_id: 4062
+- name: Cromwell
   state_code: OTA
   state_name: Otago
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-45.03837000"
   longitude: '169.20008000'
-  wikiDataId: Q973355
-- id: 79790
-  name: Dunedin
-  state_id: 4062
+- name: Dunedin
   state_code: OTA
   state_name: Otago
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-45.87416000"
   longitude: '170.50361000'
-  wikiDataId: Q1165830
-- id: 79815
-  name: Kingston
-  state_id: 4062
+- name: Kingston
   state_code: OTA
   state_name: Otago
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-45.33288000"
   longitude: '168.71476000'
-  wikiDataId: Q128090
-- id: 79830
-  name: Milton
-  state_id: 4062
+- name: Milton
   state_code: OTA
   state_name: Otago
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-46.12083000"
   longitude: '169.96944000'
-  wikiDataId: Q203424
-- id: 79844
-  name: Oamaru
-  state_id: 4062
+- name: Oamaru
   state_code: OTA
   state_name: Otago
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-45.09758000"
   longitude: '170.97087000'
-  wikiDataId: Q4782
-- id: 79855
-  name: Papatowai
-  state_id: 4062
+- name: Papatowai
   state_code: OTA
   state_name: Otago
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-46.56069000"
   longitude: '169.47068000'
-  wikiDataId: Q7615649
-- id: 79863
-  name: Portobello
-  state_id: 4062
+- name: Portobello
   state_code: OTA
   state_name: Otago
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-45.85000000"
   longitude: '170.65000000'
-  wikiDataId: Q1322072
-- id: 79866
-  name: Queenstown
-  state_id: 4062
+- name: Queenstown
   state_code: OTA
   state_name: Otago
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-45.03023000"
   longitude: '168.66271000'
-  wikiDataId: Q613602
-- id: 79912
-  name: Wanaka
-  state_id: 4062
+- name: Wanaka
   state_code: OTA
   state_name: Otago
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-44.70000000"
   longitude: '169.15000000'
-  wikiDataId: Q930344
-- id: 79776
-  name: Bluff
-  state_id: 4071
+- name: Bluff
   state_code: STL
   state_name: Southland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-46.60000000"
   longitude: '168.33333000'
-  wikiDataId: Q152028
-- id: 79797
-  name: Gore
-  state_id: 4071
+- name: Gore
   state_code: STL
   state_name: Southland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-46.10282000"
   longitude: '168.94357000'
-  wikiDataId: Q597409
-- id: 79804
-  name: Invercargill
-  state_id: 4071
+- name: Invercargill
   state_code: STL
   state_name: Southland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-46.40000000"
   longitude: '168.35000000'
-  wikiDataId: Q31805
-- id: 79871
-  name: Riverton
-  state_id: 4071
+- name: Riverton
   state_code: STL
   state_name: Southland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-46.35000000"
   longitude: '168.01667000'
-  wikiDataId: Q152152
-- id: 79881
-  name: Southland District
-  state_id: 4071
+- name: Southland District
   state_code: STL
   state_name: Southland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-45.77256000"
   longitude: '167.85266000'
-  wikiDataId: Q1972706
-- id: 79890
-  name: Te Anau
-  state_id: 4071
+- name: Te Anau
   state_code: STL
   state_name: Southland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-45.41667000"
   longitude: '167.71667000'
-  wikiDataId: Q1154973
-- id: 79923
-  name: Winton
-  state_id: 4071
+- name: Winton
   state_code: STL
   state_name: Southland
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-46.15000000"
   longitude: '168.33333000'
-  wikiDataId: Q1721802
-- id: 79792
-  name: Eltham
-  state_id: 4069
+- name: Eltham
   state_code: TKI
   state_name: Taranaki
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.42917000"
   longitude: '174.30000000'
-  wikiDataId: Q378717
-- id: 79801
-  name: Hawera
-  state_id: 4069
+- name: Hawera
   state_code: TKI
   state_name: Taranaki
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.59167000"
   longitude: '174.28333000'
-  wikiDataId: Q998452
-- id: 79838
-  name: New Plymouth
-  state_id: 4069
+- name: New Plymouth
   state_code: TKI
   state_name: Taranaki
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.06667000"
   longitude: '174.08333000'
-  wikiDataId: Q212984
-- id: 79839
-  name: New Plymouth District
-  state_id: 4069
+- name: New Plymouth District
   state_code: TKI
   state_name: Taranaki
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.05865000"
   longitude: '174.10309000'
-  wikiDataId: Q4846747
-- id: 79846
-  name: Opunake
-  state_id: 4069
+- name: Opunake
   state_code: TKI
   state_name: Taranaki
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.45556000"
   longitude: '173.85833000'
-  wikiDataId: Q995218
-- id: 79858
-  name: Patea
-  state_id: 4069
+- name: Patea
   state_code: TKI
   state_name: Taranaki
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.75833000"
   longitude: '174.48333000'
-  wikiDataId: Q2056659
-- id: 79878
-  name: South Taranaki District
-  state_id: 4069
+- name: South Taranaki District
   state_code: TKI
   state_name: Taranaki
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.52156000"
   longitude: '174.37160000'
-  wikiDataId: Q1972712
-- id: 153921
-  name: Stratford
-  state_id: 4069
+- name: Stratford
   state_code: TKI
   state_name: Taranaki
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.32215170"
   longitude: '174.26298160'
-  wikiDataId: Q1972491
-- id: 79909
-  name: Waitara
-  state_id: 4069
+- name: Waitara
   state_code: TKI
   state_name: Taranaki
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-39.00158000"
   longitude: '174.23836000'
-  wikiDataId: Q727199
-- id: 79777
-  name: Brightwater
-  state_id: 4073
+- name: Brightwater
   state_code: TAS
   state_name: Tasman
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.38333000"
   longitude: '173.11667000'
-  wikiDataId: Q915930
-- id: 79825
-  name: Mapua
-  state_id: 4073
+- name: Mapua
   state_code: TAS
   state_name: Tasman
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.25000000"
   longitude: '173.10000000'
-  wikiDataId: Q1892126
-- id: 79832
-  name: Motueka
-  state_id: 4073
+- name: Motueka
   state_code: TAS
   state_name: Tasman
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.13333000"
   longitude: '173.01667000'
-  wikiDataId: Q489458
-- id: 79870
-  name: Richmond
-  state_id: 4073
+- name: Richmond
   state_code: TAS
   state_name: Tasman
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.33333000"
   longitude: '173.18333000'
-  wikiDataId: Q1208462
-- id: 79884
-  name: Takaka
-  state_id: 4073
+- name: Takaka
   state_code: TAS
   state_name: Tasman
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-40.85000000"
   longitude: '172.80000000'
-  wikiDataId: Q151841
-- id: 79911
-  name: Wakefield
-  state_id: 4073
+- name: Wakefield
   state_code: TAS
   state_name: Tasman
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.40000000"
   longitude: '173.05000000'
-  wikiDataId: Q683323
-- id: 79781
-  name: Cambridge
-  state_id: 4061
+- name: Cambridge
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.87822000"
   longitude: '175.44020000'
-  wikiDataId: Q1028261
-- id: 79786
-  name: Coromandel
-  state_id: 4061
+- name: Coromandel
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.76110000"
   longitude: '175.49634000'
-  wikiDataId: Q1134464
-- id: 79799
-  name: Hamilton
-  state_id: 4061
+- name: Hamilton
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.78333000"
   longitude: '175.28333000'
-  wikiDataId: Q200028
-- id: 79827
-  name: Matamata
-  state_id: 4061
+- name: Matamata
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.81060000"
   longitude: '175.76237000'
-  wikiDataId: Q691739
-- id: 79840
-  name: Ngaruawahia
-  state_id: 4061
+- name: Ngaruawahia
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.66738000"
   longitude: '175.15554000'
-  wikiDataId: Q771298
-- id: 79841
-  name: Ngatea
-  state_id: 4061
+- name: Ngatea
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.28333000"
   longitude: '175.50000000'
-  wikiDataId: Q513626
-- id: 79848
-  name: Otorohanga
-  state_id: 4061
+- name: Otorohanga
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-38.18333000"
   longitude: '175.20000000'
-  wikiDataId: Q1936464
-- id: 79850
-  name: Paeroa
-  state_id: 4061
+- name: Paeroa
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.36667000"
   longitude: '175.66667000'
-  wikiDataId: Q834005
-- id: 79867
-  name: Raglan
-  state_id: 4061
+- name: Raglan
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.80000000"
   longitude: '174.88333000'
-  wikiDataId: Q984803
-- id: 79879
-  name: South Waikato District
-  state_id: 4061
+- name: South Waikato District
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-38.16797000"
   longitude: '175.88624000'
-  wikiDataId: Q1760808
-- id: 79883
-  name: Tairua
-  state_id: 4061
+- name: Tairua
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.01667000"
   longitude: '175.85000000'
-  wikiDataId: Q2388791
-- id: 79888
-  name: Taupo
-  state_id: 4061
+- name: Taupo
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-38.68333000"
   longitude: '176.08333000'
-  wikiDataId: Q2397257
-- id: 79891
-  name: Te Kauwhata
-  state_id: 4061
+- name: Te Kauwhata
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.40000000"
   longitude: '175.15000000'
-  wikiDataId: Q1526617
-- id: 79892
-  name: Thames
-  state_id: 4061
+- name: Thames
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.13832000"
   longitude: '175.54011000'
-  wikiDataId: Q1691479
-- id: 79897
-  name: Tokoroa
-  state_id: 4061
+- name: Tokoroa
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-38.23333000"
   longitude: '175.86667000'
-  wikiDataId: Q112685
-- id: 79898
-  name: Turangi
-  state_id: 4061
+- name: Turangi
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-38.99037000"
   longitude: '175.80837000'
-  wikiDataId: Q1026386
-- id: 79900
-  name: Waihi
-  state_id: 4061
+- name: Waihi
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.38333000"
   longitude: '175.83333000'
-  wikiDataId: Q498833
-- id: 79920
-  name: Whangamata
-  state_id: 4061
+- name: Whangamata
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-37.20000000"
   longitude: '175.86667000'
-  wikiDataId: Q917136
-- id: 79922
-  name: Whitianga
-  state_id: 4061
+- name: Whitianga
   state_code: WKO
   state_name: Waikato
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-36.83333000"
   longitude: '175.70000000'
-  wikiDataId: Q1375183
-- id: 79778
-  name: Brooklyn
-  state_id: 4065
+- name: Brooklyn
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.30586000"
   longitude: '174.76257000'
-  wikiDataId: Q4974716
-- id: 79782
-  name: Castlepoint
-  state_id: 4065
+- name: Castlepoint
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-40.90000000"
   longitude: '176.21667000'
-  wikiDataId: Q5050567
-- id: 79808
-  name: Kapiti Coast District
-  state_id: 4065
+- name: Kapiti Coast District
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-40.85682000"
   longitude: '175.14690000'
-  wikiDataId: Q1533839
-- id: 79812
-  name: Kelburn
-  state_id: 4065
+- name: Kelburn
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.28333000"
   longitude: '174.76667000'
-  wikiDataId: Q1674085
-- id: 79814
-  name: Khandallah
-  state_id: 4065
+- name: Khandallah
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.24500000"
   longitude: '174.79422000'
-  wikiDataId: Q1185949
-- id: 79819
-  name: Lower Hutt
-  state_id: 4065
+- name: Lower Hutt
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.21667000"
   longitude: '174.91667000'
-  wikiDataId: Q1015681
-- id: 79826
-  name: Masterton
-  state_id: 4065
+- name: Masterton
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-40.95972000"
   longitude: '175.65750000'
-  wikiDataId: Q1223916
-- id: 79847
-  name: Otaki
-  state_id: 4065
+- name: Otaki
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-40.75833000"
   longitude: '175.15000000'
-  wikiDataId: Q984998
-- id: 79857
-  name: Paraparaumu
-  state_id: 4065
+- name: Paraparaumu
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-40.91667000"
   longitude: '175.01667000'
-  wikiDataId: Q1115332
-- id: 79859
-  name: Petone
-  state_id: 4065
+- name: Petone
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.22827000"
   longitude: '174.87019000'
-  wikiDataId: Q120070
-- id: 79862
-  name: Porirua
-  state_id: 4065
+- name: Porirua
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.13333000"
   longitude: '174.85000000'
-  wikiDataId: Q1015773
-- id: 79880
-  name: South Wairarapa District
-  state_id: 4065
+- name: South Wairarapa District
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.26731000"
   longitude: '175.38442000'
-  wikiDataId: Q1760817
-- id: 79899
-  name: Upper Hutt
-  state_id: 4065
+- name: Upper Hutt
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.13827000"
   longitude: '175.05020000'
-  wikiDataId: Q166002
-- id: 79905
-  name: Waipawa
-  state_id: 4065
+- name: Waipawa
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.41222000"
   longitude: '175.51528000'
-  wikiDataId: Q912379
-- id: 79915
-  name: Wellington
-  state_id: 4065
+- name: Wellington
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.28664000"
   longitude: '174.77557000'
-  wikiDataId: Q23661
-- id: 79916
-  name: Wellington City
-  state_id: 4065
+- name: Wellington City
   state_code: WGN
   state_name: Wellington
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.25300000"
   longitude: '174.75424000'
-  wikiDataId: Q47037646
-- id: 79798
-  name: Greymouth
-  state_id: 4064
+- name: Greymouth
   state_code: WTC
   state_name: West Coast
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-42.46667000"
   longitude: '171.20000000'
-  wikiDataId: Q934790
-- id: 79802
-  name: Hokitika
-  state_id: 4064
+- name: Hokitika
   state_code: WTC
   state_name: West Coast
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-42.71667000"
   longitude: '170.96667000'
-  wikiDataId: Q1549557
-- id: 79918
-  name: Westport
-  state_id: 4064
+- name: Westport
   state_code: WTC
   state_name: West Coast
-  country_id: 158
-  country_code: NZ
-  country_name: New Zealand
   latitude: "-41.75262000"
   longitude: '171.60370000'
-  wikiDataId: Q1349217

@@ -1,782 +1,356 @@
 ---
-- id: 131332
-  name: Chibombo
-  state_id: 1986
+- name: Chibombo
   state_code: '02'
   state_name: Central
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-14.65685000"
   longitude: '28.07057000'
-  wikiDataId: Q1071771
-- id: 131333
-  name: Chibombo District
-  state_id: 1986
+- name: Chibombo District
   state_code: '02'
   state_name: Central
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-14.65808000"
   longitude: '28.07376000'
-  wikiDataId: Q595913
-- id: 131345
-  name: Kabwe
-  state_id: 1986
+- name: Kabwe
   state_code: '02'
   state_name: Central
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-14.44690000"
   longitude: '28.44644000'
-  wikiDataId: Q216902
-- id: 131352
-  name: Kapiri Mposhi
-  state_id: 1986
+- name: Kapiri Mposhi
   state_code: '02'
   state_name: Central
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-13.97147000"
   longitude: '28.66985000'
-  wikiDataId: Q985822
-- id: 131371
-  name: Mkushi
-  state_id: 1986
+- name: Mkushi
   state_code: '02'
   state_name: Central
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-13.62015000"
   longitude: '29.39390000'
-  wikiDataId: Q572000
-- id: 131380
-  name: Mumbwa
-  state_id: 1986
+- name: Mumbwa
   state_code: '02'
   state_name: Central
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-14.98293000"
   longitude: '27.06190000'
-  wikiDataId: Q1952600
-- id: 131393
-  name: Serenje
-  state_id: 1986
+- name: Serenje
   state_code: '02'
   state_name: Central
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-13.23251000"
   longitude: '30.23522000'
-  wikiDataId: Q2272373
-- id: 131331
-  name: Chambishi
-  state_id: 1984
+- name: Chambishi
   state_code: '08'
   state_name: Copperbelt
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-12.63247000"
   longitude: '28.05367000'
-  wikiDataId: Q1060403
-- id: 131334
-  name: Chililabombwe
-  state_id: 1984
+- name: Chililabombwe
   state_code: '08'
   state_name: Copperbelt
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-12.36475000"
   longitude: '27.82286000'
-  wikiDataId: Q993200
-- id: 131335
-  name: Chingola
-  state_id: 1984
+- name: Chingola
   state_code: '08'
   state_name: Copperbelt
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-12.52897000"
   longitude: '27.88382000'
-  wikiDataId: Q431533
-- id: 131336
-  name: Chingola District
-  state_id: 1984
+- name: Chingola District
   state_code: '08'
   state_name: Copperbelt
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-12.48478000"
   longitude: '27.66313000'
-  wikiDataId: Q3031128
-- id: 131349
-  name: Kalulushi
-  state_id: 1984
+- name: Kalulushi
   state_code: '08'
   state_name: Copperbelt
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-12.84151000"
   longitude: '28.09479000'
-  wikiDataId: Q1014130
-- id: 131356
-  name: Kataba
-  state_id: 1984
+- name: Kataba
   state_code: '08'
   state_name: Copperbelt
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-11.88333000"
   longitude: '29.78333000'
-  wikiDataId: Q1584887
-- id: 131358
-  name: Kitwe
-  state_id: 1984
+- name: Kitwe
   state_code: '08'
   state_name: Copperbelt
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-12.80243000"
   longitude: '28.21323000'
-  wikiDataId: Q239580
-- id: 131362
-  name: Luanshya
-  state_id: 1984
+- name: Luanshya
   state_code: '08'
   state_name: Copperbelt
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-13.13667000"
   longitude: '28.41661000'
-  wikiDataId: Q854109
-- id: 131375
-  name: Mpongwe
-  state_id: 1984
+- name: Mpongwe
   state_code: '08'
   state_name: Copperbelt
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-13.50914000"
   longitude: '28.15504000'
-  wikiDataId: Q31959439
-- id: 131378
-  name: Mufulira
-  state_id: 1984
+- name: Mufulira
   state_code: '08'
   state_name: Copperbelt
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-12.54982000"
   longitude: '28.24071000'
-  wikiDataId: Q636209
-- id: 131388
-  name: Ndola
-  state_id: 1984
+- name: Ndola
   state_code: '08'
   state_name: Copperbelt
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-12.95867000"
   longitude: '28.63659000'
-  wikiDataId: Q219671
-- id: 131329
-  name: Chadiza
-  state_id: 1991
+- name: Chadiza
   state_code: '03'
   state_name: Eastern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-14.06779000"
   longitude: '32.43917000'
-  wikiDataId: Q1058666
-- id: 131338
-  name: Chipata
-  state_id: 1991
+- name: Chipata
   state_code: '03'
   state_name: Eastern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-13.63333000"
   longitude: '32.65000000'
-  wikiDataId: Q856151
-- id: 131364
-  name: Lundazi
-  state_id: 1991
+- name: Lundazi
   state_code: '03'
   state_name: Eastern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-12.29292000"
   longitude: '33.17820000'
-  wikiDataId: Q260171
-- id: 131389
-  name: Nyimba
-  state_id: 1991
+- name: Nyimba
   state_code: '03'
   state_name: Eastern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-14.55656000"
   longitude: '30.81490000'
-  wikiDataId: Q31975013
-- id: 131390
-  name: Petauke
-  state_id: 1991
+- name: Petauke
   state_code: '03'
   state_name: Eastern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-14.24117000"
   longitude: '31.31975000'
-  wikiDataId: Q2073224
-- id: 131357
-  name: Kawambwa
-  state_id: 1987
+- name: Kawambwa
   state_code: '04'
   state_name: Luapula
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-9.79150000"
   longitude: '29.07913000'
-  wikiDataId: Q1737290
-- id: 131368
-  name: Mansa
-  state_id: 1987
+- name: Mansa
   state_code: '04'
   state_name: Luapula
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-11.19976000"
   longitude: '28.89431000'
-  wikiDataId: Q997069
-- id: 131382
-  name: Mwense
-  state_id: 1987
+- name: Mwense
   state_code: '04'
   state_name: Luapula
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-10.38447000"
   longitude: '28.69800000'
-  wikiDataId: Q31964641
-- id: 131387
-  name: Nchelenge
-  state_id: 1987
+- name: Nchelenge
   state_code: '04'
   state_name: Luapula
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-9.34506000"
   longitude: '28.73396000'
-  wikiDataId: Q287722
-- id: 131391
-  name: Samfya
-  state_id: 1987
+- name: Samfya
   state_code: '04'
   state_name: Luapula
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-11.36491000"
   longitude: '29.55652000'
-  wikiDataId: Q2093156
-- id: 131340
-  name: Chongwe
-  state_id: 1988
+- name: Chongwe
   state_code: '09'
   state_name: Lusaka
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-15.32916000"
   longitude: '28.68204000'
-  wikiDataId: Q31906348
-- id: 131346
-  name: Kafue
-  state_id: 1988
+- name: Kafue
   state_code: '09'
   state_name: Lusaka
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-15.76911000"
   longitude: '28.18136000'
-  wikiDataId: Q1022290
-- id: 131361
-  name: Luangwa
-  state_id: 1988
+- name: Luangwa
   state_code: '09'
   state_name: Lusaka
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-15.61667000"
   longitude: '30.41667000'
-  wikiDataId: Q1304609
-- id: 131365
-  name: Lusaka
-  state_id: 1988
+- name: Lusaka
   state_code: '09'
   state_name: Lusaka
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-15.40669000"
   longitude: '28.28713000'
-  wikiDataId: Q3881
-- id: 131330
-  name: Chama
-  state_id: 1989
+- name: Chama
   state_code: '10'
   state_name: Muchinga
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-11.21303000"
   longitude: '33.15210000'
-  wikiDataId: Q1060403
-- id: 131337
-  name: Chinsali
-  state_id: 1989
+- name: Chinsali
   state_code: '10'
   state_name: Muchinga
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-10.54142000"
   longitude: '32.08162000'
-  wikiDataId: Q1074444
-- id: 131342
-  name: Isoka
-  state_id: 1989
+- name: Isoka
   state_code: '10'
   state_name: Muchinga
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-10.16062000"
   longitude: '32.63353000'
-  wikiDataId: Q1674448
-- id: 131374
-  name: Mpika
-  state_id: 1989
+- name: Mpika
   state_code: '10'
   state_name: Muchinga
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-11.83431000"
   longitude: '31.45287000'
-  wikiDataId: Q1004510
-- id: 131385
-  name: Nakonde
-  state_id: 1989
+- name: Nakonde
   state_code: '10'
   state_name: Muchinga
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-9.34213000"
   longitude: '32.74500000'
-  wikiDataId: Q31966657
-- id: 131353
-  name: Kaputa
-  state_id: 1982
+- name: Kaputa
   state_code: '05'
   state_name: Northern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-8.46887000"
   longitude: '29.66193000'
-  wikiDataId: Q31929934
-- id: 131354
-  name: Kasama
-  state_id: 1982
+- name: Kasama
   state_code: '05'
   state_name: Northern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-10.21289000"
   longitude: '31.18084000'
-  wikiDataId: Q600893
-- id: 131366
-  name: Luwingu
-  state_id: 1982
+- name: Luwingu
   state_code: '05'
   state_name: Northern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-10.26210000"
   longitude: '29.92712000'
-  wikiDataId: Q1878272
-- id: 131370
-  name: Mbala
-  state_id: 1982
+- name: Mbala
   state_code: '05'
   state_name: Northern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-8.84024000"
   longitude: '31.36587000'
-  wikiDataId: Q1014108
-- id: 131376
-  name: Mporokoso
-  state_id: 1982
+- name: Mporokoso
   state_code: '05'
   state_name: Northern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-9.37273000"
   longitude: '30.12501000'
-  wikiDataId: Q1022156
-- id: 131377
-  name: Mpulungu
-  state_id: 1982
+- name: Mpulungu
   state_code: '05'
   state_name: Northern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-8.76234000"
   longitude: '31.11405000'
-  wikiDataId: Q1951400
-- id: 131381
-  name: Mungwi
-  state_id: 1982
+- name: Mungwi
   state_code: '05'
   state_name: Northern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-10.17320000"
   longitude: '31.36942000'
-  wikiDataId: Q31961167
-- id: 131344
-  name: Kabompo
-  state_id: 1985
+- name: Kabompo
   state_code: '06'
   state_name: Northwestern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-13.59268000"
   longitude: '24.20081000'
-  wikiDataId: Q1001226
-- id: 131348
-  name: Kalengwa
-  state_id: 1985
+- name: Kalengwa
   state_code: '06'
   state_name: Northwestern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-13.46586000"
   longitude: '25.00271000'
-  wikiDataId: Q31929243
-- id: 131350
-  name: Kansanshi
-  state_id: 1985
+- name: Kansanshi
   state_code: '06'
   state_name: Northwestern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-12.09514000"
   longitude: '26.42727000'
-  wikiDataId: Q1014130
-- id: 131355
-  name: Kasempa
-  state_id: 1985
+- name: Kasempa
   state_code: '06'
   state_name: Northwestern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-13.45836000"
   longitude: '25.83380000'
-  wikiDataId: Q1734917
-- id: 131379
-  name: Mufumbwe
-  state_id: 1985
+- name: Mufumbwe
   state_code: '06'
   state_name: Northwestern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-13.68333000"
   longitude: '24.80000000'
-  wikiDataId: Q31960445
-- id: 131383
-  name: Mwinilunga
-  state_id: 1985
+- name: Mwinilunga
   state_code: '06'
   state_name: Northwestern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-11.73584000"
   longitude: '24.42926000'
-  wikiDataId: Q1956313
-- id: 131398
-  name: Solwezi
-  state_id: 1985
+- name: Solwezi
   state_code: '06'
   state_name: Northwestern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-12.16880000"
   longitude: '26.38938000'
-  wikiDataId: Q871209
-- id: 131399
-  name: Zambezi
-  state_id: 1985
+- name: Zambezi
   state_code: '06'
   state_name: Northwestern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-13.54323000"
   longitude: '23.10467000'
-  wikiDataId: Q145470
-- id: 131339
-  name: Choma
-  state_id: 1990
+- name: Choma
   state_code: '07'
   state_name: Southern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-16.80889000"
   longitude: '26.98750000'
-  wikiDataId: Q1076003
-- id: 131341
-  name: Gwembe
-  state_id: 1990
+- name: Gwembe
   state_code: '07'
   state_name: Southern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-16.49755000"
   longitude: '27.60691000'
-  wikiDataId: Q1022140
-- id: 131343
-  name: Itezhi-Tezhi District
-  state_id: 1990
+- name: Itezhi-Tezhi District
   state_code: '07'
   state_name: Southern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-15.74092000"
   longitude: '26.04146000'
-  wikiDataId: Q3030957
-- id: 131360
-  name: Livingstone
-  state_id: 1990
+- name: Livingstone
   state_code: '07'
   state_name: Southern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-17.84194000"
   longitude: '25.85425000'
-  wikiDataId: Q1866604
-- id: 131367
-  name: Maamba
-  state_id: 1990
+- name: Maamba
   state_code: '07'
   state_name: Southern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-17.36667000"
   longitude: '27.15000000'
-  wikiDataId: Q31945986
-- id: 131369
-  name: Mazabuka
-  state_id: 1990
+- name: Mazabuka
   state_code: '07'
   state_name: Southern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-15.85601000"
   longitude: '27.74800000'
-  wikiDataId: Q1859663
-- id: 131373
-  name: Monze
-  state_id: 1990
+- name: Monze
   state_code: '07'
   state_name: Southern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-16.28333000"
   longitude: '27.48333000'
-  wikiDataId: Q31957419
-- id: 131384
-  name: Nakambala
-  state_id: 1990
+- name: Nakambala
   state_code: '07'
   state_name: Southern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-15.83244000"
   longitude: '27.77994000'
-  wikiDataId: Q31966512
-- id: 131386
-  name: Namwala
-  state_id: 1990
+- name: Namwala
   state_code: '07'
   state_name: Southern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-15.75042000"
   longitude: '26.43839000'
-  wikiDataId: Q912503
-- id: 131395
-  name: Siavonga
-  state_id: 1990
+- name: Siavonga
   state_code: '07'
   state_name: Southern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-16.53818000"
   longitude: '28.70876000'
-  wikiDataId: Q2280835
-- id: 131396
-  name: Siavonga District
-  state_id: 1990
+- name: Siavonga District
   state_code: '07'
   state_name: Southern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-16.26742000"
   longitude: '28.55036000'
-  wikiDataId: Q3031862
-- id: 131397
-  name: Sinazongwe
-  state_id: 1990
+- name: Sinazongwe
   state_code: '07'
   state_name: Southern
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-17.26140000"
   longitude: '27.46179000'
-  wikiDataId: Q996098
-- id: 131347
-  name: Kalabo
-  state_id: 1983
+- name: Kalabo
   state_code: '01'
   state_name: Western
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-14.99307000"
   longitude: '22.67926000'
-  wikiDataId: Q1015056
-- id: 131351
-  name: Kaoma
-  state_id: 1983
+- name: Kaoma
   state_code: '01'
   state_name: Western
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-14.78333000"
   longitude: '24.80000000'
-  wikiDataId: Q1728285
-- id: 131359
-  name: Limulunga
-  state_id: 1983
+- name: Limulunga
   state_code: '01'
   state_name: Western
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-15.09691000"
   longitude: '23.13757000'
-  wikiDataId: Q624670
-- id: 131363
-  name: Lukulu
-  state_id: 1983
+- name: Lukulu
   state_code: '01'
   state_name: Western
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-14.37067000"
   longitude: '23.24196000'
-  wikiDataId: Q1629398
-- id: 131372
-  name: Mongu
-  state_id: 1983
+- name: Mongu
   state_code: '01'
   state_name: Western
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-15.24835000"
   longitude: '23.12741000'
-  wikiDataId: Q572000
-- id: 131392
-  name: Senanga
-  state_id: 1983
+- name: Senanga
   state_code: '01'
   state_name: Western
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-16.11667000"
   longitude: '23.26667000'
-  wikiDataId: Q569090
-- id: 131394
-  name: Sesheke
-  state_id: 1983
+- name: Sesheke
   state_code: '01'
   state_name: Western
-  country_id: 246
-  country_code: ZM
-  country_name: Zambia
   latitude: "-17.47593000"
   longitude: '24.29684000'
-  wikiDataId: Q1756357

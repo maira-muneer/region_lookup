@@ -1,5545 +1,2521 @@
 ---
-- id: 9265
-  name: Bansko
-  state_id: 4699
+- name: Bansko
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.83830000'
   longitude: '23.48851000'
-  wikiDataId: Q391159
-- id: 9270
-  name: Belitsa
-  state_id: 4699
+- name: Belitsa
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.95694000'
   longitude: '23.57250000'
-  wikiDataId: Q406631
-- id: 9275
-  name: Blagoevgrad
-  state_id: 4699
+- name: Blagoevgrad
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.01667000'
   longitude: '23.10000000'
-  wikiDataId: Q173277
-- id: 9329
-  name: Garmen
-  state_id: 4699
+- name: Garmen
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.60000000'
   longitude: '23.81667000'
-  wikiDataId: Q2332319
-- id: 9335
-  name: Gotse Delchev
-  state_id: 4699
+- name: Gotse Delchev
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.56667000'
   longitude: '23.73333000'
-  wikiDataId: Q457141
-- id: 9341
-  name: Hadzhidimovo
-  state_id: 4699
+- name: Hadzhidimovo
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.52222000'
   longitude: '23.86861000'
-  wikiDataId: Q406426
-- id: 9368
-  name: Kolarovo
-  state_id: 4699
+- name: Kolarovo
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.36385000'
   longitude: '23.10669000'
-  wikiDataId: Q407307
-- id: 9374
-  name: Kresna
-  state_id: 4699
+- name: Kresna
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.73333000'
   longitude: '23.15000000'
-  wikiDataId: Q406476
-- id: 9422
-  name: Obshtina Bansko
-  state_id: 4699
+- name: Obshtina Bansko
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.80000000'
   longitude: '23.60000000'
-  wikiDataId: Q2085163
-- id: 9425
-  name: Obshtina Belitsa
-  state_id: 4699
+- name: Obshtina Belitsa
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.01667000'
   longitude: '23.58333000'
-  wikiDataId: Q2281436
-- id: 9429
-  name: Obshtina Blagoevgrad
-  state_id: 4699
+- name: Obshtina Blagoevgrad
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.01667000'
   longitude: '23.16667000'
-  wikiDataId: Q628050
-- id: 9476
-  name: Obshtina Garmen
-  state_id: 4699
+- name: Obshtina Garmen
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.70000000'
   longitude: '23.85000000'
-  wikiDataId: Q2452337
-- id: 9482
-  name: Obshtina Gotse Delchev
-  state_id: 4699
+- name: Obshtina Gotse Delchev
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.63333000'
   longitude: '23.68333000'
-  wikiDataId: Q2557228
-- id: 9511
-  name: Obshtina Kresna
-  state_id: 4699
+- name: Obshtina Kresna
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.76667000'
   longitude: '23.23333000'
-  wikiDataId: Q2662531
-- id: 9555
-  name: Obshtina Petrich
-  state_id: 4699
+- name: Obshtina Petrich
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.45000000'
   longitude: '23.16667000'
-  wikiDataId: Q2653369
-- id: 9571
-  name: Obshtina Razlog
-  state_id: 4699
+- name: Obshtina Razlog
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.95000000'
   longitude: '23.46667000'
-  wikiDataId: Q1570650
-- id: 9582
-  name: Obshtina Sandanski
-  state_id: 4699
+- name: Obshtina Sandanski
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.56667000'
   longitude: '23.45000000'
-  wikiDataId: Q2653376
-- id: 9584
-  name: Obshtina Satovcha
-  state_id: 4699
+- name: Obshtina Satovcha
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.59848000'
   longitude: '24.00781000'
-  wikiDataId: Q2997839
-- id: 9589
-  name: Obshtina Simitli
-  state_id: 4699
+- name: Obshtina Simitli
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.88333000'
   longitude: '23.16667000'
-  wikiDataId: Q2722835
-- id: 9603
-  name: Obshtina Strumyani
-  state_id: 4699
+- name: Obshtina Strumyani
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.63333000'
   longitude: '23.20000000'
-  wikiDataId: Q2722846
-- id: 9633
-  name: Obshtina Yakoruda
-  state_id: 4699
+- name: Obshtina Yakoruda
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.08333000'
   longitude: '23.70000000'
-  wikiDataId: Q775710
-- id: 9653
-  name: Petrich
-  state_id: 4699
+- name: Petrich
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.39846000'
   longitude: '23.20702000'
-  wikiDataId: Q191099
-- id: 9670
-  name: Razlog
-  state_id: 4699
+- name: Razlog
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.88630000'
   longitude: '23.46714000'
-  wikiDataId: Q929605
-- id: 9681
-  name: Sandanski
-  state_id: 4699
+- name: Sandanski
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.56667000'
   longitude: '23.28333000'
-  wikiDataId: Q331566
-- id: 9686
-  name: Satovcha
-  state_id: 4699
+- name: Satovcha
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.61667000'
   longitude: '23.98333000'
-  wikiDataId: Q2043469
-- id: 9694
-  name: Simitli
-  state_id: 4699
+- name: Simitli
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.88333000'
   longitude: '23.11667000'
-  wikiDataId: Q1897942
-- id: 9705
-  name: Stara Kresna
-  state_id: 4699
+- name: Stara Kresna
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.80000000'
   longitude: '23.18333000'
-  wikiDataId: Q2598096
-- id: 9711
-  name: Strumyani
-  state_id: 4699
+- name: Strumyani
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.63333000'
   longitude: '23.20000000'
-  wikiDataId: Q2046578
-- id: 9745
-  name: Yakoruda
-  state_id: 4699
+- name: Yakoruda
   state_code: '01'
   state_name: Blagoevgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.02528000'
   longitude: '23.68417000'
-  wikiDataId: Q406493
-- id: 9250
-  name: Aheloy
-  state_id: 4715
+- name: Aheloy
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.64987000'
   longitude: '27.64838000'
-  wikiDataId: Q2597663
-- id: 9251
-  name: Ahtopol
-  state_id: 4715
+- name: Ahtopol
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.09768000'
   longitude: '27.93961000'
-  wikiDataId: Q341027
-- id: 9261
-  name: Aytos
-  state_id: 4715
+- name: Aytos
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.70000000'
   longitude: '27.25000000'
-  wikiDataId: Q275178
-- id: 9266
-  name: Bata
-  state_id: 4715
+- name: Bata
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.73802000'
   longitude: '27.49643000'
-  wikiDataId: Q391159
-- id: 9292
-  name: Burgas
-  state_id: 4715
+- name: Burgas
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.50606000'
   longitude: '27.46781000'
-  wikiDataId: Q6509
-- id: 9299
-  name: Chernomorets
-  state_id: 4715
+- name: Chernomorets
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.44408000'
   longitude: '27.63902000'
-  wikiDataId: Q1022281
-- id: 9353
-  name: Kameno
-  state_id: 4715
+- name: Kameno
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.57084000'
   longitude: '27.29875000'
-  wikiDataId: Q405191
-- id: 9356
-  name: Karnobat
-  state_id: 4715
+- name: Karnobat
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.65000000'
   longitude: '26.98333000'
-  wikiDataId: Q406227
-- id: 9363
-  name: Kiten
-  state_id: 4715
+- name: Kiten
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.23424000'
   longitude: '27.77490000'
-  wikiDataId: Q1993655
-- id: 9397
-  name: Malko Tarnovo
-  state_id: 4715
+- name: Malko Tarnovo
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.97958000'
   longitude: '27.52477000'
-  wikiDataId: Q406488
-- id: 9406
-  name: Nesebar
-  state_id: 4715
+- name: Nesebar
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.65921000'
   longitude: '27.73602000'
-  wikiDataId: Q193241
-- id: 9419
-  name: Obshtina Aytos
-  state_id: 4715
+- name: Obshtina Aytos
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.70000000'
   longitude: '27.25000000'
-  wikiDataId: Q2001782
-- id: 9442
-  name: Obshtina Burgas
-  state_id: 4715
+- name: Obshtina Burgas
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.50000000'
   longitude: '27.46667000'
-  wikiDataId: Q167807
-- id: 9495
-  name: Obshtina Kameno
-  state_id: 4715
+- name: Obshtina Kameno
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.51667000'
   longitude: '27.18333000'
-  wikiDataId: Q2476879
-- id: 9498
-  name: Obshtina Karnobat
-  state_id: 4715
+- name: Obshtina Karnobat
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.65000000'
   longitude: '26.98333000'
-  wikiDataId: Q2476853
-- id: 9529
-  name: Obshtina Malko Tarnovo
-  state_id: 4715
+- name: Obshtina Malko Tarnovo
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.08333000'
   longitude: '27.53333000'
-  wikiDataId: Q2606955
-- id: 9538
-  name: Obshtina Nesebar
-  state_id: 4715
+- name: Obshtina Nesebar
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.78333000'
   longitude: '27.73333000'
-  wikiDataId: Q177345
-- id: 9560
-  name: Obshtina Pomorie
-  state_id: 4715
+- name: Obshtina Pomorie
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.73333000'
   longitude: '27.55000000'
-  wikiDataId: Q2447996
-- id: 9564
-  name: Obshtina Primorsko
-  state_id: 4715
+- name: Obshtina Primorsko
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.25000000'
   longitude: '27.63333000'
-  wikiDataId: Q2607288
-- id: 9596
-  name: Obshtina Sozopol
-  state_id: 4715
+- name: Obshtina Sozopol
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.31123000'
   longitude: '27.51733000'
-  wikiDataId: Q2039413
-- id: 9605
-  name: Obshtina Sungurlare
-  state_id: 4715
+- name: Obshtina Sungurlare
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.83333000'
   longitude: '26.83333000'
-  wikiDataId: Q2398979
-- id: 9640
-  name: Obzor
-  state_id: 4715
+- name: Obzor
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.81998000'
   longitude: '27.88007000'
-  wikiDataId: Q406649
-- id: 9658
-  name: Pomorie
-  state_id: 4715
+- name: Pomorie
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.56326000'
   longitude: '27.62986000'
-  wikiDataId: Q407372
-- id: 9662
-  name: Primorsko
-  state_id: 4715
+- name: Primorsko
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.26791000'
   longitude: '27.75611000'
-  wikiDataId: Q405153
-- id: 9668
-  name: Ravda
-  state_id: 4715
+- name: Ravda
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.64185000'
   longitude: '27.67713000'
-  wikiDataId: Q167953
-- id: 9674
-  name: Ruen
-  state_id: 4715
+- name: Ruen
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.80000000'
   longitude: '27.28333000'
-  wikiDataId: Q935493
-- id: 9683
-  name: Sarafovo
-  state_id: 4715
+- name: Sarafovo
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.56079000'
   longitude: '27.52195000'
-  wikiDataId: Q2224290
-- id: 9702
-  name: Sozopol
-  state_id: 4715
+- name: Sozopol
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.41801000'
   longitude: '27.69560000'
-  wikiDataId: Q271925
-- id: 9703
-  name: Sredets
-  state_id: 4715
+- name: Sredets
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.34747000'
   longitude: '27.17898000'
-  wikiDataId: Q405646
-- id: 9713
-  name: Sungurlare
-  state_id: 4715
+- name: Sungurlare
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.76667000'
   longitude: '26.78333000'
-  wikiDataId: Q990310
-- id: 9715
-  name: Sveti Vlas
-  state_id: 4715
+- name: Sveti Vlas
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.71360000'
   longitude: '27.75867000'
-  wikiDataId: Q406657
-- id: 9728
-  name: Tsarevo
-  state_id: 4715
+- name: Tsarevo
   state_code: '02'
   state_name: Burgas
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.16955000'
   longitude: '27.84541000'
-  wikiDataId: Q147938
-- id: 9262
-  name: Balchik
-  state_id: 4718
+- name: Balchik
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.42166000'
   longitude: '28.15848000'
-  wikiDataId: Q329437
-- id: 9310
-  name: Dobrich
-  state_id: 4718
+- name: Dobrich
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.56667000'
   longitude: '27.83333000'
-  wikiDataId: Q168668
-- id: 9330
-  name: General Toshevo
-  state_id: 4718
+- name: General Toshevo
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.70123000'
   longitude: '28.03787000'
-  wikiDataId: Q405390
-- id: 9357
-  name: Kavarna
-  state_id: 4718
+- name: Kavarna
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.43601000'
   longitude: '28.33953000'
-  wikiDataId: Q406227
-- id: 9378
-  name: Krushari
-  state_id: 4718
+- name: Krushari
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.81675000'
   longitude: '27.75552000'
-  wikiDataId: Q2990389
-- id: 9420
-  name: Obshtina Balchik
-  state_id: 4718
+- name: Obshtina Balchik
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.50000000'
   longitude: '28.13333000'
-  wikiDataId: Q2663152
-- id: 9457
-  name: Obshtina Dobrich
-  state_id: 4718
+- name: Obshtina Dobrich
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.57763000'
   longitude: '27.80628000'
-  wikiDataId: Q2220850
-- id: 9458
-  name: Obshtina Dobrich-Selska
-  state_id: 4718
+- name: Obshtina Dobrich-Selska
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.63333000'
   longitude: '27.73333000'
-  wikiDataId: Q2561279
-- id: 9477
-  name: Obshtina General Toshevo
-  state_id: 4718
+- name: Obshtina General Toshevo
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.73333000'
   longitude: '28.08333000'
-  wikiDataId: Q614612
-- id: 9499
-  name: Obshtina Kavarna
-  state_id: 4718
+- name: Obshtina Kavarna
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.50000000'
   longitude: '28.38333000'
-  wikiDataId: Q965588
-- id: 9514
-  name: Obshtina Krushari
-  state_id: 4718
+- name: Obshtina Krushari
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.88333000'
   longitude: '27.75000000'
-  wikiDataId: Q2561255
-- id: 9587
-  name: Obshtina Shabla
-  state_id: 4718
+- name: Obshtina Shabla
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.61667000'
   longitude: '28.51667000'
-  wikiDataId: Q2548849
-- id: 9611
-  name: Obshtina Tervel
-  state_id: 4718
+- name: Obshtina Tervel
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.75000000'
   longitude: '27.40000000'
-  wikiDataId: Q680608
-- id: 9690
-  name: Shabla
-  state_id: 4718
+- name: Shabla
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.53983000'
   longitude: '28.53429000'
-  wikiDataId: Q326312
-- id: 9720
-  name: Tervel
-  state_id: 4718
+- name: Tervel
   state_code: '08'
   state_name: Dobrich
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.74789000'
   longitude: '27.40911000'
-  wikiDataId: Q185114
-- id: 9318
-  name: Dryanovo
-  state_id: 4693
+- name: Dryanovo
   state_code: '07'
   state_name: Gabrovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.97897000'
   longitude: '25.47850000'
-  wikiDataId: Q406050
-- id: 9328
-  name: Gabrovo
-  state_id: 4693
+- name: Gabrovo
   state_code: '07'
   state_name: Gabrovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.87472000'
   longitude: '25.33417000'
-  wikiDataId: Q180131
-- id: 9465
-  name: Obshtina Dryanovo
-  state_id: 4693
+- name: Obshtina Dryanovo
   state_code: '07'
   state_name: Gabrovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.00000000'
   longitude: '25.46667000'
-  wikiDataId: Q2476900
-- id: 9474
-  name: Obshtina Gabrovo
-  state_id: 4693
+- name: Obshtina Gabrovo
   state_code: '07'
   state_name: Gabrovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.90000000'
   longitude: '25.30000000'
-  wikiDataId: Q2652942
-- id: 9586
-  name: Obshtina Sevlievo
-  state_id: 4693
+- name: Obshtina Sevlievo
   state_code: '07'
   state_name: Gabrovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.01667000'
   longitude: '25.10000000'
-  wikiDataId: Q1749330
-- id: 9615
-  name: Obshtina Tryavna
-  state_id: 4693
+- name: Obshtina Tryavna
   state_code: '07'
   state_name: Gabrovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.85000000'
   longitude: '25.55000000'
-  wikiDataId: Q568005
-- id: 9689
-  name: Sevlievo
-  state_id: 4693
+- name: Sevlievo
   state_code: '07'
   state_name: Gabrovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.02583000'
   longitude: '25.11361000'
-  wikiDataId: Q326312
-- id: 9726
-  name: Tryavna
-  state_id: 4693
+- name: Tryavna
   state_code: '07'
   state_name: Gabrovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.86667000'
   longitude: '25.50000000'
-  wikiDataId: Q405136
-- id: 9308
-  name: Dimitrovgrad
-  state_id: 4704
+- name: Dimitrovgrad
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.05000000'
   longitude: '25.60000000'
-  wikiDataId: Q331048
-- id: 9342
-  name: Harmanli
-  state_id: 4704
+- name: Harmanli
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.93333000'
   longitude: '25.90000000'
-  wikiDataId: Q406239
-- id: 9343
-  name: Haskovo
-  state_id: 4704
+- name: Haskovo
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.93415000'
   longitude: '25.55557000'
-  wikiDataId: Q186254
-- id: 9350
-  name: Ivaylovgrad
-  state_id: 4704
+- name: Ivaylovgrad
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.52672000'
   longitude: '26.12490000'
-  wikiDataId: Q407390
-- id: 9392
-  name: Lyubimets
-  state_id: 4704
+- name: Lyubimets
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.83333000'
   longitude: '26.08333000'
-  wikiDataId: Q405367
-- id: 9394
-  name: Madzharovo
-  state_id: 4704
+- name: Madzharovo
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.63461000'
   longitude: '25.86439000'
-  wikiDataId: Q407352
-- id: 9401
-  name: Mineralni Bani
-  state_id: 4704
+- name: Mineralni Bani
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.91667000'
   longitude: '25.35000000'
-  wikiDataId: Q2350241
-- id: 9455
-  name: Obshtina Dimitrovgrad
-  state_id: 4704
+- name: Obshtina Dimitrovgrad
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.05000000'
   longitude: '25.60000000'
-  wikiDataId: Q2606948
-- id: 9486
-  name: Obshtina Harmanli
-  state_id: 4704
+- name: Obshtina Harmanli
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.93333000'
   longitude: '25.98333000'
-  wikiDataId: Q2400127
-- id: 9487
-  name: Obshtina Haskovo
-  state_id: 4704
+- name: Obshtina Haskovo
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.88333000'
   longitude: '25.61667000'
-  wikiDataId: Q2454587
-- id: 9493
-  name: Obshtina Ivaylovgrad
-  state_id: 4704
+- name: Obshtina Ivaylovgrad
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.48333000'
   longitude: '26.00000000'
-  wikiDataId: Q2608264
-- id: 9527
-  name: Obshtina Madzharovo
-  state_id: 4704
+- name: Obshtina Madzharovo
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.68333000'
   longitude: '25.90000000'
-  wikiDataId: Q2399931
-- id: 9532
-  name: Obshtina Mineralni Bani
-  state_id: 4704
+- name: Obshtina Mineralni Bani
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.90000000'
   longitude: '25.33333000'
-  wikiDataId: Q2400676
-- id: 9598
-  name: Obshtina Stambolovo
-  state_id: 4704
+- name: Obshtina Stambolovo
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.73333000'
   longitude: '25.70000000'
-  wikiDataId: Q2400143
-- id: 9607
-  name: Obshtina Svilengrad
-  state_id: 4704
+- name: Obshtina Svilengrad
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.86667000'
   longitude: '26.31667000'
-  wikiDataId: Q2657322
-- id: 9613
-  name: Obshtina Topolovgrad
-  state_id: 4704
+- name: Obshtina Topolovgrad
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.08333000'
   longitude: '26.33333000'
-  wikiDataId: Q2444114
-- id: 9693
-  name: Simeonovgrad
-  state_id: 4704
+- name: Simeonovgrad
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.03333000'
   longitude: '25.83333000'
-  wikiDataId: Q5474197
-- id: 9716
-  name: Svilengrad
-  state_id: 4704
+- name: Svilengrad
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.76667000'
   longitude: '26.20000000'
-  wikiDataId: Q405789
-- id: 9722
-  name: Topolovgrad
-  state_id: 4704
+- name: Topolovgrad
   state_code: '26'
   state_name: Haskovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.08333000'
   longitude: '26.33333000'
-  wikiDataId: Q405440
-- id: 9257
-  name: Ardino
-  state_id: 4702
+- name: Ardino
   state_code: '09'
   state_name: Kardzhali
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.58333000'
   longitude: '25.13333000'
-  wikiDataId: Q407347
-- id: 9323
-  name: Dzhebel
-  state_id: 4702
+- name: Dzhebel
   state_code: '09'
   state_name: Kardzhali
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.49566000'
   longitude: '25.30363000'
-  wikiDataId: Q405778
-- id: 9354
-  name: Kardzhali
-  state_id: 4702
+- name: Kardzhali
   state_code: '09'
   state_name: Kardzhali
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.65000000'
   longitude: '25.36667000'
-  wikiDataId: Q192875
-- id: 9362
-  name: Kirkovo
-  state_id: 4702
+- name: Kirkovo
   state_code: '09'
   state_name: Kardzhali
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.32715000'
   longitude: '25.36379000'
-  wikiDataId: Q1743521
-- id: 9377
-  name: Krumovgrad
-  state_id: 4702
+- name: Krumovgrad
   state_code: '09'
   state_name: Kardzhali
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.47127000'
   longitude: '25.65485000'
-  wikiDataId: Q406057
-- id: 9416
-  name: Obshtina Ardino
-  state_id: 4702
+- name: Obshtina Ardino
   state_code: '09'
   state_name: Kardzhali
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.60000000'
   longitude: '25.15000000'
-  wikiDataId: Q3621889
-- id: 9448
-  name: Obshtina Chernoochene
-  state_id: 4702
+- name: Obshtina Chernoochene
   state_code: '09'
   state_name: Kardzhali
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.78333000'
   longitude: '25.25000000'
-  wikiDataId: Q929927
-- id: 9469
-  name: Obshtina Dzhebel
-  state_id: 4702
+- name: Obshtina Dzhebel
   state_code: '09'
   state_name: Kardzhali
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.50000000'
   longitude: '25.26667000'
-  wikiDataId: Q1748256
-- id: 9496
-  name: Obshtina Kardzhali
-  state_id: 4702
+- name: Obshtina Kardzhali
   state_code: '09'
   state_name: Kardzhali
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.68333000'
   longitude: '25.43333000'
-  wikiDataId: Q2452987
-- id: 9502
-  name: Obshtina Kirkovo
-  state_id: 4702
+- name: Obshtina Kirkovo
   state_code: '09'
   state_name: Kardzhali
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.35816000'
   longitude: '25.33731000'
-  wikiDataId: Q2619800
-- id: 9535
-  name: Obshtina Momchilgrad
-  state_id: 4702
+- name: Obshtina Momchilgrad
   state_code: '09'
   state_name: Kardzhali
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.53333000'
   longitude: '25.50000000'
-  wikiDataId: Q2401727
-- id: 9276
-  name: Boboshevo
-  state_id: 4703
+- name: Boboshevo
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.15296000'
   longitude: '23.00146000'
-  wikiDataId: Q405726
-- id: 9277
-  name: Bobov Dol
-  state_id: 4703
+- name: Bobov Dol
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.36256000'
   longitude: '23.00324000'
-  wikiDataId: Q405175
-- id: 9321
-  name: Dupnitsa
-  state_id: 4703
+- name: Dupnitsa
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.26667000'
   longitude: '23.11667000'
-  wikiDataId: Q405279
-- id: 9367
-  name: Kocherinovo
-  state_id: 4703
+- name: Kocherinovo
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.08439000'
   longitude: '23.05710000'
-  wikiDataId: Q407307
-- id: 9381
-  name: Kyustendil
-  state_id: 4703
+- name: Kyustendil
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.28389000'
   longitude: '22.69111000'
-  wikiDataId: Q189305
-- id: 9407
-  name: Nevestino
-  state_id: 4703
+- name: Nevestino
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.25551000'
   longitude: '22.85175000'
-  wikiDataId: Q2994062
-- id: 9430
-  name: Obshtina Boboshevo
-  state_id: 4703
+- name: Obshtina Boboshevo
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.18333000'
   longitude: '23.02731000'
-  wikiDataId: Q2401745
-- id: 9431
-  name: Obshtina Bobov Dol
-  state_id: 4703
+- name: Obshtina Bobov Dol
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.31667000'
   longitude: '22.98333000'
-  wikiDataId: Q2401761
-- id: 9467
-  name: Obshtina Dupnitsa
-  state_id: 4703
+- name: Obshtina Dupnitsa
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.28333000'
   longitude: '23.15000000'
-  wikiDataId: Q2401780
-- id: 9504
-  name: Obshtina Kocherinovo
-  state_id: 4703
+- name: Obshtina Kocherinovo
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.09909000'
   longitude: '23.02942000'
-  wikiDataId: Q944028
-- id: 9518
-  name: Obshtina Kyustendil
-  state_id: 4703
+- name: Obshtina Kyustendil
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.28333000'
   longitude: '22.68333000'
-  wikiDataId: Q1003231
-- id: 9539
-  name: Obshtina Nevestino
-  state_id: 4703
+- name: Obshtina Nevestino
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.16667000'
   longitude: '22.83333000'
-  wikiDataId: Q2401796
-- id: 9572
-  name: Obshtina Rila
-  state_id: 4703
+- name: Obshtina Rila
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.15000000'
   longitude: '23.31667000'
-  wikiDataId: Q2403120
-- id: 9583
-  name: Obshtina Sapareva Banya
-  state_id: 4703
+- name: Obshtina Sapareva Banya
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.28333000'
   longitude: '23.31667000'
-  wikiDataId: Q543012
-- id: 9614
-  name: Obshtina Treklyano
-  state_id: 4703
+- name: Obshtina Treklyano
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.55000000'
   longitude: '22.60000000'
-  wikiDataId: Q2994074
-- id: 9671
-  name: Rila
-  state_id: 4703
+- name: Rila
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.13333000'
   longitude: '23.13333000'
-  wikiDataId: Q406517
-- id: 9682
-  name: Sapareva Banya
-  state_id: 4703
+- name: Sapareva Banya
   state_code: '10'
   state_name: Kyustendil
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.28333000'
   longitude: '23.26667000'
-  wikiDataId: Q405166
-- id: 9256
-  name: Apriltsi
-  state_id: 4710
+- name: Apriltsi
   state_code: '11'
   state_name: Lovech
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.84142000'
   longitude: '24.91759000'
-  wikiDataId: Q405223
-- id: 9385
-  name: Letnitsa
-  state_id: 4710
+- name: Letnitsa
   state_code: '11'
   state_name: Lovech
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.31167000'
   longitude: '25.07333000'
-  wikiDataId: Q405774
-- id: 9388
-  name: Lovech
-  state_id: 4710
+- name: Lovech
   state_code: '11'
   state_name: Lovech
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.13333000'
   longitude: '24.71667000'
-  wikiDataId: Q189328
-- id: 9390
-  name: Lukovit
-  state_id: 4710
+- name: Lukovit
   state_code: '11'
   state_name: Lovech
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.20000000'
   longitude: '24.16667000'
-  wikiDataId: Q405585
-- id: 9523
-  name: Obshtina Lovech
-  state_id: 4710
+- name: Obshtina Lovech
   state_code: '11'
   state_name: Lovech
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.16667000'
   longitude: '24.80000000'
-  wikiDataId: Q2596788
-- id: 9612
-  name: Obshtina Teteven
-  state_id: 4710
+- name: Obshtina Teteven
   state_code: '11'
   state_name: Lovech
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.91667000'
   longitude: '24.26667000'
-  wikiDataId: Q2652918
-- id: 9621
-  name: Obshtina Ugarchin
-  state_id: 4710
+- name: Obshtina Ugarchin
   state_code: '11'
   state_name: Lovech
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.10000000'
   longitude: '24.41667000'
-  wikiDataId: Q2561155
-- id: 9721
-  name: Teteven
-  state_id: 4710
+- name: Teteven
   state_code: '11'
   state_name: Lovech
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.91667000'
   longitude: '24.26667000'
-  wikiDataId: Q185114
-- id: 9725
-  name: Troyan
-  state_id: 4710
+- name: Troyan
   state_code: '11'
   state_name: Lovech
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.89427000'
   longitude: '24.71589000'
-  wikiDataId: Q851855
-- id: 9732
-  name: Ugarchin
-  state_id: 4710
+- name: Ugarchin
   state_code: '11'
   state_name: Lovech
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.10000000'
   longitude: '24.41667000'
-  wikiDataId: Q405567
-- id: 9743
-  name: Yablanitsa
-  state_id: 4710
+- name: Yablanitsa
   state_code: '11'
   state_name: Lovech
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.03139000'
   longitude: '24.11278000'
-  wikiDataId: Q405874
-- id: 9274
-  name: Berkovitsa
-  state_id: 4696
+- name: Berkovitsa
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.23581000'
   longitude: '23.12738000'
-  wikiDataId: Q407314
-- id: 9283
-  name: Boychinovtsi
-  state_id: 4696
+- name: Boychinovtsi
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.47222000'
   longitude: '23.33583000'
-  wikiDataId: Q405184
-- id: 9290
-  name: Brusartsi
-  state_id: 4696
+- name: Brusartsi
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.66075000'
   longitude: '23.06732000'
-  wikiDataId: Q405868
-- id: 9301
-  name: Chiprovtsi
-  state_id: 4696
+- name: Chiprovtsi
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.38417000'
   longitude: '22.88083000'
-  wikiDataId: Q405361
-- id: 9387
-  name: Lom
-  state_id: 4696
+- name: Lom
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.82106000'
   longitude: '23.23677000'
-  wikiDataId: Q237254
-- id: 9398
-  name: Medkovets
-  state_id: 4696
+- name: Medkovets
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.62403000'
   longitude: '23.16876000'
-  wikiDataId: Q2994103
-- id: 9404
-  name: Montana
-  state_id: 4696
+- name: Montana
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.41250000'
   longitude: '23.22500000'
-  wikiDataId: Q220121
-- id: 9437
-  name: Obshtina Boychinovtsi
-  state_id: 4696
+- name: Obshtina Boychinovtsi
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.53333000'
   longitude: '23.43333000'
-  wikiDataId: Q2719430
-- id: 9450
-  name: Obshtina Chiprovtsi
-  state_id: 4696
+- name: Obshtina Chiprovtsi
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.41667000'
   longitude: '22.90000000'
-  wikiDataId: Q2545392
-- id: 9478
-  name: Obshtina Georgi Damyanovo
-  state_id: 4696
+- name: Obshtina Georgi Damyanovo
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.35000000'
   longitude: '23.00000000'
-  wikiDataId: Q2548560
-- id: 9522
-  name: Obshtina Lom
-  state_id: 4696
+- name: Obshtina Lom
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.81667000'
   longitude: '23.23333000'
-  wikiDataId: Q288100
-- id: 9536
-  name: Obshtina Montana
-  state_id: 4696
+- name: Obshtina Montana
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.46667000'
   longitude: '23.20000000'
-  wikiDataId: Q2016122
-- id: 9622
-  name: Obshtina Valchedram
-  state_id: 4696
+- name: Obshtina Valchedram
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.71667000'
   longitude: '23.51667000'
-  wikiDataId: Q1032683
-- id: 9625
-  name: Obshtina Varshets
-  state_id: 4696
+- name: Obshtina Varshets
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.21667000'
   longitude: '23.33333000'
-  wikiDataId: Q2608803
-- id: 9632
-  name: Obshtina Yakimovo
-  state_id: 4696
+- name: Obshtina Yakimovo
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.63333000'
   longitude: '23.33333000'
-  wikiDataId: Q2609055
-- id: 9733
-  name: Valchedram
-  state_id: 4696
+- name: Valchedram
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.69281000'
   longitude: '23.44518000'
-  wikiDataId: Q405620
-- id: 9736
-  name: Varshets
-  state_id: 4696
+- name: Varshets
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.19356000'
   longitude: '23.28680000'
-  wikiDataId: Q404958
-- id: 9744
-  name: Yakimovo
-  state_id: 4696
+- name: Yakimovo
   state_code: '12'
   state_name: Montana
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.63472000'
   longitude: '23.35350000'
-  wikiDataId: Q2994055
-- id: 9267
-  name: Batak
-  state_id: 4712
+- name: Batak
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.94225000'
   longitude: '24.21843000'
-  wikiDataId: Q1756874
-- id: 9273
-  name: Belovo
-  state_id: 4712
+- name: Belovo
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.21239000'
   longitude: '24.02081000'
-  wikiDataId: Q407705
-- id: 9286
-  name: Bratsigovo
-  state_id: 4712
+- name: Bratsigovo
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.01667000'
   longitude: '24.36667000'
-  wikiDataId: Q405842
-- id: 9384
-  name: Lesichovo
-  state_id: 4712
+- name: Lesichovo
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.35626000'
   longitude: '24.11190000'
-  wikiDataId: Q2597240
-- id: 9423
-  name: Obshtina Batak
-  state_id: 4712
+- name: Obshtina Batak
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.86667000'
   longitude: '24.21667000'
-  wikiDataId: Q8019066
-- id: 9428
-  name: Obshtina Belovo
-  state_id: 4712
+- name: Obshtina Belovo
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.20000000'
   longitude: '23.93333000'
-  wikiDataId: Q2254259
-- id: 9440
-  name: Obshtina Bratsigovo
-  state_id: 4712
+- name: Obshtina Bratsigovo
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.00000000'
   longitude: '24.40000000'
-  wikiDataId: Q2403879
-- id: 9520
-  name: Obshtina Lesichovo
-  state_id: 4712
+- name: Obshtina Lesichovo
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.36667000'
   longitude: '24.15000000'
-  wikiDataId: Q1749195
-- id: 9547
-  name: Obshtina Panagyurishte
-  state_id: 4712
+- name: Obshtina Panagyurishte
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.50000000'
   longitude: '24.16667000'
-  wikiDataId: Q2628864
-- id: 9551
-  name: Obshtina Pazardzhik
-  state_id: 4712
+- name: Obshtina Pazardzhik
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.20000000'
   longitude: '24.33333000'
-  wikiDataId: Q764056
-- id: 9554
-  name: Obshtina Peshtera
-  state_id: 4712
+- name: Obshtina Peshtera
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.03333000'
   longitude: '24.30000000'
-  wikiDataId: Q1749334
-- id: 9568
-  name: Obshtina Rakitovo
-  state_id: 4712
+- name: Obshtina Rakitovo
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.99965000'
   longitude: '24.10877000'
-  wikiDataId: Q1749198
-- id: 9585
-  name: Obshtina Septemvri
-  state_id: 4712
+- name: Obshtina Septemvri
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.26667000'
   longitude: '24.13333000'
-  wikiDataId: Q1749330
-- id: 9602
-  name: Obshtina Strelcha
-  state_id: 4712
+- name: Obshtina Strelcha
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.46667000'
   longitude: '24.36667000'
-  wikiDataId: Q1749338
-- id: 9627
-  name: Obshtina Velingrad
-  state_id: 4712
+- name: Obshtina Velingrad
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.96667000'
   longitude: '23.93333000'
-  wikiDataId: Q655383
-- id: 9644
-  name: Panagyurishte
-  state_id: 4712
+- name: Panagyurishte
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.49518000'
   longitude: '24.19021000'
-  wikiDataId: Q406222
-- id: 9649
-  name: Pazardzhik
-  state_id: 4712
+- name: Pazardzhik
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.20000000'
   longitude: '24.33333000'
-  wikiDataId: Q186576
-- id: 9652
-  name: Peshtera
-  state_id: 4712
+- name: Peshtera
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.03372000'
   longitude: '24.29995000'
-  wikiDataId: Q407570
-- id: 9666
-  name: Rakitovo
-  state_id: 4712
+- name: Rakitovo
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.99012000'
   longitude: '24.08730000'
-  wikiDataId: Q405554
-- id: 9684
-  name: Sarnitsa
-  state_id: 4712
+- name: Sarnitsa
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.73835000'
   longitude: '24.02435000'
-  wikiDataId: Q405972
-- id: 9685
-  name: Sarnitsa Obshtina
-  state_id: 4712
+- name: Sarnitsa Obshtina
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.73333000'
   longitude: '24.03333000'
-  wikiDataId: Q405972
-- id: 9688
-  name: Septemvri
-  state_id: 4712
+- name: Septemvri
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.21138000'
   longitude: '24.12946000'
-  wikiDataId: Q406523
-- id: 9710
-  name: Strelcha
-  state_id: 4712
+- name: Strelcha
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.50000000'
   longitude: '24.31667000'
-  wikiDataId: Q405507
-- id: 9738
-  name: Velingrad
-  state_id: 4712
+- name: Velingrad
   state_code: '13'
   state_name: Pazardzhik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.02754000'
   longitude: '23.99155000'
-  wikiDataId: Q405114
-- id: 9268
-  name: Batanovtsi
-  state_id: 4695
+- name: Batanovtsi
   state_code: '14'
   state_name: Pernik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.59692000'
   longitude: '22.95634000'
-  wikiDataId: Q407198
-- id: 9288
-  name: Breznik
-  state_id: 4695
+- name: Breznik
   state_code: '14'
   state_name: Pernik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.74085000'
   longitude: '22.90723000'
-  wikiDataId: Q390361
-- id: 9509
-  name: Obshtina Kovachevtsi
-  state_id: 4695
+- name: Obshtina Kovachevtsi
   state_code: '14'
   state_name: Pernik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.55000000'
   longitude: '22.83333000'
-  wikiDataId: Q2405644
-- id: 9552
-  name: Obshtina Pernik
-  state_id: 4695
+- name: Obshtina Pernik
   state_code: '14'
   state_name: Pernik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.61667000'
   longitude: '23.08333000'
-  wikiDataId: Q4351615
-- id: 9567
-  name: Obshtina Radomir
-  state_id: 4695
+- name: Obshtina Radomir
   state_code: '14'
   state_name: Pernik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.46667000'
   longitude: '23.01667000'
-  wikiDataId: Q1749664
-- id: 9636
-  name: Obshtina Zemen
-  state_id: 4695
+- name: Obshtina Zemen
   state_code: '14'
   state_name: Pernik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.55067000'
   longitude: '22.71440000'
-  wikiDataId: Q4191007
-- id: 9650
-  name: Pernik
-  state_id: 4695
+- name: Pernik
   state_code: '14'
   state_name: Pernik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.60000000'
   longitude: '23.03333000'
-  wikiDataId: Q185289
-- id: 9665
-  name: Radomir
-  state_id: 4695
+- name: Radomir
   state_code: '14'
   state_name: Pernik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.54565000'
   longitude: '22.96553000'
-  wikiDataId: Q405742
-- id: 9724
-  name: Tran
-  state_id: 4695
+- name: Tran
   state_code: '14'
   state_name: Pernik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.83528000'
   longitude: '22.65167000'
-  wikiDataId: Q406863
-- id: 9748
-  name: Zemen
-  state_id: 4695
+- name: Zemen
   state_code: '14'
   state_name: Pernik
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.47889000'
   longitude: '22.74917000'
-  wikiDataId: Q405329
-- id: 9269
-  name: Belene
-  state_id: 4706
+- name: Belene
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.64594000'
   longitude: '25.12627000'
-  wikiDataId: Q407198
-- id: 9300
-  name: Cherven Bryag
-  state_id: 4706
+- name: Cherven Bryag
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.26667000'
   longitude: '24.10000000'
-  wikiDataId: Q407330
-- id: 9312
-  name: Dolna Mitropolia
-  state_id: 4706
+- name: Dolna Mitropolia
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.46667000'
   longitude: '24.53333000'
-  wikiDataId: Q405829
-- id: 9314
-  name: Dolni Dabnik
-  state_id: 4706
+- name: Dolni Dabnik
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.40000000'
   longitude: '24.43333000'
-  wikiDataId: Q407302
-- id: 9337
-  name: Gulyantsi
-  state_id: 4706
+- name: Gulyantsi
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.64109000'
   longitude: '24.69368000'
-  wikiDataId: Q457141
-- id: 9347
-  name: Iskar
-  state_id: 4706
+- name: Iskar
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.45000000'
   longitude: '24.26667000'
-  wikiDataId: Q405712
-- id: 9366
-  name: Knezha
-  state_id: 4706
+- name: Knezha
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.50000000'
   longitude: '24.08333000'
-  wikiDataId: Q405731
-- id: 9372
-  name: Koynare
-  state_id: 4706
+- name: Koynare
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.35000000'
   longitude: '24.13333000'
-  wikiDataId: Q406343
-- id: 9386
-  name: Levski
-  state_id: 4706
+- name: Levski
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.36667000'
   longitude: '25.13333000'
-  wikiDataId: Q405610
-- id: 9409
-  name: Nikopol
-  state_id: 4706
+- name: Nikopol
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.70528000'
   longitude: '24.89521000'
-  wikiDataId: Q409102
-- id: 9424
-  name: Obshtina Belene
-  state_id: 4706
+- name: Obshtina Belene
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.63333000'
   longitude: '25.13333000'
-  wikiDataId: Q2657351
-- id: 9449
-  name: Obshtina Cherven Bryag
-  state_id: 4706
+- name: Obshtina Cherven Bryag
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.33333000'
   longitude: '24.13333000'
-  wikiDataId: Q2560800
-- id: 9460
-  name: Obshtina Dolna Mitropolia
-  state_id: 4706
+- name: Obshtina Dolna Mitropolia
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.58333000'
   longitude: '24.41667000'
-  wikiDataId: Q2721258
-- id: 9462
-  name: Obshtina Dolni Dabnik
-  state_id: 4706
+- name: Obshtina Dolni Dabnik
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.36667000'
   longitude: '24.41667000'
-  wikiDataId: Q2561191
-- id: 9484
-  name: Obshtina Gulyantsi
-  state_id: 4706
+- name: Obshtina Gulyantsi
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.68333000'
   longitude: '24.65000000'
-  wikiDataId: Q2721295
-- id: 9490
-  name: Obshtina Iskar
-  state_id: 4706
+- name: Obshtina Iskar
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.50000000'
   longitude: '24.28333000'
-  wikiDataId: Q2721004
-- id: 9503
-  name: Obshtina Knezha
-  state_id: 4706
+- name: Obshtina Knezha
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.50000000'
   longitude: '24.11667000'
-  wikiDataId: Q2721276
-- id: 9521
-  name: Obshtina Levski
-  state_id: 4706
+- name: Obshtina Levski
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.43333000'
   longitude: '25.10000000'
-  wikiDataId: Q2561243
-- id: 9541
-  name: Obshtina Nikopol
-  state_id: 4706
+- name: Obshtina Nikopol
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.60000000'
   longitude: '24.93333000'
-  wikiDataId: Q596766
-- id: 9557
-  name: Obshtina Pleven
-  state_id: 4706
+- name: Obshtina Pleven
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.40000000'
   longitude: '24.70000000'
-  wikiDataId: Q2407089
-- id: 9562
-  name: Obshtina Pordim
-  state_id: 4706
+- name: Obshtina Pordim
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.38333000'
   longitude: '24.90000000'
-  wikiDataId: Q2721267
-- id: 9655
-  name: Pleven
-  state_id: 4706
+- name: Pleven
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.41667000'
   longitude: '24.61667000'
-  wikiDataId: Q165420
-- id: 9660
-  name: Pordim
-  state_id: 4706
+- name: Pordim
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.38333000'
   longitude: '24.85000000'
-  wikiDataId: Q405579
-- id: 9696
-  name: Slavyanovo
-  state_id: 4706
+- name: Slavyanovo
   state_code: '15'
   state_name: Pleven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.46667000'
   longitude: '24.86667000'
-  wikiDataId: Q405978
-- id: 9259
-  name: Asenovgrad
-  state_id: 4701
+- name: Asenovgrad
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.01667000'
   longitude: '24.86667000'
-  wikiDataId: Q191871
-- id: 9289
-  name: Brezovo
-  state_id: 4701
+- name: Brezovo
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.35000000'
   longitude: '25.08333000'
-  wikiDataId: Q405203
-- id: 9345
-  name: Hisarya
-  state_id: 4701
+- name: Hisarya
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.50000000'
   longitude: '24.70000000'
-  wikiDataId: Q239989
-- id: 9351
-  name: Kalofer
-  state_id: 4701
+- name: Kalofer
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.61667000'
   longitude: '24.98333000'
-  wikiDataId: Q405351
-- id: 9352
-  name: Kaloyanovo
-  state_id: 4701
+- name: Kaloyanovo
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.35000000'
   longitude: '24.73333000'
-  wikiDataId: Q405351
-- id: 9355
-  name: Karlovo
-  state_id: 4701
+- name: Karlovo
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.63333000'
   longitude: '24.80000000'
-  wikiDataId: Q316841
-- id: 9365
-  name: Klisura
-  state_id: 4701
+- name: Klisura
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.70000000'
   longitude: '24.45000000'
-  wikiDataId: Q405893
-- id: 9375
-  name: Krichim
-  state_id: 4701
+- name: Krichim
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.05000000'
   longitude: '24.46667000'
-  wikiDataId: Q406822
-- id: 9383
-  name: Laki
-  state_id: 4701
+- name: Laki
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.85000000'
   longitude: '24.81667000'
-  wikiDataId: Q405602
-- id: 9417
-  name: Obshtina Asenovgrad
-  state_id: 4701
+- name: Obshtina Asenovgrad
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.95000000'
   longitude: '24.96667000'
-  wikiDataId: Q191871
-- id: 9489
-  name: Obshtina Hisarya
-  state_id: 4701
+- name: Obshtina Hisarya
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.50000000'
   longitude: '24.60000000'
-  wikiDataId: Q1750679
-- id: 9494
-  name: Obshtina Kaloyanovo
-  state_id: 4701
+- name: Obshtina Kaloyanovo
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.38333000'
   longitude: '24.81667000'
-  wikiDataId: Q2561213
-- id: 9497
-  name: Obshtina Karlovo
-  state_id: 4701
+- name: Obshtina Karlovo
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.68333000'
   longitude: '24.66667000'
-  wikiDataId: Q2015223
-- id: 9512
-  name: Obshtina Krichim
-  state_id: 4701
+- name: Obshtina Krichim
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.00439000'
   longitude: '24.47235000'
-  wikiDataId: Q2662531
-- id: 9516
-  name: Obshtina Kuklen
-  state_id: 4701
+- name: Obshtina Kuklen
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.03725000'
   longitude: '24.77949000'
-  wikiDataId: Q1750685
-- id: 9519
-  name: Obshtina Laki
-  state_id: 4701
+- name: Obshtina Laki
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.81667000'
   longitude: '24.85000000'
-  wikiDataId: Q2408601
-- id: 9530
-  name: Obshtina Maritsa
-  state_id: 4701
+- name: Obshtina Maritsa
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.23333000'
   longitude: '24.80000000'
-  wikiDataId: Q162565
-- id: 9548
-  name: Obshtina Parvomay
-  state_id: 4701
+- name: Obshtina Parvomay
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.03333000'
   longitude: '25.20000000'
-  wikiDataId: Q2721288
-- id: 9553
-  name: Obshtina Perushtitsa
-  state_id: 4701
+- name: Obshtina Perushtitsa
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.06667000'
   longitude: '24.55000000'
-  wikiDataId: Q15101506
-- id: 9558
-  name: Obshtina Plovdiv
-  state_id: 4701
+- name: Obshtina Plovdiv
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.15000000'
   longitude: '24.75000000'
-  wikiDataId: Q4365146
-- id: 9569
-  name: Obshtina Rakovski
-  state_id: 4701
+- name: Obshtina Rakovski
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.26667000'
   longitude: '24.98333000'
-  wikiDataId: Q1750681
-- id: 9573
-  name: Obshtina Rodopi
-  state_id: 4701
+- name: Obshtina Rodopi
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.03333000'
   longitude: '24.68333000'
-  wikiDataId: Q1500386
-- id: 9578
-  name: Obshtina Sadovo
-  state_id: 4701
+- name: Obshtina Sadovo
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.13333000'
   longitude: '25.00000000'
-  wikiDataId: Q2408574
-- id: 9579
-  name: Obshtina Saedinenie
-  state_id: 4701
+- name: Obshtina Saedinenie
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.31667000'
   longitude: '24.58333000'
-  wikiDataId: Q523537
-- id: 9595
-  name: Obshtina Sopot
-  state_id: 4701
+- name: Obshtina Sopot
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.65214000'
   longitude: '24.74310000'
-  wikiDataId: Q2219349
-- id: 9597
-  name: Obshtina Stamboliyski
-  state_id: 4701
+- name: Obshtina Stamboliyski
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.11667000'
   longitude: '24.51667000'
-  wikiDataId: Q1750926
-- id: 9645
-  name: Parvomay
-  state_id: 4701
+- name: Parvomay
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.10000000'
   longitude: '25.21667000'
-  wikiDataId: Q406222
-- id: 9651
-  name: Perushtitsa
-  state_id: 4701
+- name: Perushtitsa
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.05000000'
   longitude: '24.55000000'
-  wikiDataId: Q407483
-- id: 9656
-  name: Plovdiv
-  state_id: 4701
+- name: Plovdiv
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.15000000'
   longitude: '24.75000000'
-  wikiDataId: Q459
-- id: 9667
-  name: Rakovski
-  state_id: 4701
+- name: Rakovski
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.27408000'
   longitude: '24.94083000'
-  wikiDataId: Q167953
-- id: 9677
-  name: Sadovo
-  state_id: 4701
+- name: Sadovo
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.13178000'
   longitude: '24.93999000'
-  wikiDataId: Q405215
-- id: 9678
-  name: Saedinenie
-  state_id: 4701
+- name: Saedinenie
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.26667000'
   longitude: '24.55000000'
-  wikiDataId: Q405965
-- id: 9704
-  name: Stamboliyski
-  state_id: 4701
+- name: Stamboliyski
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.13333000'
   longitude: '24.53333000'
-  wikiDataId: Q405708
-- id: 9723
-  name: Topolovo
-  state_id: 4701
+- name: Topolovo
   state_code: '16'
   state_name: Plovdiv
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.90000000'
   longitude: '25.00000000'
-  wikiDataId: Q405440
-- id: 9348
-  name: Isperih
-  state_id: 4698
+- name: Isperih
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.71667000'
   longitude: '26.83333000'
-  wikiDataId: Q405797
-- id: 9379
-  name: Kubrat
-  state_id: 4698
+- name: Kubrat
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.79658000'
   longitude: '26.50063000'
-  wikiDataId: Q406545
-- id: 9389
-  name: Loznitsa
-  state_id: 4698
+- name: Loznitsa
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.36667000'
   longitude: '26.60000000'
-  wikiDataId: Q405880
-- id: 9399
-  name: Medovene
-  state_id: 4698
+- name: Medovene
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.76667000'
   longitude: '26.51667000'
-  wikiDataId: Q2018323
-- id: 9491
-  name: Obshtina Isperih
-  state_id: 4698
+- name: Obshtina Isperih
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.71667000'
   longitude: '26.83333000'
-  wikiDataId: Q2220241
-- id: 9515
-  name: Obshtina Kubrat
-  state_id: 4698
+- name: Obshtina Kubrat
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.86667000'
   longitude: '26.48333000'
-  wikiDataId: Q406545
-- id: 9524
-  name: Obshtina Loznitsa
-  state_id: 4698
+- name: Obshtina Loznitsa
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.41667000'
   longitude: '26.58333000'
-  wikiDataId: Q2717061
-- id: 9570
-  name: Obshtina Razgrad
-  state_id: 4698
+- name: Obshtina Razgrad
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.53333000'
   longitude: '26.51667000'
-  wikiDataId: Q2609683
-- id: 9581
-  name: Obshtina Samuil
-  state_id: 4698
+- name: Obshtina Samuil
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.60000000'
   longitude: '26.80000000'
-  wikiDataId: Q2011302
-- id: 9616
-  name: Obshtina Tsar Kaloyan
-  state_id: 4698
+- name: Obshtina Tsar Kaloyan
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.60000000'
   longitude: '26.21667000'
-  wikiDataId: Q2609383
-- id: 9635
-  name: Obshtina Zavet
-  state_id: 4698
+- name: Obshtina Zavet
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.76667000'
   longitude: '26.68333000'
-  wikiDataId: Q2716740
-- id: 9669
-  name: Razgrad
-  state_id: 4698
+- name: Razgrad
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.53333000'
   longitude: '26.51667000'
-  wikiDataId: Q189650
-- id: 9680
-  name: Samuil
-  state_id: 4698
+- name: Samuil
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.51667000'
   longitude: '26.75000000'
-  wikiDataId: Q388070
-- id: 9727
-  name: Tsar Kaloyan
-  state_id: 4698
+- name: Tsar Kaloyan
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.61667000'
   longitude: '26.25000000'
-  wikiDataId: Q407121
-- id: 9747
-  name: Zavet
-  state_id: 4698
+- name: Zavet
   state_code: '17'
   state_name: Razgrad
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.76036000'
   longitude: '26.68063000'
-  wikiDataId: Q2995730
-- id: 9281
-  name: Borovo
-  state_id: 4713
+- name: Borovo
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.50086000'
   longitude: '25.80992000'
-  wikiDataId: Q405846
-- id: 9322
-  name: Dve Mogili
-  state_id: 4713
+- name: Dve Mogili
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.59258000'
   longitude: '25.87486000'
-  wikiDataId: Q407228
-- id: 9349
-  name: Ivanovo
-  state_id: 4713
+- name: Ivanovo
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.68568000'
   longitude: '25.95565000'
-  wikiDataId: Q935789
-- id: 9435
-  name: Obshtina Borovo
-  state_id: 4713
+- name: Obshtina Borovo
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.60000000'
   longitude: '25.80000000'
-  wikiDataId: Q2652921
-- id: 9443
-  name: Obshtina Byala
-  state_id: 4713
+- name: Obshtina Byala
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.41667000'
   longitude: '25.83333000'
-  wikiDataId: Q132395
-- id: 9468
-  name: Obshtina Dve Mogili
-  state_id: 4713
+- name: Obshtina Dve Mogili
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.51667000'
   longitude: '25.96667000'
-  wikiDataId: Q2721034
-- id: 9492
-  name: Obshtina Ivanovo
-  state_id: 4713
+- name: Obshtina Ivanovo
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.70000000'
   longitude: '25.98333000'
-  wikiDataId: Q2721303
-- id: 9576
-  name: Obshtina Ruse
-  state_id: 4713
+- name: Obshtina Ruse
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.85000000'
   longitude: '26.08333000'
-  wikiDataId: Q2652929
-- id: 9593
-  name: Obshtina Slivo Pole
-  state_id: 4713
+- name: Obshtina Slivo Pole
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.96667000'
   longitude: '26.30000000'
-  wikiDataId: Q2609442
-- id: 9617
-  name: Obshtina Tsenovo
-  state_id: 4713
+- name: Obshtina Tsenovo
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.58333000'
   longitude: '25.61667000'
-  wikiDataId: Q2609662
-- id: 9628
-  name: Obshtina Vetovo
-  state_id: 4713
+- name: Obshtina Vetovo
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.71667000'
   longitude: '26.33333000'
-  wikiDataId: Q2716767
-- id: 9675
-  name: Ruse
-  state_id: 4713
+- name: Ruse
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.84872000'
   longitude: '25.95340000'
-  wikiDataId: Q160173
-- id: 9687
-  name: Senovo
-  state_id: 4713
+- name: Senovo
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.65000000'
   longitude: '26.36667000'
-  wikiDataId: Q404734
-- id: 9699
-  name: Slivo Pole
-  state_id: 4713
+- name: Slivo Pole
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.94248000'
   longitude: '26.20464000'
-  wikiDataId: Q406747
-- id: 9729
-  name: Tsenovo
-  state_id: 4713
+- name: Tsenovo
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.53588000'
   longitude: '25.65764000'
-  wikiDataId: Q147938
-- id: 9739
-  name: Vetovo
-  state_id: 4713
+- name: Vetovo
   state_code: '18'
   state_name: Ruse
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.70000000'
   longitude: '26.26667000'
-  wikiDataId: Q405114
-- id: 146184
-  name: Shumen
-  state_id: 4882
+- name: Shumen
   state_code: '27'
   state_name: Shumen
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.28333300'
   longitude: '26.93333300'
-  wikiDataId: Q181830
-- id: 9253
-  name: Alfatar
-  state_id: 4708
+- name: Alfatar
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.94525000'
   longitude: '27.28751000'
-  wikiDataId: Q407325
-- id: 9319
-  name: Dulovo
-  state_id: 4708
+- name: Dulovo
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.81667000'
   longitude: '27.15000000'
-  wikiDataId: Q407319
-- id: 9331
-  name: Glavinitsa
-  state_id: 4708
+- name: Glavinitsa
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.91667000'
   longitude: '26.83333000'
-  wikiDataId: Q405390
-- id: 9358
-  name: Kaynardzha
-  state_id: 4708
+- name: Kaynardzha
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.99278000'
   longitude: '27.50713000'
-  wikiDataId: Q2346358
-- id: 9413
-  name: Obshtina Alfatar
-  state_id: 4708
+- name: Obshtina Alfatar
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.90000000'
   longitude: '27.33333000'
-  wikiDataId: Q587507
-- id: 9466
-  name: Obshtina Dulovo
-  state_id: 4708
+- name: Obshtina Dulovo
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.81667000'
   longitude: '27.08333000'
-  wikiDataId: Q2387177
-- id: 9479
-  name: Obshtina Glavinitsa
-  state_id: 4708
+- name: Obshtina Glavinitsa
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.95000000'
   longitude: '26.85000000'
-  wikiDataId: Q303082
-- id: 9500
-  name: Obshtina Kaynardzha
-  state_id: 4708
+- name: Obshtina Kaynardzha
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.95000000'
   longitude: '27.53333000'
-  wikiDataId: Q921737
-- id: 9588
-  name: Obshtina Silistra
-  state_id: 4708
+- name: Obshtina Silistra
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '44.03333000'
   longitude: '27.20000000'
-  wikiDataId: Q2219334
-- id: 9590
-  name: Obshtina Sitovo
-  state_id: 4708
+- name: Obshtina Sitovo
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '44.01667000'
   longitude: '27.00000000'
-  wikiDataId: Q2609678
-- id: 9619
-  name: Obshtina Tutrakan
-  state_id: 4708
+- name: Obshtina Tutrakan
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '44.00000000'
   longitude: '26.60000000'
-  wikiDataId: Q2609628
-- id: 9692
-  name: Silistra
-  state_id: 4708
+- name: Silistra
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '44.11710000'
   longitude: '27.26056000'
-  wikiDataId: Q182428
-- id: 9695
-  name: Sitovo
-  state_id: 4708
+- name: Sitovo
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '44.02730000'
   longitude: '27.01982000'
-  wikiDataId: Q1897942
-- id: 9730
-  name: Tutrakan
-  state_id: 4708
+- name: Tutrakan
   state_code: '19'
   state_name: Silistra
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '44.04906000'
   longitude: '26.61206000'
-  wikiDataId: Q404939
-- id: 9360
-  name: Kermen
-  state_id: 4700
+- name: Kermen
   state_code: '20'
   state_name: Sliven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.50000000'
   longitude: '26.25000000'
-  wikiDataId: Q2469089
-- id: 9371
-  name: Kotel
-  state_id: 4700
+- name: Kotel
   state_code: '20'
   state_name: Sliven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.88333000'
   longitude: '26.45000000'
-  wikiDataId: Q404822
-- id: 9410
-  name: Nova Zagora
-  state_id: 4700
+- name: Nova Zagora
   state_code: '20'
   state_name: Sliven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.48333000'
   longitude: '26.01667000'
-  wikiDataId: Q405317
-- id: 9508
-  name: Obshtina Kotel
-  state_id: 4700
+- name: Obshtina Kotel
   state_code: '20'
   state_name: Sliven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.88333000'
   longitude: '26.45000000'
-  wikiDataId: Q13554376
-- id: 9542
-  name: Obshtina Nova Zagora
-  state_id: 4700
+- name: Obshtina Nova Zagora
   state_code: '20'
   state_name: Sliven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.45000000'
   longitude: '26.05000000'
-  wikiDataId: Q1749545
-- id: 9591
-  name: Obshtina Sliven
-  state_id: 4700
+- name: Obshtina Sliven
   state_code: '20'
   state_name: Sliven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.66667000'
   longitude: '26.31667000'
-  wikiDataId: Q4423406
-- id: 9620
-  name: Obshtina Tvarditsa
-  state_id: 4700
+- name: Obshtina Tvarditsa
   state_code: '20'
   state_name: Sliven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.73333000'
   longitude: '26.00000000'
-  wikiDataId: Q1749531
-- id: 9697
-  name: Sliven
-  state_id: 4700
+- name: Sliven
   state_code: '20'
   state_name: Sliven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.68583000'
   longitude: '26.32917000'
-  wikiDataId: Q178385
-- id: 9731
-  name: Tvarditsa
-  state_id: 4700
+- name: Tvarditsa
   state_code: '20'
   state_name: Sliven
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.70000000'
   longitude: '25.90000000'
-  wikiDataId: Q405445
-- id: 9264
-  name: Banite
-  state_id: 4694
+- name: Banite
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.61667000'
   longitude: '25.01667000'
-  wikiDataId: Q2444193
-- id: 9279
-  name: Borino
-  state_id: 4694
+- name: Borino
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.68408000'
   longitude: '24.29300000'
-  wikiDataId: Q2469110
-- id: 9298
-  name: Chepelare
-  state_id: 4694
+- name: Chepelare
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.73333000'
   longitude: '24.68333000'
-  wikiDataId: Q405807
-- id: 9306
-  name: Devin
-  state_id: 4694
+- name: Devin
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.74327000'
   longitude: '24.40003000'
-  wikiDataId: Q405341
-- id: 9315
-  name: Dospat
-  state_id: 4694
+- name: Dospat
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.64462000'
   longitude: '24.15857000'
-  wikiDataId: Q406089
-- id: 9339
-  name: Gyovren
-  state_id: 4694
+- name: Gyovren
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.66326000'
   longitude: '24.37557000'
-  wikiDataId: Q3623055
-- id: 9393
-  name: Madan
-  state_id: 4694
+- name: Madan
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.49869000'
   longitude: '24.93973000'
-  wikiDataId: Q405449
-- id: 9405
-  name: Nedelino
-  state_id: 4694
+- name: Nedelino
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.45602000'
   longitude: '25.08008000'
-  wikiDataId: Q405716
-- id: 9421
-  name: Obshtina Banite
-  state_id: 4694
+- name: Obshtina Banite
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.70000000'
   longitude: '25.00000000'
-  wikiDataId: Q1890848
-- id: 9433
-  name: Obshtina Borino
-  state_id: 4694
+- name: Obshtina Borino
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.64834000'
   longitude: '24.31694000'
-  wikiDataId: Q1749527
-- id: 9447
-  name: Obshtina Chepelare
-  state_id: 4694
+- name: Obshtina Chepelare
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.80000000'
   longitude: '24.68333000'
-  wikiDataId: Q3627159
-- id: 9453
-  name: Obshtina Devin
-  state_id: 4694
+- name: Obshtina Devin
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.74346000'
   longitude: '24.40192000'
-  wikiDataId: Q2011314
-- id: 9463
-  name: Obshtina Dospat
-  state_id: 4694
+- name: Obshtina Dospat
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.63228000'
   longitude: '24.18765000'
-  wikiDataId: Q2715784
-- id: 9526
-  name: Obshtina Madan
-  state_id: 4694
+- name: Obshtina Madan
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.53333000'
   longitude: '24.96667000'
-  wikiDataId: Q1749535
-- id: 9537
-  name: Obshtina Nedelino
-  state_id: 4694
+- name: Obshtina Nedelino
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.46894000'
   longitude: '25.09481000'
-  wikiDataId: Q1749550
-- id: 9575
-  name: Obshtina Rudozem
-  state_id: 4694
+- name: Obshtina Rudozem
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.45439000'
   longitude: '24.83690000'
-  wikiDataId: Q2405118
-- id: 9594
-  name: Obshtina Smolyan
-  state_id: 4694
+- name: Obshtina Smolyan
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.57516000'
   longitude: '24.71302000'
-  wikiDataId: Q1749684
-- id: 9639
-  name: Obshtina Zlatograd
-  state_id: 4694
+- name: Obshtina Zlatograd
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.40028000'
   longitude: '25.04591000'
-  wikiDataId: Q7497979
-- id: 9673
-  name: Rudozem
-  state_id: 4694
+- name: Rudozem
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.48751000'
   longitude: '24.84945000'
-  wikiDataId: Q405334
-- id: 9700
-  name: Smolyan
-  state_id: 4694
+- name: Smolyan
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.57439000'
   longitude: '24.71204000'
-  wikiDataId: Q192888
-- id: 9752
-  name: Zlatograd
-  state_id: 4694
+- name: Zlatograd
   state_code: '21'
   state_name: Smolyan
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '41.37950000'
   longitude: '25.09605000'
-  wikiDataId: Q1790862
-- id: 9254
-  name: Anton
-  state_id: 4719
+- name: Anton
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.75000000'
   longitude: '24.28333000'
-  wikiDataId: Q7511879
-- id: 9282
-  name: Botevgrad
-  state_id: 4719
+- name: Botevgrad
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.90000000'
   longitude: '23.78333000'
-  wikiDataId: Q405426
-- id: 9285
-  name: Bozhurishte
-  state_id: 4719
+- name: Bozhurishte
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.75000000'
   longitude: '23.20000000'
-  wikiDataId: Q404811
-- id: 9296
-  name: Chavdar
-  state_id: 4719
+- name: Chavdar
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.65000000'
   longitude: '24.05000000'
-  wikiDataId: Q405228
-- id: 9297
-  name: Chelopech
-  state_id: 4719
+- name: Chelopech
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.70000000'
   longitude: '24.08333000'
-  wikiDataId: Q2418971
-- id: 9311
-  name: Dolna Banya
-  state_id: 4719
+- name: Dolna Banya
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.30000000'
   longitude: '23.76667000'
-  wikiDataId: Q405248
-- id: 9316
-  name: Dragoman
-  state_id: 4719
+- name: Dragoman
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.92191000'
   longitude: '22.93109000'
-  wikiDataId: Q405373
-- id: 9326
-  name: Elin Pelin
-  state_id: 4719
+- name: Elin Pelin
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.66667000'
   longitude: '23.60000000'
-  wikiDataId: Q406042
-- id: 9327
-  name: Etropole
-  state_id: 4719
+- name: Etropole
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.83333000'
   longitude: '24.00000000'
-  wikiDataId: Q406064
-- id: 9332
-  name: Godech
-  state_id: 4719
+- name: Godech
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.01682000'
   longitude: '23.04852000'
-  wikiDataId: Q405420
-- id: 9333
-  name: Gorna Malina
-  state_id: 4719
+- name: Gorna Malina
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.68333000'
   longitude: '23.70000000'
-  wikiDataId: Q2994088
-- id: 9346
-  name: Ihtiman
-  state_id: 4719
+- name: Ihtiman
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.43333000'
   longitude: '23.81667000'
-  wikiDataId: Q405712
-- id: 9369
-  name: Koprivshtitsa
-  state_id: 4719
+- name: Koprivshtitsa
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.63333000'
   longitude: '24.35000000'
-  wikiDataId: Q251439
-- id: 9370
-  name: Kostinbrod
-  state_id: 4719
+- name: Kostinbrod
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.81667000'
   longitude: '23.21667000'
-  wikiDataId: Q671522
-- id: 9382
-  name: Lakatnik
-  state_id: 4719
+- name: Lakatnik
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.05000000'
   longitude: '23.40000000'
-  wikiDataId: Q2017393
-- id: 9402
-  name: Mirkovo
-  state_id: 4719
+- name: Mirkovo
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.70000000'
   longitude: '23.98333000'
-  wikiDataId: Q2994069
-- id: 9414
-  name: Obshtina Anton
-  state_id: 4719
+- name: Obshtina Anton
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.76667000'
   longitude: '24.30000000'
-  wikiDataId: Q2012997
-- id: 9436
-  name: Obshtina Botevgrad
-  state_id: 4719
+- name: Obshtina Botevgrad
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.95000000'
   longitude: '23.75000000'
-  wikiDataId: Q1750337
-- id: 9439
-  name: Obshtina Bozhurishte
-  state_id: 4719
+- name: Obshtina Bozhurishte
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.78333000'
   longitude: '23.11667000'
-  wikiDataId: Q2011235
-- id: 9445
-  name: Obshtina Chavdar
-  state_id: 4719
+- name: Obshtina Chavdar
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.61667000'
   longitude: '24.08333000'
-  wikiDataId: Q1750661
-- id: 9446
-  name: Obshtina Chelopech
-  state_id: 4719
+- name: Obshtina Chelopech
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.71667000'
   longitude: '24.06667000'
-  wikiDataId: Q3627159
-- id: 9459
-  name: Obshtina Dolna Banya
-  state_id: 4719
+- name: Obshtina Dolna Banya
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.30000000'
   longitude: '23.76667000'
-  wikiDataId: Q4165080
-- id: 9464
-  name: Obshtina Dragoman
-  state_id: 4719
+- name: Obshtina Dragoman
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.93333000'
   longitude: '22.93333000'
-  wikiDataId: Q2476900
-- id: 9472
-  name: Obshtina Elin Pelin
-  state_id: 4719
+- name: Obshtina Elin Pelin
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.66667000'
   longitude: '23.60000000'
-  wikiDataId: Q1750672
-- id: 9473
-  name: Obshtina Etropole
-  state_id: 4719
+- name: Obshtina Etropole
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.85000000'
   longitude: '24.03333000'
-  wikiDataId: Q771640
-- id: 9480
-  name: Obshtina Gorna Malina
-  state_id: 4719
+- name: Obshtina Gorna Malina
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.71667000'
   longitude: '23.80000000'
-  wikiDataId: Q1750531
-- id: 9505
-  name: Obshtina Koprivshtitsa
-  state_id: 4719
+- name: Obshtina Koprivshtitsa
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.61667000'
   longitude: '24.38333000'
-  wikiDataId: Q4232394
-- id: 9506
-  name: Obshtina Kostenets
-  state_id: 4719
+- name: Obshtina Kostenets
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.30000000'
   longitude: '23.86667000'
-  wikiDataId: Q2560787
-- id: 9507
-  name: Obshtina Kostinbrod
-  state_id: 4719
+- name: Obshtina Kostinbrod
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.88333000'
   longitude: '23.20000000'
-  wikiDataId: Q13554376
-- id: 9533
-  name: Obshtina Mirkovo
-  state_id: 4719
+- name: Obshtina Mirkovo
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.66667000'
   longitude: '23.96667000'
-  wikiDataId: Q1750534
-- id: 9556
-  name: Obshtina Pirdop
-  state_id: 4719
+- name: Obshtina Pirdop
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.70000000'
   longitude: '24.23333000'
-  wikiDataId: Q2407089
-- id: 9563
-  name: Obshtina Pravets
-  state_id: 4719
+- name: Obshtina Pravets
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.96667000'
   longitude: '23.98333000'
-  wikiDataId: Q2012325
-- id: 9580
-  name: Obshtina Samokov
-  state_id: 4719
+- name: Obshtina Samokov
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.33333000'
   longitude: '23.55000000'
-  wikiDataId: Q2011302
-- id: 9592
-  name: Obshtina Slivnitsa
-  state_id: 4719
+- name: Obshtina Slivnitsa
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.85000000'
   longitude: '22.98333000'
-  wikiDataId: Q2408489
-- id: 9609
-  name: Obshtina Svoge
-  state_id: 4719
+- name: Obshtina Svoge
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.00000000'
   longitude: '23.40000000'
-  wikiDataId: Q2715418
-- id: 9638
-  name: Obshtina Zlatitsa
-  state_id: 4719
+- name: Obshtina Zlatitsa
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.70000000'
   longitude: '24.13333000'
-  wikiDataId: Q2407916
-- id: 9654
-  name: Pirdop
-  state_id: 4719
+- name: Pirdop
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.70000000'
   longitude: '24.18333000'
-  wikiDataId: Q405654
-- id: 9661
-  name: Pravets
-  state_id: 4719
+- name: Pravets
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.88333000'
   longitude: '23.91667000'
-  wikiDataId: Q387864
-- id: 9679
-  name: Samokov
-  state_id: 4719
+- name: Samokov
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.33700000'
   longitude: '23.55280000'
-  wikiDataId: Q388070
-- id: 9698
-  name: Slivnitsa
-  state_id: 4719
+- name: Slivnitsa
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.85182000'
   longitude: '23.03792000'
-  wikiDataId: Q406470
-- id: 9718
-  name: Svoge
-  state_id: 4719
+- name: Svoge
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.96667000'
   longitude: '23.35000000'
-  wikiDataId: Q406143
-- id: 9750
-  name: Zlatitsa
-  state_id: 4719
+- name: Zlatitsa
   state_code: '23'
   state_name: Sofia
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.71667000'
   longitude: '24.13333000'
-  wikiDataId: Q405262
-- id: 9291
-  name: Buhovo
-  state_id: 4705
+- name: Buhovo
   state_code: '22'
   state_name: Sofia City
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.76667000'
   longitude: '23.56667000'
-  wikiDataId: Q2597688
-- id: 9701
-  name: Sofia
-  state_id: 4705
+- name: Sofia
   state_code: '22'
   state_name: Sofia City
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.69751000'
   longitude: '23.32415000'
-  wikiDataId: Q472
-- id: 9707
-  name: Stolichna Obshtina
-  state_id: 4705
+- name: Stolichna Obshtina
   state_code: '22'
   state_name: Sofia City
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.68647000'
   longitude: '23.30561000'
-  wikiDataId: Q4442915
-- id: 9258
-  name: Asen
-  state_id: 4707
+- name: Asen
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.65000000'
   longitude: '25.20000000'
-  wikiDataId: Q2011103
-- id: 9302
-  name: Chirpan
-  state_id: 4707
+- name: Chirpan
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.20000000'
   longitude: '25.33333000'
-  wikiDataId: Q407340
-- id: 9340
-  name: Gŭlŭbovo
-  state_id: 4707
+- name: Gŭlŭbovo
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.13333000'
   longitude: '25.85000000'
-  wikiDataId: Q405736
-- id: 9338
-  name: Gurkovo
-  state_id: 4707
+- name: Gurkovo
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.66667000'
   longitude: '25.80000000'
-  wikiDataId: Q407207
-- id: 9359
-  name: Kazanlak
-  state_id: 4707
+- name: Kazanlak
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.61667000'
   longitude: '25.40000000'
-  wikiDataId: Q192926
-- id: 9395
-  name: Maglizh
-  state_id: 4707
+- name: Maglizh
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.60000000'
   longitude: '25.55000000'
-  wikiDataId: Q405916
-- id: 9408
-  name: Nikolaevo
-  state_id: 4707
+- name: Nikolaevo
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.63333000'
   longitude: '25.80000000'
-  wikiDataId: Q405821
-- id: 9441
-  name: Obshtina Bratya Daskalovi
-  state_id: 4707
+- name: Obshtina Bratya Daskalovi
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.30000000'
   longitude: '25.21667000'
-  wikiDataId: Q1749540
-- id: 9451
-  name: Obshtina Chirpan
-  state_id: 4707
+- name: Obshtina Chirpan
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.23333000'
   longitude: '25.38333000'
-  wikiDataId: Q1749678
-- id: 9475
-  name: Obshtina Galabovo
-  state_id: 4707
+- name: Obshtina Galabovo
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.15000000'
   longitude: '25.96667000'
-  wikiDataId: Q953742
-- id: 9485
-  name: Obshtina Gurkovo
-  state_id: 4707
+- name: Obshtina Gurkovo
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.71667000'
   longitude: '25.80000000'
-  wikiDataId: Q2721295
-- id: 9501
-  name: Obshtina Kazanlŭk
-  state_id: 4707
+- name: Obshtina Kazanlŭk
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.61943000'
   longitude: '25.39885000'
-  wikiDataId: Q1750050
-- id: 9528
-  name: Obshtina Maglizh
-  state_id: 4707
+- name: Obshtina Maglizh
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.63333000'
   longitude: '25.61667000'
-  wikiDataId: Q2405076
-- id: 9540
-  name: Obshtina Nikolaevo
-  state_id: 4707
+- name: Obshtina Nikolaevo
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.60000000'
   longitude: '25.78333000'
-  wikiDataId: Q535085
-- id: 9545
-  name: Obshtina Opan
-  state_id: 4707
+- name: Obshtina Opan
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.21667000'
   longitude: '25.70000000'
-  wikiDataId: Q2609370
-- id: 9549
-  name: Obshtina Pavel Banya
-  state_id: 4707
+- name: Obshtina Pavel Banya
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.63333000'
   longitude: '25.13333000'
-  wikiDataId: Q2405088
-- id: 9566
-  name: Obshtina Radnevo
-  state_id: 4707
+- name: Obshtina Radnevo
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.30000000'
   longitude: '25.93333000'
-  wikiDataId: Q1750036
-- id: 9599
-  name: Obshtina Stara Zagora
-  state_id: 4707
+- name: Obshtina Stara Zagora
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.41667000'
   longitude: '25.63333000'
-  wikiDataId: Q534046
-- id: 9647
-  name: Pavel Banya
-  state_id: 4707
+- name: Pavel Banya
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.60000000'
   longitude: '25.20000000'
-  wikiDataId: Q407336
-- id: 9664
-  name: Radnevo
-  state_id: 4707
+- name: Radnevo
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.30000000'
   longitude: '25.93333000'
-  wikiDataId: Q407383
-- id: 9691
-  name: Shipka
-  state_id: 4707
+- name: Shipka
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.71667000'
   longitude: '25.33333000'
-  wikiDataId: Q133961
-- id: 9706
-  name: Stara Zagora
-  state_id: 4707
+- name: Stara Zagora
   state_code: '24'
   state_name: Stara Zagora
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.43278000'
   longitude: '25.64194000'
-  wikiDataId: Q170415
-- id: 9255
-  name: Antonovo
-  state_id: 4714
+- name: Antonovo
   state_code: '25'
   state_name: Targovishte
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.15000000'
   longitude: '26.16667000'
-  wikiDataId: Q405852
-- id: 9415
-  name: Obshtina Antonovo
-  state_id: 4714
+- name: Obshtina Antonovo
   state_code: '25'
   state_name: Targovishte
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.11667000'
   longitude: '26.20000000'
-  wikiDataId: Q2633034
-- id: 9543
-  name: Obshtina Omurtag
-  state_id: 4714
+- name: Obshtina Omurtag
   state_code: '25'
   state_name: Targovishte
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.08333000'
   longitude: '26.48333000'
-  wikiDataId: Q3882332
-- id: 9544
-  name: Obshtina Opaka
-  state_id: 4714
+- name: Obshtina Opaka
   state_code: '25'
   state_name: Targovishte
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.46667000'
   longitude: '26.15000000'
-  wikiDataId: Q3882809
-- id: 9561
-  name: Obshtina Popovo
-  state_id: 4714
+- name: Obshtina Popovo
   state_code: '25'
   state_name: Targovishte
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.35000000'
   longitude: '26.23333000'
-  wikiDataId: Q3908413
-- id: 9610
-  name: Obshtina Targovishte
-  state_id: 4714
+- name: Obshtina Targovishte
   state_code: '25'
   state_name: Targovishte
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.25000000'
   longitude: '26.56667000'
-  wikiDataId: Q3515689
-- id: 9641
-  name: Omurtag
-  state_id: 4714
+- name: Omurtag
   state_code: '25'
   state_name: Targovishte
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.10000000'
   longitude: '26.41667000'
-  wikiDataId: Q406243
-- id: 9642
-  name: Opaka
-  state_id: 4714
+- name: Opaka
   state_code: '25'
   state_name: Targovishte
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.45000000'
   longitude: '26.16667000'
-  wikiDataId: Q404756
-- id: 9659
-  name: Popovo
-  state_id: 4714
+- name: Popovo
   state_code: '25'
   state_name: Targovishte
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.35000000'
   longitude: '26.23333000'
-  wikiDataId: Q406068
-- id: 9719
-  name: Targovishte
-  state_id: 4714
+- name: Targovishte
   state_code: '25'
   state_name: Targovishte
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.25120000'
   longitude: '26.57215000'
-  wikiDataId: Q185114
-- id: 9252
-  name: Aksakovo
-  state_id: 4717
+- name: Aksakovo
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.25615000'
   longitude: '27.82105000'
-  wikiDataId: Q405433
-- id: 9260
-  name: Asparuhovo
-  state_id: 4717
+- name: Asparuhovo
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.18067000'
   longitude: '27.88823000'
-  wikiDataId: Q191871
-- id: 9263
-  name: Balgarevo
-  state_id: 4717
+- name: Balgarevo
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.40296000'
   longitude: '28.41189000'
-  wikiDataId: Q2653330
-- id: 9272
-  name: Beloslav
-  state_id: 4717
+- name: Beloslav
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.18960000'
   longitude: '27.70429000'
-  wikiDataId: Q405825
-- id: 9293
-  name: Byala
-  state_id: 4717
+- name: Byala
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.87426000'
   longitude: '27.88865000'
-  wikiDataId: Q2043641
-- id: 9304
-  name: Dalgopol
-  state_id: 4717
+- name: Dalgopol
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.05000000'
   longitude: '27.35000000'
-  wikiDataId: Q2380966
-- id: 9307
-  name: Devnya
-  state_id: 4717
+- name: Devnya
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.22222000'
   longitude: '27.56944000'
-  wikiDataId: Q405640
-- id: 9313
-  name: Dolni Chiflik
-  state_id: 4717
+- name: Dolni Chiflik
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.99296000'
   longitude: '27.71596000'
-  wikiDataId: Q407302
-- id: 9364
-  name: Kiten
-  state_id: 4717
+- name: Kiten
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.08333000'
   longitude: '27.31667000'
-  wikiDataId: Q1993655
-- id: 9412
-  name: Obshtina Aksakovo
-  state_id: 4717
+- name: Obshtina Aksakovo
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.31667000'
   longitude: '27.85000000'
-  wikiDataId: Q2381026
-- id: 9418
-  name: Obshtina Avren
-  state_id: 4717
+- name: Obshtina Avren
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.10000000'
   longitude: '27.71667000'
-  wikiDataId: Q2715453
-- id: 9427
-  name: Obshtina Beloslav
-  state_id: 4717
+- name: Obshtina Beloslav
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.20000000'
   longitude: '27.73333000'
-  wikiDataId: Q2254259
-- id: 9444
-  name: Obshtina Byala
-  state_id: 4717
+- name: Obshtina Byala
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.88333000'
   longitude: '27.81667000'
-  wikiDataId: Q2609691
-- id: 9452
-  name: Obshtina Dalgopol
-  state_id: 4717
+- name: Obshtina Dalgopol
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.05000000'
   longitude: '27.35000000'
-  wikiDataId: Q2609410
-- id: 9454
-  name: Obshtina Devnya
-  state_id: 4717
+- name: Obshtina Devnya
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.22056000'
   longitude: '27.60052000'
-  wikiDataId: Q2715422
-- id: 9461
-  name: Obshtina Dolni Chiflik
-  state_id: 4717
+- name: Obshtina Dolni Chiflik
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.96667000'
   longitude: '27.68333000'
-  wikiDataId: Q2715362
-- id: 9565
-  name: Obshtina Provadia
-  state_id: 4717
+- name: Obshtina Provadia
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.18333000'
   longitude: '27.40000000'
-  wikiDataId: Q2407014
-- id: 9606
-  name: Obshtina Suvorovo
-  state_id: 4717
+- name: Obshtina Suvorovo
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.33333000'
   longitude: '27.65000000'
-  wikiDataId: Q2609434
-- id: 9623
-  name: Obshtina Valchidol
-  state_id: 4717
+- name: Obshtina Valchidol
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.45000000'
   longitude: '27.50000000'
-  wikiDataId: Q596101
-- id: 9624
-  name: Obshtina Varna
-  state_id: 4717
+- name: Obshtina Varna
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.21667000'
   longitude: '27.91667000'
-  wikiDataId: Q748965
-- id: 9629
-  name: Obshtina Vetrino
-  state_id: 4717
+- name: Obshtina Vetrino
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.31667000'
   longitude: '27.43333000'
-  wikiDataId: Q2609648
-- id: 9663
-  name: Provadia
-  state_id: 4717
+- name: Provadia
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.18333000'
   longitude: '27.43333000'
-  wikiDataId: Q405801
-- id: 9714
-  name: Suvorovo
-  state_id: 4717
+- name: Suvorovo
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.33058000'
   longitude: '27.59908000'
-  wikiDataId: Q405550
-- id: 9734
-  name: Valchidol
-  state_id: 4717
+- name: Valchidol
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.40000000'
   longitude: '27.55000000'
-  wikiDataId: Q405620
-- id: 9735
-  name: Varna
-  state_id: 4717
+- name: Varna
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.21667000'
   longitude: '27.91667000'
-  wikiDataId: Q6506
-- id: 9740
-  name: Vetrino
-  state_id: 4717
+- name: Vetrino
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.31667000'
   longitude: '27.43333000'
-  wikiDataId: Q405114
-- id: 9751
-  name: Zlatni Pyasatsi
-  state_id: 4717
+- name: Zlatni Pyasatsi
   state_code: '03'
   state_name: Varna
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.28500000'
   longitude: '28.04180000'
-  wikiDataId: Q1026748
-- id: 9294
-  name: Byala Cherkva
-  state_id: 4709
+- name: Byala Cherkva
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.20000000'
   longitude: '25.30000000'
-  wikiDataId: Q407239
-- id: 9305
-  name: Debelets
-  state_id: 4709
+- name: Debelets
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.03333000'
   longitude: '25.61667000'
-  wikiDataId: Q405899
-- id: 9324
-  name: Elena
-  state_id: 4709
+- name: Elena
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.93333000'
   longitude: '25.88333000'
-  wikiDataId: Q408077
-- id: 9334
-  name: Gorna Oryahovitsa
-  state_id: 4709
+- name: Gorna Oryahovitsa
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.12778000'
   longitude: '25.70167000'
-  wikiDataId: Q115998
-- id: 9361
-  name: Kilifarevo
-  state_id: 4709
+- name: Kilifarevo
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.98333000'
   longitude: '25.63333000'
-  wikiDataId: Q406624
-- id: 9391
-  name: Lyaskovets
-  state_id: 4709
+- name: Lyaskovets
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.11111000'
   longitude: '25.72833000'
-  wikiDataId: Q405585
-- id: 9470
-  name: Obshtina Elena
-  state_id: 4709
+- name: Obshtina Elena
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.91667000'
   longitude: '25.95000000'
-  wikiDataId: Q2653757
-- id: 9481
-  name: Obshtina Gorna Oryahovitsa
-  state_id: 4709
+- name: Obshtina Gorna Oryahovitsa
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.21667000'
   longitude: '25.75000000'
-  wikiDataId: Q2603553
-- id: 9525
-  name: Obshtina Lyaskovets
-  state_id: 4709
+- name: Obshtina Lyaskovets
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.13333000'
   longitude: '25.85000000'
-  wikiDataId: Q2609666
-- id: 9550
-  name: Obshtina Pavlikeni
-  state_id: 4709
+- name: Obshtina Pavlikeni
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.28333000'
   longitude: '25.35000000'
-  wikiDataId: Q2715489
-- id: 9559
-  name: Obshtina Polski Trambesh
-  state_id: 4709
+- name: Obshtina Polski Trambesh
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.35000000'
   longitude: '25.58333000'
-  wikiDataId: Q2609698
-- id: 9601
-  name: Obshtina Strazhitsa
-  state_id: 4709
+- name: Obshtina Strazhitsa
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.26667000'
   longitude: '25.98333000'
-  wikiDataId: Q959929
-- id: 9604
-  name: Obshtina Suhindol
-  state_id: 4709
+- name: Obshtina Suhindol
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.16667000'
   longitude: '25.20000000'
-  wikiDataId: Q2609717
-- id: 9608
-  name: Obshtina Svishtov
-  state_id: 4709
+- name: Obshtina Svishtov
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.53333000'
   longitude: '25.35000000'
-  wikiDataId: Q600639
-- id: 9626
-  name: Obshtina Veliko Tŭrnovo
-  state_id: 4709
+- name: Obshtina Veliko Tŭrnovo
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.08241000'
   longitude: '25.63202000'
-  wikiDataId: Q2991314
-- id: 9637
-  name: Obshtina Zlataritsa
-  state_id: 4709
+- name: Obshtina Zlataritsa
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.06667000'
   longitude: '25.98333000'
-  wikiDataId: Q2609640
-- id: 9646
-  name: Parvomaytsi
-  state_id: 4709
+- name: Parvomaytsi
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.15000000'
   longitude: '25.65000000'
-  wikiDataId: Q406222
-- id: 9648
-  name: Pavlikeni
-  state_id: 4709
+- name: Pavlikeni
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.24278000'
   longitude: '25.32194000'
-  wikiDataId: Q405663
-- id: 9657
-  name: Polski Trambesh
-  state_id: 4709
+- name: Polski Trambesh
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.37233000'
   longitude: '25.63525000'
-  wikiDataId: Q405905
-- id: 9709
-  name: Strazhitsa
-  state_id: 4709
+- name: Strazhitsa
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.23333000'
   longitude: '25.96667000'
-  wikiDataId: Q404981
-- id: 9712
-  name: Suhindol
-  state_id: 4709
+- name: Suhindol
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.19167000'
   longitude: '25.18111000'
-  wikiDataId: Q405562
-- id: 9717
-  name: Svishtov
-  state_id: 4709
+- name: Svishtov
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.61875000'
   longitude: '25.35033000'
-  wikiDataId: Q193082
-- id: 9737
-  name: Veliko Tŭrnovo
-  state_id: 4709
+- name: Veliko Tŭrnovo
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.08124000'
   longitude: '25.62904000'
-  wikiDataId: Q404958
-- id: 9749
-  name: Zlataritsa
-  state_id: 4709
+- name: Zlataritsa
   state_code: '04'
   state_name: Veliko Tarnovo
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.05000000'
   longitude: '25.90000000'
-  wikiDataId: Q405323
-- id: 9271
-  name: Belogradchik
-  state_id: 4697
+- name: Belogradchik
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.62722000'
   longitude: '22.68361000'
-  wikiDataId: Q407234
-- id: 9284
-  name: Boynitsa
-  state_id: 4697
+- name: Boynitsa
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.95650000'
   longitude: '22.53255000'
-  wikiDataId: Q2469067
-- id: 9287
-  name: Bregovo
-  state_id: 4697
+- name: Bregovo
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '44.15167000'
   longitude: '22.64250000'
-  wikiDataId: Q405383
-- id: 9303
-  name: Chuprene
-  state_id: 4697
+- name: Chuprene
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.51806000'
   longitude: '22.66611000'
-  wikiDataId: Q2380966
-- id: 9309
-  name: Dimovo
-  state_id: 4697
+- name: Dimovo
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.74167000'
   longitude: '22.72694000'
-  wikiDataId: Q407222
-- id: 9317
-  name: Drenovets
-  state_id: 4697
+- name: Drenovets
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.69134000'
   longitude: '22.97365000'
-  wikiDataId: Q1078511
-- id: 9320
-  name: Dunavtsi
-  state_id: 4697
+- name: Dunavtsi
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.92111000'
   longitude: '22.82111000'
-  wikiDataId: Q405856
-- id: 9336
-  name: Gramada
-  state_id: 4697
+- name: Gramada
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.83738000'
   longitude: '22.65279000'
-  wikiDataId: Q457141
-- id: 9380
-  name: Kula
-  state_id: 4697
+- name: Kula
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.88833000'
   longitude: '22.52139000'
-  wikiDataId: Q404762
-- id: 9396
-  name: Makresh
-  state_id: 4697
+- name: Makresh
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.76794000'
   longitude: '22.66406000'
-  wikiDataId: Q2381003
-- id: 9411
-  name: Novo Selo
-  state_id: 4697
+- name: Novo Selo
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '44.16214000'
   longitude: '22.78376000'
-  wikiDataId: Q2381026
-- id: 9426
-  name: Obshtina Belogradchik
-  state_id: 4697
+- name: Obshtina Belogradchik
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.65000000'
   longitude: '22.60000000'
-  wikiDataId: Q2254259
-- id: 9438
-  name: Obshtina Boynitsa
-  state_id: 4697
+- name: Obshtina Boynitsa
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '44.00000000'
   longitude: '22.55000000'
-  wikiDataId: Q2542152
-- id: 9456
-  name: Obshtina Dimovo
-  state_id: 4697
+- name: Obshtina Dimovo
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.75000000'
   longitude: '22.81667000'
-  wikiDataId: Q2715394
-- id: 9483
-  name: Obshtina Gramada
-  state_id: 4697
+- name: Obshtina Gramada
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.83333000'
   longitude: '22.65000000'
-  wikiDataId: Q2615666
-- id: 9517
-  name: Obshtina Kula
-  state_id: 4697
+- name: Obshtina Kula
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.90000000'
   longitude: '22.56667000'
-  wikiDataId: Q2715384
-- id: 9577
-  name: Obshtina Ruzhintsi
-  state_id: 4697
+- name: Obshtina Ruzhintsi
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.65000000'
   longitude: '22.90000000'
-  wikiDataId: Q2715178
-- id: 9630
-  name: Obshtina Vidin
-  state_id: 4697
+- name: Obshtina Vidin
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '44.00000000'
   longitude: '22.83333000'
-  wikiDataId: Q263709
-- id: 9676
-  name: Ruzhintsi
-  state_id: 4697
+- name: Ruzhintsi
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.62179000'
   longitude: '22.83286000'
-  wikiDataId: Q160173
-- id: 9741
-  name: Vidin
-  state_id: 4697
+- name: Vidin
   state_code: '05'
   state_name: Vidin
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.99159000'
   longitude: '22.88236000'
-  wikiDataId: Q178531
-- id: 9280
-  name: Borovan
-  state_id: 4711
+- name: Borovan
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.43333000'
   longitude: '23.75000000'
-  wikiDataId: Q2565618
-- id: 9295
-  name: Byala Slatina
-  state_id: 4711
+- name: Byala Slatina
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.46667000'
   longitude: '23.93333000'
-  wikiDataId: Q405228
-- id: 9344
-  name: Hayredin
-  state_id: 4711
+- name: Hayredin
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.60193000'
   longitude: '23.66135000'
-  wikiDataId: Q2597198
-- id: 9373
-  name: Kozloduy
-  state_id: 4711
+- name: Kozloduy
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.77864000'
   longitude: '23.72058000'
-  wikiDataId: Q405157
-- id: 9376
-  name: Krivodol
-  state_id: 4711
+- name: Krivodol
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.37444000'
   longitude: '23.48444000'
-  wikiDataId: Q405697
-- id: 9400
-  name: Mezdra
-  state_id: 4711
+- name: Mezdra
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.15000000'
   longitude: '23.70000000'
-  wikiDataId: Q406500
-- id: 9403
-  name: Mizia
-  state_id: 4711
+- name: Mizia
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.68623000'
   longitude: '23.85371000'
-  wikiDataId: Q406481
-- id: 9434
-  name: Obshtina Borovan
-  state_id: 4711
+- name: Obshtina Borovan
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.43333000'
   longitude: '23.75000000'
-  wikiDataId: Q2015266
-- id: 9488
-  name: Obshtina Hayredin
-  state_id: 4711
+- name: Obshtina Hayredin
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.58333000'
   longitude: '23.66667000'
-  wikiDataId: Q2426275
-- id: 9510
-  name: Obshtina Kozloduy
-  state_id: 4711
+- name: Obshtina Kozloduy
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.71667000'
   longitude: '23.73333000'
-  wikiDataId: Q1032807
-- id: 9513
-  name: Obshtina Krivodol
-  state_id: 4711
+- name: Obshtina Krivodol
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.38333000'
   longitude: '23.48333000'
-  wikiDataId: Q948145
-- id: 9531
-  name: Obshtina Mezdra
-  state_id: 4711
+- name: Obshtina Mezdra
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.13333000'
   longitude: '23.73333000'
-  wikiDataId: Q2426251
-- id: 9534
-  name: Obshtina Mizia
-  state_id: 4711
+- name: Obshtina Mizia
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.63333000'
   longitude: '23.85000000'
-  wikiDataId: Q1032677
-- id: 9546
-  name: Obshtina Oryahovo
-  state_id: 4711
+- name: Obshtina Oryahovo
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.69038000'
   longitude: '23.98643000'
-  wikiDataId: Q2628864
-- id: 9574
-  name: Obshtina Roman
-  state_id: 4711
+- name: Obshtina Roman
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.15000000'
   longitude: '23.91667000'
-  wikiDataId: Q2723443
-- id: 9631
-  name: Obshtina Vratsa
-  state_id: 4711
+- name: Obshtina Vratsa
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.28333000'
   longitude: '23.60000000'
-  wikiDataId: Q263709
-- id: 9643
-  name: Oryahovo
-  state_id: 4711
+- name: Oryahovo
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.73618000'
   longitude: '23.96052000'
-  wikiDataId: Q407296
-- id: 9672
-  name: Roman
-  state_id: 4711
+- name: Roman
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.15000000'
   longitude: '23.91667000'
-  wikiDataId: Q406506
-- id: 9742
-  name: Vratsa
-  state_id: 4711
+- name: Vratsa
   state_code: '06'
   state_name: Vratsa
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '43.21000000'
   longitude: '23.56250000'
-  wikiDataId: Q189502
-- id: 9278
-  name: Bolyarovo
-  state_id: 4716
+- name: Bolyarovo
   state_code: '28'
   state_name: Yambol
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.14962000'
   longitude: '26.81116000'
-  wikiDataId: Q406618
-- id: 9325
-  name: Elhovo
-  state_id: 4716
+- name: Elhovo
   state_code: '28'
   state_name: Yambol
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.16667000'
   longitude: '26.56667000'
-  wikiDataId: Q406613
-- id: 9432
-  name: Obshtina Bolyarovo
-  state_id: 4716
+- name: Obshtina Bolyarovo
   state_code: '28'
   state_name: Yambol
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.15000000'
   longitude: '26.85000000'
-  wikiDataId: Q2653282
-- id: 9471
-  name: Obshtina Elhovo
-  state_id: 4716
+- name: Obshtina Elhovo
   state_code: '28'
   state_name: Yambol
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.11667000'
   longitude: '26.61667000'
-  wikiDataId: Q2653243
-- id: 9600
-  name: Obshtina Straldzha
-  state_id: 4716
+- name: Obshtina Straldzha
   state_code: '28'
   state_name: Yambol
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.48333000'
   longitude: '26.78333000'
-  wikiDataId: Q2454975
-- id: 9618
-  name: Obshtina Tundzha
-  state_id: 4716
+- name: Obshtina Tundzha
   state_code: '28'
   state_name: Yambol
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.35000000'
   longitude: '26.45000000'
-  wikiDataId: Q20432553
-- id: 9634
-  name: Obshtina Yambol
-  state_id: 4716
+- name: Obshtina Yambol
   state_code: '28'
   state_name: Yambol
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.48333000'
   longitude: '26.50000000'
-  wikiDataId: Q775710
-- id: 9708
-  name: Straldzha
-  state_id: 4716
+- name: Straldzha
   state_code: '28'
   state_name: Yambol
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.60000000'
   longitude: '26.68333000'
-  wikiDataId: Q404981
-- id: 9746
-  name: Yambol
-  state_id: 4716
+- name: Yambol
   state_code: '28'
   state_name: Yambol
-  country_id: 34
-  country_code: BG
-  country_name: Bulgaria
   latitude: '42.48333000'
   longitude: '26.50000000'
-  wikiDataId: Q186569

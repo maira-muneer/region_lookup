@@ -1,100 +1,46 @@
 ---
-- id: 153518
-  name: Devonshire
-  state_id: 4860
+- name: Devonshire
   state_code: DEV
   state_name: Devonshire
-  country_id: 25
-  country_code: BM
-  country_name: Bermuda
   latitude: '32.29300000'
   longitude: "-64.80000000"
-  wikiDataId: Q516478
-- id: 153515
-  name: Hamilton
-  state_id: 4861
+- name: Hamilton
   state_code: HA
   state_name: Hamilton
-  country_id: 25
-  country_code: BM
-  country_name: Bermuda
   latitude: '32.29400000'
   longitude: "-64.78300000"
-  wikiDataId: Q12232
-- id: 153516
-  name: Paget
-  state_id: 4863
+- name: Paget
   state_code: PAG
   state_name: Paget
-  country_id: 25
-  country_code: BM
-  country_name: Bermuda
   latitude: '32.27800000'
   longitude: "-64.76900000"
-  wikiDataId: Q550924
-- id: 153514
-  name: St. George's
-  state_id: 4866
+- name: St. George's
   state_code: SGE
   state_name: Saint George's
-  country_id: 25
-  country_code: BM
-  country_name: Bermuda
   latitude: '32.38100000'
   longitude: "-64.67400000"
-  wikiDataId: Q5436
-- id: 153517
-  name: Tucker’s Town
-  state_id: 4866
+- name: Tucker’s Town
   state_code: SGE
   state_name: Saint George's
-  country_id: 25
-  country_code: BM
-  country_name: Bermuda
   latitude: '32.33280000'
   longitude: '64.68810000'
-  wikiDataId: Q7851040
-- id: 153513
-  name: Somerset
-  state_id: 4867
+- name: Somerset
   state_code: SAN
   state_name: Sandys
-  country_id: 25
-  country_code: BM
-  country_name: Bermuda
   latitude: '32.28200000'
   longitude: "-64.84400000"
-  wikiDataId: Q516580
-- id: 153512
-  name: Flatts
-  state_id: 4868
+- name: Flatts
   state_code: SMI
   state_name: Smith's
-  country_id: 25
-  country_code: BM
-  country_name: Bermuda
   latitude: '32.32800000'
   longitude: "-64.73600000"
-  wikiDataId: Q497550
-- id: 153511
-  name: Southampton
-  state_id: 4869
+- name: Southampton
   state_code: SOU
   state_name: Southampton
-  country_id: 25
-  country_code: BM
-  country_name: Bermuda
   latitude: '32.24900000'
   longitude: "-64.86100000"
-  wikiDataId: Q575093
-- id: 153510
-  name: Warwick
-  state_id: 4870
+- name: Warwick
   state_code: WAR
   state_name: Warwick
-  country_id: 25
-  country_code: BM
-  country_name: Bermuda
   latitude: '32.26700000'
   longitude: "-64.80600000"
-  wikiDataId: Q627221

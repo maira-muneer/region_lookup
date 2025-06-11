@@ -1,782 +1,356 @@
 ---
-- id: 102921
-  name: Al Hasaheisa
-  state_id: 885
+- name: Al Hasaheisa
   state_code: GZ
   state_name: Al Jazirah
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '14.75264000'
   longitude: '33.29836000'
-  wikiDataId: Q290849
-- id: 102922
-  name: Al Hilāliyya
-  state_id: 885
+- name: Al Hilāliyya
   state_code: GZ
   state_name: Al Jazirah
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '14.93980000'
   longitude: '33.23400000'
-  wikiDataId: Q31872977
-- id: 102924
-  name: Al Kiremit al ‘Arakiyyīn
-  state_id: 885
+- name: Al Kiremit al ‘Arakiyyīn
   state_code: GZ
   state_name: Al Jazirah
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '14.34760000'
   longitude: '32.94370000'
-  wikiDataId: Q31874191
-- id: 102926
-  name: Al Manāqil
-  state_id: 885
+- name: Al Manāqil
   state_code: GZ
   state_name: Al Jazirah
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '14.24590000'
   longitude: '32.98910000'
-  wikiDataId: Q31874596
-- id: 102927
-  name: Al Masallamiyya
-  state_id: 885
+- name: Al Masallamiyya
   state_code: GZ
   state_name: Al Jazirah
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '14.57480000'
   longitude: '33.33730000'
-  wikiDataId: Q31874774
-- id: 102980
-  name: Wad Medani
-  state_id: 885
+- name: Wad Medani
   state_code: GZ
   state_name: Al Jazirah
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '14.40118000'
   longitude: '33.51989000'
-  wikiDataId: Q852528
-- id: 102981
-  name: Wad Rāwah
-  state_id: 885
+- name: Wad Rāwah
   state_code: GZ
   state_name: Al Jazirah
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '15.16028000'
   longitude: '33.13972000'
-  wikiDataId: Q852528
-- id: 102931
-  name: Al Ḩawātah
-  state_id: 886
+- name: Al Ḩawātah
   state_code: GD
   state_name: Al Qadarif
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.41667000'
   longitude: '34.63333000'
-  wikiDataId: Q31876309
-- id: 102929
-  name: Al Qadarif
-  state_id: 886
+- name: Al Qadarif
   state_code: GD
   state_name: Al Qadarif
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '14.03493000'
   longitude: '35.38344000'
-  wikiDataId: Q311199
-- id: 102942
-  name: Doka
-  state_id: 886
+- name: Doka
   state_code: GD
   state_name: Al Qadarif
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.51667000'
   longitude: '35.76667000'
-  wikiDataId: Q5210211
-- id: 102919
-  name: Ad-Damazin
-  state_id: 887
+- name: Ad-Damazin
   state_code: NB
   state_name: Blue Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '11.78910000'
   longitude: '34.35920000'
-  wikiDataId: Q311307
-- id: 102934
-  name: Ar Ruseris
-  state_id: 887
+- name: Ar Ruseris
   state_code: NB
   state_name: Blue Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '11.86590000'
   longitude: '34.38690000'
-  wikiDataId: Q3055933
-- id: 102961
-  name: Kurmuk
-  state_id: 887
+- name: Kurmuk
   state_code: NB
   state_name: Blue Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '10.55000000'
   longitude: '34.28333000'
-  wikiDataId: Q2329622
-- id: 102984
-  name: Zalingei
-  state_id: 896
+- name: Zalingei
   state_code: DC
   state_name: Central Darfur
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '12.90918000'
   longitude: '23.47058000'
-  wikiDataId: Q4118131
-- id: 102946
-  name: El Daein
-  state_id: 892
+- name: El Daein
   state_code: DE
   state_name: East Darfur
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '11.46186000'
   longitude: '26.12583000'
-  wikiDataId: Q288196
-- id: 102936
-  name: Aroma
-  state_id: 884
+- name: Aroma
   state_code: KA
   state_name: Kassala
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '15.81667000'
   longitude: '36.13333000'
-  wikiDataId: Q31888917
-- id: 102956
-  name: Kassala
-  state_id: 884
+- name: Kassala
   state_code: KA
   state_name: Kassala
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '15.45099000'
   longitude: '36.39998000'
-  wikiDataId: Q686813
-- id: 102983
-  name: Wagar
-  state_id: 884
+- name: Wagar
   state_code: KA
   state_name: Kassala
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '16.15250000'
   longitude: '36.20320000'
-  wikiDataId: Q852528
-- id: 102957
-  name: Khartoum
-  state_id: 881
+- name: Khartoum
   state_code: KH
   state_name: Khartoum
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '15.55177000'
   longitude: '32.53241000'
-  wikiDataId: Q1963
-- id: 102967
-  name: Omdurman
-  state_id: 881
+- name: Omdurman
   state_code: KH
   state_name: Khartoum
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '15.64453000'
   longitude: '32.47773000'
-  wikiDataId: Q180921
-- id: 102947
-  name: El Fasher
-  state_id: 890
+- name: El Fasher
   state_code: DN
   state_name: North Darfur
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.62793000'
   longitude: '25.34936000'
-  wikiDataId: Q311204
-- id: 102962
-  name: Kutum
-  state_id: 890
+- name: Kutum
   state_code: DN
   state_name: North Darfur
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '14.20000000'
   longitude: '24.66667000'
-  wikiDataId: Q3317346
-- id: 102978
-  name: Umm Kaddadah
-  state_id: 890
+- name: Umm Kaddadah
   state_code: DN
   state_name: North Darfur
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.60169000'
   longitude: '26.68759000'
-  wikiDataId: Q1010754
-- id: 102933
-  name: Ar Rahad
-  state_id: 893
+- name: Ar Rahad
   state_code: KN
   state_name: North Kordofan
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '12.71667000'
   longitude: '30.65000000'
-  wikiDataId: Q4118058
-- id: 102940
-  name: Bārah
-  state_id: 893
+- name: Bārah
   state_code: KN
   state_name: North Kordofan
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.70000000'
   longitude: '30.36667000'
-  wikiDataId: Q614453
-- id: 102949
-  name: El Obeid
-  state_id: 893
+- name: El Obeid
   state_code: KN
   state_name: North Kordofan
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.18421000'
   longitude: '30.21669000'
-  wikiDataId: Q309475
-- id: 102979
-  name: Umm Ruwaba
-  state_id: 893
+- name: Umm Ruwaba
   state_code: KN
   state_name: North Kordofan
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '12.90610000'
   longitude: '31.21580000'
-  wikiDataId: Q2618048
-- id: 102916
-  name: Ad Dabbah
-  state_id: 895
+- name: Ad Dabbah
   state_code: 'NO'
   state_name: Northern
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '18.05000000'
   longitude: '30.95000000'
-  wikiDataId: Q1754253
-- id: 102935
-  name: Argo
-  state_id: 895
+- name: Argo
   state_code: 'NO'
   state_name: Northern
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '19.51667000'
   longitude: '30.41667000'
-  wikiDataId: Q31887833
-- id: 102943
-  name: Dongola
-  state_id: 895
+- name: Dongola
   state_code: 'NO'
   state_name: Northern
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '19.18163000'
   longitude: '30.47689000'
-  wikiDataId: Q821321
-- id: 102955
-  name: Karmah an Nuzul
-  state_id: 895
+- name: Karmah an Nuzul
   state_code: 'NO'
   state_name: Northern
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '19.63333000'
   longitude: '30.41667000'
-  wikiDataId: Q1107569
-- id: 102960
-  name: Kuraymah
-  state_id: 895
+- name: Kuraymah
   state_code: 'NO'
   state_name: Northern
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '18.55000000'
   longitude: '31.85000000'
-  wikiDataId: Q1729372
-- id: 102965
-  name: Merowe
-  state_id: 895
+- name: Merowe
   state_code: 'NO'
   state_name: Northern
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '18.47036000'
   longitude: '31.81126000'
-  wikiDataId: Q2784541
-- id: 102950
-  name: Gebeit
-  state_id: 880
+- name: Gebeit
   state_code: RS
   state_name: Red Sea
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '21.06667000'
   longitude: '36.31667000'
-  wikiDataId: Q309475
-- id: 102968
-  name: Port Sudan
-  state_id: 880
+- name: Port Sudan
   state_code: RS
   state_name: Red Sea
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '19.61745000'
   longitude: '37.21644000'
-  wikiDataId: Q180921
-- id: 102970
-  name: Sawākin
-  state_id: 880
+- name: Sawākin
   state_code: RS
   state_name: Red Sea
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '19.10590000'
   longitude: '37.33210000'
-  wikiDataId: Q571215
-- id: 102976
-  name: Tokār
-  state_id: 880
+- name: Tokār
   state_code: RS
   state_name: Red Sea
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '18.42540000'
   longitude: '37.72900000'
-  wikiDataId: Q1010754
-- id: 102938
-  name: Atbara
-  state_id: 891
+- name: Atbara
   state_code: NR
   state_name: River Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '17.70217000'
   longitude: '33.98638000'
-  wikiDataId: Q753906
-- id: 102939
-  name: Berber
-  state_id: 891
+- name: Berber
   state_code: NR
   state_name: River Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '18.02158000'
   longitude: '33.98299000'
-  wikiDataId: Q375935
-- id: 102944
-  name: Ed Damer
-  state_id: 891
+- name: Ed Damer
   state_code: NR
   state_name: River Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '17.59898000'
   longitude: '33.97205000'
-  wikiDataId: Q311312
-- id: 102945
-  name: El Bauga
-  state_id: 891
+- name: El Bauga
   state_code: NR
   state_name: River Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '18.26197000'
   longitude: '33.90812000'
-  wikiDataId: Q311312
-- id: 102948
-  name: El Matama
-  state_id: 891
+- name: El Matama
   state_code: NR
   state_name: River Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '16.70950000'
   longitude: '33.35650000'
-  wikiDataId: Q311204
-- id: 102971
-  name: Shendi
-  state_id: 891
+- name: Shendi
   state_code: NR
   state_name: River Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '16.69150000'
   longitude: '33.43410000'
-  wikiDataId: Q997838
-- id: 102917
-  name: Ad Dindar
-  state_id: 882
+- name: Ad Dindar
   state_code: SI
   state_name: Sennar
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.20000000'
   longitude: '34.16667000'
-  wikiDataId: Q31868891
-- id: 102937
-  name: As Sūkī
-  state_id: 882
+- name: As Sūkī
   state_code: SI
   state_name: Sennar
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.31667000'
   longitude: '33.88333000'
-  wikiDataId: Q31890580
-- id: 102953
-  name: Jalqani
-  state_id: 882
+- name: Jalqani
   state_code: SI
   state_name: Sennar
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '12.44860000'
   longitude: '34.21860000'
-  wikiDataId: Q15615482
-- id: 102958
-  name: Kināna
-  state_id: 882
+- name: Kināna
   state_code: SI
   state_name: Sennar
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '14.03610000'
   longitude: '33.17120000'
-  wikiDataId: Q1963
-- id: 102963
-  name: Maiurno
-  state_id: 882
+- name: Maiurno
   state_code: SI
   state_name: Sennar
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.41667000'
   longitude: '33.66667000'
-  wikiDataId: Q3317346
-- id: 102972
-  name: Singa
-  state_id: 882
+- name: Singa
   state_code: SI
   state_name: Sennar
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.14830000'
   longitude: '33.93117000'
-  wikiDataId: Q997838
-- id: 102973
-  name: Sinnar
-  state_id: 882
+- name: Sinnar
   state_code: SI
   state_name: Sennar
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.56907000'
   longitude: '33.56718000'
-  wikiDataId: Q611867
-- id: 102952
-  name: Gereida
-  state_id: 894
+- name: Gereida
   state_code: DS
   state_name: South Darfur
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '11.27543000'
   longitude: '25.14026000'
-  wikiDataId: Q15615482
-- id: 102966
-  name: Nyala
-  state_id: 894
+- name: Nyala
   state_code: DS
   state_name: South Darfur
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '12.04888000'
   longitude: '24.88069000'
-  wikiDataId: Q851576
-- id: 102914
-  name: Abu Jibeha
-  state_id: 883
+- name: Abu Jibeha
   state_code: KS
   state_name: South Kordofan
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '11.45620000'
   longitude: '31.22850000'
-  wikiDataId: Q31866628
-- id: 102920
-  name: Al Fūlah
-  state_id: 883
+- name: Al Fūlah
   state_code: KS
   state_name: South Kordofan
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '11.73292000'
   longitude: '28.35786000'
-  wikiDataId: Q290849
-- id: 102941
-  name: Dilling
-  state_id: 883
+- name: Dilling
   state_code: KS
   state_name: South Kordofan
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '12.05000000'
   longitude: '29.65000000'
-  wikiDataId: Q5210211
-- id: 102954
-  name: Kadugli
-  state_id: 883
+- name: Kadugli
   state_code: KS
   state_name: South Kordofan
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '11.01111000'
   longitude: '29.71833000'
-  wikiDataId: Q1011819
-- id: 102974
-  name: Talodi
-  state_id: 883
+- name: Talodi
   state_code: KS
   state_name: South Kordofan
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '10.63246000'
   longitude: '30.37970000'
-  wikiDataId: Q2390680
-- id: 102951
-  name: Geneina
-  state_id: 888
+- name: Geneina
   state_code: DW
   state_name: West Darfur
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.45262000'
   longitude: '22.44725000'
-  wikiDataId: Q311309
-- id: 102915
-  name: Abū Zabad
-  state_id: 889
+- name: Abū Zabad
   state_code: GK
   state_name: West Kordofan
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '12.35000000'
   longitude: '29.25000000'
-  wikiDataId: Q31868120
-- id: 102925
-  name: Al Lagowa
-  state_id: 889
+- name: Al Lagowa
   state_code: GK
   state_name: West Kordofan
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '11.40000000'
   longitude: '29.13333000'
-  wikiDataId: Q31874300
-- id: 102928
-  name: Al Mijlad
-  state_id: 889
+- name: Al Mijlad
   state_code: GK
   state_name: West Kordofan
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '11.03333000'
   longitude: '27.73333000'
-  wikiDataId: Q31875125
-- id: 102932
-  name: An Nuhūd
-  state_id: 889
+- name: An Nuhūd
   state_code: GK
   state_name: West Kordofan
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '12.70000000'
   longitude: '28.43333000'
-  wikiDataId: Q287343
-- id: 102918
-  name: Ad Douiem
-  state_id: 879
+- name: Ad Douiem
   state_code: NW
   state_name: White Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '14.00120000'
   longitude: '32.31160000'
-  wikiDataId: Q2501279
-- id: 102923
-  name: Al Kawa
-  state_id: 879
+- name: Al Kawa
   state_code: NW
   state_name: White Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.74630000'
   longitude: '32.49960000'
-  wikiDataId: Q31873641
-- id: 102930
-  name: Al Qiţena
-  state_id: 879
+- name: Al Qiţena
   state_code: NW
   state_name: White Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '14.86480000'
   longitude: '32.36680000'
-  wikiDataId: Q31875767
-- id: 102959
-  name: Kosti
-  state_id: 879
+- name: Kosti
   state_code: NW
   state_name: White Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.16290000'
   longitude: '32.66347000'
-  wikiDataId: Q587715
-- id: 102964
-  name: Marabba
-  state_id: 879
+- name: Marabba
   state_code: NW
   state_name: White Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '12.35000000'
   longitude: '32.18333000'
-  wikiDataId: Q3317346
-- id: 102969
-  name: Rabak
-  state_id: 879
+- name: Rabak
   state_code: NW
   state_name: White Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.18087000'
   longitude: '32.73999000'
-  wikiDataId: Q1004008
-- id: 102975
-  name: Tandaltī
-  state_id: 879
+- name: Tandaltī
   state_code: NW
   state_name: White Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.01667000'
   longitude: '31.86667000'
-  wikiDataId: Q115022
-- id: 102977
-  name: Um Jar Al Gharbiyya
-  state_id: 879
+- name: Um Jar Al Gharbiyya
   state_code: NW
   state_name: White Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '13.80130000'
   longitude: '32.40780000'
-  wikiDataId: Q1010754
-- id: 102982
-  name: Wad az Zāki
-  state_id: 879
+- name: Wad az Zāki
   state_code: NW
   state_name: White Nile
-  country_id: 209
-  country_code: SD
-  country_name: Sudan
   latitude: '14.46190000'
   longitude: '32.20650000'
-  wikiDataId: Q852528

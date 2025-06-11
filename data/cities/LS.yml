@@ -1,133 +1,61 @@
 ---
-- id: 66574
-  name: Teyateyaneng
-  state_id: 3030
+- name: Teyateyaneng
   state_code: D
   state_name: Berea
-  country_id: 122
-  country_code: LS
-  country_name: Lesotho
   latitude: "-29.14719000"
   longitude: '27.74895000'
-  wikiDataId: Q844423
-- id: 66564
-  name: Butha-Buthe
-  state_id: 3029
+- name: Butha-Buthe
   state_code: B
   state_name: Butha-Buthe
-  country_id: 122
-  country_code: LS
-  country_name: Lesotho
   latitude: "-28.76659000"
   longitude: '28.24937000'
-  wikiDataId: Q382249
-- id: 66565
-  name: Leribe
-  state_id: 3026
+- name: Leribe
   state_code: C
   state_name: Leribe
-  country_id: 122
-  country_code: LS
-  country_name: Lesotho
   latitude: "-28.87185000"
   longitude: '28.04501000'
-  wikiDataId: Q993076
-- id: 66567
-  name: Maputsoe
-  state_id: 3026
+- name: Maputsoe
   state_code: C
   state_name: Leribe
-  country_id: 122
-  country_code: LS
-  country_name: Lesotho
   latitude: "-28.88660000"
   longitude: '27.89915000'
-  wikiDataId: Q1892158
-- id: 66566
-  name: Mafeteng
-  state_id: 3022
+- name: Mafeteng
   state_code: E
   state_name: Mafeteng
-  country_id: 122
-  country_code: LS
-  country_name: Lesotho
   latitude: "-29.82299000"
   longitude: '27.23744000'
-  wikiDataId: Q1013379
-- id: 66568
-  name: Maseru
-  state_id: 3028
+- name: Maseru
   state_code: A
   state_name: Maseru
-  country_id: 122
-  country_code: LS
-  country_name: Lesotho
   latitude: "-29.31667000"
   longitude: '27.48333000'
-  wikiDataId: Q3909
-- id: 66571
-  name: Nako
-  state_id: 3028
+- name: Nako
   state_code: A
   state_name: Maseru
-  country_id: 122
-  country_code: LS
-  country_name: Lesotho
   latitude: "-29.61667000"
   longitude: '27.76667000'
-  wikiDataId: Q6739344
-- id: 66569
-  name: Mohale’s Hoek
-  state_id: 3023
+- name: Mohale’s Hoek
   state_code: F
   state_name: Mohale's Hoek
-  country_id: 122
-  country_code: LS
-  country_name: Lesotho
   latitude: "-30.15137000"
   longitude: '27.47691000'
-  wikiDataId: Q1818943
-- id: 66570
-  name: Mokhotlong
-  state_id: 3024
+- name: Mokhotlong
   state_code: J
   state_name: Mokhotlong
-  country_id: 122
-  country_code: LS
-  country_name: Lesotho
   latitude: "-29.28939000"
   longitude: '29.06751000'
-  wikiDataId: Q1013428
-- id: 66572
-  name: Qacha’s Nek
-  state_id: 3025
+- name: Qacha’s Nek
   state_code: H
   state_name: Qacha's Nek
-  country_id: 122
-  country_code: LS
-  country_name: Lesotho
   latitude: "-30.11537000"
   longitude: '28.68936000'
-  wikiDataId: Q491829
-- id: 66573
-  name: Quthing
-  state_id: 3027
+- name: Quthing
   state_code: G
   state_name: Quthing
-  country_id: 122
-  country_code: LS
-  country_name: Lesotho
   latitude: "-30.40001000"
   longitude: '27.70027000'
-  wikiDataId: Q1003318
-- id: 66575
-  name: Thaba-Tseka
-  state_id: 3031
+- name: Thaba-Tseka
   state_code: K
   state_name: Thaba-Tseka
-  country_id: 122
-  country_code: LS
-  country_name: Lesotho
   latitude: "-29.52204000"
   longitude: '28.60840000'
-  wikiDataId: Q777028

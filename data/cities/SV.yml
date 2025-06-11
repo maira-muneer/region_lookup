@@ -1,1101 +1,501 @@
 ---
-- id: 104842
-  name: Ahuachapán
-  state_id: 4139
+- name: Ahuachapán
   state_code: AH
   state_name: Ahuachapán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.92139000'
   longitude: "-89.84500000"
-  wikiDataId: Q186935
-- id: 104848
-  name: Atiquizaya
-  state_id: 4139
+- name: Atiquizaya
   state_code: AH
   state_name: Ahuachapán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.97694000'
   longitude: "-89.75250000"
-  wikiDataId: Q2779447
-- id: 104863
-  name: Concepción de Ataco
-  state_id: 4139
+- name: Concepción de Ataco
   state_code: AH
   state_name: Ahuachapán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.87028000'
   longitude: "-89.84861000"
-  wikiDataId: Q1123798
-- id: 104873
-  name: Guaymango
-  state_id: 4139
+- name: Guaymango
   state_code: AH
   state_name: Ahuachapán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.75028000'
   longitude: "-89.84222000"
-  wikiDataId: Q2779410
-- id: 104883
-  name: Jujutla
-  state_id: 4139
+- name: Jujutla
   state_code: AH
   state_name: Ahuachapán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.78694000'
   longitude: "-89.85722000"
-  wikiDataId: Q2779408
-- id: 104906
-  name: San Francisco Menéndez
-  state_id: 4139
+- name: San Francisco Menéndez
   state_code: AH
   state_name: Ahuachapán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.84306000'
   longitude: "-90.01583000"
-  wikiDataId: Q766174
-- id: 104931
-  name: Tacuba
-  state_id: 4139
+- name: Tacuba
   state_code: AH
   state_name: Ahuachapán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.90111000'
   longitude: "-89.92972000"
-  wikiDataId: Q1283898
-- id: 104924
-  name: Sensuntepeque
-  state_id: 4132
+- name: Sensuntepeque
   state_code: CA
   state_name: Cabañas
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.86667000'
   longitude: "-88.63333000"
-  wikiDataId: Q2335680
-- id: 104937
-  name: Victoria
-  state_id: 4132
+- name: Victoria
   state_code: CA
   state_name: Cabañas
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.95000000'
   longitude: "-88.63333000"
-  wikiDataId: Q1154188
-- id: 104853
-  name: Chalatenango
-  state_id: 4131
+- name: Chalatenango
   state_code: CH
   state_name: Chalatenango
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '14.03333000'
   longitude: "-88.93333000"
-  wikiDataId: Q2290501
-- id: 104891
-  name: Nueva Concepción
-  state_id: 4131
+- name: Nueva Concepción
   state_code: CH
   state_name: Chalatenango
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '14.13333000'
   longitude: "-89.30000000"
-  wikiDataId: Q2779443
-- id: 104861
-  name: Cojutepeque
-  state_id: 4137
+- name: Cojutepeque
   state_code: CU
   state_name: Cuscatlán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.71667000'
   longitude: "-88.93333000"
-  wikiDataId: Q2565407
-- id: 104909
-  name: San Martín
-  state_id: 4137
+- name: San Martín
   state_code: CU
   state_name: Cuscatlán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.78333000'
   longitude: "-88.91667000"
-  wikiDataId: Q31943460
-- id: 104930
-  name: Suchitoto
-  state_id: 4137
+- name: Suchitoto
   state_code: CU
   state_name: Cuscatlán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.93806000'
   longitude: "-89.02778000"
-  wikiDataId: Q2779509
-- id: 104932
-  name: Tecoluca
-  state_id: 4137
+- name: Tecoluca
   state_code: CU
   state_name: Cuscatlán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.78917000'
   longitude: "-89.00528000"
-  wikiDataId: Q31943487
-- id: 104933
-  name: Tenancingo
-  state_id: 4137
+- name: Tenancingo
   state_code: CU
   state_name: Cuscatlán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.83333000'
   longitude: "-88.98333000"
-  wikiDataId: Q3983398
-- id: 104844
-  name: Antiguo Cuscatlán
-  state_id: 4134
+- name: Antiguo Cuscatlán
   state_code: LI
   state_name: La Libertad
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.66492000'
   longitude: "-89.25319000"
-  wikiDataId: Q575756
-- id: 104858
-  name: Ciudad Arce
-  state_id: 4134
+- name: Ciudad Arce
   state_code: LI
   state_name: La Libertad
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.84028000'
   longitude: "-89.44722000"
-  wikiDataId: Q649241
-- id: 104884
-  name: La Libertad
-  state_id: 4134
+- name: La Libertad
   state_code: LI
   state_name: La Libertad
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.48833000'
   longitude: "-89.32222000"
-  wikiDataId: Q2631462
-- id: 104894
-  name: Nuevo Cuscatlán
-  state_id: 4134
+- name: Nuevo Cuscatlán
   state_code: LI
   state_name: La Libertad
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.64861000'
   longitude: "-89.26528000"
-  wikiDataId: Q3879293
-- id: 104900
-  name: Quezaltepeque
-  state_id: 4134
+- name: Quezaltepeque
   state_code: LI
   state_name: La Libertad
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.83124000'
   longitude: "-89.27221000"
-  wikiDataId: Q1154058
-- id: 104907
-  name: San Juan Opico
-  state_id: 4134
+- name: San Juan Opico
   state_code: LI
   state_name: La Libertad
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.87611000'
   longitude: "-89.35972000"
-  wikiDataId: Q2003995
-- id: 104911
-  name: San Pablo Tacachico
-  state_id: 4134
+- name: San Pablo Tacachico
   state_code: LI
   state_name: La Libertad
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.97556000'
   longitude: "-89.34000000"
-  wikiDataId: Q3947747
-- id: 104920
-  name: Santa Tecla
-  state_id: 4134
+- name: Santa Tecla
   state_code: LI
   state_name: La Libertad
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.67694000'
   longitude: "-89.27972000"
-  wikiDataId: Q723246
-- id: 104939
-  name: Zaragoza
-  state_id: 4134
+- name: Zaragoza
   state_code: LI
   state_name: La Libertad
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.58944000'
   longitude: "-89.28889000"
-  wikiDataId: Q4023866
-- id: 104870
-  name: El Rosario
-  state_id: 4136
+- name: El Rosario
   state_code: PA
   state_name: La Paz
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.49778000'
   longitude: "-89.02972000"
-  wikiDataId: Q11100824
-- id: 104895
-  name: Olocuilta
-  state_id: 4136
+- name: Olocuilta
   state_code: PA
   state_name: La Paz
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.56972000'
   longitude: "-89.11722000"
-  wikiDataId: Q1154537
-- id: 104912
-  name: San Pedro Masahuat
-  state_id: 4136
+- name: San Pedro Masahuat
   state_code: PA
   state_name: La Paz
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.54361000'
   longitude: "-89.03861000"
-  wikiDataId: Q432350
-- id: 104921
-  name: Santiago Nonualco
-  state_id: 4136
+- name: Santiago Nonualco
   state_code: PA
   state_name: La Paz
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.51667000'
   longitude: "-88.95000000"
-  wikiDataId: Q647944
-- id: 104938
-  name: Zacatecoluca
-  state_id: 4136
+- name: Zacatecoluca
   state_code: PA
   state_name: La Paz
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.50000000'
   longitude: "-88.86667000"
-  wikiDataId: Q139248
-- id: 104843
-  name: Anamorós
-  state_id: 4138
+- name: Anamorós
   state_code: UN
   state_name: 'La Unión '
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.74056000'
   longitude: "-87.87361000"
-  wikiDataId: Q3615033
-- id: 104864
-  name: Conchagua
-  state_id: 4138
+- name: Conchagua
   state_code: UN
   state_name: 'La Unión '
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.30778000'
   longitude: "-87.86472000"
-  wikiDataId: Q3686207
-- id: 104876
-  name: Intipucá
-  state_id: 4138
+- name: Intipucá
   state_code: UN
   state_name: 'La Unión '
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.19694000'
   longitude: "-88.05444000"
-  wikiDataId: Q3800717
-- id: 104885
-  name: La Unión
-  state_id: 4138
+- name: La Unión
   state_code: UN
   state_name: 'La Unión '
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.33694000'
   longitude: "-87.84389000"
-  wikiDataId: Q2420477
-- id: 104892
-  name: Nueva Esparta
-  state_id: 4138
+- name: Nueva Esparta
   state_code: UN
   state_name: 'La Unión '
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.78361000'
   longitude: "-87.83861000"
-  wikiDataId: Q550044
-- id: 104898
-  name: Pasaquina
-  state_id: 4138
+- name: Pasaquina
   state_code: UN
   state_name: 'La Unión '
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.58444000'
   longitude: "-87.84111000"
-  wikiDataId: Q3896916
-- id: 104903
-  name: San Alejo
-  state_id: 4138
+- name: San Alejo
   state_code: UN
   state_name: 'La Unión '
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.43139000'
   longitude: "-87.96306000"
-  wikiDataId: Q927114
-- id: 104919
-  name: Santa Rosa de Lima
-  state_id: 4138
+- name: Santa Rosa de Lima
   state_code: UN
   state_name: 'La Unión '
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.62472000'
   longitude: "-87.89361000"
-  wikiDataId: Q2308276
-- id: 104851
-  name: Cacaopera
-  state_id: 4130
+- name: Cacaopera
   state_code: MO
   state_name: Morazán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.76667000'
   longitude: "-88.08333000"
-  wikiDataId: Q2289165
-- id: 104865
-  name: Corinto
-  state_id: 4130
+- name: Corinto
   state_code: MO
   state_name: Morazán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.81083000'
   longitude: "-87.97139000"
-  wikiDataId: Q3693570
-- id: 104872
-  name: Guatajiagua
-  state_id: 4130
+- name: Guatajiagua
   state_code: MO
   state_name: Morazán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.66667000'
   longitude: "-88.20000000"
-  wikiDataId: Q3778448
-- id: 104879
-  name: Jocoro
-  state_id: 4130
+- name: Jocoro
   state_code: MO
   state_name: Morazán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.61667000'
   longitude: "-88.01667000"
-  wikiDataId: Q3808621
-- id: 104905
-  name: San Francisco
-  state_id: 4130
+- name: San Francisco
   state_code: MO
   state_name: Morazán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.70000000'
   longitude: "-88.10000000"
-  wikiDataId: Q969396
-- id: 104926
-  name: Sociedad
-  state_id: 4130
+- name: Sociedad
   state_code: MO
   state_name: Morazán
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.70000000'
   longitude: "-88.01667000"
-  wikiDataId: Q765679
-- id: 104855
-  name: Chapeltique
-  state_id: 4135
+- name: Chapeltique
   state_code: SM
   state_name: San Miguel
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.63333000'
   longitude: "-88.26667000"
-  wikiDataId: Q3666268
-- id: 104856
-  name: Chinameca
-  state_id: 4135
+- name: Chinameca
   state_code: SM
   state_name: San Miguel
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.50000000'
   longitude: "-88.35000000"
-  wikiDataId: Q3674976
-- id: 104857
-  name: Chirilagua
-  state_id: 4135
+- name: Chirilagua
   state_code: SM
   state_name: San Miguel
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.22028000'
   longitude: "-88.13861000"
-  wikiDataId: Q3675145
-- id: 104859
-  name: Ciudad Barrios
-  state_id: 4135
+- name: Ciudad Barrios
   state_code: SM
   state_name: San Miguel
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.76667000'
   longitude: "-88.26667000"
-  wikiDataId: Q1157078
-- id: 104871
-  name: El Tránsito
-  state_id: 4135
+- name: El Tránsito
   state_code: SM
   state_name: San Miguel
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.35000000'
   longitude: "-88.35000000"
-  wikiDataId: Q1157240
-- id: 104886
-  name: Lolotique
-  state_id: 4135
+- name: Lolotique
   state_code: SM
   state_name: San Miguel
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.55000000'
   longitude: "-88.35000000"
-  wikiDataId: Q3836527
-- id: 104889
-  name: Moncagua
-  state_id: 4135
+- name: Moncagua
   state_code: SM
   state_name: San Miguel
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.53333000'
   longitude: "-88.25000000"
-  wikiDataId: Q3860588
-- id: 104893
-  name: Nueva Guadalupe
-  state_id: 4135
+- name: Nueva Guadalupe
   state_code: SM
   state_name: San Miguel
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.53333000'
   longitude: "-88.35000000"
-  wikiDataId: Q3879289
-- id: 104910
-  name: San Miguel
-  state_id: 4135
+- name: San Miguel
   state_code: SM
   state_name: San Miguel
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.48333000'
   longitude: "-88.18333000"
-  wikiDataId: Q672458
-- id: 104913
-  name: San Rafael Oriente
-  state_id: 4135
+- name: San Rafael Oriente
   state_code: SM
   state_name: San Miguel
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.38333000'
   longitude: "-88.35000000"
-  wikiDataId: Q949719
-- id: 104925
-  name: Sesori
-  state_id: 4135
+- name: Sesori
   state_code: SM
   state_name: San Miguel
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.71667000'
   longitude: "-88.36667000"
-  wikiDataId: Q3958151
-- id: 104841
-  name: Aguilares
-  state_id: 4133
+- name: Aguilares
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.95722000'
   longitude: "-89.18972000"
-  wikiDataId: Q2289978
-- id: 104846
-  name: Apopa
-  state_id: 4133
+- name: Apopa
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.80722000'
   longitude: "-89.17917000"
-  wikiDataId: Q619646
-- id: 104849
-  name: Ayutuxtepeque
-  state_id: 4133
+- name: Ayutuxtepeque
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.74556000'
   longitude: "-89.20639000"
-  wikiDataId: Q793367
-- id: 104866
-  name: Cuscatancingo
-  state_id: 4133
+- name: Cuscatancingo
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.73611000'
   longitude: "-89.18139000"
-  wikiDataId: Q1003783
-- id: 104867
-  name: Delgado
-  state_id: 4133
+- name: Delgado
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.72417000'
   longitude: "-89.17028000"
-  wikiDataId: Q723792
-- id: 104869
-  name: El Paisnal
-  state_id: 4133
+- name: El Paisnal
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.97361000'
   longitude: "-89.21861000"
-  wikiDataId: Q984328
-- id: 104874
-  name: Guazapa
-  state_id: 4133
+- name: Guazapa
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.87694000'
   longitude: "-89.17306000"
-  wikiDataId: Q984133
-- id: 104875
-  name: Ilopango
-  state_id: 4133
+- name: Ilopango
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.70167000'
   longitude: "-89.10944000"
-  wikiDataId: Q1659066
-- id: 104887
-  name: Mejicanos
-  state_id: 4133
+- name: Mejicanos
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.74028000'
   longitude: "-89.21306000"
-  wikiDataId: Q723411
-- id: 104897
-  name: Panchimalco
-  state_id: 4133
+- name: Panchimalco
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.61278000'
   longitude: "-89.18000000"
-  wikiDataId: Q927563
-- id: 104901
-  name: Rosario de Mora
-  state_id: 4133
+- name: Rosario de Mora
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.57528000'
   longitude: "-89.20889000"
-  wikiDataId: Q3941398
-- id: 104908
-  name: San Marcos
-  state_id: 4133
+- name: San Marcos
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.65889000'
   longitude: "-89.18306000"
-  wikiDataId: Q1157132
-- id: 104914
-  name: San Salvador
-  state_id: 4133
+- name: San Salvador
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.68935000'
   longitude: "-89.18718000"
-  wikiDataId: Q3110
-- id: 104923
-  name: Santo Tomás
-  state_id: 4133
+- name: Santo Tomás
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.64083000'
   longitude: "-89.13333000"
-  wikiDataId: Q3949527
-- id: 104929
-  name: Soyapango
-  state_id: 4133
+- name: Soyapango
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.71024000'
   longitude: "-89.13989000"
-  wikiDataId: Q956031
-- id: 104935
-  name: Tonacatepeque
-  state_id: 4133
+- name: Tonacatepeque
   state_code: SS
   state_name: San Salvador
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.78111000'
   longitude: "-89.11861000"
-  wikiDataId: Q1003568
-- id: 104845
-  name: Apastepeque
-  state_id: 4127
+- name: Apastepeque
   state_code: SV
   state_name: San Vicente
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.66667000'
   longitude: "-88.78333000"
-  wikiDataId: Q617890
-- id: 104915
-  name: San Sebastián
-  state_id: 4127
+- name: San Sebastián
   state_code: SV
   state_name: San Vicente
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.73333000'
   longitude: "-88.83333000"
-  wikiDataId: Q383546
-- id: 104916
-  name: San Vicente
-  state_id: 4127
+- name: San Vicente
   state_code: SV
   state_name: San Vicente
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.63333000'
   longitude: "-88.80000000"
-  wikiDataId: Q1094372
-- id: 104852
-  name: Candelaria de La Frontera
-  state_id: 4128
+- name: Candelaria de La Frontera
   state_code: SA
   state_name: Santa Ana
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '14.11667000'
   longitude: "-89.65000000"
-  wikiDataId: Q1154656
-- id: 104854
-  name: Chalchuapa
-  state_id: 4128
+- name: Chalchuapa
   state_code: SA
   state_name: Santa Ana
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.98667000'
   longitude: "-89.68111000"
-  wikiDataId: Q2565837
-- id: 104860
-  name: Coatepeque
-  state_id: 4128
+- name: Coatepeque
   state_code: SA
   state_name: Santa Ana
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.92861000'
   longitude: "-89.50417000"
-  wikiDataId: Q3681838
-- id: 104868
-  name: El Congo
-  state_id: 4128
+- name: El Congo
   state_code: SA
   state_name: Santa Ana
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.90889000'
   longitude: "-89.49583000"
-  wikiDataId: Q3720891
-- id: 104888
-  name: Metapán
-  state_id: 4128
+- name: Metapán
   state_code: SA
   state_name: Santa Ana
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '14.33333000'
   longitude: "-89.45000000"
-  wikiDataId: Q2537220
-- id: 104917
-  name: Santa Ana
-  state_id: 4128
+- name: Santa Ana
   state_code: SA
   state_name: Santa Ana
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.99417000'
   longitude: "-89.55972000"
-  wikiDataId: Q739664
-- id: 104934
-  name: Texistepeque
-  state_id: 4128
+- name: Texistepeque
   state_code: SA
   state_name: Santa Ana
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '14.13333000'
   longitude: "-89.50000000"
-  wikiDataId: Q3985393
-- id: 104840
-  name: Acajutla
-  state_id: 4140
+- name: Acajutla
   state_code: SO
   state_name: Sonsonate
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.59278000'
   longitude: "-89.82750000"
-  wikiDataId: Q937292
-- id: 104847
-  name: Armenia
-  state_id: 4140
+- name: Armenia
   state_code: SO
   state_name: Sonsonate
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.74361000'
   longitude: "-89.49889000"
-  wikiDataId: Q682015
-- id: 104877
-  name: Izalco
-  state_id: 4140
+- name: Izalco
   state_code: SO
   state_name: Sonsonate
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.74472000'
   longitude: "-89.67306000"
-  wikiDataId: Q682226
-- id: 104880
-  name: Juayúa
-  state_id: 4140
+- name: Juayúa
   state_code: SO
   state_name: Sonsonate
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.84139000'
   longitude: "-89.74556000"
-  wikiDataId: Q1006979
-- id: 104890
-  name: Nahuizalco
-  state_id: 4140
+- name: Nahuizalco
   state_code: SO
   state_name: Sonsonate
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.77750000'
   longitude: "-89.73667000"
-  wikiDataId: Q224791
-- id: 104904
-  name: San Antonio del Monte
-  state_id: 4140
+- name: San Antonio del Monte
   state_code: SO
   state_name: Sonsonate
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.71639000'
   longitude: "-89.73833000"
-  wikiDataId: Q3946809
-- id: 104927
-  name: Sonsonate
-  state_id: 4140
+- name: Sonsonate
   state_code: SO
   state_name: Sonsonate
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.71889000'
   longitude: "-89.72417000"
-  wikiDataId: Q1014248
-- id: 104928
-  name: Sonzacate
-  state_id: 4140
+- name: Sonzacate
   state_code: SO
   state_name: Sonsonate
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.73417000'
   longitude: "-89.71472000"
-  wikiDataId: Q2287976
-- id: 104850
-  name: Berlín
-  state_id: 4129
+- name: Berlín
   state_code: US
   state_name: Usulután
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.50000000'
   longitude: "-88.53333000"
-  wikiDataId: Q582242
-- id: 104862
-  name: Concepción Batres
-  state_id: 4129
+- name: Concepción Batres
   state_code: US
   state_name: Usulután
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.35000000'
   longitude: "-88.36667000"
-  wikiDataId: Q1154651
-- id: 104878
-  name: Jiquilisco
-  state_id: 4129
+- name: Jiquilisco
   state_code: US
   state_name: Usulután
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.31667000'
   longitude: "-88.58333000"
-  wikiDataId: Q1154953
-- id: 104881
-  name: Jucuapa
-  state_id: 4129
+- name: Jucuapa
   state_code: US
   state_name: Usulután
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.51667000'
   longitude: "-88.38333000"
-  wikiDataId: Q1154949
-- id: 104882
-  name: Jucuarán
-  state_id: 4129
+- name: Jucuarán
   state_code: US
   state_name: Usulután
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.25389000'
   longitude: "-88.24778000"
-  wikiDataId: Q1154960
-- id: 104896
-  name: Ozatlán
-  state_id: 4129
+- name: Ozatlán
   state_code: US
   state_name: Usulután
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.38333000'
   longitude: "-88.50000000"
-  wikiDataId: Q2842672
-- id: 104899
-  name: Puerto El Triunfo
-  state_id: 4129
+- name: Puerto El Triunfo
   state_code: US
   state_name: Usulután
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.28333000'
   longitude: "-88.55000000"
-  wikiDataId: Q164920
-- id: 104902
-  name: San Agustín
-  state_id: 4129
+- name: San Agustín
   state_code: US
   state_name: Usulután
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.43333000'
   longitude: "-88.60000000"
-  wikiDataId: Q1154943
-- id: 104918
-  name: Santa Elena
-  state_id: 4129
+- name: Santa Elena
   state_code: US
   state_name: Usulután
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.38333000'
   longitude: "-88.41667000"
-  wikiDataId: Q1154924
-- id: 104922
-  name: Santiago de María
-  state_id: 4129
+- name: Santiago de María
   state_code: US
   state_name: Usulután
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.48333000'
   longitude: "-88.46667000"
-  wikiDataId: Q1438464
-- id: 104936
-  name: Usulután
-  state_id: 4129
+- name: Usulután
   state_code: US
   state_name: Usulután
-  country_id: 66
-  country_code: SV
-  country_name: El Salvador
   latitude: '13.35000000'
   longitude: "-88.45000000"
-  wikiDataId: Q1018092

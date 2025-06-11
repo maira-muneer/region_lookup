@@ -1,100 +1,46 @@
 ---
-- id: 144
-  name: Codrington
-  state_id: 3708
+- name: Codrington
   state_code: '10'
   state_name: Barbuda
-  country_id: 10
-  country_code: AG
-  country_name: Antigua and Barbuda
   latitude: '17.63333000'
   longitude: "-61.83333000"
-  wikiDataId: Q1024679
-- id: 148
-  name: Piggotts
-  state_id: 3709
+- name: Piggotts
   state_code: '03'
   state_name: Saint George
-  country_id: 10
-  country_code: AG
-  country_name: Antigua and Barbuda
   latitude: '17.11667000'
   longitude: "-61.80000000"
-  wikiDataId: Q1771704
-- id: 149
-  name: Potters Village
-  state_id: 3706
+- name: Potters Village
   state_code: '04'
   state_name: Saint John
-  country_id: 10
-  country_code: AG
-  country_name: Antigua and Barbuda
   latitude: '17.11337000'
   longitude: "-61.81962000"
-  wikiDataId: Q1771587
-- id: 150
-  name: Saint John’s
-  state_id: 3706
+- name: Saint John’s
   state_code: '04'
   state_name: Saint John
-  country_id: 10
-  country_code: AG
-  country_name: Antigua and Barbuda
   latitude: '17.12096000'
   longitude: "-61.84329000"
-  wikiDataId: Q36262
-- id: 143
-  name: Bolands
-  state_id: 3707
+- name: Bolands
   state_code: '05'
   state_name: Saint Mary
-  country_id: 10
-  country_code: AG
-  country_name: Antigua and Barbuda
   latitude: '17.06565000'
   longitude: "-61.87466000"
-  wikiDataId: Q1771701
-- id: 145
-  name: Falmouth
-  state_id: 3705
+- name: Falmouth
   state_code: '06'
   state_name: Saint Paul
-  country_id: 10
-  country_code: AG
-  country_name: Antigua and Barbuda
   latitude: '17.02741000'
   longitude: "-61.78136000"
-  wikiDataId: Q3299460
-- id: 146
-  name: Liberta
-  state_id: 3705
+- name: Liberta
   state_code: '06'
   state_name: Saint Paul
-  country_id: 10
-  country_code: AG
-  country_name: Antigua and Barbuda
   latitude: '17.04141000'
   longitude: "-61.79052000"
-  wikiDataId: Q1771710
-- id: 142
-  name: All Saints
-  state_id: 3704
+- name: All Saints
   state_code: '07'
   state_name: Saint Peter
-  country_id: 10
-  country_code: AG
-  country_name: Antigua and Barbuda
   latitude: '17.06671000'
   longitude: "-61.79303000"
-  wikiDataId: Q1771715
-- id: 147
-  name: Parham
-  state_id: 3704
+- name: Parham
   state_code: '07'
   state_name: Saint Peter
-  country_id: 10
-  country_code: AG
-  country_name: Antigua and Barbuda
   latitude: '17.09682000'
   longitude: "-61.77046000"
-  wikiDataId: Q376195

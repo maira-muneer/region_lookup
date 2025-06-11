@@ -1,1486 +1,676 @@
 ---
-- id: 129894
-  name: Andijon
-  state_id: 2540
+- name: Andijon
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.78206000'
   longitude: '72.34424000'
-  wikiDataId: Q487656
-- id: 129895
-  name: Andijon Tumani
-  state_id: 2540
+- name: Andijon Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.80000000'
   longitude: '72.41667000'
-  wikiDataId: Q2399866
-- id: 129897
-  name: Asaka
-  state_id: 2540
+- name: Asaka
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.64153000'
   longitude: '72.23868000'
-  wikiDataId: Q378393
-- id: 129898
-  name: Asaka Tumani
-  state_id: 2540
+- name: Asaka Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.66667000'
   longitude: '72.25000000'
-  wikiDataId: Q578148
-- id: 129899
-  name: Baliqchi Tumani
-  state_id: 2540
+- name: Baliqchi Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.86667000'
   longitude: '72.00000000'
-  wikiDataId: Q1646692
-- id: 129908
-  name: Bo‘z Tumani
-  state_id: 2540
+- name: Bo‘z Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.66667000'
   longitude: '71.91667000'
-  wikiDataId: Q2399915
-- id: 129910
-  name: Buloqboshi Tumani
-  state_id: 2540
+- name: Buloqboshi Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.61667000'
   longitude: '72.46667000'
-  wikiDataId: Q2399900
-- id: 129937
-  name: Izboskan Tumani
-  state_id: 2540
+- name: Izboskan Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.91667000'
   longitude: '72.25000000'
-  wikiDataId: Q2399845
-- id: 129938
-  name: Jalolkuduk Tumani
-  state_id: 2540
+- name: Jalolkuduk Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.75000000'
   longitude: '72.66667000'
-  wikiDataId: Q609133
-- id: 129946
-  name: Khŭjaobod Tumani
-  state_id: 2540
+- name: Khŭjaobod Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.66667000'
   longitude: '72.58333000'
-  wikiDataId: Q2399836
-- id: 129956
-  name: Marhamat
-  state_id: 2540
+- name: Marhamat
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.48048000'
   longitude: '72.31388000'
-  wikiDataId: Q3847075
-- id: 129957
-  name: Marhamat Tumani
-  state_id: 2540
+- name: Marhamat Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.50000000'
   longitude: '72.31667000'
-  wikiDataId: Q2399255
-- id: 129971
-  name: Oltinkŭl Tumani
-  state_id: 2540
+- name: Oltinkŭl Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.80000000'
   longitude: '72.16667000'
-  wikiDataId: Q2631630
-- id: 129973
-  name: Pakhtaobod Tumani
-  state_id: 2540
+- name: Pakhtaobod Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.93333000'
   longitude: '72.50000000'
-  wikiDataId: Q1646660
-- id: 129976
-  name: Paxtaobod
-  state_id: 2540
+- name: Paxtaobod
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.92936000'
   longitude: '72.49687000'
-  wikiDataId: Q867159
-- id: 129987
-  name: Qo‘rg‘ontepa
-  state_id: 2540
+- name: Qo‘rg‘ontepa
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.73192000'
   longitude: '72.76177000'
-  wikiDataId: Q609368
-- id: 129990
-  name: Qŭrghontepa Tumani
-  state_id: 2540
+- name: Qŭrghontepa Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.75000000'
   longitude: '72.83333000'
-  wikiDataId: Q2671584
-- id: 129996
-  name: Shahrikhon Tumani
-  state_id: 2540
+- name: Shahrikhon Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.71667000'
   longitude: '72.06667000'
-  wikiDataId: Q926306
-- id: 129998
-  name: Shahrixon
-  state_id: 2540
+- name: Shahrixon
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.71331000'
   longitude: '72.05706000'
-  wikiDataId: Q1659154
-- id: 130012
-  name: Ulug‘nor Tumani
-  state_id: 2540
+- name: Ulug‘nor Tumani
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.75000000'
   longitude: '71.70000000'
-  wikiDataId: Q2399889
-- id: 130018
-  name: Xo‘jaobod
-  state_id: 2540
+- name: Xo‘jaobod
   state_code: AN
   state_name: Andijan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.66886000'
   longitude: '72.56002000'
-  wikiDataId: Q2609325
-- id: 129909
-  name: Bukhara
-  state_id: 2541
+- name: Bukhara
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.77472000'
   longitude: '64.42861000'
-  wikiDataId: Q5764
-- id: 129925
-  name: Galaosiyo
-  state_id: 2541
+- name: Galaosiyo
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.85778000'
   longitude: '64.44833000'
-  wikiDataId: Q650352
-- id: 129926
-  name: Gazli
-  state_id: 2541
+- name: Gazli
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.13333000'
   longitude: '63.45000000'
-  wikiDataId: Q31916861
-- id: 129927
-  name: Ghijduwon
-  state_id: 2541
+- name: Ghijduwon
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.10000000'
   longitude: '64.68333000'
-  wikiDataId: Q1027045
-- id: 129942
-  name: Karakul’
-  state_id: 2541
+- name: Karakul’
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.53333000'
   longitude: '63.83333000'
-  wikiDataId: Q31929948
-- id: 129950
-  name: Kogon
-  state_id: 2541
+- name: Kogon
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.72278000'
   longitude: '64.55167000'
-  wikiDataId: Q1658752
-- id: 129968
-  name: Olot
-  state_id: 2541
+- name: Olot
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.41500000'
   longitude: '63.80333000'
-  wikiDataId: Q1993744
-- id: 129978
-  name: Peshku Tumani
-  state_id: 2541
+- name: Peshku Tumani
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.41667000'
   longitude: '63.83333000'
-  wikiDataId: Q2603566
-- id: 129984
-  name: Qorako’l
-  state_id: 2541
+- name: Qorako’l
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.49944000'
   longitude: '63.85389000'
-  wikiDataId: Q609840
-- id: 129985
-  name: Qorovulbozor
-  state_id: 2541
+- name: Qorovulbozor
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.50056000'
   longitude: '64.79361000'
-  wikiDataId: Q867044
-- id: 129993
-  name: Romiton
-  state_id: 2541
+- name: Romiton
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.92944000'
   longitude: '64.37944000'
-  wikiDataId: Q797824
-- id: 129999
-  name: Shofirkon
-  state_id: 2541
+- name: Shofirkon
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.12000000'
   longitude: '64.50139000'
-  wikiDataId: Q722941
-- id: 130016
-  name: Wobkent
-  state_id: 2541
+- name: Wobkent
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.03028000'
   longitude: '64.51500000'
-  wikiDataId: Q500641
-- id: 130017
-  name: Wobkent Tumani
-  state_id: 2541
+- name: Wobkent Tumani
   state_code: BU
   state_name: Bukhara
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.00000000'
   longitude: '64.50000000'
-  wikiDataId: Q2609325
-- id: 129903
-  name: Beshariq
-  state_id: 2538
+- name: Beshariq
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.43583000'
   longitude: '70.61028000'
-  wikiDataId: Q891824
-- id: 129923
-  name: Fergana
-  state_id: 2538
+- name: Fergana
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.38421000'
   longitude: '71.78432000'
-  wikiDataId: Q486329
-- id: 129932
-  name: Hamza
-  state_id: 2538
+- name: Hamza
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.42762000'
   longitude: '71.50534000'
-  wikiDataId: Q31919174
-- id: 129948
-  name: Kirguli
-  state_id: 2538
+- name: Kirguli
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.43553000'
   longitude: '71.76721000'
-  wikiDataId: Q31932288
-- id: 129955
-  name: Marg‘ilon
-  state_id: 2538
+- name: Marg‘ilon
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.47237000'
   longitude: '71.72463000'
-  wikiDataId: Q261076
-- id: 129969
-  name: Oltiariq
-  state_id: 2538
+- name: Oltiariq
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.39194000'
   longitude: '71.47417000'
-  wikiDataId: Q4063019
-- id: 129986
-  name: Qo‘qon
-  state_id: 2538
+- name: Qo‘qon
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.52861000'
   longitude: '70.94250000'
-  wikiDataId: Q489890
-- id: 129988
-  name: Quva
-  state_id: 2538
+- name: Quva
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.52204000'
   longitude: '72.07292000'
-  wikiDataId: Q609368
-- id: 129989
-  name: Quvasoy
-  state_id: 2538
+- name: Quvasoy
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.29721000'
   longitude: '71.98026000'
-  wikiDataId: Q650660
-- id: 129992
-  name: Rishton
-  state_id: 2538
+- name: Rishton
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.35667000'
   longitude: '71.28472000'
-  wikiDataId: Q250276
-- id: 130000
-  name: Shohimardon
-  state_id: 2538
+- name: Shohimardon
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.98322000'
   longitude: '71.80512000'
-  wikiDataId: Q1005592
-- id: 130004
-  name: So‘x Tumani
-  state_id: 2538
+- name: So‘x Tumani
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.04417000'
   longitude: '71.09417000'
-  wikiDataId: Q1027768
-- id: 130008
-  name: Toshloq
-  state_id: 2538
+- name: Toshloq
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.47722000'
   longitude: '71.76778000'
-  wikiDataId: Q4453032
-- id: 130019
-  name: Yangi Marg‘ilon
-  state_id: 2538
+- name: Yangi Marg‘ilon
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.42722000'
   longitude: '71.71889000'
-  wikiDataId: Q31934372
-- id: 130025
-  name: Yaypan
-  state_id: 2538
+- name: Yaypan
   state_code: FA
   state_name: Fergana
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.37583000'
   longitude: '70.81556000'
-  wikiDataId: Q3608608
-- id: 129919
-  name: Dashtobod
-  state_id: 2545
+- name: Dashtobod
   state_code: JI
   state_name: Jizzakh
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.12694000'
   longitude: '68.49444000'
-  wikiDataId: Q3560309
-- id: 129922
-  name: Dŭstlik
-  state_id: 2545
+- name: Dŭstlik
   state_code: JI
   state_name: Jizzakh
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.52472000'
   longitude: '68.03583000'
-  wikiDataId: Q31912870
-- id: 129924
-  name: Gagarin
-  state_id: 2545
+- name: Gagarin
   state_code: JI
   state_name: Jizzakh
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.66194000'
   longitude: '68.17222000'
-  wikiDataId: Q31916588
-- id: 129939
-  name: Jizzax
-  state_id: 2545
+- name: Jizzax
   state_code: JI
   state_name: Jizzakh
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.11583000'
   longitude: '67.84222000'
-  wikiDataId: Q572380
-- id: 129975
-  name: Paxtakor
-  state_id: 2545
+- name: Paxtakor
   state_code: JI
   state_name: Jizzakh
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.31528000'
   longitude: '67.95444000'
-  wikiDataId: Q769384
-- id: 130027
-  name: Zomin
-  state_id: 2545
+- name: Zomin
   state_code: JI
   state_name: Jizzakh
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.96056000'
   longitude: '68.39583000'
-  wikiDataId: Q891867
-- id: 129902
-  name: Beruniy
-  state_id: 2548
+- name: Beruniy
   state_code: QR
   state_name: Karakalpakstan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.69111000'
   longitude: '60.75250000'
-  wikiDataId: Q18242285
-- id: 129944
-  name: Kegeyli Shahar
-  state_id: 2548
+- name: Kegeyli Shahar
   state_code: QR
   state_name: Karakalpakstan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '42.77667000'
   longitude: '59.60778000'
-  wikiDataId: Q3077975
-- id: 129947
-  name: Khŭjayli
-  state_id: 2548
+- name: Khŭjayli
   state_code: QR
   state_name: Karakalpakstan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '42.40043000'
   longitude: '59.46005000'
-  wikiDataId: Q1400173
-- id: 129954
-  name: Manghit
-  state_id: 2548
+- name: Manghit
   state_code: QR
   state_name: Karakalpakstan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '42.11556000'
   longitude: '60.05972000'
-  wikiDataId: Q3544447
-- id: 129959
-  name: Mŭynoq
-  state_id: 2548
+- name: Mŭynoq
   state_code: QR
   state_name: Karakalpakstan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '43.76833000'
   longitude: '59.02139000'
-  wikiDataId: Q750989
-- id: 129963
-  name: Novyy Turtkul’
-  state_id: 2548
+- name: Novyy Turtkul’
   state_code: QR
   state_name: Karakalpakstan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.55000000'
   longitude: '61.01667000'
-  wikiDataId: Q31972515
-- id: 129964
-  name: Nukus
-  state_id: 2548
+- name: Nukus
   state_code: QR
   state_name: Karakalpakstan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '42.45306000'
   longitude: '59.61028000'
-  wikiDataId: Q489898
-- id: 129970
-  name: Oltinko‘l
-  state_id: 2548
+- name: Oltinko‘l
   state_code: QR
   state_name: Karakalpakstan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '43.06874000'
   longitude: '58.90372000'
-  wikiDataId: Q31980284
-- id: 129917
-  name: Chortoq
-  state_id: 2537
+- name: Chortoq
   state_code: NG
   state_name: Namangan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.06924000'
   longitude: '71.82372000'
-  wikiDataId: Q722997
-- id: 129918
-  name: Chust
-  state_id: 2537
+- name: Chust
   state_code: NG
   state_name: Namangan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.00329000'
   longitude: '71.23791000'
-  wikiDataId: Q1090050
-- id: 129933
-  name: Haqqulobod
-  state_id: 2537
+- name: Haqqulobod
   state_code: NG
   state_name: Namangan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.91667000'
   longitude: '72.11667000'
-  wikiDataId: Q2892693
-- id: 129952
-  name: Kosonsoy
-  state_id: 2537
+- name: Kosonsoy
   state_code: NG
   state_name: Namangan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.24944000'
   longitude: '71.54738000'
-  wikiDataId: Q609892
-- id: 129960
-  name: Namangan
-  state_id: 2537
+- name: Namangan
   state_code: NG
   state_name: Namangan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.99830000'
   longitude: '71.67257000'
-  wikiDataId: Q492552
-- id: 129980
-  name: Pop
-  state_id: 2537
+- name: Pop
   state_code: NG
   state_name: Namangan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.87361000'
   longitude: '71.10889000'
-  wikiDataId: Q31999206
-- id: 130009
-  name: To‘rqao‘rg‘on
-  state_id: 2537
+- name: To‘rqao‘rg‘on
   state_code: NG
   state_name: Namangan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.99984000'
   longitude: '71.51162000'
-  wikiDataId: Q32036936
-- id: 130007
-  name: Toshbuloq
-  state_id: 2537
+- name: Toshbuloq
   state_code: NG
   state_name: Namangan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.91617000'
   longitude: '71.57819000'
-  wikiDataId: Q32035118
-- id: 130011
-  name: Uchqŭrghon Shahri
-  state_id: 2537
+- name: Uchqŭrghon Shahri
   state_code: NG
   state_name: Namangan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.11371000'
   longitude: '72.07915000'
-  wikiDataId: Q891949
-- id: 130015
-  name: Uychi
-  state_id: 2537
+- name: Uychi
   state_code: NG
   state_name: Namangan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.08073000'
   longitude: '71.92331000'
-  wikiDataId: Q4470303
-- id: 130021
-  name: Yangiqo‘rg‘on
-  state_id: 2537
+- name: Yangiqo‘rg‘on
   state_code: NG
   state_name: Namangan
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.19474000'
   longitude: '71.72385000'
-  wikiDataId: Q20080698
-- id: 129961
-  name: Navoiy
-  state_id: 2542
+- name: Navoiy
   state_code: NW
   state_name: Navoiy
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.08444000'
   longitude: '65.37917000'
-  wikiDataId: Q763015
-- id: 129965
-  name: Nurota
-  state_id: 2542
+- name: Nurota
   state_code: NW
   state_name: Navoiy
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.56139000'
   longitude: '65.68861000'
-  wikiDataId: Q609414
-- id: 129983
-  name: Qiziltepa
-  state_id: 2542
+- name: Qiziltepa
   state_code: NW
   state_name: Navoiy
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.03306000'
   longitude: '64.85000000'
-  wikiDataId: Q722945
-- id: 130022
-  name: Yangirabot
-  state_id: 2542
+- name: Yangirabot
   state_code: NW
   state_name: Navoiy
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.02539000'
   longitude: '65.96095000'
-  wikiDataId: Q6169765
-- id: 129904
-  name: Beshkent
-  state_id: 2543
+- name: Beshkent
   state_code: QA
   state_name: Qashqadaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '38.82139000'
   longitude: '65.65306000'
-  wikiDataId: Q891824
-- id: 129916
-  name: Chiroqchi
-  state_id: 2543
+- name: Chiroqchi
   state_code: QA
   state_name: Qashqadaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.03361000'
   longitude: '66.57222000'
-  wikiDataId: Q31905537
-- id: 129931
-  name: G‘uzor
-  state_id: 2543
+- name: G‘uzor
   state_code: QA
   state_name: Qashqadaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '38.62083000'
   longitude: '66.24806000'
-  wikiDataId: Q2631365
-- id: 129949
-  name: Kitob
-  state_id: 2543
+- name: Kitob
   state_code: QA
   state_name: Qashqadaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.08425000'
   longitude: '66.83318000'
-  wikiDataId: Q722938
-- id: 129951
-  name: Koson
-  state_id: 2543
+- name: Koson
   state_code: QA
   state_name: Qashqadaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.03750000'
   longitude: '65.58500000'
-  wikiDataId: Q1658752
-- id: 129958
-  name: Muborak
-  state_id: 2543
+- name: Muborak
   state_code: QA
   state_name: Qashqadaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.25528000'
   longitude: '65.15278000'
-  wikiDataId: Q599533
-- id: 129962
-  name: Nishon Tumani
-  state_id: 2543
+- name: Nishon Tumani
   state_code: QA
   state_name: Qashqadaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '38.69395000'
   longitude: '65.67512000'
-  wikiDataId: Q31970870
-- id: 129981
-  name: Qarshi
-  state_id: 2543
+- name: Qarshi
   state_code: QA
   state_name: Qashqadaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '38.86056000'
   longitude: '65.78905000'
-  wikiDataId: Q644008
-- id: 129997
-  name: Shahrisabz
-  state_id: 2543
+- name: Shahrisabz
   state_code: QA
   state_name: Qashqadaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.05778000'
   longitude: '66.83417000'
-  wikiDataId: Q569766
-- id: 129911
-  name: Bulung’ur
-  state_id: 2544
+- name: Bulung’ur
   state_code: SA
   state_name: Samarqand
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.76472000'
   longitude: '67.27139000'
-  wikiDataId: Q31885663
-- id: 129912
-  name: Charxin
-  state_id: 2544
+- name: Charxin
   state_code: SA
   state_name: Samarqand
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.69667000'
   longitude: '66.76861000'
-  wikiDataId: Q31902781
-- id: 129913
-  name: Chelak
-  state_id: 2544
+- name: Chelak
   state_code: SA
   state_name: Samarqand
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.92028000'
   longitude: '66.86111000'
-  wikiDataId: Q31903050
-- id: 129920
-  name: Daxbet
-  state_id: 2544
+- name: Daxbet
   state_code: SA
   state_name: Samarqand
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.76389000'
   longitude: '66.91250000'
-  wikiDataId: Q31910030
-- id: 129935
-  name: Ishtixon
-  state_id: 2544
+- name: Ishtixon
   state_code: SA
   state_name: Samarqand
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.96639000'
   longitude: '66.48611000'
-  wikiDataId: Q797869
-- id: 129940
-  name: Jomboy
-  state_id: 2544
+- name: Jomboy
   state_code: SA
   state_name: Samarqand
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.69889000'
   longitude: '67.09333000'
-  wikiDataId: Q31928532
-- id: 129941
-  name: Juma
-  state_id: 2544
+- name: Juma
   state_code: SA
   state_name: Samarqand
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.71611000'
   longitude: '66.66417000'
-  wikiDataId: Q892020
-- id: 129943
-  name: Kattaqo‘rg‘on
-  state_id: 2544
+- name: Kattaqo‘rg‘on
   state_code: SA
   state_name: Samarqand
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.89889000'
   longitude: '66.25611000'
-  wikiDataId: Q422197
-- id: 129972
-  name: Oqtosh
-  state_id: 2544
+- name: Oqtosh
   state_code: SA
   state_name: Samarqand
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.92139000'
   longitude: '65.92528000'
-  wikiDataId: Q31980861
-- id: 129977
-  name: Payshanba
-  state_id: 2544
+- name: Payshanba
   state_code: SA
   state_name: Samarqand
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.00778000'
   longitude: '66.23694000'
-  wikiDataId: Q6067717
-- id: 129995
-  name: Samarkand
-  state_id: 2544
+- name: Samarkand
   state_code: SA
   state_name: Samarqand
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.65417000'
   longitude: '66.95972000'
-  wikiDataId: Q5753
-- id: 130014
-  name: Urgut
-  state_id: 2544
+- name: Urgut
   state_code: SA
   state_name: Samarqand
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '39.40222000'
   longitude: '67.24306000'
-  wikiDataId: Q263808
-- id: 129928
-  name: Guliston
-  state_id: 2547
+- name: Guliston
   state_code: SI
   state_name: Sirdaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.48972000'
   longitude: '68.78417000'
-  wikiDataId: Q609649
-- id: 130003
-  name: Sirdaryo
-  state_id: 2547
+- name: Sirdaryo
   state_code: SI
   state_name: Sirdaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.84361000'
   longitude: '68.66167000'
-  wikiDataId: Q500666
-- id: 130023
-  name: Yangiyer
-  state_id: 2547
+- name: Yangiyer
   state_code: SI
   state_name: Sirdaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.27500000'
   longitude: '68.82250000'
-  wikiDataId: Q1658420
-- id: 129906
-  name: Boysun
-  state_id: 2546
+- name: Boysun
   state_code: SU
   state_name: Surxondaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '38.20835000'
   longitude: '67.20664000'
-  wikiDataId: Q609395
-- id: 129921
-  name: Denov
-  state_id: 2546
+- name: Denov
   state_code: SU
   state_name: Surxondaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '38.26746000'
   longitude: '67.89886000'
-  wikiDataId: Q1189758
-- id: 130002
-  name: Sho‘rchi
-  state_id: 2546
+- name: Sho‘rchi
   state_code: SU
   state_name: Surxondaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '37.99944000'
   longitude: '67.78750000'
-  wikiDataId: Q32018847
-- id: 130006
-  name: Tirmiz
-  state_id: 2546
+- name: Tirmiz
   state_code: SU
   state_name: Surxondaryo
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '37.22417000'
   longitude: '67.27833000'
-  wikiDataId: Q491879
-- id: 129901
-  name: Bektemir
-  state_id: 2536
+- name: Bektemir
   state_code: TK
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.20972000'
   longitude: '69.33417000'
-  wikiDataId: Q815053
-- id: 130005
-  name: Tashkent
-  state_id: 2536
+- name: Tashkent
   state_code: TK
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.26465000'
   longitude: '69.21627000'
-  wikiDataId: Q269
-- id: 129896
-  name: Angren
-  state_id: 2549
+- name: Angren
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.01667000'
   longitude: '70.14361000'
-  wikiDataId: Q542966
-- id: 129900
-  name: Bekobod
-  state_id: 2549
+- name: Bekobod
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.22083000'
   longitude: '69.26972000'
-  wikiDataId: Q815053
-- id: 129907
-  name: Bo‘ka
-  state_id: 2549
+- name: Bo‘ka
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.81108000'
   longitude: '69.19417000'
-  wikiDataId: Q31887573
-- id: 129914
-  name: Chinoz
-  state_id: 2549
+- name: Chinoz
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.93633000'
   longitude: '68.76128000'
-  wikiDataId: Q770553
-- id: 129915
-  name: Chirchiq
-  state_id: 2549
+- name: Chirchiq
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.46889000'
   longitude: '69.58222000'
-  wikiDataId: Q913406
-- id: 129930
-  name: G‘azalkent
-  state_id: 2549
+- name: G‘azalkent
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.55806000'
   longitude: '69.77083000'
-  wikiDataId: Q31919018
-- id: 129936
-  name: Iskandar
-  state_id: 2549
+- name: Iskandar
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.55389000'
   longitude: '69.70083000'
-  wikiDataId: Q31923275
-- id: 129953
-  name: Kyzyldzhar
-  state_id: 2549
+- name: Kyzyldzhar
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.56667000'
   longitude: '70.01667000'
-  wikiDataId: Q31937440
-- id: 129966
-  name: Ohangaron
-  state_id: 2549
+- name: Ohangaron
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.90639000'
   longitude: '69.63833000'
-  wikiDataId: Q31979770
-- id: 129967
-  name: Olmaliq
-  state_id: 2549
+- name: Olmaliq
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.84472000'
   longitude: '69.59833000'
-  wikiDataId: Q986429
-- id: 129974
-  name: Parkent
-  state_id: 2549
+- name: Parkent
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.29444000'
   longitude: '69.67639000'
-  wikiDataId: Q771447
-- id: 129979
-  name: Piskent
-  state_id: 2549
+- name: Piskent
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.89722000'
   longitude: '69.35056000'
-  wikiDataId: Q769846
-- id: 129982
-  name: Qibray
-  state_id: 2549
+- name: Qibray
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.38972000'
   longitude: '69.46500000'
-  wikiDataId: Q32004143
-- id: 129994
-  name: Salor
-  state_id: 2549
+- name: Salor
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.37222000'
   longitude: '69.38167000'
-  wikiDataId: Q32014979
-- id: 130010
-  name: Tŭytepa
-  state_id: 2549
+- name: Tŭytepa
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.03210000'
   longitude: '69.36253000'
-  wikiDataId: Q891949
-- id: 130028
-  name: Ŭrtaowul
-  state_id: 2549
+- name: Ŭrtaowul
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.18667000'
   longitude: '69.14528000'
-  wikiDataId: Q32059593
-- id: 130020
-  name: Yangiobod
-  state_id: 2549
+- name: Yangiobod
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.11919000'
   longitude: '70.09406000'
-  wikiDataId: Q2639854
-- id: 130024
-  name: Yangiyŭl
-  state_id: 2549
+- name: Yangiyŭl
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.11202000'
   longitude: '69.04710000'
-  wikiDataId: Q384774
-- id: 130026
-  name: Zafar
-  state_id: 2549
+- name: Zafar
   state_code: TO
   state_name: Tashkent
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '40.98333000'
   longitude: '68.90000000'
-  wikiDataId: Q32058669
-- id: 129905
-  name: Boghot Tumani
-  state_id: 2539
+- name: Boghot Tumani
   state_code: XO
   state_name: Xorazm
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.31495000'
   longitude: '60.85327000'
-  wikiDataId: Q2605506
-- id: 129929
-  name: Gurlan
-  state_id: 2539
+- name: Gurlan
   state_code: XO
   state_name: Xorazm
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.84472000'
   longitude: '60.39194000'
-  wikiDataId: Q3779859
-- id: 129934
-  name: Hazorasp
-  state_id: 2539
+- name: Hazorasp
   state_code: XO
   state_name: Xorazm
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.31944000'
   longitude: '61.07417000'
-  wikiDataId: Q650394
-- id: 129945
-  name: Khiwa
-  state_id: 2539
+- name: Khiwa
   state_code: XO
   state_name: Xorazm
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.37833000'
   longitude: '60.36389000'
-  wikiDataId: Q486195
-- id: 129991
-  name: Qŭshkŭpir
-  state_id: 2539
+- name: Qŭshkŭpir
   state_code: XO
   state_name: Xorazm
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.53500000'
   longitude: '60.34556000'
-  wikiDataId: Q650339
-- id: 130001
-  name: Showot
-  state_id: 2539
+- name: Showot
   state_code: XO
   state_name: Xorazm
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.65583000'
   longitude: '60.30250000'
-  wikiDataId: Q650384
-- id: 130013
-  name: Urganch
-  state_id: 2539
+- name: Urganch
   state_code: XO
   state_name: Xorazm
-  country_id: 236
-  country_code: UZ
-  country_name: Uzbekistan
   latitude: '41.55000000'
   longitude: '60.63333000'
-  wikiDataId: Q472925

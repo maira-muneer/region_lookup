@@ -1,419 +1,191 @@
 ---
-- id: 76595
-  name: Chiure
-  state_id: 3327
+- name: Chiure
   state_code: P
   state_name: Cabo Delgado
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-13.46665000"
   longitude: '39.70317000'
-  wikiDataId: Q2640763
-- id: 76614
-  name: Mocímboa
-  state_id: 3327
+- name: Mocímboa
   state_code: P
   state_name: Cabo Delgado
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-11.31667000"
   longitude: '40.35000000'
-  wikiDataId: Q6484207
-- id: 76615
-  name: Montepuez
-  state_id: 3327
+- name: Montepuez
   state_code: P
   state_name: Cabo Delgado
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-13.12556000"
   longitude: '38.99972000'
-  wikiDataId: Q1027174
-- id: 76621
-  name: Pemba
-  state_id: 3327
+- name: Pemba
   state_code: P
   state_name: Cabo Delgado
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-12.97395000"
   longitude: '40.51775000'
-  wikiDataId: Q498048
-- id: 76592
-  name: Chibuto
-  state_id: 3329
+- name: Chibuto
   state_code: G
   state_name: Gaza
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-24.68667000"
   longitude: '33.53056000'
-  wikiDataId: Q1011972
-- id: 76596
-  name: Chokwé
-  state_id: 3329
+- name: Chokwé
   state_code: G
   state_name: Gaza
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-24.53333000"
   longitude: '32.98333000'
-  wikiDataId: Q1022170
-- id: 76604
-  name: Macia
-  state_id: 3329
+- name: Macia
   state_code: G
   state_name: Gaza
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-25.02694000"
   longitude: '33.09889000'
-  wikiDataId: Q2653584
-- id: 76625
-  name: Xai-Xai
-  state_id: 3329
+- name: Xai-Xai
   state_code: G
   state_name: Gaza
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-25.05194000"
   longitude: '33.64417000'
-  wikiDataId: Q318299
-- id: 76601
-  name: Inhambane
-  state_id: 3330
+- name: Inhambane
   state_code: I
   state_name: Inhambane
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-23.86500000"
   longitude: '35.38333000'
-  wikiDataId: Q456577
-- id: 76612
-  name: Maxixe
-  state_id: 3330
+- name: Maxixe
   state_code: I
   state_name: Inhambane
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-23.85972000"
   longitude: '35.34722000'
-  wikiDataId: Q525118
-- id: 76593
-  name: Chimoio
-  state_id: 3337
+- name: Chimoio
   state_code: B
   state_name: Manica
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-19.11639000"
   longitude: '33.48333000'
-  wikiDataId: Q638509
-- id: 76591
-  name: Boane District
-  state_id: 3332
+- name: Boane District
   state_code: L
   state_name: Maputo
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-26.02900000"
   longitude: '32.38900000'
-  wikiDataId: Q887507
-- id: 76597
-  name: Concelho de Matola
-  state_id: 3332
+- name: Concelho de Matola
   state_code: L
   state_name: Maputo
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-25.83472000"
   longitude: '32.49516000'
-  wikiDataId: Q109949
-- id: 76605
-  name: Magude District
-  state_id: 3332
+- name: Magude District
   state_code: L
   state_name: Maputo
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-25.02389000"
   longitude: '32.65150000'
-  wikiDataId: Q6484234
-- id: 76607
-  name: Manhica
-  state_id: 3332
+- name: Manhica
   state_code: L
   state_name: Maputo
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-25.34035000"
   longitude: '32.84234000'
-  wikiDataId: Q6749343
-- id: 76609
-  name: Marracuene District
-  state_id: 3332
+- name: Marracuene District
   state_code: L
   state_name: Maputo
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-25.73938000"
   longitude: '32.67436000'
-  wikiDataId: Q6484180
-- id: 76610
-  name: Matola
-  state_id: 3332
+- name: Matola
   state_code: L
   state_name: Maputo
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-25.96222000"
   longitude: '32.45889000'
-  wikiDataId: Q6484180
-- id: 76611
-  name: Matutiune District
-  state_id: 3332
+- name: Matutiune District
   state_code: L
   state_name: Maputo
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-26.43418000"
   longitude: '32.58820000'
-  wikiDataId: Q3852354
-- id: 76613
-  name: Moamba District
-  state_id: 3332
+- name: Moamba District
   state_code: L
   state_name: Maputo
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-25.60934000"
   longitude: '32.24321000'
-  wikiDataId: Q6484207
-- id: 76618
-  name: Namaacha District
-  state_id: 3332
+- name: Namaacha District
   state_code: L
   state_name: Maputo
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-26.10900000"
   longitude: '32.18000000'
-  wikiDataId: Q6484217
-- id: 76623
-  name: Ressano Garcia
-  state_id: 3332
+- name: Ressano Garcia
   state_code: L
   state_name: Maputo
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-25.44278000"
   longitude: '31.99528000'
-  wikiDataId: Q279377
-- id: 76602
-  name: KaTembe
-  state_id: 3335
+- name: KaTembe
   state_code: MPM
   state_name: Maputo
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-26.02985000"
   longitude: '32.53204000'
-  wikiDataId: Q18571930
-- id: 76608
-  name: Maputo
-  state_id: 3335
+- name: Maputo
   state_code: MPM
   state_name: Maputo
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-25.96553000"
   longitude: '32.58322000'
-  wikiDataId: Q3889
-- id: 76589
-  name: António Enes
-  state_id: 3336
+- name: António Enes
   state_code: "N"
   state_name: Nampula
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-16.23250000"
   longitude: '39.90861000'
-  wikiDataId: Q541656
-- id: 76600
-  name: Ilha de Moçambique
-  state_id: 3336
+- name: Ilha de Moçambique
   state_code: "N"
   state_name: Nampula
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-15.03417000"
   longitude: '40.73583000'
-  wikiDataId: Q331099
-- id: 76616
-  name: Mutuáli
-  state_id: 3336
+- name: Mutuáli
   state_code: "N"
   state_name: Nampula
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-14.87056000"
   longitude: '37.00444000'
-  wikiDataId: Q1027174
-- id: 76617
-  name: Nacala
-  state_id: 3336
+- name: Nacala
   state_code: "N"
   state_name: Nampula
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-14.56257000"
   longitude: '40.68538000'
-  wikiDataId: Q1027174
-- id: 76619
-  name: Nampula
-  state_id: 3336
+- name: Nampula
   state_code: "N"
   state_name: Nampula
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-15.11646000"
   longitude: '39.26660000'
-  wikiDataId: Q323801
-- id: 76598
-  name: Cuamba
-  state_id: 3333
+- name: Cuamba
   state_code: A
   state_name: Niassa
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-14.80306000"
   longitude: '36.53722000'
-  wikiDataId: Q1142811
-- id: 76603
-  name: Lichinga
-  state_id: 3333
+- name: Lichinga
   state_code: A
   state_name: Niassa
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-13.31278000"
   longitude: '35.24056000'
-  wikiDataId: Q667650
-- id: 76606
-  name: Mandimba
-  state_id: 3333
+- name: Mandimba
   state_code: A
   state_name: Niassa
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-14.35250000"
   longitude: '35.65056000'
-  wikiDataId: Q6484234
-- id: 76590
-  name: Beira
-  state_id: 3331
+- name: Beira
   state_code: S
   state_name: Sofala
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-19.84361000"
   longitude: '34.83889000'
-  wikiDataId: Q211563
-- id: 76599
-  name: Dondo
-  state_id: 3331
+- name: Dondo
   state_code: S
   state_name: Sofala
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-19.60944000"
   longitude: '34.74306000'
-  wikiDataId: Q1241126
-- id: 76620
-  name: Nhamatanda District
-  state_id: 3331
+- name: Nhamatanda District
   state_code: S
   state_name: Sofala
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-19.34900000"
   longitude: '34.26800000'
-  wikiDataId: Q10336659
-- id: 76624
-  name: Tete
-  state_id: 3334
+- name: Tete
   state_code: T
   state_name: Tete
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-16.15639000"
   longitude: '33.58667000'
-  wikiDataId: Q388242
-- id: 76588
-  name: Alto Molócuè
-  state_id: 3328
+- name: Alto Molócuè
   state_code: Q
   state_name: Zambezia
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-15.64932000"
   longitude: '37.66384000'
-  wikiDataId: Q4736799
-- id: 76594
-  name: Chinde
-  state_id: 3328
+- name: Chinde
   state_code: Q
   state_name: Zambezia
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-18.58111000"
   longitude: '36.45861000'
-  wikiDataId: Q2261361
-- id: 76622
-  name: Quelimane
-  state_id: 3328
+- name: Quelimane
   state_code: Q
   state_name: Zambezia
-  country_id: 150
-  country_code: MZ
-  country_name: Mozambique
   latitude: "-17.87861000"
   longitude: '36.88833000'
-  wikiDataId: Q318306

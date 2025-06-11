@@ -1,1596 +1,726 @@
 ---
-- id: 64774
-  name: Baringo
-  state_id: 181
+- name: Baringo
   state_code: '01'
   state_name: Baringo
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.46667000'
   longitude: '35.96667000'
-  wikiDataId: Q4813647
-- id: 64781
-  name: Eldama Ravine
-  state_id: 181
+- name: Eldama Ravine
   state_code: '01'
   state_name: Baringo
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.05196000'
   longitude: '35.72734000'
-  wikiDataId: Q1009186
-- id: 64790
-  name: Kabarnet
-  state_id: 181
+- name: Kabarnet
   state_code: '01'
   state_name: Baringo
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.49194000'
   longitude: '35.74303000'
-  wikiDataId: Q166916
-- id: 64870
-  name: Sotik
-  state_id: 210
+- name: Sotik
   state_code: '02'
   state_name: Bomet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.69069000"
   longitude: '35.11102000'
-  wikiDataId: Q2422035
-- id: 64871
-  name: Sotik Post
-  state_id: 210
+- name: Sotik Post
   state_code: '02'
   state_name: Bomet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.78129000"
   longitude: '35.34156000'
-  wikiDataId: Q891951
-- id: 64776
-  name: Bungoma
-  state_id: 168
+- name: Bungoma
   state_code: '03'
   state_name: Bungoma
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.56350000'
   longitude: '34.56055000'
-  wikiDataId: Q996851
-- id: 64827
-  name: Malikisi
-  state_id: 168
+- name: Malikisi
   state_code: '03'
   state_name: Bungoma
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.67694000'
   longitude: '34.42167000'
-  wikiDataId: Q6740728
-- id: 64877
-  name: Webuye
-  state_id: 168
+- name: Webuye
   state_code: '03'
   state_name: Bungoma
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.60040000'
   longitude: '34.77119000'
-  wikiDataId: Q185340
-- id: 64777
-  name: Busia
-  state_id: 161
+- name: Busia
   state_code: '04'
   state_name: Busia
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.46005000'
   longitude: '34.11169000'
-  wikiDataId: Q1111957
-- id: 64821
-  name: Luanda
-  state_id: 161
+- name: Luanda
   state_code: '04'
   state_name: Busia
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.31354000'
   longitude: '34.07146000'
-  wikiDataId: Q6669717
-- id: 64822
-  name: Lugulu
-  state_id: 161
+- name: Lugulu
   state_code: '04'
   state_name: Busia
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.39337000'
   longitude: '34.30399000'
-  wikiDataId: Q6669717
-- id: 64826
-  name: Malaba
-  state_id: 161
+- name: Malaba
   state_code: '04'
   state_name: Busia
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.63513000'
   longitude: '34.28165000'
-  wikiDataId: Q6740728
-- id: 64848
-  name: Nambare
-  state_id: 161
+- name: Nambare
   state_code: '04'
   state_name: Busia
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.45813000'
   longitude: '34.25353000'
-  wikiDataId: Q239421
-- id: 64861
-  name: Port Victoria
-  state_id: 161
+- name: Port Victoria
   state_code: '04'
   state_name: Busia
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.09809000'
   longitude: '33.97248000'
-  wikiDataId: Q7108565
-- id: 154645
-  name: Chebiemit
-  state_id: 201
+- name: Chebiemit
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '1.05000000'
   longitude: '35.40000000'
-  wikiDataId:
-- id: 154648
-  name: Chepkorio
-  state_id: 201
+- name: Chepkorio
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.38330000'
   longitude: '35.45000000'
-  wikiDataId:
-- id: 154649
-  name: Chesoi
-  state_id: 201
+- name: Chesoi
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '1.15000000'
   longitude: '35.65000000'
-  wikiDataId:
-- id: 154650
-  name: Chesongoch
-  state_id: 201
+- name: Chesongoch
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '1.08330000'
   longitude: '35.65000000'
-  wikiDataId:
-- id: 154656
-  name: Flax
-  state_id: 201
+- name: Flax
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.45000000'
   longitude: '35.40000000'
-  wikiDataId:
-- id: 154642
-  name: Iten
-  state_id: 201
+- name: Iten
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.67080000'
   longitude: '35.50830000'
-  wikiDataId:
-- id: 154646
-  name: Kapcherop
-  state_id: 201
+- name: Kapcherop
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '1.23330000'
   longitude: '35.38330000'
-  wikiDataId:
-- id: 154651
-  name: Kapsait
-  state_id: 201
+- name: Kapsait
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '1.21670000'
   longitude: '35.30000000'
-  wikiDataId:
-- id: 154643
-  name: Kapsowar
-  state_id: 201
+- name: Kapsowar
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '1.01500000'
   longitude: '35.52250000'
-  wikiDataId:
-- id: 154652
-  name: Kaptalamwa
-  state_id: 201
+- name: Kaptalamwa
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '1.20000000'
   longitude: '35.45000000'
-  wikiDataId:
-- id: 154647
-  name: Kaptarakwa
-  state_id: 201
+- name: Kaptarakwa
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.43330000'
   longitude: '35.58330000'
-  wikiDataId:
-- id: 154653
-  name: Kapyego
-  state_id: 201
+- name: Kapyego
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '1.23330000'
   longitude: '35.66670000'
-  wikiDataId:
-- id: 154654
-  name: Kipmwarer
-  state_id: 201
+- name: Kipmwarer
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.91670000'
   longitude: '35.53330000'
-  wikiDataId:
-- id: 154655
-  name: Kocholwo
-  state_id: 201
+- name: Kocholwo
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.41670000'
   longitude: '35.56670000'
-  wikiDataId:
-- id: 154644
-  name: Tambach
-  state_id: 201
+- name: Tambach
   state_code: '05'
   state_name: Elgeyo-Marakwet
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.73330000'
   longitude: '35.58330000'
-  wikiDataId:
-- id: 64783
-  name: Embu
-  state_id: 163
+- name: Embu
   state_code: '06'
   state_name: Embu
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.53987000"
   longitude: '37.45743000'
-  wikiDataId: Q186362
-- id: 64784
-  name: Garissa
-  state_id: 196
+- name: Garissa
   state_code: '07'
   state_name: Garissa
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.45275000"
   longitude: '39.64601000'
-  wikiDataId: Q845717
-- id: 64787
-  name: Homa Bay
-  state_id: 195
+- name: Homa Bay
   state_code: '08'
   state_name: Homa Bay
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.52731000"
   longitude: '34.45714000'
-  wikiDataId: Q1009161
-- id: 64860
-  name: Oyugis
-  state_id: 195
+- name: Oyugis
   state_code: '08'
   state_name: Homa Bay
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.50974000"
   longitude: '34.73067000'
-  wikiDataId: Q7108565
-- id: 64863
-  name: Rachuonyo District
-  state_id: 195
+- name: Rachuonyo District
   state_code: '08'
   state_name: Homa Bay
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.44000000"
   longitude: '34.73900000'
-  wikiDataId: Q2125323
-- id: 64788
-  name: Isiolo
-  state_id: 170
+- name: Isiolo
   state_code: '09'
   state_name: Isiolo
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.35462000'
   longitude: '37.58218000'
-  wikiDataId: Q1020292
-- id: 64791
-  name: Kajiado
-  state_id: 197
+- name: Kajiado
   state_code: '10'
   state_name: Kajiado
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.85238000"
   longitude: '36.77683000'
-  wikiDataId: Q2349480
-- id: 64824
-  name: Magadi
-  state_id: 197
+- name: Magadi
   state_code: '10'
   state_name: Kajiado
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.90122000"
   longitude: '36.28700000'
-  wikiDataId: Q693093
-- id: 64853
-  name: Ngong
-  state_id: 197
+- name: Ngong
   state_code: '10'
   state_name: Kajiado
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.35270000"
   longitude: '36.66990000'
-  wikiDataId: Q1279716
-- id: 64778
-  name: Butere
-  state_id: 158
+- name: Butere
   state_code: '11'
   state_name: Kakamega
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.20694000'
   longitude: '34.49006000'
-  wikiDataId: Q1017895
-- id: 64792
-  name: Kakamega
-  state_id: 158
+- name: Kakamega
   state_code: '11'
   state_name: Kakamega
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.28422000'
   longitude: '34.75229000'
-  wikiDataId: Q302912
-- id: 64842
-  name: Mumias
-  state_id: 158
+- name: Mumias
   state_code: '11'
   state_name: Kakamega
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.33474000'
   longitude: '34.48796000'
-  wikiDataId: Q1020110
-- id: 64799
-  name: Kericho
-  state_id: 193
+- name: Kericho
   state_code: '12'
   state_name: Kericho
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.36774000"
   longitude: '35.28314000'
-  wikiDataId: Q6373732
-- id: 64809
-  name: Kipkelion
-  state_id: 193
+- name: Kipkelion
   state_code: '12'
   state_name: Kericho
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.19982000"
   longitude: '35.46735000'
-  wikiDataId: Q6703164
-- id: 64818
-  name: Litein
-  state_id: 193
+- name: Litein
   state_code: '12'
   state_name: Kericho
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.58249000"
   longitude: '35.18969000'
-  wikiDataId: Q2613483
-- id: 64820
-  name: Londiani
-  state_id: 193
+- name: Londiani
   state_code: '12'
   state_name: Kericho
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.16552000"
   longitude: '35.59359000'
-  wikiDataId: Q6669717
-- id: 64802
-  name: Kiambu
-  state_id: 199
+- name: Kiambu
   state_code: '13'
   state_name: Kiambu
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.17139000"
   longitude: '36.83556000'
-  wikiDataId: Q3242959
-- id: 64805
-  name: Kikuyu
-  state_id: 199
+- name: Kikuyu
   state_code: '13'
   state_name: Kiambu
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.24627000"
   longitude: '36.66291000'
-  wikiDataId: Q1026079
-- id: 64817
-  name: Limuru
-  state_id: 199
+- name: Limuru
   state_code: '13'
   state_name: Kiambu
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.11360000"
   longitude: '36.64205000'
-  wikiDataId: Q1825607
-- id: 64874
-  name: Thika
-  state_id: 199
+- name: Thika
   state_code: '13'
   state_name: Kiambu
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.03326000"
   longitude: '37.06933000'
-  wikiDataId: Q589616
-- id: 64789
-  name: Iten
-  state_id: 174
+- name: Iten
   state_code: '14'
   state_name: Kilifi
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.67028000'
   longitude: '35.50806000'
-  wikiDataId: Q1020292
-- id: 64797
-  name: Kapsowar
-  state_id: 174
+- name: Kapsowar
   state_code: '14'
   state_name: Kilifi
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.97890000'
   longitude: '35.55854000'
-  wikiDataId: Q1009149
-- id: 64806
-  name: Kilifi
-  state_id: 174
+- name: Kilifi
   state_code: '14'
   state_name: Kilifi
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.63045000"
   longitude: '39.84992000'
-  wikiDataId: Q1009199
-- id: 64828
-  name: Malindi
-  state_id: 174
+- name: Malindi
   state_code: '14'
   state_name: Kilifi
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.21799000"
   longitude: '40.11692000'
-  wikiDataId: Q271411
-- id: 64832
-  name: Mariakani
-  state_id: 174
+- name: Mariakani
   state_code: '14'
   state_name: Kilifi
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.86261000"
   longitude: '39.47458000'
-  wikiDataId: Q6761771
-- id: 64872
-  name: Takaungu
-  state_id: 174
+- name: Takaungu
   state_code: '14'
   state_name: Kilifi
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.68350000"
   longitude: '39.85687000'
-  wikiDataId: Q3236500
-- id: 64801
-  name: Kerugoya
-  state_id: 167
+- name: Kerugoya
   state_code: '15'
   state_name: Kirinyaga
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.49887000"
   longitude: '37.28031000'
-  wikiDataId: Q1021572
-- id: 64866
-  name: Sagana
-  state_id: 167
+- name: Sagana
   state_code: '15'
   state_name: Kirinyaga
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.66806000"
   longitude: '37.20875000'
-  wikiDataId: Q7193402
-- id: 64810
-  name: Kisii
-  state_id: 159
+- name: Kisii
   state_code: '16'
   state_name: Kisii
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.68174000"
   longitude: '34.76666000'
-  wikiDataId: Q1007719
-- id: 64857
-  name: Ogembo
-  state_id: 159
+- name: Ogembo
   state_code: '16'
   state_name: Kisii
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.80116000"
   longitude: '34.72579000'
-  wikiDataId: Q2526331
-- id: 64772
-  name: Ahero
-  state_id: 171
+- name: Ahero
   state_code: '17'
   state_name: Kisumu
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.17359000"
   longitude: '34.91890000'
-  wikiDataId: Q2280998
-- id: 64811
-  name: Kisumu
-  state_id: 171
+- name: Kisumu
   state_code: '17'
   state_name: Kisumu
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.10221000"
   longitude: '34.76171000'
-  wikiDataId: Q214485
-- id: 64841
-  name: Muhoroni
-  state_id: 171
+- name: Muhoroni
   state_code: '17'
   state_name: Kisumu
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.15816000"
   longitude: '35.19645000'
-  wikiDataId: Q6930477
-- id: 64813
-  name: Kitui
-  state_id: 211
+- name: Kitui
   state_code: '18'
   state_name: Kitui
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.36696000"
   longitude: '38.01055000'
-  wikiDataId: Q3056770
-- id: 64844
-  name: Mwingi
-  state_id: 211
+- name: Mwingi
   state_code: '18'
   state_name: Kitui
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.93605000"
   longitude: '38.05955000'
-  wikiDataId: Q974323
-- id: 64785
-  name: Gazi
-  state_id: 173
+- name: Gazi
   state_code: '19'
   state_name: Kwale
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-4.42402000"
   longitude: '39.50588000'
-  wikiDataId: Q5526462
-- id: 64807
-  name: Kinango
-  state_id: 173
+- name: Kinango
   state_code: '19'
   state_name: Kwale
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-4.13723000"
   longitude: '39.31528000'
-  wikiDataId: Q1009199
-- id: 64815
-  name: Kwale
-  state_id: 173
+- name: Kwale
   state_code: '19'
   state_name: Kwale
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-4.17375000"
   longitude: '39.45206000'
-  wikiDataId: Q635215
-- id: 64867
-  name: Sawa Sawa
-  state_id: 173
+- name: Sawa Sawa
   state_code: '19'
   state_name: Kwale
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-4.47166000"
   longitude: '39.48463000'
-  wikiDataId: Q7193402
-- id: 64868
-  name: Shimoni
-  state_id: 173
+- name: Shimoni
   state_code: '19'
   state_name: Kwale
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-4.64756000"
   longitude: '39.38175000'
-  wikiDataId: Q2395680
-- id: 64850
-  name: Nanyuki
-  state_id: 164
+- name: Nanyuki
   state_code: '20'
   state_name: Laikipia
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.00624000'
   longitude: '37.07398000'
-  wikiDataId: Q123160
-- id: 64854
-  name: Nyahururu
-  state_id: 164
+- name: Nyahururu
   state_code: '20'
   state_name: Laikipia
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.03813000'
   longitude: '36.36339000'
-  wikiDataId: Q948344
-- id: 64865
-  name: Rumuruti
-  state_id: 164
+- name: Rumuruti
   state_code: '20'
   state_name: Laikipia
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.27250000'
   longitude: '36.53806000'
-  wikiDataId: Q7379442
-- id: 64816
-  name: Lamu
-  state_id: 166
+- name: Lamu
   state_code: '21'
   state_name: Lamu
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-2.27169000"
   longitude: '40.90201000'
-  wikiDataId: Q635215
-- id: 64878
-  name: Witu
-  state_id: 166
+- name: Witu
   state_code: '21'
   state_name: Lamu
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-2.38892000"
   longitude: '40.43827000'
-  wikiDataId: Q185340
-- id: 64773
-  name: Athi River
-  state_id: 184
+- name: Athi River
   state_code: '22'
   state_name: Machakos
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.45630000"
   longitude: '36.97826000'
-  wikiDataId: Q4813647
-- id: 64794
-  name: Kangundo
-  state_id: 184
+- name: Kangundo
   state_code: '22'
   state_name: Machakos
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.30342000"
   longitude: '37.34813000'
-  wikiDataId: Q6362919
-- id: 64814
-  name: Konza
-  state_id: 184
+- name: Konza
   state_code: '22'
   state_name: Machakos
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.73947000"
   longitude: '37.13195000'
-  wikiDataId: Q6430460
-- id: 64823
-  name: Machakos
-  state_id: 184
+- name: Machakos
   state_code: '22'
   state_name: Machakos
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.52233000"
   longitude: '37.26521000'
-  wikiDataId: Q693093
-- id: 64825
-  name: Makueni Boma
-  state_id: 188
+- name: Makueni Boma
   state_code: '23'
   state_name: Makueni
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.80388000"
   longitude: '37.62405000'
-  wikiDataId: Q693093
-- id: 64840
-  name: Mtito Andei
-  state_id: 188
+- name: Mtito Andei
   state_code: '23'
   state_name: Makueni
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-2.68987000"
   longitude: '38.16687000'
-  wikiDataId: Q6930477
-- id: 64879
-  name: Wote
-  state_id: 188
+- name: Wote
   state_code: '23'
   state_name: Makueni
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.78079000"
   longitude: '37.62882000'
-  wikiDataId: Q7193508
-- id: 64829
-  name: Mandera
-  state_id: 187
+- name: Mandera
   state_code: '24'
   state_name: Mandera
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '3.93726000'
   longitude: '41.85688000'
-  wikiDataId: Q949915
-- id: 64833
-  name: Marsabit
-  state_id: 194
+- name: Marsabit
   state_code: '25'
   state_name: Marsabit
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '2.33468000'
   longitude: '37.99086000'
-  wikiDataId: Q1709128
-- id: 64839
-  name: Moyale
-  state_id: 194
+- name: Moyale
   state_code: '25'
   state_name: Marsabit
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '3.52661000'
   longitude: '39.05610000'
-  wikiDataId: Q1009179
-- id: 64834
-  name: Maua
-  state_id: 198
+- name: Maua
   state_code: '26'
   state_name: Meru
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.23320000'
   longitude: '37.94086000'
-  wikiDataId: Q690356
-- id: 64835
-  name: Meru
-  state_id: 198
+- name: Meru
   state_code: '26'
   state_name: Meru
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.04626000'
   longitude: '37.65587000'
-  wikiDataId: Q934149
-- id: 64803
-  name: Kihancha
-  state_id: 190
+- name: Kihancha
   state_code: '27'
   state_name: Migori
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.19347000"
   longitude: '34.61967000'
-  wikiDataId: Q5243392
-- id: 64836
-  name: Migori
-  state_id: 190
+- name: Migori
   state_code: '27'
   state_name: Migori
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.06343000"
   longitude: '34.47313000'
-  wikiDataId: Q1932505
-- id: 64838
-  name: Mombasa
-  state_id: 200
+- name: Mombasa
   state_code: '28'
   state_name: Mombasa
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-4.05466000"
   longitude: '39.66359000'
-  wikiDataId: Q225641
-- id: 64793
-  name: Kangema
-  state_id: 178
+- name: Kangema
   state_code: '29'
   state_name: Murang'a
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.68553000"
   longitude: '36.96463000'
-  wikiDataId: Q302912
-- id: 64798
-  name: Karuri
-  state_id: 178
+- name: Karuri
   state_code: '29'
   state_name: Murang'a
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.70000000"
   longitude: '37.18333000'
-  wikiDataId: Q6373732
-- id: 64830
-  name: Maragua
-  state_id: 178
+- name: Maragua
   state_code: '29'
   state_name: Murang'a
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.79602000"
   longitude: '37.13292000'
-  wikiDataId: Q1892268
-- id: 64843
-  name: Murang’a
-  state_id: 178
+- name: Murang’a
   state_code: '29'
   state_name: Murang'a
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.72104000"
   longitude: '37.15259000'
-  wikiDataId: Q974323
-- id: 64845
-  name: Nairobi
-  state_id: 191
+- name: Nairobi
   state_code: '30'
   state_name: Nairobi City
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.28333000"
   longitude: '36.81667000'
-  wikiDataId: Q3870
-- id: 64862
-  name: Pumwani
-  state_id: 191
+- name: Pumwani
   state_code: '30'
   state_name: Nairobi City
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.28333000"
   longitude: '36.85000000'
-  wikiDataId: Q7259868
-- id: 64804
-  name: Kijabe
-  state_id: 203
+- name: Kijabe
   state_code: '31'
   state_name: Nakuru
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.93334000"
   longitude: '36.57233000'
-  wikiDataId: Q2719508
-- id: 64837
-  name: Molo
-  state_id: 203
+- name: Molo
   state_code: '31'
   state_name: Nakuru
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.24849000"
   longitude: '35.73194000'
-  wikiDataId: Q3506442
-- id: 64846
-  name: Naivasha
-  state_id: 203
+- name: Naivasha
   state_code: '31'
   state_name: Nakuru
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.71383000"
   longitude: '36.43261000'
-  wikiDataId: Q1007647
-- id: 64847
-  name: Nakuru
-  state_id: 203
+- name: Nakuru
   state_code: '31'
   state_name: Nakuru
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.30719000"
   longitude: '36.07225000'
-  wikiDataId: Q239421
-- id: 64864
-  name: Rongai
-  state_id: 203
+- name: Rongai
   state_code: '31'
   state_name: Nakuru
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.17344000"
   longitude: '35.86313000'
-  wikiDataId: Q984201
-- id: 64796
-  name: Kapsabet
-  state_id: 165
+- name: Kapsabet
   state_code: '32'
   state_name: Nandi
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.20387000'
   longitude: '35.10500000'
-  wikiDataId: Q1323405
-- id: 64849
-  name: Nandi Hills
-  state_id: 165
+- name: Nandi Hills
   state_code: '32'
   state_name: Nandi
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.10366000'
   longitude: '35.18426000'
-  wikiDataId: Q239421
-- id: 64852
-  name: Narok
-  state_id: 175
+- name: Narok
   state_code: '33'
   state_name: Narok
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.08083000"
   longitude: '35.87111000'
-  wikiDataId: Q998813
-- id: 64800
-  name: Keroka
-  state_id: 209
+- name: Keroka
   state_code: '34'
   state_name: Nyamira
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.77612000"
   longitude: '34.94678000'
-  wikiDataId: Q6373732
-- id: 64855
-  name: Nyamira
-  state_id: 209
+- name: Nyamira
   state_code: '34'
   state_name: Nyamira
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.56333000"
   longitude: '34.93583000'
-  wikiDataId: Q657924
-- id: 64858
-  name: Ol Kalou
-  state_id: 192
+- name: Ol Kalou
   state_code: '35'
   state_name: Nyandarua
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.27088000"
   longitude: '36.37917000'
-  wikiDataId: Q7082832
-- id: 64851
-  name: Naro Moru
-  state_id: 180
+- name: Naro Moru
   state_code: '36'
   state_name: Nyeri
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.16357000"
   longitude: '37.01773000'
-  wikiDataId: Q2743647
-- id: 64856
-  name: Nyeri
-  state_id: 180
+- name: Nyeri
   state_code: '36'
   state_name: Nyeri
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.42013000"
   longitude: '36.94759000'
-  wikiDataId: Q380130
-- id: 64859
-  name: Othaya
-  state_id: 180
+- name: Othaya
   state_code: '36'
   state_name: Nyeri
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.54655000"
   longitude: '36.93178000'
-  wikiDataId: Q7108565
-- id: 64831
-  name: Maralal
-  state_id: 207
+- name: Maralal
   state_code: '37'
   state_name: Samburu
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '1.09667000'
   longitude: '36.69806000'
-  wikiDataId: Q2341879
-- id: 64775
-  name: Bondo
-  state_id: 186
+- name: Bondo
   state_code: '38'
   state_name: Siaya
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.23522000'
   longitude: '34.28086000'
-  wikiDataId: Q1013242
-- id: 64869
-  name: Siaya
-  state_id: 186
+- name: Siaya
   state_code: '38'
   state_name: Siaya
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.06070000'
   longitude: '34.28806000'
-  wikiDataId: Q2422035
-- id: 64881
-  name: Yala
-  state_id: 186
+- name: Yala
   state_code: '38'
   state_name: Siaya
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.09438000'
   longitude: '34.53602000'
-  wikiDataId: Q3130935
-- id: 154626
-  name: Bura
-  state_id: 176
+- name: Bura
   state_code: '39'
   state_name: Taita–Taveta
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.50000000"
   longitude: '38.30000000'
-  wikiDataId:
-- id: 154631
-  name: Chala
-  state_id: 176
+- name: Chala
   state_code: '39'
   state_name: Taita–Taveta
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.38330000"
   longitude: '37.68330000'
-  wikiDataId:
-- id: 154627
-  name: Maktau
-  state_id: 176
+- name: Maktau
   state_code: '39'
   state_name: Taita–Taveta
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.40000000"
   longitude: '38.13330000'
-  wikiDataId:
-- id: 154588
-  name: Mgange
-  state_id: 176
+- name: Mgange
   state_code: '39'
   state_name: Taita–Taveta
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.40000000"
   longitude: '38.31670000'
-  wikiDataId:
-- id: 154589
-  name: Mwanda
-  state_id: 176
+- name: Mwanda
   state_code: '39'
   state_name: Taita–Taveta
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.40000000"
   longitude: '38.28330000'
-  wikiDataId:
-- id: 154583
-  name: Mwatate
-  state_id: 176
+- name: Mwatate
   state_code: '39'
   state_name: Taita–Taveta
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.50330000"
   longitude: '38.38120000'
-  wikiDataId:
-- id: 154582
-  name: Taveta
-  state_id: 176
+- name: Taveta
   state_code: '39'
   state_name: Taita–Taveta
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.39880000"
   longitude: '37.68340000'
-  wikiDataId:
-- id: 154622
-  name: Voi
-  state_id: 176
+- name: Voi
   state_code: '39'
   state_name: Taita–Taveta
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.39610000"
   longitude: '38.55630000'
-  wikiDataId:
-- id: 154628
-  name: Wesu
-  state_id: 176
+- name: Wesu
   state_code: '39'
   state_name: Taita–Taveta
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.40000000"
   longitude: '38.35000000'
-  wikiDataId:
-- id: 154625
-  name: Wundanyi
-  state_id: 176
+- name: Wundanyi
   state_code: '39'
   state_name: Taita–Taveta
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.40850000"
   longitude: '38.36510000'
-  wikiDataId:
-- id: 64786
-  name: Hola
-  state_id: 205
+- name: Hola
   state_code: '40'
   state_name: Tana River
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-1.48256000"
   longitude: '40.03341000'
-  wikiDataId: Q2738432
-- id: 64808
-  name: Kipini
-  state_id: 205
+- name: Kipini
   state_code: '40'
   state_name: Tana River
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-2.52565000"
   longitude: '40.52620000'
-  wikiDataId: Q1009199
-- id: 64780
-  name: Chuka
-  state_id: 185
+- name: Chuka
   state_code: '41'
   state_name: Tharaka-Nithi
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-0.33316000"
   longitude: '37.64587000'
-  wikiDataId: Q1017895
-- id: 64812
-  name: Kitale
-  state_id: 183
+- name: Kitale
   state_code: '42'
   state_name: Trans Nzoia
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '1.01572000'
   longitude: '35.00622000'
-  wikiDataId: Q523000
-- id: 64819
-  name: Lodwar
-  state_id: 206
+- name: Lodwar
   state_code: '43'
   state_name: Turkana
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '3.11988000'
   longitude: '35.59642000'
-  wikiDataId: Q995707
-- id: 64782
-  name: Eldoret
-  state_id: 169
+- name: Eldoret
   state_code: '44'
   state_name: Uasin Gishu
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.52036000'
   longitude: '35.26993000'
-  wikiDataId: Q322149
-- id: 154634
-  name: Chavakali
-  state_id: 202
+- name: Chavakali
   state_code: '45'
   state_name: Vihiga
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.11670000'
   longitude: '34.70000000'
-  wikiDataId:
-- id: 154641
-  name: Esabalu
-  state_id: 202
+- name: Esabalu
   state_code: '45'
   state_name: Vihiga
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.01670000'
   longitude: '34.61670000'
-  wikiDataId:
-- id: 154640
-  name: Gambogi
-  state_id: 202
+- name: Gambogi
   state_code: '45'
   state_name: Vihiga
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.08330000'
   longitude: '34.80000000'
-  wikiDataId:
-- id: 154639
-  name: Kilingili
-  state_id: 202
+- name: Kilingili
   state_code: '45'
   state_name: Vihiga
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.08330000'
   longitude: '34.66670000'
-  wikiDataId:
-- id: 154633
-  name: Luanda
-  state_id: 202
+- name: Luanda
   state_code: '45'
   state_name: Vihiga
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.00430000'
   longitude: '34.59700000'
-  wikiDataId:
-- id: 154635
-  name: Majengo
-  state_id: 202
+- name: Majengo
   state_code: '45'
   state_name: Vihiga
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.10000000'
   longitude: '34.61670000'
-  wikiDataId:
-- id: 154636
-  name: Maseno
-  state_id: 202
+- name: Maseno
   state_code: '45'
   state_name: Vihiga
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.00000000'
   longitude: '34.60000000'
-  wikiDataId:
-- id: 154632
-  name: Mbale
-  state_id: 202
+- name: Mbale
   state_code: '45'
   state_name: Vihiga
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.07080000'
   longitude: '34.72420000'
-  wikiDataId:
-- id: 154637
-  name: Mudete
-  state_id: 202
+- name: Mudete
   state_code: '45'
   state_name: Vihiga
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.13330000'
   longitude: '34.75000000'
-  wikiDataId:
-- id: 154638
-  name: Serem
-  state_id: 202
+- name: Serem
   state_code: '45'
   state_name: Vihiga
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '0.08330000'
   longitude: '34.88330000'
-  wikiDataId:
-- id: 64876
-  name: Wajir
-  state_id: 182
+- name: Wajir
   state_code: '46'
   state_name: Wajir
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '1.74710000'
   longitude: '40.05732000'
-  wikiDataId: Q730791
-- id: 64779
-  name: Chepareria
-  state_id: 208
+- name: Chepareria
   state_code: '47'
   state_name: West Pokot
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '1.30583000'
   longitude: '35.20365000'
-  wikiDataId: Q1017895
-- id: 64795
-  name: Kapenguria
-  state_id: 208
+- name: Kapenguria
   state_code: '47'
   state_name: West Pokot
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: '1.23889000'
   longitude: '35.11194000'
-  wikiDataId: Q3239214
-- id: 64873
-  name: Taveta
-  state_id: 208
+- name: Taveta
   state_code: '47'
   state_name: West Pokot
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.39879000"
   longitude: '37.68336000'
-  wikiDataId: Q2096406
-- id: 64875
-  name: Voi
-  state_id: 208
+- name: Voi
   state_code: '47'
   state_name: West Pokot
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.39605000"
   longitude: '38.55609000'
-  wikiDataId: Q1552910
-- id: 64880
-  name: Wundanyi
-  state_id: 208
+- name: Wundanyi
   state_code: '47'
   state_name: West Pokot
-  country_id: 113
-  country_code: KE
-  country_name: Kenya
   latitude: "-3.39642000"
   longitude: '38.35729000'
-  wikiDataId: Q3056743

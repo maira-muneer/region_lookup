@@ -1,1618 +1,736 @@
 ---
-- id: 66463
-  name: Dambulla
-  state_id: 2798
+- name: Dambulla
   state_code: '2'
   state_name: Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.86000000'
   longitude: '80.65167000'
-  wikiDataId: Q377343
-- id: 66476
-  name: Hatton
-  state_id: 2798
+- name: Hatton
   state_code: '2'
   state_name: Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.89160000'
   longitude: '80.59550000'
-  wikiDataId: Q390564
-- id: 66489
-  name: Kandy
-  state_id: 2798
+- name: Kandy
   state_code: '2'
   state_name: Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.29060000'
   longitude: '80.63360000'
-  wikiDataId: Q203197
-- id: 66490
-  name: Kandy District
-  state_id: 2798
+- name: Kandy District
   state_code: '2'
   state_name: Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.30440000'
   longitude: '80.70730000'
-  wikiDataId: Q723002
-- id: 66505
-  name: Matale
-  state_id: 2798
+- name: Matale
   state_code: '2'
   state_name: Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.46980000'
   longitude: '80.62170000'
-  wikiDataId: Q1540498
-- id: 66506
-  name: Matale District
-  state_id: 2798
+- name: Matale District
   state_code: '2'
   state_name: Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.65980000'
   longitude: '80.70730000'
-  wikiDataId: Q787421
-- id: 66517
-  name: Nuwara Eliya
-  state_id: 2798
+- name: Nuwara Eliya
   state_code: '2'
   state_name: Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.97078000'
   longitude: '80.78286000'
-  wikiDataId: Q1340579
-- id: 66518
-  name: Nuwara Eliya District
-  state_id: 2798
+- name: Nuwara Eliya District
   state_code: '2'
   state_name: Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.97850000'
   longitude: '80.71330000'
-  wikiDataId: Q1583950
-- id: 66529
-  name: Sigiriya
-  state_id: 2798
+- name: Sigiriya
   state_code: '2'
   state_name: Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.94946000'
   longitude: '80.75037000'
-  wikiDataId: Q272153
-- id: 66531
-  name: Talawakele
-  state_id: 2798
+- name: Talawakele
   state_code: '2'
   state_name: Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.93710000'
   longitude: '80.65810000'
-  wikiDataId: Q7678986
-- id: 66464
-  name: Dehiwala-Mount Lavinia
-  state_id: 2815
+- name: Dehiwala-Mount Lavinia
   state_code: '11'
   state_name: Colombo
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.84019000'
   longitude: '79.87116000'
-  wikiDataId: Q24462
-- id: 66479
-  name: Homagama
-  state_id: 2815
+- name: Homagama
   state_code: '11'
   state_name: Colombo
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.84879896'
   longitude: '80.00467300'
-  wikiDataId: Q5887377
-- id: 146181
-  name: Kaduwela
-  state_id: 2815
+- name: Kaduwela
   state_code: '11'
   state_name: Colombo
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.93106260'
   longitude: '79.97944220'
-  wikiDataId: Q6345805
-- id: 146180
-  name: Kesbewa
-  state_id: 2815
+- name: Kesbewa
   state_code: '11'
   state_name: Colombo
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.78425894'
   longitude: '79.94665276'
-  wikiDataId: Q6394911
-- id: 66499
-  name: Kolonnawa
-  state_id: 2815
+- name: Kolonnawa
   state_code: '11'
   state_name: Colombo
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.92893463'
   longitude: '79.89495168'
-  wikiDataId: Q6427785
-- id: 146176
-  name: Kotte
-  state_id: 2815
+- name: Kotte
   state_code: '11'
   state_name: Colombo
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.88932048'
   longitude: '79.90359501'
-  wikiDataId: Q6434328
-- id: 66504
-  name: Maharagama
-  state_id: 2815
+- name: Maharagama
   state_code: '11'
   state_name: Colombo
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.84954886'
   longitude: '79.92507313'
-  wikiDataId: Q6733192
-- id: 66514
-  name: Moratuwa
-  state_id: 2815
+- name: Moratuwa
   state_code: '11'
   state_name: Colombo
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.78149272'
   longitude: '79.88347117'
-  wikiDataId: Q6909302
-- id: 146179
-  name: Padukka
-  state_id: 2815
+- name: Padukka
   state_code: '11'
   state_name: Colombo
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.84794680'
   longitude: '80.10153292'
-  wikiDataId: Q7124001
-- id: 146178
-  name: Ratmalana
-  state_id: 2815
+- name: Ratmalana
   state_code: '11'
   state_name: Colombo
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.82105987'
   longitude: '79.88023083'
-  wikiDataId: Q7295826
-- id: 146177
-  name: Seethawaka
-  state_id: 2815
+- name: Seethawaka
   state_code: '11'
   state_name: Colombo
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.92959912'
   longitude: '80.14979867'
-  wikiDataId: Q7445984
-- id: 146175
-  name: Thimbirigasyaya
-  state_id: 2815
+- name: Thimbirigasyaya
   state_code: '11'
   state_name: Colombo
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.90214217'
   longitude: '79.86957578'
-  wikiDataId: Q7784197
-- id: 66449
-  name: Ampara
-  state_id: 2808
+- name: Ampara
   state_code: '5'
   state_name: Eastern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.29754000'
   longitude: '81.68202000'
-  wikiDataId: Q696444
-- id: 66450
-  name: Ampara District
-  state_id: 2808
+- name: Ampara District
   state_code: '5'
   state_name: Eastern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.08330000'
   longitude: '81.75000000'
-  wikiDataId: Q474395
-- id: 66456
-  name: Batticaloa
-  state_id: 2808
+- name: Batticaloa
   state_code: '5'
   state_name: Eastern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.71020000'
   longitude: '81.69240000'
-  wikiDataId: Q810963
-- id: 66457
-  name: Batticaloa District
-  state_id: 2808
+- name: Batticaloa District
   state_code: '5'
   state_name: Eastern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.75000000'
   longitude: '81.49970000'
-  wikiDataId: Q810960
-- id: 66467
-  name: Eravur Town
-  state_id: 2808
+- name: Eravur Town
   state_code: '5'
   state_name: Eastern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.77820000'
   longitude: '81.60380000'
-  wikiDataId: Q24462
-- id: 66486
-  name: Kalmunai
-  state_id: 2808
+- name: Kalmunai
   state_code: '5'
   state_name: Eastern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.40902000'
   longitude: '81.83472000'
-  wikiDataId: Q1101382
-- id: 66534
-  name: Trincomalee
-  state_id: 2808
+- name: Trincomalee
   state_code: '5'
   state_name: Eastern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '8.57780000'
   longitude: '81.22890000'
-  wikiDataId: Q323873
-- id: 66535
-  name: Trincomalee District
-  state_id: 2808
+- name: Trincomalee District
   state_code: '5'
   state_name: Eastern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '8.58333000'
   longitude: '81.08333000'
-  wikiDataId: Q1493318
-- id: 66537
-  name: Vakarai
-  state_id: 2808
+- name: Vakarai
   state_code: '5'
   state_name: Eastern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '8.13333000'
   longitude: '81.43333000'
-  wikiDataId: Q7908969
-- id: 146174
-  name: Akurana
-  state_id: 2788
+- name: Akurana
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.36500000'
   longitude: '80.61722200'
-  wikiDataId: Q4701966
-- id: 146150
-  name: Alawatugoda
-  state_id: 2788
+- name: Alawatugoda
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.41048962'
   longitude: '80.60918933'
-  wikiDataId: Q4708898
-- id: 146149
-  name: Ambatenna
-  state_id: 2788
+- name: Ambatenna
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.35252855'
   longitude: '80.61378113'
-  wikiDataId: Q4741158
-- id: 146148
-  name: Daskara
-  state_id: 2788
+- name: Daskara
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.20902217'
   longitude: '80.57764643'
-  wikiDataId: Q16954544
-- id: 146147
-  name: Daulagala
-  state_id: 2788
+- name: Daulagala
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.22882494'
   longitude: '80.57756073'
-  wikiDataId: Q5227987
-- id: 146173
-  name: Delthota
-  state_id: 2788
+- name: Delthota
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.18491721'
   longitude: '80.70488697'
-  wikiDataId: Q5254847
-- id: 146172
-  name: Doluwa
-  state_id: 2788
+- name: Doluwa
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.18518536'
   longitude: '80.60573450'
-  wikiDataId: Q5289696
-- id: 146146
-  name: Galagedara
-  state_id: 2788
+- name: Galagedara
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.36833300'
   longitude: '80.52750000'
-  wikiDataId: Q5517872
-- id: 146145
-  name: Galhinna
-  state_id: 2788
+- name: Galhinna
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.41614200'
   longitude: '80.56884200'
-  wikiDataId: Q5518540
-- id: 66472
-  name: Gampola
-  state_id: 2788
+- name: Gampola
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.16430000'
   longitude: '80.56960000'
-  wikiDataId: Q8264065
-- id: 146171
-  name: Ganga Ihala Korale
-  state_id: 2788
+- name: Ganga Ihala Korale
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.11455516'
   longitude: '80.51448810'
-  wikiDataId: Q5520982
-- id: 146144
-  name: Hanguranketa
-  state_id: 2788
+- name: Hanguranketa
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.16666700'
   longitude: '80.78333300'
-  wikiDataId: Q5648094
-- id: 146143
-  name: Hapugastalawa
-  state_id: 2788
+- name: Hapugastalawa
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.05872498'
   longitude: '80.57137014'
-  wikiDataId: Q16252009
-- id: 146170
-  name: Harispattuwa
-  state_id: 2788
+- name: Harispattuwa
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.33016007'
   longitude: '80.58765149'
-  wikiDataId: Q5657965
-- id: 146169
-  name: Hatharaliyadda
-  state_id: 2788
+- name: Hatharaliyadda
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.33032982'
   longitude: '80.47875881'
-  wikiDataId: Q5681437
-- id: 66485
-  name: Kadugannawa
-  state_id: 2788
+- name: Kadugannawa
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.25470000'
   longitude: '80.52420000'
-  wikiDataId: Q6345741
-- id: 146168
-  name: Kandy Four Gravets
-  state_id: 2788
+- name: Kandy Four Gravets
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.28318748'
   longitude: '80.63527585'
-  wikiDataId: Q723002
-- id: 146153
-  name: Katugastota
-  state_id: 2788
+- name: Katugastota
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.33333300'
   longitude: '80.61666700'
-  wikiDataId: Q42272
-- id: 146167
-  name: Kundasale
-  state_id: 2788
+- name: Kundasale
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.30391594'
   longitude: '80.71230408'
-  wikiDataId: Q12980327
-- id: 146142
-  name: Madawala
-  state_id: 2788
+- name: Madawala
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.32833100'
   longitude: '80.67355200'
-  wikiDataId: Q6726546
-- id: 146166
-  name: Medadumbara
-  state_id: 2788
+- name: Medadumbara
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.30425996'
   longitude: '80.77519844'
-  wikiDataId: Q6804979
-- id: 146141
-  name: Menikdiwela
-  state_id: 2788
+- name: Menikdiwela
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.08333300'
   longitude: '80.73333300'
-  wikiDataId: Q6817056
-- id: 146165
-  name: Minipe
-  state_id: 2788
+- name: Minipe
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.22638754'
   longitude: '81.00116732'
-  wikiDataId: Q6865676
-- id: 146151
-  name: Nawalapitiya
-  state_id: 2788
+- name: Nawalapitiya
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.03696481'
   longitude: '80.51626688'
-  wikiDataId: Q3536138
-- id: 146152
-  name: Pallekele
-  state_id: 2788
+- name: Pallekele
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.28333300'
   longitude: '80.70000000'
-  wikiDataId: Q7127817
-- id: 146164
-  name: Panvila
-  state_id: 2788
+- name: Panvila
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.40929750'
   longitude: '80.73966228'
-  wikiDataId: Q7131982
-- id: 146163
-  name: Pasbage Korale
-  state_id: 2788
+- name: Pasbage Korale
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.01510450'
   longitude: '80.54078073'
-  wikiDataId: Q7141629
-- id: 146162
-  name: Pathadumbara
-  state_id: 2788
+- name: Pathadumbara
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.34931196'
   longitude: '80.66303689'
-  wikiDataId: Q7144675
-- id: 146161
-  name: Pathahewaheta
-  state_id: 2788
+- name: Pathahewaheta
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.23139207'
   longitude: '80.70848937'
-  wikiDataId: Q7144676
-- id: 146154
-  name: Peradeniya
-  state_id: 2788
+- name: Peradeniya
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.26666700'
   longitude: '80.60000000'
-  wikiDataId: Q489744
-- id: 146140
-  name: Pilimathalawa
-  state_id: 2788
+- name: Pilimathalawa
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.27000000'
   longitude: '80.57000000'
-  wikiDataId: Q7194023
-- id: 146160
-  name: Poojapitiya
-  state_id: 2788
+- name: Poojapitiya
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.38093796'
   longitude: '80.58913708'
-  wikiDataId: Q7228532
-- id: 146139
-  name: Pussellawa
-  state_id: 2788
+- name: Pussellawa
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.10533300'
   longitude: '80.63666700'
-  wikiDataId: Q7261927
-- id: 146138
-  name: Talatuoya
-  state_id: 2788
+- name: Talatuoya
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.25000000'
   longitude: '80.68333300'
-  wikiDataId: Q7678962
-- id: 146137
-  name: Teldeniya
-  state_id: 2788
+- name: Teldeniya
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.30000000'
   longitude: '80.76666700'
-  wikiDataId: Q7695692
-- id: 146159
-  name: Thumpane
-  state_id: 2788
+- name: Thumpane
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.36616728'
   longitude: '80.51587048'
-  wikiDataId: Q7798858
-- id: 146133
-  name: Udadumbara
-  state_id: 2788
+- name: Udadumbara
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.35000000'
   longitude: '80.83333300'
-  wikiDataId: Q28448705
-- id: 146158
-  name: Udapalatha
-  state_id: 2788
+- name: Udapalatha
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.11515526'
   longitude: '80.60248340'
-  wikiDataId: Q7876920
-- id: 146157
-  name: Ududumbara
-  state_id: 2788
+- name: Ududumbara
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.31434839'
   longitude: '80.87707756'
-  wikiDataId: Q7876855
-- id: 146156
-  name: Udunuwara
-  state_id: 2788
+- name: Udunuwara
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.22777866'
   longitude: '80.55894578'
-  wikiDataId: Q7877347
-- id: 146136
-  name: Ulapane
-  state_id: 2788
+- name: Ulapane
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.10277800'
   longitude: '80.56111100'
-  wikiDataId: Q16902267
-- id: 146135
-  name: Watadeniya
-  state_id: 2788
+- name: Watadeniya
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.19501100'
   longitude: '80.55249400'
-  wikiDataId: Q7972972
-- id: 66542
-  name: Wattegama
-  state_id: 2788
+- name: Wattegama
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.35027800'
   longitude: '80.68250000'
-  wikiDataId: Q7974935
-- id: 146134
-  name: Welamboda
-  state_id: 2788
+- name: Welamboda
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.20000000'
   longitude: '80.55000000'
-  wikiDataId: Q7980493
-- id: 146155
-  name: Yatinuwara
-  state_id: 2788
+- name: Yatinuwara
   state_code: '21'
   state_name: Kandy
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.28584509'
   longitude: '80.53516168'
-  wikiDataId: Q8050245
-- id: 66451
-  name: Anuradhapura
-  state_id: 2800
+- name: Anuradhapura
   state_code: '7'
   state_name: North Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '8.31223000'
   longitude: '80.41306000'
-  wikiDataId: Q5724
-- id: 66452
-  name: Anuradhapura District
-  state_id: 2800
+- name: Anuradhapura District
   state_code: '7'
   state_name: North Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '8.33333000'
   longitude: '80.50000000'
-  wikiDataId: Q612614
-- id: 66509
-  name: Mihintale
-  state_id: 2800
+- name: Mihintale
   state_code: '7'
   state_name: North Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '8.35930000'
   longitude: '80.51030000'
-  wikiDataId: Q1281285
-- id: 66523
-  name: Polonnaruwa
-  state_id: 2800
+- name: Polonnaruwa
   state_code: '7'
   state_name: North Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.93965000'
   longitude: '81.00274000'
-  wikiDataId: Q394443
-- id: 66524
-  name: Polonnaruwa District
-  state_id: 2800
+- name: Polonnaruwa District
   state_code: '7'
   state_name: North Central
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '8.00000000'
   longitude: '81.00000000'
-  wikiDataId: Q931057
-- id: 66460
-  name: Chilaw
-  state_id: 2817
+- name: Chilaw
   state_code: '6'
   state_name: North Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.57583000'
   longitude: '79.79528000'
-  wikiDataId: Q2495639
-- id: 66501
-  name: Kuliyapitiya
-  state_id: 2817
+- name: Kuliyapitiya
   state_code: '6'
   state_name: North Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.46880000'
   longitude: '80.04010000'
-  wikiDataId: Q1153291
-- id: 66502
-  name: Kurunegala
-  state_id: 2817
+- name: Kurunegala
   state_code: '6'
   state_name: North Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.48390000'
   longitude: '80.36830000'
-  wikiDataId: Q776887
-- id: 66503
-  name: Kurunegala District
-  state_id: 2817
+- name: Kurunegala District
   state_code: '6'
   state_name: North Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.75000000'
   longitude: '80.25000000'
-  wikiDataId: Q745073
-- id: 66525
-  name: Puttalam
-  state_id: 2817
+- name: Puttalam
   state_code: '6'
   state_name: North Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '8.03620000'
   longitude: '79.82830000'
-  wikiDataId: Q3088741
-- id: 66526
-  name: Puttalam District
-  state_id: 2817
+- name: Puttalam District
   state_code: '6'
   state_name: North Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '8.04540000'
   longitude: '79.93190000'
-  wikiDataId: Q1665318
-- id: 66483
-  name: Jaffna
-  state_id: 2813
+- name: Jaffna
   state_code: '4'
   state_name: Northern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '9.66845000'
   longitude: '80.00742000'
-  wikiDataId: Q215277
-- id: 66484
-  name: Jaffna District
-  state_id: 2813
+- name: Jaffna District
   state_code: '4'
   state_name: Northern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '9.75000000'
   longitude: '80.08333000'
-  wikiDataId: Q1520182
-- id: 66496
-  name: Kilinochchi
-  state_id: 2813
+- name: Kilinochchi
   state_code: '4'
   state_name: Northern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '9.39610000'
   longitude: '80.39820000'
-  wikiDataId: Q303317
-- id: 66497
-  name: Kilinochchi District
-  state_id: 2813
+- name: Kilinochchi District
   state_code: '4'
   state_name: Northern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '9.39487000'
   longitude: '80.40894000'
-  wikiDataId: Q1584007
-- id: 66522
-  name: Point Pedro
-  state_id: 2813
+- name: Point Pedro
   state_code: '4'
   state_name: Northern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '9.81667000'
   longitude: '80.23333000'
-  wikiDataId: Q2307889
-- id: 66538
-  name: Valvedditturai
-  state_id: 2813
+- name: Valvedditturai
   state_code: '4'
   state_name: Northern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '9.81667000'
   longitude: '80.16667000'
-  wikiDataId: Q2688290
-- id: 66539
-  name: Vavuniya
-  state_id: 2813
+- name: Vavuniya
   state_code: '4'
   state_name: Northern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '8.75140000'
   longitude: '80.49710000'
-  wikiDataId: Q1191330
-- id: 66540
-  name: Vavuniya District
-  state_id: 2813
+- name: Vavuniya District
   state_code: '4'
   state_name: Northern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '8.86134000'
   longitude: '80.47576000'
-  wikiDataId: Q527980
-- id: 66493
-  name: Kegalle
-  state_id: 2803
+- name: Kegalle
   state_code: '9'
   state_name: Sabaragamuwa
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.25230000'
   longitude: '80.34360000'
-  wikiDataId: Q1968268
-- id: 66494
-  name: Kegalle District
-  state_id: 2803
+- name: Kegalle District
   state_code: '9'
   state_name: Sabaragamuwa
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.11670000'
   longitude: '80.33330000'
-  wikiDataId: Q1737803
-- id: 66527
-  name: Ratnapura
-  state_id: 2803
+- name: Ratnapura
   state_code: '9'
   state_name: Sabaragamuwa
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.68580000'
   longitude: '80.40360000'
-  wikiDataId: Q508753
-- id: 66528
-  name: Ratnapura District
-  state_id: 2803
+- name: Ratnapura District
   state_code: '9'
   state_name: Sabaragamuwa
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.58310000'
   longitude: '80.58330000'
-  wikiDataId: Q1587175
-- id: 66448
-  name: Ambalangoda
-  state_id: 2801
+- name: Ambalangoda
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.23550000'
   longitude: '80.05380000'
-  wikiDataId: Q4740977
-- id: 66458
-  name: Bentota
-  state_id: 2801
+- name: Bentota
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.42598000'
   longitude: '79.99575000'
-  wikiDataId: Q4890663
-- id: 66465
-  name: Devinuwara
-  state_id: 2801
+- name: Devinuwara
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '5.92825000'
   longitude: '80.58880000'
-  wikiDataId: Q24462
-- id: 66468
-  name: Galle
-  state_id: 2801
+- name: Galle
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.04610000'
   longitude: '80.21030000'
-  wikiDataId: Q319366
-- id: 66469
-  name: Galle District
-  state_id: 2801
+- name: Galle District
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.25000000'
   longitude: '80.25000000'
-  wikiDataId: Q647649
-- id: 66473
-  name: Hambantota District
-  state_id: 2801
+- name: Hambantota District
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.25440000'
   longitude: '81.11110000'
-  wikiDataId: Q723006
-- id: 66478
-  name: Hikkaduwa
-  state_id: 2801
+- name: Hikkaduwa
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.14070000'
   longitude: '80.10120000'
-  wikiDataId: Q1618065
-- id: 66498
-  name: Koggala
-  state_id: 2801
+- name: Koggala
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '5.98860000'
   longitude: '80.32860000'
-  wikiDataId: Q1584007
-- id: 66507
-  name: Matara
-  state_id: 2801
+- name: Matara
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '5.94851000'
   longitude: '80.53528000'
-  wikiDataId: Q13360574
-- id: 66508
-  name: Matara District
-  state_id: 2801
+- name: Matara District
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.13290000'
   longitude: '80.52800000'
-  wikiDataId: Q1281285
-- id: 66511
-  name: Mirissa city
-  state_id: 2801
+- name: Mirissa city
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '5.94655000'
   longitude: '80.45831000'
-  wikiDataId: Q1281285
-- id: 66532
-  name: Talpe
-  state_id: 2801
+- name: Talpe
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '5.99990000'
   longitude: '80.27870000'
-  wikiDataId: Q7678986
-- id: 66533
-  name: Tangalle
-  state_id: 2801
+- name: Tangalle
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.02338000'
   longitude: '80.79738000'
-  wikiDataId: Q598658
-- id: 66536
-  name: Unawatuna
-  state_id: 2801
+- name: Unawatuna
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.02120000'
   longitude: '80.25030000'
-  wikiDataId: Q651301
-- id: 66543
-  name: Weligama
-  state_id: 2801
+- name: Weligama
   state_code: '3'
   state_name: Southern
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '5.97501000'
   longitude: '80.42968000'
-  wikiDataId: Q3534843
-- id: 66453
-  name: Badulla
-  state_id: 2811
+- name: Badulla
   state_code: '8'
   state_name: Uva
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.98020000'
   longitude: '81.05770000'
-  wikiDataId: Q390096
-- id: 66454
-  name: Badulla District
-  state_id: 2811
+- name: Badulla District
   state_code: '8'
   state_name: Uva
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.98472000'
   longitude: '81.05639000'
-  wikiDataId: Q799713
-- id: 66466
-  name: Ella Town
-  state_id: 2811
+- name: Ella Town
   state_code: '8'
   state_name: Uva
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.87560000'
   longitude: '81.04630000'
-  wikiDataId: Q24462
-- id: 66475
-  name: Haputale
-  state_id: 2811
+- name: Haputale
   state_code: '8'
   state_name: Uva
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.76566000'
   longitude: '80.95104000'
-  wikiDataId: Q723006
-- id: 66491
-  name: Kataragama
-  state_id: 2811
+- name: Kataragama
   state_code: '8'
   state_name: Uva
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.41340000'
   longitude: '81.33460000'
-  wikiDataId: Q302558
-- id: 66512
-  name: Monaragala
-  state_id: 2811
+- name: Monaragala
   state_code: '8'
   state_name: Uva
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.87140000'
   longitude: '81.34870000'
-  wikiDataId: Q1281285
-- id: 66513
-  name: Moneragala District
-  state_id: 2811
+- name: Moneragala District
   state_code: '8'
   state_name: Uva
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.66667000'
   longitude: '81.33333000'
-  wikiDataId: Q923420
-- id: 66545
-  name: Wellawaya
-  state_id: 2811
+- name: Wellawaya
   state_code: '8'
   state_name: Uva
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.73694000'
   longitude: '81.10279000'
-  wikiDataId: Q3534843
-- id: 66455
-  name: Battaramulla South
-  state_id: 2802
+- name: Battaramulla South
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.89640000'
   longitude: '79.91810000'
-  wikiDataId: Q4869689
-- id: 66459
-  name: Beruwala
-  state_id: 2802
+- name: Beruwala
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.47880000'
   longitude: '79.98280000'
-  wikiDataId: Q829211
-- id: 66461
-  name: Colombo
-  state_id: 2802
+- name: Colombo
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.93548000'
   longitude: '79.84868000'
-  wikiDataId: Q35381
-- id: 66462
-  name: Colombo District
-  state_id: 2802
+- name: Colombo District
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.86640000'
   longitude: '80.01660000'
-  wikiDataId: Q606287
-- id: 66470
-  name: Gampaha
-  state_id: 2802
+- name: Gampaha
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.08970000'
   longitude: '79.99250000'
-  wikiDataId: Q2616818
-- id: 66471
-  name: Gampaha District
-  state_id: 2802
+- name: Gampaha District
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.13330000'
   longitude: '80.00000000'
-  wikiDataId: Q206344
-- id: 66474
-  name: Hanwella Ihala
-  state_id: 2802
+- name: Hanwella Ihala
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.90120000'
   longitude: '80.08520000'
-  wikiDataId: Q723006
-- id: 66477
-  name: Hendala
-  state_id: 2802
+- name: Hendala
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.99090000'
   longitude: '79.88300000'
-  wikiDataId: Q390564
-- id: 66480
-  name: Horana South
-  state_id: 2802
+- name: Horana South
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.71590000'
   longitude: '80.06260000'
-  wikiDataId: Q1618065
-- id: 66481
-  name: Horawala Junction
-  state_id: 2802
+- name: Horawala Junction
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.48088000'
   longitude: '80.12708000'
-  wikiDataId: Q1618065
-- id: 66482
-  name: Ja Ela
-  state_id: 2802
+- name: Ja Ela
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.07440000'
   longitude: '79.89190000'
-  wikiDataId: Q1618065
-- id: 66487
-  name: Kalutara
-  state_id: 2802
+- name: Kalutara
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.58310000'
   longitude: '79.95930000'
-  wikiDataId: Q1295530
-- id: 66488
-  name: Kandana
-  state_id: 2802
+- name: Kandana
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.04800000'
   longitude: '79.89370000'
-  wikiDataId: Q6361287
-- id: 66492
-  name: Katunayaka
-  state_id: 2802
+- name: Katunayaka
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.16992000'
   longitude: '79.88837000'
-  wikiDataId: Q2887547
-- id: 66495
-  name: Kelaniya
-  state_id: 2802
+- name: Kelaniya
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.95530000'
   longitude: '79.92200000'
-  wikiDataId: Q3522428
-- id: 66500
-  name: Kotikawatta
-  state_id: 2802
+- name: Kotikawatta
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.92690000'
   longitude: '79.90950000'
-  wikiDataId: Q1153291
-- id: 66510
-  name: Minuwangoda
-  state_id: 2802
+- name: Minuwangoda
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.16630000'
   longitude: '79.95330000'
-  wikiDataId: Q1281285
-- id: 66515
-  name: Mulleriyawa
-  state_id: 2802
+- name: Mulleriyawa
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.93300000'
   longitude: '79.92970000'
-  wikiDataId: Q867213
-- id: 66516
-  name: Negombo
-  state_id: 2802
+- name: Negombo
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.20830000'
   longitude: '79.83580000'
-  wikiDataId: Q668616
-- id: 66519
-  name: Panadura
-  state_id: 2802
+- name: Panadura
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.71320000'
   longitude: '79.90260000'
-  wikiDataId: Q7129771
-- id: 66520
-  name: Peliyagoda
-  state_id: 2802
+- name: Peliyagoda
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.96850000'
   longitude: '79.88360000'
-  wikiDataId: Q7129771
-- id: 66521
-  name: Pita Kotte
-  state_id: 2802
+- name: Pita Kotte
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.89050000'
   longitude: '79.90150000'
-  wikiDataId: Q7129771
-- id: 66530
-  name: Sri Jayewardenepura Kotte
-  state_id: 2802
+- name: Sri Jayewardenepura Kotte
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.88297000'
   longitude: '79.90708000'
-  wikiDataId: Q41963
-- id: 66541
-  name: Wattala
-  state_id: 2802
+- name: Wattala
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '6.98918000'
   longitude: '79.89167000'
-  wikiDataId: Q7974929
-- id: 66544
-  name: Welisara
-  state_id: 2802
+- name: Welisara
   state_code: '1'
   state_name: Western
-  country_id: 208
-  country_code: LK
-  country_name: Sri Lanka
   latitude: '7.02810000'
   longitude: '79.90140000'
-  wikiDataId: Q3534843

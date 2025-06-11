@@ -1,3620 +1,1646 @@
 ---
-- id: 15805
-  name: Antopal’
-  state_id: 2959
+- name: Antopal’
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.20380000'
   longitude: '24.78630000'
-  wikiDataId: Q608888
-- id: 15810
-  name: Asnyezhytsy
-  state_id: 2959
+- name: Asnyezhytsy
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.18910000'
   longitude: '26.12990000'
-  wikiDataId: Q4338083
-- id: 15820
-  name: Baranovichi
-  state_id: 2959
+- name: Baranovichi
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.13270000'
   longitude: '26.01390000'
-  wikiDataId: Q237655
-- id: 15821
-  name: Baranovichskiy Rayon
-  state_id: 2959
+- name: Baranovichskiy Rayon
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.16667000'
   longitude: '25.83333000'
-  wikiDataId: Q1885613
-- id: 15833
-  name: Brest
-  state_id: 2959
+- name: Brest
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.09755000'
   longitude: '23.68775000'
-  wikiDataId: Q140147
-- id: 15834
-  name: Brestski Rayon
-  state_id: 2959
+- name: Brestski Rayon
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.00000000'
   longitude: '23.75000000'
-  wikiDataId: Q1888816
-- id: 15841
-  name: Byaroza
-  state_id: 2959
+- name: Byaroza
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.53140000'
   longitude: '24.97860000'
-  wikiDataId: Q879406
-- id: 15843
-  name: Byarozawski Rayon
-  state_id: 2959
+- name: Byarozawski Rayon
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.50000000'
   longitude: '25.00000000'
-  wikiDataId: Q545069
-- id: 15844
-  name: Byelaazyorsk
-  state_id: 2959
+- name: Byelaazyorsk
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.47310000'
   longitude: '25.17840000'
-  wikiDataId: Q956460
-- id: 15850
-  name: Charnawchytsy
-  state_id: 2959
+- name: Charnawchytsy
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.21948000'
   longitude: '23.74043000'
-  wikiDataId: Q377440
-- id: 15861
-  name: Damachava
-  state_id: 2959
+- name: Damachava
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '51.75000000'
   longitude: '23.60000000'
-  wikiDataId: Q550040
-- id: 15863
-  name: Davyd-Haradok
-  state_id: 2959
+- name: Davyd-Haradok
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.05660000'
   longitude: '27.21610000'
-  wikiDataId: Q956621
-- id: 15868
-  name: Drahichyn
-  state_id: 2959
+- name: Drahichyn
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.18740000'
   longitude: '25.15970000'
-  wikiDataId: Q956471
-- id: 15869
-  name: Drahichynski Rayon
-  state_id: 2959
+- name: Drahichynski Rayon
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.16667000'
   longitude: '25.00000000'
-  wikiDataId: Q1888829
-- id: 15884
-  name: Hantsavichy
-  state_id: 2959
+- name: Hantsavichy
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.75800000'
   longitude: '26.43000000'
-  wikiDataId: Q956470
-- id: 15885
-  name: Hantsavitski Rayon
-  state_id: 2959
+- name: Hantsavitski Rayon
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.66667000'
   longitude: '26.50000000'
-  wikiDataId: Q1566438
-- id: 15888
-  name: Haradzishcha
-  state_id: 2959
+- name: Haradzishcha
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.32470000'
   longitude: '26.01070000'
-  wikiDataId: Q2446336
-- id: 15897
-  name: Horad Baranavichy
-  state_id: 2959
+- name: Horad Baranavichy
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.13333000'
   longitude: '26.03333000'
-  wikiDataId: Q237655
-- id: 15898
-  name: Horad Brest
-  state_id: 2959
+- name: Horad Brest
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.10000000'
   longitude: '23.70000000'
-  wikiDataId: Q237655
-- id: 15909
-  name: Ivanava
-  state_id: 2959
+- name: Ivanava
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.14510000'
   longitude: '25.53650000'
-  wikiDataId: Q956207
-- id: 15910
-  name: Ivanawski Rayon
-  state_id: 2959
+- name: Ivanawski Rayon
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.16667000'
   longitude: '25.58333000'
-  wikiDataId: Q1885588
-- id: 15911
-  name: Ivatsevichy
-  state_id: 2959
+- name: Ivatsevichy
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.70900000'
   longitude: '25.34010000'
-  wikiDataId: Q587173
-- id: 15917
-  name: Kamyanyets
-  state_id: 2959
+- name: Kamyanyets
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.40013000'
   longitude: '23.81000000'
-  wikiDataId: Q956614
-- id: 15918
-  name: Kamyanyetski Rayon
-  state_id: 2959
+- name: Kamyanyetski Rayon
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.41667000'
   longitude: '23.66667000'
-  wikiDataId: Q1103893
-- id: 15919
-  name: Kamyanyuki
-  state_id: 2959
+- name: Kamyanyuki
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.55757000'
   longitude: '23.80525000'
-  wikiDataId: Q6497459
-- id: 15942
-  name: Kobryn
-  state_id: 2959
+- name: Kobryn
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.21380000'
   longitude: '24.35640000'
-  wikiDataId: Q955992
-- id: 15946
-  name: Kosava
-  state_id: 2959
+- name: Kosava
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.75830000'
   longitude: '25.15540000'
-  wikiDataId: Q956635
-- id: 15957
-  name: Lahishyn
-  state_id: 2959
+- name: Lahishyn
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.33900000'
   longitude: '25.98670000'
-  wikiDataId: Q2471831
-- id: 15964
-  name: Luninyets
-  state_id: 2959
+- name: Luninyets
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.24720000'
   longitude: '26.80470000'
-  wikiDataId: Q956132
-- id: 15965
-  name: Lyakhavichy
-  state_id: 2959
+- name: Lyakhavichy
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.03880000'
   longitude: '26.26560000'
-  wikiDataId: Q956607
-- id: 15982
-  name: Malaryta
-  state_id: 2959
+- name: Malaryta
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '51.79050000'
   longitude: '24.07400000'
-  wikiDataId: Q656579
-- id: 15988
-  name: Mikashevichy
-  state_id: 2959
+- name: Mikashevichy
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.21730000'
   longitude: '27.47600000'
-  wikiDataId: Q956464
-- id: 15993
-  name: Motal’
-  state_id: 2959
+- name: Motal’
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.31380000'
   longitude: '25.60720000'
-  wikiDataId: Q773891
-- id: 16010
-  name: Nyakhachava
-  state_id: 2959
+- name: Nyakhachava
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.64400000'
   longitude: '25.20270000'
-  wikiDataId: Q13029898
-- id: 16021
-  name: Pinsk
-  state_id: 2959
+- name: Pinsk
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.12290000'
   longitude: '26.09510000'
-  wikiDataId: Q21579783
-- id: 16027
-  name: Pruzhanski Rayon
-  state_id: 2959
+- name: Pruzhanski Rayon
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.66667000'
   longitude: '24.58333000'
-  wikiDataId: Q1885543
-- id: 16028
-  name: Pruzhany
-  state_id: 2959
+- name: Pruzhany
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.55600000'
   longitude: '24.45730000'
-  wikiDataId: Q956159
-- id: 16044
-  name: Ruzhany
-  state_id: 2959
+- name: Ruzhany
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.86322000'
   longitude: '24.89357000'
-  wikiDataId: Q615132
-- id: 16075
-  name: Stolin
-  state_id: 2959
+- name: Stolin
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '51.89115000'
   longitude: '26.84597000'
-  wikiDataId: Q956565
-- id: 16076
-  name: Stolinski Rayon
-  state_id: 2959
+- name: Stolinski Rayon
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.00000000'
   longitude: '27.00000000'
-  wikiDataId: Q1885570
-- id: 16089
-  name: Tsyelyakhany
-  state_id: 2959
+- name: Tsyelyakhany
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.51750000'
   longitude: '25.84290000'
-  wikiDataId: Q576393
-- id: 16114
-  name: Vysokaye
-  state_id: 2959
+- name: Vysokaye
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.37091000'
   longitude: '23.37083000'
-  wikiDataId: Q956627
-- id: 16122
-  name: Zhabinka
-  state_id: 2959
+- name: Zhabinka
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.19840000'
   longitude: '24.01150000'
-  wikiDataId: Q520162
-- id: 16123
-  name: Zhabinkawski Rayon
-  state_id: 2959
+- name: Zhabinkawski Rayon
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.16667000'
   longitude: '24.08333000'
-  wikiDataId: Q1630126
-- id: 16130
-  name: Znamenka
-  state_id: 2959
+- name: Znamenka
   state_code: BR
   state_name: Brest
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '51.88168000'
   longitude: '23.65545000'
-  wikiDataId: Q955564
-- id: 15804
-  name: Aktsyabrski
-  state_id: 2955
+- name: Aktsyabrski
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.64400000'
   longitude: '28.88010000'
-  wikiDataId: Q2494383
-- id: 15829
-  name: Brahin
-  state_id: 2955
+- name: Brahin
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '51.78700000'
   longitude: '30.26770000'
-  wikiDataId: Q2470405
-- id: 15830
-  name: Brahinski Rayon
-  state_id: 2955
+- name: Brahinski Rayon
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '51.66667000'
   longitude: '30.33333000'
-  wikiDataId: Q1808720
-- id: 15835
-  name: Buda-Kashalyova
-  state_id: 2955
+- name: Buda-Kashalyova
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.71790000'
   longitude: '30.57010000'
-  wikiDataId: Q955729
-- id: 15848
-  name: Chachersk
-  state_id: 2955
+- name: Chachersk
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.91640000'
   longitude: '30.91790000'
-  wikiDataId: Q867722
-- id: 15849
-  name: Chacherski Rayon
-  state_id: 2955
+- name: Chacherski Rayon
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.91667000'
   longitude: '31.08333000'
-  wikiDataId: Q671126
-- id: 15864
-  name: Dobrush
-  state_id: 2955
+- name: Dobrush
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.40890000'
   longitude: '31.32370000'
-  wikiDataId: Q955474
-- id: 15867
-  name: Dowsk
-  state_id: 2955
+- name: Dowsk
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.15710000'
   longitude: '30.46010000'
-  wikiDataId: Q1523498
-- id: 15895
-  name: Homyel'
-  state_id: 2955
+- name: Homyel'
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.43450000'
   longitude: '30.97540000'
-  wikiDataId: Q2678
-- id: 15896
-  name: Homyel’ski Rayon
-  state_id: 2955
+- name: Homyel’ski Rayon
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.33333000'
   longitude: '31.00000000'
-  wikiDataId: Q966473
-- id: 15915
-  name: Kalinkavichy
-  state_id: 2955
+- name: Kalinkavichy
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.13230000'
   longitude: '29.32570000'
-  wikiDataId: Q937344
-- id: 15923
-  name: Karanyowka
-  state_id: 2955
+- name: Karanyowka
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.35060000'
   longitude: '31.11210000'
-  wikiDataId: Q4232916
-- id: 15926
-  name: Karma
-  state_id: 2955
+- name: Karma
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.13010000'
   longitude: '30.80160000'
-  wikiDataId: Q427584
-- id: 15929
-  name: Kastsyukowka
-  state_id: 2955
+- name: Kastsyukowka
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.53870000'
   longitude: '30.91730000'
-  wikiDataId: Q2596958
-- id: 15930
-  name: Khal’ch
-  state_id: 2955
+- name: Khal’ch
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.56430000'
   longitude: '31.13640000'
-  wikiDataId: Q3917611
-- id: 15936
-  name: Khoyniki
-  state_id: 2955
+- name: Khoyniki
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '51.89110000'
   longitude: '29.95520000'
-  wikiDataId: Q955588
-- id: 15962
-  name: Loyew
-  state_id: 2955
+- name: Loyew
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '51.94580000'
   longitude: '30.79530000'
-  wikiDataId: Q2494413
-- id: 15967
-  name: Lyel’chytski Rayon
-  state_id: 2955
+- name: Lyel’chytski Rayon
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '51.83333000'
   longitude: '28.25000000'
-  wikiDataId: Q944464
-- id: 15968
-  name: Lyel’chytsy
-  state_id: 2955
+- name: Lyel’chytsy
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '51.78620000'
   longitude: '28.32880000'
-  wikiDataId: Q2607484
-- id: 15985
-  name: Mazyr
-  state_id: 2955
+- name: Mazyr
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.04950000'
   longitude: '29.24560000'
-  wikiDataId: Q386487
-- id: 15986
-  name: Mazyrski Rayon
-  state_id: 2955
+- name: Mazyrski Rayon
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.00000000'
   longitude: '29.00000000'
-  wikiDataId: Q1952838
-- id: 16002
-  name: Narowlya
-  state_id: 2955
+- name: Narowlya
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '51.79610000'
   longitude: '29.50040000'
-  wikiDataId: Q955736
-- id: 16005
-  name: Novaya Huta
-  state_id: 2955
+- name: Novaya Huta
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.10320000'
   longitude: '30.98370000'
-  wikiDataId: Q4322020
-- id: 16017
-  name: Parychy
-  state_id: 2955
+- name: Parychy
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.80420000'
   longitude: '29.41760000'
-  wikiDataId: Q2471796
-- id: 16020
-  name: Peramoga
-  state_id: 2955
+- name: Peramoga
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.39730000'
   longitude: '31.07100000'
-  wikiDataId: Q2023948
-- id: 16033
-  name: Pyetrykaw
-  state_id: 2955
+- name: Pyetrykaw
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.12890000'
   longitude: '28.49210000'
-  wikiDataId: Q955717
-- id: 16035
-  name: Rahachow
-  state_id: 2955
+- name: Rahachow
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.09340000'
   longitude: '30.04950000'
-  wikiDataId: Q955468
-- id: 16036
-  name: Rahachowski Rayon
-  state_id: 2955
+- name: Rahachowski Rayon
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.16667000'
   longitude: '30.16667000'
-  wikiDataId: Q1953403
-- id: 16041
-  name: Rechytsa
-  state_id: 2955
+- name: Rechytsa
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.36170000'
   longitude: '30.39160000'
-  wikiDataId: Q909612
-- id: 16049
-  name: Sasnovy Bor
-  state_id: 2955
+- name: Sasnovy Bor
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.51940000'
   longitude: '29.59880000'
-  wikiDataId: Q2032715
-- id: 16081
-  name: Svyetlahorsk
-  state_id: 2955
+- name: Svyetlahorsk
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.63290000'
   longitude: '29.73890000'
-  wikiDataId: Q955359
-- id: 16090
-  name: Turaw
-  state_id: 2955
+- name: Turaw
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.06830000'
   longitude: '27.73500000'
-  wikiDataId: Q265670
-- id: 16098
-  name: Vasilyevichy
-  state_id: 2955
+- name: Vasilyevichy
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.25120000'
   longitude: '29.82880000'
-  wikiDataId: Q955740
-- id: 16112
-  name: Vyetka
-  state_id: 2955
+- name: Vyetka
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.55910000'
   longitude: '31.17940000'
-  wikiDataId: Q518559
-- id: 16113
-  name: Vyetkawski Rayon
-  state_id: 2955
+- name: Vyetkawski Rayon
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.66667000'
   longitude: '31.25000000'
-  wikiDataId: Q385458
-- id: 16116
-  name: Yel’sk
-  state_id: 2955
+- name: Yel’sk
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '51.81410000'
   longitude: '29.15220000'
-  wikiDataId: Q955726
-- id: 16127
-  name: Zhlobin
-  state_id: 2955
+- name: Zhlobin
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.89260000'
   longitude: '30.02400000'
-  wikiDataId: Q837765
-- id: 16128
-  name: Zhlobinski Rayon
-  state_id: 2955
+- name: Zhlobinski Rayon
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.75000000'
   longitude: '29.83333000'
-  wikiDataId: Q1808712
-- id: 16129
-  name: Zhytkavichy
-  state_id: 2955
+- name: Zhytkavichy
   state_code: HO
   state_name: Gomel
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.21680000'
   longitude: '27.85610000'
-  wikiDataId: Q955564
-- id: 15806
-  name: Ashmyanski Rayon
-  state_id: 2956
+- name: Ashmyanski Rayon
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.41667000'
   longitude: '25.91667000'
-  wikiDataId: Q1817340
-- id: 15807
-  name: Ashmyany
-  state_id: 2956
+- name: Ashmyany
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.42100000'
   longitude: '25.93600000'
-  wikiDataId: Q722836
-- id: 15812
-  name: Astravyets
-  state_id: 2956
+- name: Astravyets
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.61378000'
   longitude: '25.95537000'
-  wikiDataId: Q261024
-- id: 15813
-  name: Astravyetski Rayon
-  state_id: 2956
+- name: Astravyetski Rayon
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.66667000'
   longitude: '26.00000000'
-  wikiDataId: Q1953368
-- id: 15823
-  name: Baruny
-  state_id: 2956
+- name: Baruny
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.31710000'
   longitude: '26.13760000'
-  wikiDataId: Q3499049
-- id: 15842
-  name: Byarozawka
-  state_id: 2956
+- name: Byarozawka
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.72406000'
   longitude: '25.49709000'
-  wikiDataId: Q799939
-- id: 15876
-  name: Dyatlovo
-  state_id: 2956
+- name: Dyatlovo
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.46310000'
   longitude: '25.40680000'
-  wikiDataId: Q1025883
-- id: 15882
-  name: Grodnenskiy Rayon
-  state_id: 2956
+- name: Grodnenskiy Rayon
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.66667000'
   longitude: '24.00000000'
-  wikiDataId: Q1965697
-- id: 15883
-  name: Hal’shany
-  state_id: 2956
+- name: Hal’shany
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.25850000'
   longitude: '26.01440000'
-  wikiDataId: Q1572234
-- id: 15899
-  name: Horad Hrodna
-  state_id: 2956
+- name: Horad Hrodna
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.68333000'
   longitude: '23.83333000'
-  wikiDataId: Q237655
-- id: 15905
-  name: Hrodna
-  state_id: 2956
+- name: Hrodna
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.68840000'
   longitude: '23.82580000'
-  wikiDataId: Q181376
-- id: 15906
-  name: Hyeranyony
-  state_id: 2956
+- name: Hyeranyony
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.11590000'
   longitude: '25.57730000'
-  wikiDataId: Q181376
-- id: 15908
-  name: Indura
-  state_id: 2956
+- name: Indura
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.46050000'
   longitude: '23.88230000'
-  wikiDataId: Q2920508
-- id: 15913
-  name: Iwye
-  state_id: 2956
+- name: Iwye
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.92990000'
   longitude: '25.77270000'
-  wikiDataId: Q738777
-- id: 15924
-  name: Karelichy
-  state_id: 2956
+- name: Karelichy
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.56480000'
   longitude: '26.14060000'
-  wikiDataId: Q1025869
-- id: 15925
-  name: Karelitski Rayon
-  state_id: 2956
+- name: Karelitski Rayon
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.50000000'
   longitude: '26.25000000'
-  wikiDataId: Q1953342
-- id: 15950
-  name: Krasnosel’skiy
-  state_id: 2956
+- name: Krasnosel’skiy
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.26450000'
   longitude: '24.43010000'
-  wikiDataId: Q2446345
-- id: 15952
-  name: Kreva
-  state_id: 2956
+- name: Kreva
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.31180000'
   longitude: '26.29160000'
-  wikiDataId: Q2621007
-- id: 15959
-  name: Lida
-  state_id: 2956
+- name: Lida
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.88333000'
   longitude: '25.29972000'
-  wikiDataId: Q241475
-- id: 15960
-  name: Lidski Rayon
-  state_id: 2956
+- name: Lidski Rayon
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.66667000'
   longitude: '25.25000000'
-  wikiDataId: Q1953388
-- id: 15977
-  name: Lyubcha
-  state_id: 2956
+- name: Lyubcha
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.75220000'
   longitude: '26.06030000'
-  wikiDataId: Q2596991
-- id: 15990
-  name: Mir
-  state_id: 2956
+- name: Mir
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.45440000'
   longitude: '26.46700000'
-  wikiDataId: Q922668
-- id: 15992
-  name: Mosty
-  state_id: 2956
+- name: Mosty
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.41220000'
   longitude: '24.53870000'
-  wikiDataId: Q958685
-- id: 16006
-  name: Novogrudok
-  state_id: 2956
+- name: Novogrudok
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.59420000'
   longitude: '25.81910000'
-  wikiDataId: Q278743
-- id: 16042
-  name: Ross’
-  state_id: 2956
+- name: Ross’
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.28451000'
   longitude: '24.40335000'
-  wikiDataId: Q2477798
-- id: 16047
-  name: Sapotskin
-  state_id: 2956
+- name: Sapotskin
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.83290000'
   longitude: '23.65980000'
-  wikiDataId: Q2596984
-- id: 16054
-  name: Shchuchyn
-  state_id: 2956
+- name: Shchuchyn
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.60140000'
   longitude: '24.74650000'
-  wikiDataId: Q431779
-- id: 16055
-  name: Shchuchynski Rayon
-  state_id: 2956
+- name: Shchuchynski Rayon
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.58333000'
   longitude: '24.66667000'
-  wikiDataId: Q1953351
-- id: 16059
-  name: Skidel’
-  state_id: 2956
+- name: Skidel’
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.59040000'
   longitude: '24.24780000'
-  wikiDataId: Q958847
-- id: 16062
-  name: Slonim
-  state_id: 2956
+- name: Slonim
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.08690000'
   longitude: '25.31630000'
-  wikiDataId: Q863576
-- id: 16066
-  name: Smarhon’
-  state_id: 2956
+- name: Smarhon’
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.47980000'
   longitude: '26.39570000'
-  wikiDataId: Q958617
-- id: 16069
-  name: Soly
-  state_id: 2956
+- name: Soly
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.51301000'
   longitude: '26.19381000'
-  wikiDataId: Q2366073
-- id: 16079
-  name: Svislach
-  state_id: 2956
+- name: Svislach
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.03474000'
   longitude: '24.09829000'
-  wikiDataId: Q1076109
-- id: 16103
-  name: Vishnyeva
-  state_id: 2956
+- name: Vishnyeva
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.71020000'
   longitude: '26.52280000'
-  wikiDataId: Q2061377
-- id: 16106
-  name: Volkovysk
-  state_id: 2956
+- name: Volkovysk
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.15610000'
   longitude: '24.45130000'
-  wikiDataId: Q739491
-- id: 16107
-  name: Voranava
-  state_id: 2956
+- name: Voranava
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.14920000'
   longitude: '25.31120000'
-  wikiDataId: Q2470394
-- id: 16108
-  name: Vyalikaya Byerastavitsa
-  state_id: 2956
+- name: Vyalikaya Byerastavitsa
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.19600000'
   longitude: '24.01660000'
-  wikiDataId: Q1460634
-- id: 16121
-  name: Zel’va
-  state_id: 2956
+- name: Zel’va
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.15040000'
   longitude: '24.81530000'
-  wikiDataId: Q2618952
-- id: 16124
-  name: Zhaludok
-  state_id: 2956
+- name: Zhaludok
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.59740000'
   longitude: '24.98280000'
-  wikiDataId: Q2656523
-- id: 16126
-  name: Zhirovichi
-  state_id: 2956
+- name: Zhirovichi
   state_code: HR
   state_name: Grodno
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.01310000'
   longitude: '25.34430000'
-  wikiDataId: Q2079081
-- id: 15811
-  name: Astrashytski Haradok
-  state_id: 2957
+- name: Astrashytski Haradok
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.06510000'
   longitude: '27.69500000'
-  wikiDataId: Q13028169
-- id: 15814
-  name: Atolina
-  state_id: 2957
+- name: Atolina
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.78170000'
   longitude: '27.43460000'
-  wikiDataId: Q21579168
-- id: 15815
-  name: Azyartso
-  state_id: 2957
+- name: Azyartso
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.83970000'
   longitude: '27.39170000'
-  wikiDataId: Q4332155
-- id: 15819
-  name: Bal’shavik
-  state_id: 2957
+- name: Bal’shavik
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.00360000'
   longitude: '27.56690000'
-  wikiDataId: Q6466856
-- id: 15824
-  name: Barysaw
-  state_id: 2957
+- name: Barysaw
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.22790000'
   longitude: '28.50500000'
-  wikiDataId: Q19313
-- id: 15825
-  name: Barysawski Rayon
-  state_id: 2957
+- name: Barysawski Rayon
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.33333000'
   longitude: '28.58333000'
-  wikiDataId: Q2092836
-- id: 15826
-  name: Blon’
-  state_id: 2957
+- name: Blon’
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.52690000'
   longitude: '28.17320000'
-  wikiDataId: Q4088315
-- id: 15827
-  name: Bobr
-  state_id: 2957
+- name: Bobr
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.34200000'
   longitude: '29.27360000'
-  wikiDataId: Q2659074
-- id: 15828
-  name: Borovlyany
-  state_id: 2957
+- name: Borovlyany
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.00220000'
   longitude: '27.67540000'
-  wikiDataId: Q3919943
-- id: 15840
-  name: Byarezinski Rayon
-  state_id: 2957
+- name: Byarezinski Rayon
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.83333000'
   longitude: '29.00000000'
-  wikiDataId: Q2091552
-- id: 15845
-  name: Byerazino
-  state_id: 2957
+- name: Byerazino
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.83910000'
   longitude: '28.98790000'
-  wikiDataId: Q200833
-- id: 15855
-  name: Chervyen’
-  state_id: 2957
+- name: Chervyen’
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.70590000'
   longitude: '28.43130000'
-  wikiDataId: Q201458
-- id: 15856
-  name: Chervyen’ski Rayon
-  state_id: 2957
+- name: Chervyen’ski Rayon
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.75000000'
   longitude: '28.50000000'
-  wikiDataId: Q2091744
-- id: 15859
-  name: Chyrvonaya Slabada
-  state_id: 2957
+- name: Chyrvonaya Slabada
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.85220000'
   longitude: '27.16980000'
-  wikiDataId: Q2617132
-- id: 15860
-  name: Chyst’
-  state_id: 2957
+- name: Chyst’
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.26980000'
   longitude: '27.10670000'
-  wikiDataId: Q13134307
-- id: 15871
-  name: Druzhny
-  state_id: 2957
+- name: Druzhny
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.62380000'
   longitude: '27.89770000'
-  wikiDataId: Q4168898
-- id: 15875
-  name: Dukora
-  state_id: 2957
+- name: Dukora
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.67860000'
   longitude: '27.94000000'
-  wikiDataId: Q143040
-- id: 15878
-  name: Dzyarzhynsk
-  state_id: 2957
+- name: Dzyarzhynsk
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.68320000'
   longitude: '27.13800000'
-  wikiDataId: Q200891
-- id: 15879
-  name: Enyerhyetykaw
-  state_id: 2957
+- name: Enyerhyetykaw
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.58710000'
   longitude: '27.05350000'
-  wikiDataId: Q6549170
-- id: 15880
-  name: Fanipol
-  state_id: 2957
+- name: Fanipol
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.74998000'
   longitude: '27.33338000'
-  wikiDataId: Q201439
-- id: 15889
-  name: Haradzyeya
-  state_id: 2957
+- name: Haradzyeya
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.31210000'
   longitude: '26.53800000'
-  wikiDataId: Q2987244
-- id: 15890
-  name: Hatava
-  state_id: 2957
+- name: Hatava
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.78290000'
   longitude: '27.64070000'
-  wikiDataId: Q3917600
-- id: 15900
-  name: Horad Smalyavichy
-  state_id: 2957
+- name: Horad Smalyavichy
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.02490000'
   longitude: '28.08940000'
-  wikiDataId: Q201265
-- id: 15901
-  name: Horad Zhodzina
-  state_id: 2957
+- name: Horad Zhodzina
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.09850000'
   longitude: '28.33310000'
-  wikiDataId: Q200905
-- id: 15904
-  name: Hotsk
-  state_id: 2957
+- name: Hotsk
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.52150000'
   longitude: '27.13850000'
-  wikiDataId: Q18752080
-- id: 15907
-  name: Il’ya
-  state_id: 2957
+- name: Il’ya
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.41670000'
   longitude: '27.29580000'
-  wikiDataId: Q5213666
-- id: 15912
-  name: Ivyanyets
-  state_id: 2957
+- name: Ivyanyets
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.88640000'
   longitude: '26.74320000'
-  wikiDataId: Q2995144
-- id: 15916
-  name: Kalodzishchy
-  state_id: 2957
+- name: Kalodzishchy
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.94400000'
   longitude: '27.78230000'
-  wikiDataId: Q4228181
-- id: 15921
-  name: Kapyl’
-  state_id: 2957
+- name: Kapyl’
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.15160000'
   longitude: '27.09130000'
-  wikiDataId: Q200950
-- id: 15922
-  name: Kapyl’ski Rayon
-  state_id: 2957
+- name: Kapyl’ski Rayon
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.16667000'
   longitude: '27.08333000'
-  wikiDataId: Q518815
-- id: 15931
-  name: Khatsyezhyna
-  state_id: 2957
+- name: Khatsyezhyna
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.90940000'
   longitude: '27.30690000'
-  wikiDataId: Q21579587
-- id: 15933
-  name: Kholopenichi
-  state_id: 2957
+- name: Kholopenichi
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.51746000'
   longitude: '28.95645000'
-  wikiDataId: Q636403
-- id: 15940
-  name: Klyetsk
-  state_id: 2957
+- name: Klyetsk
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.06350000'
   longitude: '26.63210000'
-  wikiDataId: Q200937
-- id: 15941
-  name: Klyetski Rayon
-  state_id: 2957
+- name: Klyetski Rayon
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.00000000'
   longitude: '26.66667000'
-  wikiDataId: Q2091557
-- id: 15945
-  name: Korolëv Stan
-  state_id: 2957
+- name: Korolëv Stan
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.98650000'
   longitude: '27.79820000'
-  wikiDataId: Q6498328
-- id: 15949
-  name: Krasnaye
-  state_id: 2957
+- name: Krasnaye
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.24380000'
   longitude: '27.07580000'
-  wikiDataId: Q3917896
-- id: 15954
-  name: Krupki
-  state_id: 2957
+- name: Krupki
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.31780000'
   longitude: '29.13740000'
-  wikiDataId: Q200960
-- id: 15956
-  name: Kryvichy
-  state_id: 2957
+- name: Kryvichy
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.71320000'
   longitude: '27.28860000'
-  wikiDataId: Q2659553
-- id: 15958
-  name: Lahoysk
-  state_id: 2957
+- name: Lahoysk
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.20640000'
   longitude: '27.85120000'
-  wikiDataId: Q200968
-- id: 15961
-  name: Loshnitsa
-  state_id: 2957
+- name: Loshnitsa
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.27960000'
   longitude: '28.76490000'
-  wikiDataId: Q13029805
-- id: 15963
-  name: Luhavaya Slabada
-  state_id: 2957
+- name: Luhavaya Slabada
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.78230000'
   longitude: '27.84340000'
-  wikiDataId: Q6507101
-- id: 15966
-  name: Lyasny
-  state_id: 2957
+- name: Lyasny
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.00720000'
   longitude: '27.69630000'
-  wikiDataId: Q3919901
-- id: 15972
-  name: Lyeskawka
-  state_id: 2957
+- name: Lyeskawka
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.00240000'
   longitude: '27.71080000'
-  wikiDataId: Q4259426
-- id: 15976
-  name: Lyuban’
-  state_id: 2957
+- name: Lyuban’
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.79850000'
   longitude: '28.00480000'
-  wikiDataId: Q200991
-- id: 15978
-  name: Machulishchy
-  state_id: 2957
+- name: Machulishchy
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.77880000'
   longitude: '27.59480000'
-  wikiDataId: Q599374
-- id: 15981
-  name: Maladzyechna
-  state_id: 2957
+- name: Maladzyechna
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.31670000'
   longitude: '26.85400000'
-  wikiDataId: Q201203
-- id: 15983
-  name: Mar’’ina Horka
-  state_id: 2957
+- name: Mar’’ina Horka
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.50900000'
   longitude: '28.14700000'
-  wikiDataId: Q201173
-- id: 15987
-  name: Michanovichi
-  state_id: 2957
+- name: Michanovichi
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.73937000'
   longitude: '27.69276000'
-  wikiDataId: Q6518335
-- id: 15995
-  name: Myadzyel
-  state_id: 2957
+- name: Myadzyel
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.87890000'
   longitude: '26.93710000'
-  wikiDataId: Q201218
-- id: 15996
-  name: Myadzyel’ski Rayon
-  state_id: 2957
+- name: Myadzyel’ski Rayon
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.83333000'
   longitude: '27.00000000'
-  wikiDataId: Q1637855
-- id: 16001
-  name: Narach
-  state_id: 2957
+- name: Narach
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.91020000'
   longitude: '26.70800000'
-  wikiDataId: Q2471155
-- id: 16003
-  name: Nasilava
-  state_id: 2957
+- name: Nasilava
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.30441000'
   longitude: '26.78209000'
-  wikiDataId: Q15634568
-- id: 16008
-  name: Novosel’ye
-  state_id: 2957
+- name: Novosel’ye
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.91620000'
   longitude: '27.20090000'
-  wikiDataId: Q13029879
-- id: 16009
-  name: Novy Svyerzhan’
-  state_id: 2957
+- name: Novy Svyerzhan’
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.45420000'
   longitude: '26.73010000'
-  wikiDataId: Q3920126
-- id: 16011
-  name: Nyasvizh
-  state_id: 2957
+- name: Nyasvizh
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.21890000'
   longitude: '26.67790000'
-  wikiDataId: Q201230
-- id: 16012
-  name: Nyasvizhski Rayon
-  state_id: 2957
+- name: Nyasvizhski Rayon
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.25000000'
   longitude: '26.66667000'
-  wikiDataId: Q2091651
-- id: 16022
-  name: Plyeshchanitsy
-  state_id: 2957
+- name: Plyeshchanitsy
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.42350000'
   longitude: '27.83010000'
-  wikiDataId: Q2659496
-- id: 16026
-  name: Prawdzinski
-  state_id: 2957
+- name: Prawdzinski
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.52480000'
   longitude: '27.83030000'
-  wikiDataId: Q2478344
-- id: 16029
-  name: Pryvol’ny
-  state_id: 2957
+- name: Pryvol’ny
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.79690000'
   longitude: '27.79670000'
-  wikiDataId: Q4377991
-- id: 16030
-  name: Pukhavichy
-  state_id: 2957
+- name: Pukhavichy
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.52970000'
   longitude: '28.24670000'
-  wikiDataId: Q3917194
-- id: 16031
-  name: Pukhavichy Raion
-  state_id: 2957
+- name: Pukhavichy Raion
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.50000000'
   longitude: '28.00000000'
-  wikiDataId: Q2091726
-- id: 16032
-  name: Pyatryshki
-  state_id: 2957
+- name: Pyatryshki
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.06860000'
   longitude: '27.21790000'
-  wikiDataId: Q13133943
-- id: 16034
-  name: Radashkovichy
-  state_id: 2957
+- name: Radashkovichy
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.15540000'
   longitude: '27.24120000'
-  wikiDataId: Q2993986
-- id: 16037
-  name: Rakaw
-  state_id: 2957
+- name: Rakaw
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.96740000'
   longitude: '27.05620000'
-  wikiDataId: Q2500789
-- id: 16043
-  name: Rudzyensk
-  state_id: 2957
+- name: Rudzyensk
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.59830000'
   longitude: '27.86210000'
-  wikiDataId: Q2659499
-- id: 16045
-  name: Salihorsk
-  state_id: 2957
+- name: Salihorsk
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.78760000'
   longitude: '27.54150000'
-  wikiDataId: Q201393
-- id: 16046
-  name: Samakhvalavichy
-  state_id: 2957
+- name: Samakhvalavichy
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.73960000'
   longitude: '27.50370000'
-  wikiDataId: Q3917241
-- id: 16048
-  name: Sarachy
-  state_id: 2957
+- name: Sarachy
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.78670000'
   longitude: '28.01860000'
-  wikiDataId: Q21579797
-- id: 16051
-  name: Schomyslitsa
-  state_id: 2957
+- name: Schomyslitsa
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.82110000'
   longitude: '27.45220000'
-  wikiDataId: Q6548589
-- id: 16060
-  name: Slabada
-  state_id: 2957
+- name: Slabada
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.00870000'
   longitude: '27.88660000'
-  wikiDataId: Q16716755
-- id: 16063
-  name: Slutsk
-  state_id: 2957
+- name: Slutsk
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.02740000'
   longitude: '27.55970000'
-  wikiDataId: Q201243
-- id: 16064
-  name: Slutski Rayon
-  state_id: 2957
+- name: Slutski Rayon
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.00000000'
   longitude: '27.66667000'
-  wikiDataId: Q2091666
-- id: 16065
-  name: Smalyavitski Rayon
-  state_id: 2957
+- name: Smalyavitski Rayon
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.00000000'
   longitude: '28.16667000'
-  wikiDataId: Q675294
-- id: 16067
-  name: Smilavichy
-  state_id: 2957
+- name: Smilavichy
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.74960000'
   longitude: '28.01150000'
-  wikiDataId: Q278100
-- id: 16068
-  name: Snow
-  state_id: 2957
+- name: Snow
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.22010000'
   longitude: '26.40100000'
-  wikiDataId: Q3917192
-- id: 16070
-  name: Stan’kava
-  state_id: 2957
+- name: Stan’kava
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.62920000'
   longitude: '27.22900000'
-  wikiDataId: Q1011316
-- id: 16071
-  name: Staradarozhski Rayon
-  state_id: 2957
+- name: Staradarozhski Rayon
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.00000000'
   longitude: '28.16667000'
-  wikiDataId: Q977019
-- id: 16072
-  name: Starobin
-  state_id: 2957
+- name: Starobin
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.72670000'
   longitude: '27.46060000'
-  wikiDataId: Q2471143
-- id: 16073
-  name: Staryya Darohi
-  state_id: 2957
+- name: Staryya Darohi
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.04020000'
   longitude: '28.26700000'
-  wikiDataId: Q201403
-- id: 16074
-  name: Stawbtsowski Rayon
-  state_id: 2957
+- name: Stawbtsowski Rayon
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.58333000'
   longitude: '26.66667000'
-  wikiDataId: Q2061349
-- id: 16077
-  name: Stowbtsy
-  state_id: 2957
+- name: Stowbtsy
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.47850000'
   longitude: '26.74340000'
-  wikiDataId: Q201421
-- id: 16078
-  name: Svir
-  state_id: 2957
+- name: Svir
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.85170000'
   longitude: '26.39500000'
-  wikiDataId: Q2659511
-- id: 16080
-  name: Svislach
-  state_id: 2957
+- name: Svislach
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.64040000'
   longitude: '27.91990000'
-  wikiDataId: Q1410290
-- id: 16083
-  name: Syenitsa
-  state_id: 2957
+- name: Syenitsa
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.83130000'
   longitude: '27.53430000'
-  wikiDataId: Q3917859
-- id: 16085
-  name: Syomkava
-  state_id: 2957
+- name: Syomkava
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.01010000'
   longitude: '27.44100000'
-  wikiDataId: Q13028184
-- id: 16088
-  name: Tsimkavichy
-  state_id: 2957
+- name: Tsimkavichy
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.06720000'
   longitude: '26.99020000'
-  wikiDataId: Q1384308
-- id: 16091
-  name: Turets-Bayary
-  state_id: 2957
+- name: Turets-Bayary
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.37850000'
   longitude: '26.65810000'
-  wikiDataId: Q16720536
-- id: 16092
-  name: Urechcha
-  state_id: 2957
+- name: Urechcha
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.94790000'
   longitude: '27.89300000'
-  wikiDataId: Q1169315
-- id: 16094
-  name: Usiazh
-  state_id: 2957
+- name: Usiazh
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.07598000'
   longitude: '28.00698000'
-  wikiDataId: Q16721198
-- id: 16095
-  name: Uzda
-  state_id: 2957
+- name: Uzda
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.46270000'
   longitude: '27.21370000'
-  wikiDataId: Q201429
-- id: 16096
-  name: Uzdzyenski Rayon
-  state_id: 2957
+- name: Uzdzyenski Rayon
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.41667000'
   longitude: '27.33333000'
-  wikiDataId: Q2092398
-- id: 16097
-  name: Valozhyn
-  state_id: 2957
+- name: Valozhyn
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.08920000'
   longitude: '26.52660000'
-  wikiDataId: Q200876
-- id: 16101
-  name: Vilyeyka
-  state_id: 2957
+- name: Vilyeyka
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.49140000'
   longitude: '26.91110000'
-  wikiDataId: Q181632
-- id: 16102
-  name: Vilyeyski Rayon
-  state_id: 2957
+- name: Vilyeyski Rayon
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.50000000'
   longitude: '27.08333000'
-  wikiDataId: Q2061377
-- id: 16109
-  name: Vyaliki Trastsyanets
-  state_id: 2957
+- name: Vyaliki Trastsyanets
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.85100000'
   longitude: '27.71390000'
-  wikiDataId: Q21579836
-- id: 16117
-  name: Yubilyeyny
-  state_id: 2957
+- name: Yubilyeyny
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.81910000'
   longitude: '27.52150000'
-  wikiDataId: Q21579839
-- id: 16118
-  name: Zamostochye
-  state_id: 2957
+- name: Zamostochye
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.81980000'
   longitude: '27.86850000'
-  wikiDataId: Q6492521
-- id: 16119
-  name: Zaslawye
-  state_id: 2957
+- name: Zaslawye
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.01140000'
   longitude: '27.26950000'
-  wikiDataId: Q200917
-- id: 16125
-  name: Zhdanovichy
-  state_id: 2957
+- name: Zhdanovichy
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.94320000'
   longitude: '27.42500000'
-  wikiDataId: Q2584556
-- id: 16131
-  name: Zyembin
-  state_id: 2957
+- name: Zyembin
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.35790000'
   longitude: '28.22070000'
-  wikiDataId: Q2061031
-- id: 16132
-  name: Октябрьский
-  state_id: 2957
+- name: Октябрьский
   state_code: MI
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.04059000'
   longitude: '28.19813000'
-  wikiDataId: Q16709879
-- id: 15881
-  name: Frunzyenski Rayon
-  state_id: 2958
+- name: Frunzyenski Rayon
   state_code: HM
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.90056000'
   longitude: '27.49500000'
-  wikiDataId: Q2152309
-- id: 15927
-  name: Kastrychnitski Rayon
-  state_id: 2958
+- name: Kastrychnitski Rayon
   state_code: HM
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.85667000'
   longitude: '27.54139000'
-  wikiDataId: Q2152317
-- id: 15969
-  name: Lyeninski Rayon
-  state_id: 2958
+- name: Lyeninski Rayon
   state_code: HM
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.85944000'
   longitude: '27.58778000'
-  wikiDataId: Q2044762
-- id: 15984
-  name: Maskowski Rayon
-  state_id: 2958
+- name: Maskowski Rayon
   state_code: HM
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.87417000'
   longitude: '27.50278000'
-  wikiDataId: Q2152301
-- id: 15989
-  name: Minsk
-  state_id: 2958
+- name: Minsk
   state_code: HM
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.90000000'
   longitude: '27.56667000'
-  wikiDataId: Q21579751
-- id: 16016
-  name: Partyzanski Rayon
-  state_id: 2958
+- name: Partyzanski Rayon
   state_code: HM
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.88028000'
   longitude: '27.67000000'
-  wikiDataId: Q2045200
-- id: 16050
-  name: Savyetski Rayon
-  state_id: 2958
+- name: Savyetski Rayon
   state_code: HM
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.91778000'
   longitude: '27.59417000'
-  wikiDataId: Q2045076
-- id: 16087
-  name: Tsentral’ny Rayon
-  state_id: 2958
+- name: Tsentral’ny Rayon
   state_code: HM
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.91778000'
   longitude: '27.56333000'
-  wikiDataId: Q2023936
-- id: 16120
-  name: Zavodski Rayon
-  state_id: 2958
+- name: Zavodski Rayon
   state_code: HM
   state_name: Minsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.86194000'
   longitude: '27.66222000'
-  wikiDataId: Q2043177
-- id: 15808
-  name: Asipovichy
-  state_id: 2954
+- name: Asipovichy
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.30110000'
   longitude: '28.63860000'
-  wikiDataId: Q742161
-- id: 15809
-  name: Asipovitski Rayon
-  state_id: 2954
+- name: Asipovitski Rayon
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.33333000'
   longitude: '28.75000000'
-  wikiDataId: Q2025083
-- id: 15816
-  name: Babruysk
-  state_id: 2954
+- name: Babruysk
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.13840000'
   longitude: '29.22140000'
-  wikiDataId: Q207294
-- id: 15817
-  name: Babruyski Rayon
-  state_id: 2954
+- name: Babruyski Rayon
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.08333000'
   longitude: '29.16667000'
-  wikiDataId: Q2025091
-- id: 15836
-  name: Buynichy
-  state_id: 2954
+- name: Buynichy
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.85360000'
   longitude: '30.26710000'
-  wikiDataId: Q4098476
-- id: 15838
-  name: Byalynichy
-  state_id: 2954
+- name: Byalynichy
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.99940000'
   longitude: '29.71410000'
-  wikiDataId: Q2630527
-- id: 15839
-  name: Byalynitski Rayon
-  state_id: 2954
+- name: Byalynitski Rayon
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.00000000'
   longitude: '29.75000000'
-  wikiDataId: Q1997119
-- id: 15847
-  name: Bykhaw
-  state_id: 2954
+- name: Bykhaw
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.52100000'
   longitude: '30.24540000'
-  wikiDataId: Q954948
-- id: 15853
-  name: Chavuski Rayon
-  state_id: 2954
+- name: Chavuski Rayon
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.83333000'
   longitude: '30.91667000'
-  wikiDataId: Q2024276
-- id: 15854
-  name: Chavusy
-  state_id: 2954
+- name: Chavusy
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.80980000'
   longitude: '30.97170000'
-  wikiDataId: Q955113
-- id: 15857
-  name: Cherykaw
-  state_id: 2954
+- name: Cherykaw
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.56890000'
   longitude: '31.38310000'
-  wikiDataId: Q955126
-- id: 15858
-  name: Cherykawski Rayon
-  state_id: 2954
+- name: Cherykawski Rayon
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.66667000'
   longitude: '31.33333000'
-  wikiDataId: Q2024293
-- id: 15862
-  name: Dashkawka
-  state_id: 2954
+- name: Dashkawka
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.73520000'
   longitude: '30.26250000'
-  wikiDataId: Q4155518
-- id: 15872
-  name: Drybin
-  state_id: 2954
+- name: Drybin
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.11920000'
   longitude: '31.09390000'
-  wikiDataId: Q2630539
-- id: 15873
-  name: Drybinski Rayon
-  state_id: 2954
+- name: Drybinski Rayon
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.08333000'
   longitude: '31.00000000'
-  wikiDataId: Q675279
-- id: 15891
-  name: Hlusha
-  state_id: 2954
+- name: Hlusha
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.08680000'
   longitude: '28.85670000'
-  wikiDataId: Q2477814
-- id: 15892
-  name: Hlusk
-  state_id: 2954
+- name: Hlusk
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '52.90300000'
   longitude: '28.68450000'
-  wikiDataId: Q2995174
-- id: 15902
-  name: Horatski Rayon
-  state_id: 2954
+- name: Horatski Rayon
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.33333000'
   longitude: '31.00000000'
-  wikiDataId: Q2024126
-- id: 15903
-  name: Horki
-  state_id: 2954
+- name: Horki
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.28620000'
   longitude: '30.98630000'
-  wikiDataId: Q954812
-- id: 15914
-  name: Kadino
-  state_id: 2954
+- name: Kadino
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.88389000'
   longitude: '30.52028000'
-  wikiDataId: Q13029713
-- id: 15920
-  name: Kamyennyya Lavy
-  state_id: 2954
+- name: Kamyennyya Lavy
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.08980000'
   longitude: '30.29620000'
-  wikiDataId: Q20662431
-- id: 15928
-  name: Kastsyukovichy
-  state_id: 2954
+- name: Kastsyukovichy
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.35250000'
   longitude: '32.05140000'
-  wikiDataId: Q955013
-- id: 15932
-  name: Khodasy
-  state_id: 2954
+- name: Khodasy
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.92660000'
   longitude: '31.47790000'
-  wikiDataId: Q17094832
-- id: 15934
-  name: Khotsimsk
-  state_id: 2954
+- name: Khotsimsk
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.40860000'
   longitude: '32.57800000'
-  wikiDataId: Q2630628
-- id: 15935
-  name: Khotsimski Rayon
-  state_id: 2954
+- name: Khotsimski Rayon
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.41667000'
   longitude: '32.50000000'
-  wikiDataId: Q1574966
-- id: 15937
-  name: Kirawsk
-  state_id: 2954
+- name: Kirawsk
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.26930000'
   longitude: '29.47520000'
-  wikiDataId: Q955588
-- id: 15938
-  name: Klichaw
-  state_id: 2954
+- name: Klichaw
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.49230000'
   longitude: '29.33560000'
-  wikiDataId: Q955153
-- id: 15939
-  name: Klimavichy
-  state_id: 2954
+- name: Klimavichy
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.60790000'
   longitude: '31.95860000'
-  wikiDataId: Q603249
-- id: 15948
-  name: Krasnapol’ski Rayon
-  state_id: 2954
+- name: Krasnapol’ski Rayon
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.33333000'
   longitude: '31.41667000'
-  wikiDataId: Q745264
-- id: 15947
-  name: Krasnapollye
-  state_id: 2954
+- name: Krasnapollye
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.33530000'
   longitude: '31.39990000'
-  wikiDataId: Q2630603
-- id: 15951
-  name: Krasnyy Bereg
-  state_id: 2954
+- name: Krasnyy Bereg
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.32910000'
   longitude: '30.19290000'
-  wikiDataId: Q2446345
-- id: 15953
-  name: Kruhlaye
-  state_id: 2954
+- name: Kruhlaye
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.24970000'
   longitude: '29.79680000'
-  wikiDataId: Q2630517
-- id: 15955
-  name: Krychaw
-  state_id: 2954
+- name: Krychaw
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.71250000'
   longitude: '31.71700000'
-  wikiDataId: Q954914
-- id: 15979
-  name: Mahilyow
-  state_id: 2954
+- name: Mahilyow
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.91680000'
   longitude: '30.34490000'
-  wikiDataId: Q154835
-- id: 15980
-  name: Mahilyowski Rayon
-  state_id: 2954
+- name: Mahilyowski Rayon
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.83333000'
   longitude: '30.25000000'
-  wikiDataId: Q2024261
-- id: 15994
-  name: Mstsislaw
-  state_id: 2954
+- name: Mstsislaw
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.01850000'
   longitude: '31.72170000'
-  wikiDataId: Q744167
-- id: 15997
-  name: Myazhysyatki
-  state_id: 2954
+- name: Myazhysyatki
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.77760000'
   longitude: '30.17650000'
-  wikiDataId: Q4288784
-- id: 16000
-  name: Myshkavichy
-  state_id: 2954
+- name: Myshkavichy
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.21720000'
   longitude: '29.51200000'
-  wikiDataId: Q20571871
-- id: 16015
-  name: Palykavichy Pyershyya
-  state_id: 2954
+- name: Palykavichy Pyershyya
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.98540000'
   longitude: '30.36000000'
-  wikiDataId: Q13652962
-- id: 16025
-  name: Posëlok Voskhod
-  state_id: 2954
+- name: Posëlok Voskhod
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.77660000'
   longitude: '30.34970000'
-  wikiDataId: Q4126702
-- id: 16038
-  name: Ramanavichy
-  state_id: 2954
+- name: Ramanavichy
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.86530000'
   longitude: '30.55970000'
-  wikiDataId: Q13651975
-- id: 16056
-  name: Shklow
-  state_id: 2954
+- name: Shklow
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.21310000'
   longitude: '30.28770000'
-  wikiDataId: Q730175
-- id: 16057
-  name: Shklowski Rayon
-  state_id: 2954
+- name: Shklowski Rayon
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.16667000'
   longitude: '30.33333000'
-  wikiDataId: Q1253060
-- id: 16061
-  name: Slawharad
-  state_id: 2954
+- name: Slawharad
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.44290000'
   longitude: '31.00140000'
-  wikiDataId: Q614294
-- id: 16099
-  name: Veyno
-  state_id: 2954
+- name: Veyno
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.83333000'
   longitude: '30.38333000'
-  wikiDataId: Q4106012
-- id: 16104
-  name: Vishow
-  state_id: 2954
+- name: Vishow
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.98050000'
   longitude: '29.99250000'
-  wikiDataId: Q20464997
-- id: 16115
-  name: Yalizava
-  state_id: 2954
+- name: Yalizava
   state_code: MA
   state_name: Mogilev
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '53.39940000'
   longitude: '29.00480000'
-  wikiDataId: Q2657362
-- id: 15818
-  name: Balbasava
-  state_id: 2960
+- name: Balbasava
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.42070000'
   longitude: '30.29090000'
-  wikiDataId: Q578807
-- id: 15822
-  name: Baran’
-  state_id: 2960
+- name: Baran’
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.47840000'
   longitude: '30.31590000'
-  wikiDataId: Q286964
-- id: 15831
-  name: Braslaw
-  state_id: 2960
+- name: Braslaw
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.64130000'
   longitude: '27.04180000'
-  wikiDataId: Q628623
-- id: 15832
-  name: Braslawski Rayon
-  state_id: 2960
+- name: Braslawski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.55972000'
   longitude: '27.00000000'
-  wikiDataId: Q1517382
-- id: 15837
-  name: Byahoml’
-  state_id: 2960
+- name: Byahoml’
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.73160000'
   longitude: '28.05770000'
-  wikiDataId: Q2987876
-- id: 15846
-  name: Byeshankovitski Rayon
-  state_id: 2960
+- name: Byeshankovitski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.00000000'
   longitude: '29.50000000'
-  wikiDataId: Q1378251
-- id: 15851
-  name: Chashniki
-  state_id: 2960
+- name: Chashniki
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.85840000'
   longitude: '29.16080000'
-  wikiDataId: Q954421
-- id: 15852
-  name: Chashnitski Rayon
-  state_id: 2960
+- name: Chashnitski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.75000000'
   longitude: '29.25000000'
-  wikiDataId: Q2023954
-- id: 15865
-  name: Dokshytski Rayon
-  state_id: 2960
+- name: Dokshytski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.83333000'
   longitude: '27.91667000'
-  wikiDataId: Q2023929
-- id: 15866
-  name: Dokshytsy
-  state_id: 2960
+- name: Dokshytsy
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.89180000'
   longitude: '27.76670000'
-  wikiDataId: Q954618
-- id: 15870
-  name: Druya
-  state_id: 2960
+- name: Druya
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.79060000'
   longitude: '27.45050000'
-  wikiDataId: Q2621918
-- id: 15874
-  name: Dubrowna
-  state_id: 2960
+- name: Dubrowna
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.57160000'
   longitude: '30.69100000'
-  wikiDataId: Q954505
-- id: 15877
-  name: Dzisna
-  state_id: 2960
+- name: Dzisna
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.56760000'
   longitude: '28.20760000'
-  wikiDataId: Q651555
-- id: 15886
-  name: Haradok
-  state_id: 2960
+- name: Haradok
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.46240000'
   longitude: '29.98450000'
-  wikiDataId: Q954265
-- id: 15887
-  name: Haradotski Rayon
-  state_id: 2960
+- name: Haradotski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.66667000'
   longitude: '30.16667000'
-  wikiDataId: Q2005718
-- id: 15893
-  name: Hlybokaye
-  state_id: 2960
+- name: Hlybokaye
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.13840000'
   longitude: '27.69050000'
-  wikiDataId: Q954114
-- id: 15894
-  name: Hlybotski Rayon
-  state_id: 2960
+- name: Hlybotski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.16667000'
   longitude: '27.83333000'
-  wikiDataId: Q2092119
-- id: 15943
-  name: Kokhanava
-  state_id: 2960
+- name: Kokhanava
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.46110000'
   longitude: '30.00180000'
-  wikiDataId: Q2471192
-- id: 15944
-  name: Konstantinovo
-  state_id: 2960
+- name: Konstantinovo
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.65930000'
   longitude: '29.26840000'
-  wikiDataId: Q20470350
-- id: 15970
-  name: Lyepyel’
-  state_id: 2960
+- name: Lyepyel’
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.88140000'
   longitude: '28.69900000'
-  wikiDataId: Q2044762
-- id: 15971
-  name: Lyepyel’ski Rayon
-  state_id: 2960
+- name: Lyepyel’ski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.83333000'
   longitude: '28.66667000'
-  wikiDataId: Q268331
-- id: 15973
-  name: Lyntupy
-  state_id: 2960
+- name: Lyntupy
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.05160000'
   longitude: '26.31030000'
-  wikiDataId: Q2657182
-- id: 15974
-  name: Lyozna
-  state_id: 2960
+- name: Lyozna
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.02470000'
   longitude: '30.79700000'
-  wikiDataId: Q1025872
-- id: 15975
-  name: Lyoznyenski Rayon
-  state_id: 2960
+- name: Lyoznyenski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.00000000'
   longitude: '30.66667000'
-  wikiDataId: Q1388657
-- id: 15991
-  name: Mosar
-  state_id: 2960
+- name: Mosar
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.22320000'
   longitude: '27.46090000'
-  wikiDataId: Q2559780
-- id: 15998
-  name: Myorski Rayon
-  state_id: 2960
+- name: Myorski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.58333000'
   longitude: '27.83333000'
-  wikiDataId: Q2024225
-- id: 15999
-  name: Myory
-  state_id: 2960
+- name: Myory
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.62220000'
   longitude: '27.62810000'
-  wikiDataId: Q266841
-- id: 16004
-  name: Navapolatsk
-  state_id: 2960
+- name: Navapolatsk
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.53180000'
   longitude: '28.59870000'
-  wikiDataId: Q750424
-- id: 16007
-  name: Novolukoml’
-  state_id: 2960
+- name: Novolukoml’
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.66192000'
   longitude: '29.15016000'
-  wikiDataId: Q954178
-- id: 16013
-  name: Orsha
-  state_id: 2960
+- name: Orsha
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.50810000'
   longitude: '30.41720000'
-  wikiDataId: Q2091651
-- id: 16014
-  name: Osveya
-  state_id: 2960
+- name: Osveya
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '56.01470000'
   longitude: '28.11049000'
-  wikiDataId: Q2596938
-- id: 16018
-  name: Pastavy
-  state_id: 2960
+- name: Pastavy
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.11676000'
   longitude: '26.83263000'
-  wikiDataId: Q539012
-- id: 16019
-  name: Pastawski Rayon
-  state_id: 2960
+- name: Pastawski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.08333000'
   longitude: '26.91667000'
-  wikiDataId: Q2023948
-- id: 16023
-  name: Polatsk
-  state_id: 2960
+- name: Polatsk
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.48790000'
   longitude: '28.78560000'
-  wikiDataId: Q200797
-- id: 16024
-  name: Polatski Rayon
-  state_id: 2960
+- name: Polatski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.58333000'
   longitude: '29.00000000'
-  wikiDataId: Q1423032
-- id: 16039
-  name: Rasonski Rayon
-  state_id: 2960
+- name: Rasonski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.83333000'
   longitude: '28.91667000'
-  wikiDataId: Q2024283
-- id: 16040
-  name: Rasony
-  state_id: 2960
+- name: Rasony
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.90580000'
   longitude: '28.81350000'
-  wikiDataId: Q2995168
-- id: 16052
-  name: Sharkawshchyna
-  state_id: 2960
+- name: Sharkawshchyna
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.36890000'
   longitude: '27.46860000'
-  wikiDataId: Q2659505
-- id: 16053
-  name: Sharkawshchynski Rayon
-  state_id: 2960
+- name: Sharkawshchynski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.41667000'
   longitude: '27.41667000'
-  wikiDataId: Q1997084
-- id: 16058
-  name: Shumilinski Rayon
-  state_id: 2960
+- name: Shumilinski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.33333000'
   longitude: '29.50000000'
-  wikiDataId: Q2025054
-- id: 16082
-  name: Syanno
-  state_id: 2960
+- name: Syanno
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.81080000'
   longitude: '29.70860000'
-  wikiDataId: Q954519
-- id: 16084
-  name: Syennyenski Rayon
-  state_id: 2960
+- name: Syennyenski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.83333000'
   longitude: '29.83333000'
-  wikiDataId: Q1353622
-- id: 16086
-  name: Talachyn
-  state_id: 2960
+- name: Talachyn
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '54.40870000'
   longitude: '29.69550000'
-  wikiDataId: Q954343
-- id: 16093
-  name: Ushachy
-  state_id: 2960
+- name: Ushachy
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.17900000'
   longitude: '28.61580000'
-  wikiDataId: Q2987234
-- id: 16100
-  name: Vidzy
-  state_id: 2960
+- name: Vidzy
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.39450000'
   longitude: '26.63050000'
-  wikiDataId: Q934318
-- id: 16105
-  name: Vitebsk
-  state_id: 2960
+- name: Vitebsk
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.19040000'
   longitude: '30.20490000'
-  wikiDataId: Q102217
-- id: 16110
-  name: Vyerkhnyadzvinsk
-  state_id: 2960
+- name: Vyerkhnyadzvinsk
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.77770000'
   longitude: '27.93890000'
-  wikiDataId: Q954610
-- id: 16111
-  name: Vyerkhnyadzvinski Rayon
-  state_id: 2960
+- name: Vyerkhnyadzvinski Rayon
   state_code: VI
   state_name: Vitebsk
-  country_id: 21
-  country_code: BY
-  country_name: Belarus
   latitude: '55.75000000'
   longitude: '28.16667000'
-  wikiDataId: Q474626

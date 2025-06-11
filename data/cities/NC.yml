@@ -1,111 +1,51 @@
 ---
-- id: 153638
-  name: Lifou
-  state_id: 5227
+- name: Lifou
   state_code: '03'
   state_name: Loyalty Islands Province
-  country_id: 157
-  country_code: NC
-  country_name: New Caledonia
   latitude: "-20.96670000"
   longitude: '167.23330000'
-  wikiDataId: Q9728
-- id: 153639
-  name: Maré
-  state_id: 5227
+- name: Maré
   state_code: '03'
   state_name: Loyalty Islands Province
-  country_id: 157
-  country_code: NC
-  country_name: New Caledonia
   latitude: "-21.51670000"
   longitude: '167.98330000'
-  wikiDataId: Q9729
-- id: 153637
-  name: Houaïlou
-  state_id: 5226
+- name: Houaïlou
   state_code: '02'
   state_name: North Province
-  country_id: 157
-  country_code: NC
-  country_name: New Caledonia
   latitude: "-21.29090000"
   longitude: '165.62170000'
-  wikiDataId: Q9716
-- id: 153635
-  name: Koné
-  state_id: 5226
+- name: Koné
   state_code: '02'
   state_name: North Province
-  country_id: 157
-  country_code: NC
-  country_name: New Caledonia
   latitude: "-21.05900000"
   longitude: '164.85180000'
-  wikiDataId: Q9721
-- id: 153636
-  name: Poindimié
-  state_id: 5226
+- name: Poindimié
   state_code: '02'
   state_name: North Province
-  country_id: 157
-  country_code: NC
-  country_name: New Caledonia
   latitude: "-20.94960000"
   longitude: '165.32930000'
-  wikiDataId: Q9740
-- id: 153634
-  name: Bourail
-  state_id: 5225
+- name: Bourail
   state_code: '01'
   state_name: South Province
-  country_id: 157
-  country_code: NC
-  country_name: New Caledonia
   latitude: "-21.57010000"
   longitude: '165.48040000'
-  wikiDataId: Q9709
-- id: 153632
-  name: Dumbéa
-  state_id: 5225
+- name: Dumbéa
   state_code: '01'
   state_name: South Province
-  country_id: 157
-  country_code: NC
-  country_name: New Caledonia
   latitude: "-22.15000000"
   longitude: '166.45000000'
-  wikiDataId: Q597896
-- id: 153631
-  name: Le Mont-Dore
-  state_id: 5225
+- name: Le Mont-Dore
   state_code: '01'
   state_name: South Province
-  country_id: 157
-  country_code: NC
-  country_name: New Caledonia
   latitude: "-22.21570000"
   longitude: '166.46650000'
-  wikiDataId: Q9732
-- id: 153630
-  name: Nouméa
-  state_id: 5225
+- name: Nouméa
   state_code: '01'
   state_name: South Province
-  country_id: 157
-  country_code: NC
-  country_name: New Caledonia
   latitude: "-22.27580000"
   longitude: '166.45800000'
-  wikiDataId: Q9733
-- id: 153633
-  name: Païta
-  state_id: 5225
+- name: Païta
   state_code: '01'
   state_name: South Province
-  country_id: 157
-  country_code: NC
-  country_name: New Caledonia
   latitude: "-22.13370000"
   longitude: '166.35050000'
-  wikiDataId: Q9737

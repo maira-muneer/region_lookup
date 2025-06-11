@@ -1,826 +1,376 @@
 ---
-- id: 15738
-  name: Gobojango
-  state_id: 3067
+- name: Gobojango
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-21.83270000"
   longitude: '28.72882000'
-  wikiDataId: Q166126
-- id: 15739
-  name: Gweta
-  state_id: 3067
+- name: Gweta
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-20.18333000"
   longitude: '25.23333000'
-  wikiDataId: Q170752
-- id: 15742
-  name: Kalamare
-  state_id: 3067
+- name: Kalamare
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.93369000"
   longitude: '26.57032000'
-  wikiDataId: Q72558
-- id: 15750
-  name: Letlhakane
-  state_id: 3067
+- name: Letlhakane
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-21.41494000"
   longitude: '25.59263000'
-  wikiDataId: Q167301
-- id: 15752
-  name: Letsheng
-  state_id: 3067
+- name: Letsheng
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.66384000"
   longitude: '27.22390000'
-  wikiDataId: Q171101
-- id: 15753
-  name: Maapi
-  state_id: 3067
+- name: Maapi
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.75785000"
   longitude: '27.35001000'
-  wikiDataId: Q21858676
-- id: 15754
-  name: Machaneng
-  state_id: 3067
+- name: Machaneng
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-23.18621000"
   longitude: '27.48856000'
-  wikiDataId: Q21858676
-- id: 15755
-  name: Mahalapye
-  state_id: 3067
+- name: Mahalapye
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-23.10407000"
   longitude: '26.81421000'
-  wikiDataId: Q170724
-- id: 15757
-  name: Makobeng
-  state_id: 3067
+- name: Makobeng
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.99637000"
   longitude: '27.66766000'
-  wikiDataId: Q72034
-- id: 15758
-  name: Makwata
-  state_id: 3067
+- name: Makwata
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-23.28333000"
   longitude: '27.30000000'
-  wikiDataId: Q72029
-- id: 15761
-  name: Mathakola
-  state_id: 3067
+- name: Mathakola
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.72125000"
   longitude: '27.31057000'
-  wikiDataId: Q170941
-- id: 15762
-  name: Mathambgwane
-  state_id: 3067
+- name: Mathambgwane
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-20.99075000"
   longitude: '27.33158000'
-  wikiDataId: Q170755
-- id: 15763
-  name: Mathathane
-  state_id: 3067
+- name: Mathathane
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.26875000"
   longitude: '28.74946000'
-  wikiDataId: Q166327
-- id: 15765
-  name: Maunatlala
-  state_id: 3067
+- name: Maunatlala
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.59701000"
   longitude: '27.63006000'
-  wikiDataId: Q171040
-- id: 15770
-  name: Mogapi
-  state_id: 3067
+- name: Mogapi
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.32301000"
   longitude: '27.83492000'
-  wikiDataId: Q170811
-- id: 15772
-  name: Moijabana
-  state_id: 3067
+- name: Moijabana
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.43333000"
   longitude: '26.41667000'
-  wikiDataId: Q21858765
-- id: 15774
-  name: Mookane
-  state_id: 3067
+- name: Mookane
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-23.68805000"
   longitude: '26.65948000'
-  wikiDataId: Q72043
-- id: 15775
-  name: Mopipi
-  state_id: 3067
+- name: Mopipi
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-21.18333000"
   longitude: '24.88333000'
-  wikiDataId: Q167864
-- id: 15776
-  name: Mosetse
-  state_id: 3067
+- name: Mosetse
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-20.75000000"
   longitude: '26.65000000'
-  wikiDataId: Q167864
-- id: 15778
-  name: Nata
-  state_id: 3067
+- name: Nata
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-20.21667000"
   longitude: '26.18333000'
-  wikiDataId: Q170817
-- id: 15781
-  name: Orapa
-  state_id: 3067
+- name: Orapa
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-21.31150000"
   longitude: '25.37642000'
-  wikiDataId: Q859708
-- id: 15783
-  name: Palapye
-  state_id: 3067
+- name: Palapye
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.54605000"
   longitude: '27.12507000'
-  wikiDataId: Q170711
-- id: 15786
-  name: Pilikwe
-  state_id: 3067
+- name: Pilikwe
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.79904000"
   longitude: '27.19376000'
-  wikiDataId: Q72023
-- id: 15787
-  name: Rakops
-  state_id: 3067
+- name: Rakops
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-21.02257000"
   longitude: '24.36052000'
-  wikiDataId: Q31483645
-- id: 15788
-  name: Ramokgonami
-  state_id: 3067
+- name: Ramokgonami
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.86450000"
   longitude: '27.42391000'
-  wikiDataId: Q72189
-- id: 15790
-  name: Ratholo
-  state_id: 3067
+- name: Ratholo
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.72454000"
   longitude: '27.57199000'
-  wikiDataId: Q171006
-- id: 15792
-  name: Sefophe
-  state_id: 3067
+- name: Sefophe
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.18333000"
   longitude: '27.96667000'
-  wikiDataId: Q166828
-- id: 15795
-  name: Serowe
-  state_id: 3067
+- name: Serowe
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.38754000"
   longitude: '26.71077000'
-  wikiDataId: Q855634
-- id: 15797
-  name: Sua
-  state_id: 3067
+- name: Sua
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-20.05000000"
   longitude: '26.20000000'
-  wikiDataId: Q170663
-- id: 15798
-  name: Tamasane
-  state_id: 3067
+- name: Tamasane
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-22.41840000"
   longitude: '27.40127000'
-  wikiDataId: Q171118
-- id: 15800
-  name: Tobane
-  state_id: 3067
+- name: Tobane
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-21.95000000"
   longitude: '27.90000000'
-  wikiDataId: Q166947
-- id: 15801
-  name: Tonota
-  state_id: 3067
+- name: Tonota
   state_code: CE
   state_name: Central
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-21.44236000"
   longitude: '27.46153000'
-  wikiDataId: Q170661
-- id: 15731
-  name: Dekar
-  state_id: 3061
+- name: Dekar
   state_code: GH
   state_name: Ghanzi
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-21.53333000"
   longitude: '21.93333000'
-  wikiDataId: Q170898
-- id: 15737
-  name: Ghanzi
-  state_id: 3061
+- name: Ghanzi
   state_code: GH
   state_name: Ghanzi
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-21.69785000"
   longitude: '21.64581000'
-  wikiDataId: Q859319
-- id: 15740
-  name: Hukuntsi
-  state_id: 3066
+- name: Hukuntsi
   state_code: KG
   state_name: Kgalagadi
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-23.99880000"
   longitude: '21.77962000'
-  wikiDataId: Q170642
-- id: 15743
-  name: Kang
-  state_id: 3066
+- name: Kang
   state_code: KG
   state_name: Kgalagadi
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-23.67518000"
   longitude: '22.78762000'
-  wikiDataId: Q170667
-- id: 15748
-  name: Lehututu
-  state_id: 3066
+- name: Lehututu
   state_code: KG
   state_name: Kgalagadi
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-23.96667000"
   longitude: '21.86667000'
-  wikiDataId: Q170646
-- id: 15759
-  name: Manyana
-  state_id: 3066
+- name: Manyana
   state_code: KG
   state_name: Kgalagadi
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-23.40000000"
   longitude: '21.71667000'
-  wikiDataId: Q72029
-- id: 15802
-  name: Tshabong
-  state_id: 3066
+- name: Tshabong
   state_code: KG
   state_name: Kgalagadi
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-26.05000000"
   longitude: '22.45000000'
-  wikiDataId: Q170727
-- id: 15803
-  name: Werda
-  state_id: 3066
+- name: Werda
   state_code: KG
   state_name: Kgalagadi
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-25.26667000"
   longitude: '23.28333000'
-  wikiDataId: Q171162
-- id: 15729
-  name: Bokaa
-  state_id: 3062
+- name: Bokaa
   state_code: KL
   state_name: Kgatleng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.45000000"
   longitude: '26.01667000'
-  wikiDataId: Q170656
-- id: 15767
-  name: Mmathubudukwane
-  state_id: 3062
+- name: Mmathubudukwane
   state_code: KL
   state_name: Kgatleng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.60000000"
   longitude: '26.43333000'
-  wikiDataId: Q170722
-- id: 15769
-  name: Mochudi
-  state_id: 3062
+- name: Mochudi
   state_code: KL
   state_name: Kgatleng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.41667000"
   longitude: '26.15000000'
-  wikiDataId: Q615877
-- id: 15785
-  name: Pilane
-  state_id: 3062
+- name: Pilane
   state_code: KL
   state_name: Kgatleng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.45000000"
   longitude: '26.13333000'
-  wikiDataId: Q170743
-- id: 15730
-  name: Botlhapatlou
-  state_id: 3069
+- name: Botlhapatlou
   state_code: KW
   state_name: Kweneng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.02591000"
   longitude: '25.48976000'
-  wikiDataId: Q170719
-- id: 15733
-  name: Dutlwe
-  state_id: 3069
+- name: Dutlwe
   state_code: KW
   state_name: Kweneng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-23.98333000"
   longitude: '23.90000000'
-  wikiDataId: Q170705
-- id: 15734
-  name: Gabane
-  state_id: 3069
+- name: Gabane
   state_code: KW
   state_name: Kweneng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.66667000"
   longitude: '25.78222000'
-  wikiDataId: Q38855
-- id: 15736
-  name: Gaphatshwe
-  state_id: 3069
+- name: Gaphatshwe
   state_code: KW
   state_name: Kweneng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.57389000"
   longitude: '25.83417000'
-  wikiDataId: Q38855
-- id: 15746
-  name: Khudumelapye
-  state_id: 3069
+- name: Khudumelapye
   state_code: KW
   state_name: Kweneng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-23.88333000"
   longitude: '24.75000000'
-  wikiDataId: Q170739
-- id: 15749
-  name: Lenchwe Le Tau
-  state_id: 3069
+- name: Lenchwe Le Tau
   state_code: KW
   state_name: Kweneng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.38333000"
   longitude: '25.85000000'
-  wikiDataId: Q21858654
-- id: 15751
-  name: Letlhakeng
-  state_id: 3069
+- name: Letlhakeng
   state_code: KW
   state_name: Kweneng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.09442000"
   longitude: '25.02977000'
-  wikiDataId: Q170664
-- id: 15766
-  name: Metsemotlhaba
-  state_id: 3069
+- name: Metsemotlhaba
   state_code: KW
   state_name: Kweneng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.55139000"
   longitude: '25.80306000'
-  wikiDataId: Q39137
-- id: 15768
-  name: Mmopone
-  state_id: 3069
+- name: Mmopone
   state_code: KW
   state_name: Kweneng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.56694000"
   longitude: '25.87417000'
-  wikiDataId: Q170722
-- id: 15771
-  name: Mogoditshane
-  state_id: 3069
+- name: Mogoditshane
   state_code: KW
   state_name: Kweneng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.62694000"
   longitude: '25.86556000'
-  wikiDataId: Q170717
-- id: 15773
-  name: Molepolole
-  state_id: 3069
+- name: Molepolole
   state_code: KW
   state_name: Kweneng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.40659000"
   longitude: '25.49508000'
-  wikiDataId: Q170725
-- id: 15779
-  name: Nkoyaphiri
-  state_id: 3069
+- name: Nkoyaphiri
   state_code: KW
   state_name: Kweneng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.63222000"
   longitude: '25.83139000'
-  wikiDataId: Q170817
-- id: 15799
-  name: Thamaga
-  state_id: 3069
+- name: Thamaga
   state_code: KW
   state_name: Kweneng
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.67014000"
   longitude: '25.53975000'
-  wikiDataId: Q38902
-- id: 15732
-  name: Dukwe
-  state_id: 3068
+- name: Dukwe
   state_code: NE
   state_name: North-East
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-20.58333000"
   longitude: '26.41667000'
-  wikiDataId: Q21858508
-- id: 15756
-  name: Makaleng
-  state_id: 3068
+- name: Makaleng
   state_code: NE
   state_name: North-East
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-20.90000000"
   longitude: '27.28333000'
-  wikiDataId: Q170968
-- id: 15760
-  name: Masunga
-  state_id: 3068
+- name: Masunga
   state_code: NE
   state_name: North-East
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-20.62455000"
   longitude: '27.44875000'
-  wikiDataId: Q170830
-- id: 15791
-  name: Sebina
-  state_id: 3068
+- name: Sebina
   state_code: NE
   state_name: North-East
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-20.86667000"
   longitude: '27.25000000'
-  wikiDataId: Q170981
-- id: 15764
-  name: Maun
-  state_id: 3065
+- name: Maun
   state_code: NW
   state_name: North-West
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-19.98333000"
   longitude: '23.41667000'
-  wikiDataId: Q166327
-- id: 15780
-  name: Nokaneng
-  state_id: 3065
+- name: Nokaneng
   state_code: NW
   state_name: North-West
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-19.66667000"
   longitude: '22.26667000'
-  wikiDataId: Q171157
-- id: 15784
-  name: Pandamatenga
-  state_id: 3065
+- name: Pandamatenga
   state_code: NW
   state_name: North-West
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-18.52779000"
   longitude: '25.62698000'
-  wikiDataId: Q170908
-- id: 15793
-  name: Sehithwa
-  state_id: 3065
+- name: Sehithwa
   state_code: NW
   state_name: North-West
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-20.46667000"
   longitude: '22.71667000'
-  wikiDataId: Q166923
-- id: 15796
-  name: Shakawe
-  state_id: 3065
+- name: Shakawe
   state_code: NW
   state_name: North-West
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-18.36536000"
   longitude: '21.84219000'
-  wikiDataId: Q170663
-- id: 15735
-  name: Gaborone
-  state_id: 3064
+- name: Gaborone
   state_code: SE
   state_name: South-East
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.76234000"
   longitude: '25.79950000'
-  wikiDataId: Q38855
-- id: 15741
-  name: Janeng
-  state_id: 3064
+- name: Janeng
   state_code: SE
   state_name: South-East
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-25.41667000"
   longitude: '25.55000000'
-  wikiDataId: Q21858552
-- id: 15747
-  name: Kopong
-  state_id: 3064
+- name: Kopong
   state_code: SE
   state_name: South-East
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.48333000"
   longitude: '25.88333000'
-  wikiDataId: Q31811672
-- id: 15782
-  name: Otse
-  state_id: 3064
+- name: Otse
   state_code: SE
   state_name: South-East
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-25.01667000"
   longitude: '25.73333000'
-  wikiDataId: Q170659
-- id: 15789
-  name: Ramotswa
-  state_id: 3064
+- name: Ramotswa
   state_code: SE
   state_name: South-East
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.87158000"
   longitude: '25.86989000'
-  wikiDataId: Q170714
-- id: 15744
-  name: Kanye
-  state_id: 3063
+- name: Kanye
   state_code: SO
   state_name: Southern
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.96675000"
   longitude: '25.33273000'
-  wikiDataId: Q170730
-- id: 15745
-  name: Khakhea
-  state_id: 3063
+- name: Khakhea
   state_code: SO
   state_name: Southern
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.68954000"
   longitude: '23.49403000'
-  wikiDataId: Q170954
-- id: 15777
-  name: Mosopa
-  state_id: 3063
+- name: Mosopa
   state_code: SO
   state_name: Southern
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.77180000"
   longitude: '25.42156000'
-  wikiDataId: Q170660
-- id: 15794
-  name: Sekoma
-  state_id: 3063
+- name: Sekoma
   state_code: SO
   state_name: Southern
-  country_id: 29
-  country_code: BW
-  country_name: Botswana
   latitude: "-24.40000000"
   longitude: '23.88333000'
-  wikiDataId: Q21858864

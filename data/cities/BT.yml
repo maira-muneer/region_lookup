@@ -1,628 +1,286 @@
 ---
-- id: 15709
-  name: Jakar
-  state_id: 240
+- name: Jakar
   state_code: '33'
   state_name: 'Bumthang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.54918000'
   longitude: '90.75250000'
-  wikiDataId: Q2468415
-- id: 153824
-  name: Tang Valley
-  state_id: 240
+- name: Tang Valley
   state_code: '33'
   state_name: 'Bumthang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.50252420'
   longitude: '90.74495440'
-  wikiDataId: Q96407805
-- id: 153825
-  name: Chapchha
-  state_id: 239
+- name: Chapchha
   state_code: '12'
   state_name: 'Chukha '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.20000000'
   longitude: '89.55000000'
-  wikiDataId: Q5072954
-- id: 15706
-  name: Daphu
-  state_id: 239
+- name: Daphu
   state_code: '12'
   state_name: 'Chukha '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '26.96670000'
   longitude: '89.38330000'
-  wikiDataId: Q5221776
-- id: 153827
-  name: Khitokha
-  state_id: 239
+- name: Khitokha
   state_code: '12'
   state_name: 'Chukha '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '26.90000000'
   longitude: '89.61670000'
-  wikiDataId: Q6401799
-- id: 153826
-  name: Lobnig
-  state_id: 239
+- name: Lobnig
   state_code: '12'
   state_name: 'Chukha '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.15000000'
   longitude: '89.55000000'
-  wikiDataId: Q6663727
-- id: 15726
-  name: Pachu
-  state_id: 239
+- name: Pachu
   state_code: '12'
   state_name: 'Chukha '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '26.90000000'
   longitude: '89.35000000'
-  wikiDataId: Q7122069
-- id: 15716
-  name: Phuntsholing
-  state_id: 239
+- name: Phuntsholing
   state_code: '12'
   state_name: 'Chukha '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '26.85164000'
   longitude: '89.38837000'
-  wikiDataId: Q856162
-- id: 15705
-  name: Daga
-  state_id: 238
+- name: Daga
   state_code: '22'
   state_name: 'Dagana '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.07529000'
   longitude: '89.87688000'
-  wikiDataId: Q2487656
-- id: 15728
-  name: Sibsu
-  state_id: 238
+- name: Sibsu
   state_code: '22'
   state_name: 'Dagana '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.00000000'
   longitude: '88.90000000'
-  wikiDataId: Q7507287
-- id: 153828
-  name: Thumgaon
-  state_id: 238
+- name: Thumgaon
   state_code: '22'
   state_name: 'Dagana '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '26.98330000'
   longitude: '89.96670000'
-  wikiDataId: Q7798849
-- id: 15707
-  name: Gasa
-  state_id: 229
+- name: Gasa
   state_code: GA
   state_name: 'Gasa '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.90372000'
   longitude: '89.72689000'
-  wikiDataId: Q5221776
-- id: 15708
-  name: Ha
-  state_id: 232
+- name: Ha
   state_code: '13'
   state_name: 'Haa '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.38747000'
   longitude: '89.28074000'
-  wikiDataId: Q2059058
-- id: 153829
-  name: Naktsang
-  state_id: 232
+- name: Naktsang
   state_code: '13'
   state_name: 'Haa '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.38330000'
   longitude: '89.26670000'
-  wikiDataId: Q6960719
-- id: 153830
-  name: Sangkari
-  state_id: 232
+- name: Sangkari
   state_code: '13'
   state_name: 'Haa '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.30000000'
   longitude: '89.31670000'
-  wikiDataId: Q7418027
-- id: 15710
-  name: Lhuentse
-  state_id: 234
+- name: Lhuentse
   state_code: '44'
   state_name: 'Lhuntse '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.66787000'
   longitude: '91.18393000'
-  wikiDataId: Q2468415
-- id: 153832
-  name: Kengkhar
-  state_id: 242
+- name: Kengkhar
   state_code: '42'
   state_name: 'Mongar '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.10000000'
   longitude: '91.25000000'
-  wikiDataId: Q6389187
-- id: 15711
-  name: Mongar
-  state_id: 242
+- name: Mongar
   state_code: '42'
   state_name: 'Mongar '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.27471000'
   longitude: '91.23963000'
-  wikiDataId: Q2582611
-- id: 153831
-  name: Thebong
-  state_id: 242
+- name: Thebong
   state_code: '42'
   state_name: 'Mongar '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.26670000'
   longitude: '91.26670000'
-  wikiDataId: Q7777622
-- id: 15714
-  name: Paro
-  state_id: 237
+- name: Paro
   state_code: '11'
   state_name: 'Paro '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.43050000'
   longitude: '89.41334000'
-  wikiDataId: Q862041
-- id: 153834
-  name: Suchha
-  state_id: 237
+- name: Suchha
   state_code: '11'
   state_name: 'Paro '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.23330000'
   longitude: '89.45000000'
-  wikiDataId: Q7632903
-- id: 153833
-  name: Tshalunang
-  state_id: 237
+- name: Tshalunang
   state_code: '11'
   state_name: 'Paro '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.43330000'
   longitude: '89.65000000'
-  wikiDataId: Q7849600
-- id: 153835
-  name: Nganglam
-  state_id: 244
+- name: Nganglam
   state_code: '43'
   state_name: 'Pemagatshel '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '26.84181100'
   longitude: '91.24248490'
-  wikiDataId: Q17069379
-- id: 15715
-  name: Pemagatshel
-  state_id: 244
+- name: Pemagatshel
   state_code: '43'
   state_name: 'Pemagatshel '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.03795000'
   longitude: '91.40305000'
-  wikiDataId: Q2665353
-- id: 15712
-  name: Pajo
-  state_id: 235
+- name: Pajo
   state_code: '23'
   state_name: 'Punakha '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.53333000'
   longitude: '89.88333000'
-  wikiDataId: Q2394786
-- id: 15717
-  name: Punākha
-  state_id: 235
+- name: Punākha
   state_code: '23'
   state_name: 'Punakha '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.59137000'
   longitude: '89.87743000'
-  wikiDataId: Q826112
-- id: 15718
-  name: Samdrup Jongkhar
-  state_id: 243
+- name: Samdrup Jongkhar
   state_code: '45'
   state_name: 'Samdrup Jongkhar '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '26.80069000'
   longitude: '91.50519000'
-  wikiDataId: Q2380103
-- id: 153838
-  name: Denchukha
-  state_id: 246
+- name: Denchukha
   state_code: '14'
   state_name: 'Samtse '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.01670000'
   longitude: '89.25000000'
-  wikiDataId: Q5256647
-- id: 153837
-  name: Dorokha
-  state_id: 246
+- name: Dorokha
   state_code: '14'
   state_name: 'Samtse '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.01670000'
   longitude: '89.21670000'
-  wikiDataId: Q5298171
-- id: 15719
-  name: Samtse
-  state_id: 246
+- name: Samtse
   state_code: '14'
   state_name: 'Samtse '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '26.89903000'
   longitude: '89.09951000'
-  wikiDataId: Q2315241
-- id: 153836
-  name: Tendu
-  state_id: 246
+- name: Tendu
   state_code: '14'
   state_name: 'Samtse '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.13330000'
   longitude: '88.88330000'
-  wikiDataId: Q7699666
-- id: 153841
-  name: Bhurgaon
-  state_id: 247
+- name: Bhurgaon
   state_code: '31'
   state_name: 'Sarpang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '26.90000000'
   longitude: '90.43330000'
-  wikiDataId: Q4902198
-- id: 153840
-  name: Galechugaon
-  state_id: 247
+- name: Galechugaon
   state_code: '31'
   state_name: 'Sarpang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.00000000'
   longitude: '90.53330000'
-  wikiDataId: Q5518315
-- id: 153839
-  name: Geylegphug
-  state_id: 247
+- name: Geylegphug
   state_code: '31'
   state_name: 'Sarpang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '26.87060000'
   longitude: '90.48560000'
-  wikiDataId: Q1499697
-- id: 15720
-  name: Sarpang
-  state_id: 247
+- name: Sarpang
   state_code: '31'
   state_name: 'Sarpang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '26.86395000'
   longitude: '90.26745000'
-  wikiDataId: Q366969
-- id: 15722
-  name: Thimphu
-  state_id: 241
+- name: Thimphu
   state_code: '15'
   state_name: 'Thimphu '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.46609000'
   longitude: '89.64191000'
-  wikiDataId: Q9270
-- id: 153842
-  name: Shali
-  state_id: 5242
+- name: Shali
   state_code: '15'
   state_name: "Trashi Yangtse\t"
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.48330000'
   longitude: '91.56670000'
-  wikiDataId: Q7487200
-- id: 153843
-  name: Trashi Yangtse
-  state_id: 5242
+- name: Trashi Yangtse
   state_code: '15'
   state_name: "Trashi Yangtse\t"
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.58330000'
   longitude: '91.46670000'
-  wikiDataId: Q2566021
-- id: 153844
-  name: 'Yalang '
-  state_id: 5242
+- name: 'Yalang '
   state_code: '15'
   state_name: "Trashi Yangtse\t"
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.43330000'
   longitude: '91.63330000'
-  wikiDataId: Q8047307
-- id: 153850
-  name: Balfai
-  state_id: 236
+- name: Balfai
   state_code: '41'
   state_name: 'Trashigang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.21670320'
   longitude: '91.47940030'
-  wikiDataId: Q4850742
-- id: 153846
-  name: Ghunkarah
-  state_id: 236
+- name: Ghunkarah
   state_code: '41'
   state_name: 'Trashigang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.40000000'
   longitude: '91.56670000'
-  wikiDataId: Q5557711
-- id: 153845
-  name: Ngalangkang
-  state_id: 236
+- name: Ngalangkang
   state_code: '41'
   state_name: 'Trashigang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.45282330'
   longitude: '91.56477710'
-  wikiDataId: Q15262244
-- id: 153847
-  name: Rungzyung
-  state_id: 236
+- name: Rungzyung
   state_code: '41'
   state_name: 'Trashigang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.35000000'
   longitude: '91.66670000'
-  wikiDataId: Q5557711
-- id: 153851
-  name: Sassi
-  state_id: 236
+- name: Sassi
   state_code: '41'
   state_name: 'Trashigang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.13330000'
   longitude: '91.43330000'
-  wikiDataId: Q7425769
-- id: 153849
-  name: Thrimshing
-  state_id: 236
+- name: Thrimshing
   state_code: '41'
   state_name: 'Trashigang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.13330000'
   longitude: '91.61670000'
-  wikiDataId: Q7798222
-- id: 15724
-  name: Trashigang
-  state_id: 236
+- name: Trashigang
   state_code: '41'
   state_name: 'Trashigang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.33310000'
   longitude: '91.55424000'
-  wikiDataId: Q1149819
-- id: 153848
-  name: Wamrong
-  state_id: 236
+- name: Wamrong
   state_code: '41'
   state_name: 'Trashigang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.13784530'
   longitude: '91.56044470'
-  wikiDataId: Q7966961
-- id: 153852
-  name: Trongsa
-  state_id: 245
+- name: Trongsa
   state_code: '17'
   state_name: 'Trongsa '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.49940000'
   longitude: '90.50470000'
-  wikiDataId: Q7845506
-- id: 153854
-  name: Beteni
-  state_id: 230
+- name: Beteni
   state_code: '21'
   state_name: 'Tsirang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.03330000'
   longitude: '90.23330000'
-  wikiDataId: Q4897410
-- id: 153853
-  name: Dagapela
-  state_id: 230
+- name: Dagapela
   state_code: '21'
   state_name: 'Tsirang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '26.93330000'
   longitude: '89.95000000'
-  wikiDataId: Q5208459
-- id: 15725
-  name: Damphu
-  state_id: 230
+- name: Damphu
   state_code: '21'
   state_name: 'Tsirang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.01670000'
   longitude: '90.10000000'
-  wikiDataId: Q2253073
-- id: 15727
-  name: Tsirang
-  state_id: 230
+- name: Tsirang
   state_code: '21'
   state_name: 'Tsirang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.02190000'
   longitude: '90.12291000'
-  wikiDataId: Q1019534
-- id: 153856
-  name: Manikyangsa
-  state_id: 231
+- name: Manikyangsa
   state_code: '24'
   state_name: 'Wangdue Phodrang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.53330000'
   longitude: '90.10000000'
-  wikiDataId: Q6749651
-- id: 153855
-  name: Ritang
-  state_id: 231
+- name: Ritang
   state_code: '24'
   state_name: 'Wangdue Phodrang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.55000000'
   longitude: '90.16670000'
-  wikiDataId: Q7336633
-- id: 15723
-  name: Wangdue Phodrang
-  state_id: 231
+- name: Wangdue Phodrang
   state_code: '24'
   state_name: 'Wangdue Phodrang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.48330000'
   longitude: '89.90000000'
-  wikiDataId: Q1715095
-- id: 15713
-  name: Panbang
-  state_id: 233
+- name: Panbang
   state_code: '34'
   state_name: 'Zhemgang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '26.86667000'
   longitude: '90.98333000'
-  wikiDataId: Q7130169
-- id: 15721
-  name: Zhemgang
-  state_id: 233
+- name: Zhemgang
   state_code: '34'
   state_name: 'Zhemgang '
-  country_id: 26
-  country_code: BT
-  country_name: Bhutan
   latitude: '27.21689000'
   longitude: '90.65793000'
-  wikiDataId: Q2158280

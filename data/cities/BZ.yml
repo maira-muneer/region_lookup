@@ -1,144 +1,66 @@
 ---
-- id: 16133
-  name: Belize City
-  state_id: 264
+- name: Belize City
   state_code: BZ
   state_name: Belize
-  country_id: 23
-  country_code: BZ
-  country_name: Belize
   latitude: '17.49952000'
   longitude: "-88.19756000"
-  wikiDataId: Q108223
-- id: 16143
-  name: San Pedro
-  state_id: 264
+- name: San Pedro
   state_code: BZ
   state_name: Belize
-  country_id: 23
-  country_code: BZ
-  country_name: Belize
   latitude: '17.91598000'
   longitude: "-87.96590000"
-  wikiDataId: Q677300
-- id: 16134
-  name: Belmopan
-  state_id: 269
+- name: Belmopan
   state_code: CY
   state_name: Cayo
-  country_id: 23
-  country_code: BZ
-  country_name: Belize
   latitude: '17.25000000'
   longitude: "-88.76667000"
-  wikiDataId: Q3043
-- id: 16135
-  name: Benque Viejo el Carmen
-  state_id: 269
+- name: Benque Viejo el Carmen
   state_code: CY
   state_name: Cayo
-  country_id: 23
-  country_code: BZ
-  country_name: Belize
   latitude: '17.07500000'
   longitude: "-89.13917000"
-  wikiDataId: Q524851
-- id: 16142
-  name: San Ignacio
-  state_id: 269
+- name: San Ignacio
   state_code: CY
   state_name: Cayo
-  country_id: 23
-  country_code: BZ
-  country_name: Belize
   latitude: '17.15880000'
   longitude: "-89.06960000"
-  wikiDataId: Q724815
-- id: 16145
-  name: Valley of Peace
-  state_id: 269
+- name: Valley of Peace
   state_code: CY
   state_name: Cayo
-  country_id: 23
-  country_code: BZ
-  country_name: Belize
   latitude: '17.33472000'
   longitude: "-88.83472000"
-  wikiDataId: Q7912335
-- id: 16136
-  name: Corozal
-  state_id: 266
+- name: Corozal
   state_code: CZL
   state_name: Corozal
-  country_id: 23
-  country_code: BZ
-  country_name: Belize
   latitude: '18.39375000'
   longitude: "-88.38849000"
-  wikiDataId: Q882907
-- id: 16138
-  name: Hopelchén
-  state_id: 268
+- name: Hopelchén
   state_code: OW
   state_name: Orange Walk
-  country_id: 23
-  country_code: BZ
-  country_name: Belize
   latitude: '17.80000000'
   longitude: "-89.10000000"
-  wikiDataId: Q888300
-- id: 16139
-  name: Orange Walk
-  state_id: 268
+- name: Orange Walk
   state_code: OW
   state_name: Orange Walk
-  country_id: 23
-  country_code: BZ
-  country_name: Belize
   latitude: '18.08124000'
   longitude: "-88.56328000"
-  wikiDataId: Q882964
-- id: 16144
-  name: Shipyard
-  state_id: 268
+- name: Shipyard
   state_code: OW
   state_name: Orange Walk
-  country_id: 23
-  country_code: BZ
-  country_name: Belize
   latitude: '17.89382000'
   longitude: "-88.65452000"
-  wikiDataId: Q737412
-- id: 16137
-  name: Dangriga
-  state_id: 265
+- name: Dangriga
   state_code: SC
   state_name: Stann Creek
-  country_id: 23
-  country_code: BZ
-  country_name: Belize
   latitude: '16.96970000'
   longitude: "-88.23313000"
-  wikiDataId: Q888300
-- id: 16140
-  name: Placencia
-  state_id: 265
+- name: Placencia
   state_code: SC
   state_name: Stann Creek
-  country_id: 23
-  country_code: BZ
-  country_name: Belize
   latitude: '16.51419000'
   longitude: "-88.36647000"
-  wikiDataId: Q2097877
-- id: 16141
-  name: Punta Gorda
-  state_id: 267
+- name: Punta Gorda
   state_code: TOL
   state_name: Toledo
-  country_id: 23
-  country_code: BZ
-  country_name: Belize
   latitude: '16.09835000'
   longitude: "-88.80970000"
-  wikiDataId: Q883362

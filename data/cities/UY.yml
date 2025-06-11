@@ -1,2058 +1,936 @@
 ---
-- id: 129777
-  name: Artigas
-  state_id: 3205
+- name: Artigas
   state_code: AR
   state_name: Artigas
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-30.40000000"
   longitude: "-56.46667000"
-  wikiDataId: Q712567
-- id: 129779
-  name: Baltasar Brum
-  state_id: 3205
+- name: Baltasar Brum
   state_code: AR
   state_name: Artigas
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-30.71905000"
   longitude: "-57.32596000"
-  wikiDataId: Q805555
-- id: 129782
-  name: Bella Unión
-  state_id: 3205
+- name: Bella Unión
   state_code: AR
   state_name: Artigas
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-30.25966000"
   longitude: "-57.59919000"
-  wikiDataId: Q815782
-- id: 129820
-  name: Las Piedras
-  state_id: 3205
+- name: Las Piedras
   state_code: AR
   state_name: Artigas
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-30.26204000"
   longitude: "-57.58174000"
-  wikiDataId: Q984757
-- id: 129881
-  name: Tomás Gomensoro
-  state_id: 3205
+- name: Tomás Gomensoro
   state_code: AR
   state_name: Artigas
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-30.42870000"
   longitude: "-57.43609000"
-  wikiDataId: Q1313974
-- id: 129774
-  name: Aguas Corrientes
-  state_id: 3213
+- name: Aguas Corrientes
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.52194000"
   longitude: "-56.39361000"
-  wikiDataId: Q397975
-- id: 129778
-  name: Atlántida
-  state_id: 3213
+- name: Atlántida
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.77190000"
   longitude: "-55.75840000"
-  wikiDataId: Q1549798
-- id: 129780
-  name: Barra de Carrasco
-  state_id: 3213
+- name: Barra de Carrasco
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.87722000"
   longitude: "-56.02972000"
-  wikiDataId: Q808781
-- id: 129781
-  name: Barros Blancos
-  state_id: 3213
+- name: Barros Blancos
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.75240000"
   longitude: "-56.00259000"
-  wikiDataId: Q808781
-- id: 129785
-  name: Canelones
-  state_id: 3213
+- name: Canelones
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.52278000"
   longitude: "-56.27778000"
-  wikiDataId: Q841342
-- id: 129794
-  name: Colonia Nicolich
-  state_id: 3213
+- name: Colonia Nicolich
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.81516000"
   longitude: "-56.02435000"
-  wikiDataId: Q911248
-- id: 129802
-  name: Empalme Olmos
-  state_id: 3213
+- name: Empalme Olmos
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.69753000"
   longitude: "-55.89268000"
-  wikiDataId: Q630016
-- id: 129809
-  name: Joaquín Suárez
-  state_id: 3213
+- name: Joaquín Suárez
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.73501000"
   longitude: "-56.03470000"
-  wikiDataId: Q1005809
-- id: 129814
-  name: Juanicó
-  state_id: 3213
+- name: Juanicó
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.59454000"
   longitude: "-56.25334000"
-  wikiDataId: Q657514
-- id: 129815
-  name: La Floresta
-  state_id: 3213
+- name: La Floresta
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.75572000"
   longitude: "-55.68141000"
-  wikiDataId: Q475116
-- id: 129818
-  name: La Paz
-  state_id: 3213
+- name: La Paz
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.76031000"
   longitude: "-56.22590000"
-  wikiDataId: Q997833
-- id: 129819
-  name: Las Piedras
-  state_id: 3213
+- name: Las Piedras
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.73020000"
   longitude: "-56.21915000"
-  wikiDataId: Q615470
-- id: 129821
-  name: Las Toscas
-  state_id: 3213
+- name: Las Toscas
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.73333000"
   longitude: "-55.71667000"
-  wikiDataId: Q984757
-- id: 129824
-  name: Los Cerrillos
-  state_id: 3213
+- name: Los Cerrillos
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.60500000"
   longitude: "-56.35639000"
-  wikiDataId: Q1007603
-- id: 129829
-  name: Migues
-  state_id: 3213
+- name: Migues
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.48759000"
   longitude: "-55.62793000"
-  wikiDataId: Q29585
-- id: 129832
-  name: Montes
-  state_id: 3213
+- name: Montes
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.49339000"
   longitude: "-55.56219000"
-  wikiDataId: Q162416
-- id: 129841
-  name: Pando
-  state_id: 3213
+- name: Pando
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.71716000"
   longitude: "-55.95840000"
-  wikiDataId: Q639340
-- id: 129842
-  name: Paso de Carrasco
-  state_id: 3213
+- name: Paso de Carrasco
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.86028000"
   longitude: "-56.05222000"
-  wikiDataId: Q2055651
-- id: 129847
-  name: Progreso
-  state_id: 3213
+- name: Progreso
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.66737000"
   longitude: "-56.21758000"
-  wikiDataId: Q2000138
-- id: 129858
-  name: San Antonio
-  state_id: 3213
+- name: San Antonio
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.45130000"
   longitude: "-56.08036000"
-  wikiDataId: Q1005259
-- id: 129859
-  name: San Bautista
-  state_id: 3213
+- name: San Bautista
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.44016000"
   longitude: "-55.95861000"
-  wikiDataId: Q1005725
-- id: 129862
-  name: San Jacinto
-  state_id: 3213
+- name: San Jacinto
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.54465000"
   longitude: "-55.87151000"
-  wikiDataId: Q525163
-- id: 129865
-  name: San Ramón
-  state_id: 3213
+- name: San Ramón
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.29155000"
   longitude: "-55.95571000"
-  wikiDataId: Q1784539
-- id: 129869
-  name: Santa Lucía
-  state_id: 3213
+- name: Santa Lucía
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.45333000"
   longitude: "-56.39056000"
-  wikiDataId: Q1014315
-- id: 129870
-  name: Santa Rosa
-  state_id: 3213
+- name: Santa Rosa
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.49819000"
   longitude: "-56.03795000"
-  wikiDataId: Q1020820
-- id: 129874
-  name: Sauce
-  state_id: 3213
+- name: Sauce
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.65191000"
   longitude: "-56.06431000"
-  wikiDataId: Q429855
-- id: 129875
-  name: Soca
-  state_id: 3213
+- name: Soca
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.68432000"
   longitude: "-55.70200000"
-  wikiDataId: Q984836
-- id: 129878
-  name: Tala
-  state_id: 3213
+- name: Tala
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.34349000"
   longitude: "-55.76375000"
-  wikiDataId: Q2096693
-- id: 129880
-  name: Toledo
-  state_id: 3213
+- name: Toledo
   state_code: CA
   state_name: Canelones
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.73807000"
   longitude: "-56.09469000"
-  wikiDataId: Q2096039
-- id: 129773
-  name: Aceguá
-  state_id: 3211
+- name: Aceguá
   state_code: CL
   state_name: Cerro Largo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-31.87178000"
   longitude: "-54.16351000"
-  wikiDataId: Q2093378
-- id: 129808
-  name: Isidoro Noblía
-  state_id: 3211
+- name: Isidoro Noblía
   state_code: CL
   state_name: Cerro Largo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-31.96218000"
   longitude: "-54.12309000"
-  wikiDataId: Q1673970
-- id: 129827
-  name: Melo
-  state_id: 3211
+- name: Melo
   state_code: CL
   state_name: Cerro Largo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.37028000"
   longitude: "-54.16750000"
-  wikiDataId: Q738250
-- id: 129856
-  name: Río Branco
-  state_id: 3211
+- name: Río Branco
   state_code: CL
   state_name: Cerro Largo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.59802000"
   longitude: "-53.38583000"
-  wikiDataId: Q1006165
-- id: 129885
-  name: Tupambaé
-  state_id: 3211
+- name: Tupambaé
   state_code: CL
   state_name: Cerro Largo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.83333000"
   longitude: "-54.76667000"
-  wikiDataId: Q1020969
-- id: 129789
-  name: Carmelo
-  state_id: 3208
+- name: Carmelo
   state_code: CO
   state_name: Colonia
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.00023000"
   longitude: "-58.28402000"
-  wikiDataId: Q1043575
-- id: 129795
-  name: Colonia del Sacramento
-  state_id: 3208
+- name: Colonia del Sacramento
   state_code: CO
   state_name: Colonia
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.46262000"
   longitude: "-57.83976000"
-  wikiDataId: Q56064
-- id: 129804
-  name: Florencio Sánchez
-  state_id: 3208
+- name: Florencio Sánchez
   state_code: CO
   state_name: Colonia
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.87785000"
   longitude: "-57.37166000"
-  wikiDataId: Q972190
-- id: 129813
-  name: Juan L. Lacaze
-  state_id: 3208
+- name: Juan L. Lacaze
   state_code: CO
   state_name: Colonia
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.41888000"
   longitude: "-57.45285000"
-  wikiDataId: Q657514
-- id: 129834
-  name: Nueva Helvecia
-  state_id: 3208
+- name: Nueva Helvecia
   state_code: CO
   state_name: Colonia
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.30000000"
   longitude: "-57.23333000"
-  wikiDataId: Q999572
-- id: 129835
-  name: Nueva Palmira
-  state_id: 3208
+- name: Nueva Palmira
   state_code: CO
   state_name: Colonia
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.87031000"
   longitude: "-58.41176000"
-  wikiDataId: Q1023521
-- id: 129837
-  name: Ombúes de Lavalle
-  state_id: 3208
+- name: Ombúes de Lavalle
   state_code: CO
   state_name: Colonia
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.93783000"
   longitude: "-57.80959000"
-  wikiDataId: Q1020402
-- id: 129855
-  name: Rosario
-  state_id: 3208
+- name: Rosario
   state_code: CO
   state_name: Colonia
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.31667000"
   longitude: "-57.35000000"
-  wikiDataId: Q1023540
-- id: 129879
-  name: Tarariras
-  state_id: 3208
+- name: Tarariras
   state_code: CO
   state_name: Colonia
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.26555000"
   longitude: "-57.61866000"
-  wikiDataId: Q1727968
-- id: 129784
-  name: Blanquillo
-  state_id: 3209
+- name: Blanquillo
   state_code: DU
   state_name: Durazno
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.76667000"
   longitude: "-55.63333000"
-  wikiDataId: Q31880994
-- id: 129788
-  name: Carlos Reyles
-  state_id: 3209
+- name: Carlos Reyles
   state_code: DU
   state_name: Durazno
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.05658000"
   longitude: "-56.47652000"
-  wikiDataId: Q31890171
-- id: 129800
-  name: Durazno
-  state_id: 3209
+- name: Durazno
   state_code: DU
   state_name: Durazno
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.38056000"
   longitude: "-56.52361000"
-  wikiDataId: Q855645
-- id: 129817
-  name: La Paloma
-  state_id: 3209
+- name: La Paloma
   state_code: DU
   state_name: Durazno
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.72689000"
   longitude: "-55.58270000"
-  wikiDataId: Q281754
-- id: 129866
-  name: Santa Bernardina
-  state_id: 3209
+- name: Santa Bernardina
   state_code: DU
   state_name: Durazno
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.35360000"
   longitude: "-56.52498000"
-  wikiDataId: Q1022299
-- id: 129873
-  name: Sarandí del Yi
-  state_id: 3209
+- name: Sarandí del Yi
   state_code: DU
   state_name: Durazno
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.35000000"
   longitude: "-55.63333000"
-  wikiDataId: Q1784163
-- id: 129892
-  name: Villa del Carmen
-  state_id: 3209
+- name: Villa del Carmen
   state_code: DU
   state_name: Durazno
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.23943000"
   longitude: "-56.00936000"
-  wikiDataId: Q289379
-- id: 129884
-  name: Trinidad
-  state_id: 3203
+- name: Trinidad
   state_code: FS
   state_name: Flores
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.51650000"
   longitude: "-56.89957000"
-  wikiDataId: Q862508
-- id: 129771
-  name: 25 de Agosto
-  state_id: 3217
+- name: 25 de Agosto
   state_code: FD
   state_name: Florida
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.41167000"
   longitude: "-56.40222000"
-  wikiDataId: Q218465
-- id: 129772
-  name: 25 de Mayo
-  state_id: 3217
+- name: 25 de Mayo
   state_code: FD
   state_name: Florida
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.18917000"
   longitude: "-56.33944000"
-  wikiDataId: Q218472
-- id: 129776
-  name: Alejandro Gallinal
-  state_id: 3217
+- name: Alejandro Gallinal
   state_code: FD
   state_name: Florida
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.86252000"
   longitude: "-55.54264000"
-  wikiDataId: Q31892887
-- id: 129786
-  name: Cardal
-  state_id: 3217
+- name: Cardal
   state_code: FD
   state_name: Florida
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.29056000"
   longitude: "-56.38889000"
-  wikiDataId: Q958365
-- id: 129791
-  name: Casupá
-  state_id: 3217
+- name: Casupá
   state_code: FD
   state_name: Florida
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.09994000"
   longitude: "-55.64811000"
-  wikiDataId: Q1050009
-- id: 129805
-  name: Florida
-  state_id: 3217
+- name: Florida
   state_code: FD
   state_name: Florida
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.09556000"
   longitude: "-56.21417000"
-  wikiDataId: Q842472
-- id: 129872
-  name: Sarandí Grande
-  state_id: 3217
+- name: Sarandí Grande
   state_code: FD
   state_name: Florida
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.73333000"
   longitude: "-56.33333000"
-  wikiDataId: Q1783586
-- id: 129810
-  name: José Batlle y Ordóñez
-  state_id: 3215
+- name: José Batlle y Ordóñez
   state_code: LA
   state_name: Lavalleja
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.46667000"
   longitude: "-55.11667000"
-  wikiDataId: Q1668942
-- id: 129812
-  name: José Pedro Varela
-  state_id: 3215
+- name: José Pedro Varela
   state_code: LA
   state_name: Lavalleja
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.45451000"
   longitude: "-54.53586000"
-  wikiDataId: Q1709570
-- id: 129826
-  name: Mariscala
-  state_id: 3215
+- name: Mariscala
   state_code: LA
   state_name: Lavalleja
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.04085000"
   longitude: "-54.77732000"
-  wikiDataId: Q1005301
-- id: 129830
-  name: Minas
-  state_id: 3215
+- name: Minas
   state_code: LA
   state_name: Lavalleja
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.37589000"
   longitude: "-55.23771000"
-  wikiDataId: Q868205
-- id: 129876
-  name: Solís de Mataojo
-  state_id: 3215
+- name: Solís de Mataojo
   state_code: LA
   state_name: Lavalleja
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.59951000"
   longitude: "-55.46808000"
-  wikiDataId: Q2096045
-- id: 129775
-  name: Aiguá
-  state_id: 3206
+- name: Aiguá
   state_code: MA
   state_name: Maldonado
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.20498000"
   longitude: "-54.75665000"
-  wikiDataId: Q404803
-- id: 129825
-  name: Maldonado
-  state_id: 3206
+- name: Maldonado
   state_code: MA
   state_name: Maldonado
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.90000000"
   longitude: "-54.95000000"
-  wikiDataId: Q16258
-- id: 129840
-  name: Pan de Azúcar
-  state_id: 3206
+- name: Pan de Azúcar
   state_code: MA
   state_name: Maldonado
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.77870000"
   longitude: "-55.23582000"
-  wikiDataId: Q1532147
-- id: 129846
-  name: Piriápolis
-  state_id: 3206
+- name: Piriápolis
   state_code: MA
   state_name: Maldonado
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.86287000"
   longitude: "-55.27471000"
-  wikiDataId: Q1006155
-- id: 129848
-  name: Punta del Este
-  state_id: 3206
+- name: Punta del Este
   state_code: MA
   state_name: Maldonado
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.94747000"
   longitude: "-54.93382000"
-  wikiDataId: Q56069
-- id: 129860
-  name: San Carlos
-  state_id: 3206
+- name: San Carlos
   state_code: MA
   state_name: Maldonado
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.79123000"
   longitude: "-54.91824000"
-  wikiDataId: Q374670
-- id: 153689
-  name: Aires Puros
-  state_id: 3218
+- name: Aires Puros
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.85200000"
   longitude: "-56.18300000"
-  wikiDataId: Q408664
-- id: 153690
-  name: Arroyo Seco
-  state_id: 3218
+- name: Arroyo Seco
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.80400000"
   longitude: "-56.27700000"
-  wikiDataId: Q97168938
-- id: 153691
-  name: Atahualpa
-  state_id: 3218
+- name: Atahualpa
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.80900000"
   longitude: "-56.23000000"
-  wikiDataId: Q753192
-- id: 153692
-  name: Bañados de Carrasco
-  state_id: 3218
+- name: Bañados de Carrasco
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.82100000"
   longitude: "-56.06700000"
-  wikiDataId: Q812710
-- id: 153693
-  name: Barra de Carrasco
-  state_id: 3218
+- name: Barra de Carrasco
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.88400000"
   longitude: "-56.04700000"
-  wikiDataId: Q808781
-- id: 153694
-  name: Barrio Sur
-  state_id: 3218
+- name: Barrio Sur
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.90800000"
   longitude: "-56.19400000"
-  wikiDataId: Q808953
-- id: 153695
-  name: Bella Italia
-  state_id: 3218
+- name: Bella Italia
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.85600000"
   longitude: "-56.15500000"
-  wikiDataId: Q122396855
-- id: 149276
-  name: Bella Vista
-  state_id: 3218
+- name: Bella Vista
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.87527778"
   longitude: "-56.18666667"
-  wikiDataId: Q13479688
-- id: 149277
-  name: Belvedere
-  state_id: 3218
+- name: Belvedere
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.85155556"
   longitude: "-56.21611111"
-  wikiDataId: Q1005240
-- id: 149278
-  name: Buceo
-  state_id: 3218
+- name: Buceo
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.90000000"
   longitude: "-56.13305556"
-  wikiDataId: Q997676
-- id: 153696
-  name: Capurro
-  state_id: 3218
+- name: Capurro
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.90500000"
   longitude: "-56.21700000"
-  wikiDataId: Q986346
-- id: 149280
-  name: Carrasco
-  state_id: 3218
+- name: Carrasco
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.88333333"
   longitude: "-56.06666667"
-  wikiDataId: Q1005003
-- id: 153697
-  name: Carrasco Norte
-  state_id: 3218
+- name: Carrasco Norte
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.86800000"
   longitude: "-56.04300000"
-  wikiDataId: Q984512
-- id: 149281
-  name: Casabó
-  state_id: 3218
+- name: Casabó
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.86388889"
   longitude: "-56.34111111"
-  wikiDataId: Q984873
-- id: 153698
-  name: Casavalle
-  state_id: 3218
+- name: Casavalle
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.84300000"
   longitude: "-56.20300000"
-  wikiDataId: Q984924
-- id: 149282
-  name: Centro
-  state_id: 3218
+- name: Centro
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.90361111"
   longitude: "-56.18833333"
-  wikiDataId: Q984382
-- id: 153699
-  name: Cerrito
-  state_id: 3218
+- name: Cerrito
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.81500000"
   longitude: "-56.22500000"
-  wikiDataId: Q177318
-- id: 149307
-  name: Cerro
-  state_id: 3218
+- name: Cerro
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.88444444"
   longitude: "-56.25138889"
-  wikiDataId: Q1010338
-- id: 153700
-  name: Ciudad Vieja
-  state_id: 3218
+- name: Ciudad Vieja
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.90800000"
   longitude: "-56.20400000"
-  wikiDataId: Q1007576
-- id: 153701
-  name: Colón
-  state_id: 3218
+- name: Colón
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.86500000"
   longitude: "-56.18000000"
-  wikiDataId: Q984425
-- id: 149286
-  name: Conciliación
-  state_id: 3218
+- name: Conciliación
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.82361111"
   longitude: "-56.23194444"
-  wikiDataId: Q985021
-- id: 149287
-  name: Cordón
-  state_id: 3218
+- name: Cordón
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.90000000"
   longitude: "-56.17858333"
-  wikiDataId: Q1005742
-- id: 149288
-  name: Flor de Maroñas
-  state_id: 3218
+- name: Flor de Maroñas
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.85055556"
   longitude: "-56.12472222"
-  wikiDataId: Q984899
-- id: 153702
-  name: Goes
-  state_id: 3218
+- name: Goes
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.87500000"
   longitude: "-56.19200000"
-  wikiDataId: Q17633166
-- id: 149289
-  name: Ituzaingó
-  state_id: 3218
+- name: Ituzaingó
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.84750000"
   longitude: "-56.14361111"
-  wikiDataId: Q985110
-- id: 153703
-  name: Jacinto Vera
-  state_id: 3218
+- name: Jacinto Vera
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.88300000"
   longitude: "-56.16600000"
-  wikiDataId: Q6336405
-- id: 153704
-  name: Jardines del Hipódromo
-  state_id: 3218
+- name: Jardines del Hipódromo
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.88100000"
   longitude: "-56.15300000"
-  wikiDataId: Q984915
-- id: 153705
-  name: La Blanqueada
-  state_id: 3218
+- name: La Blanqueada
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.89700000"
   longitude: "-56.18500000"
-  wikiDataId: Q6197335
-- id: 153706
-  name: La Comercial
-  state_id: 3218
+- name: La Comercial
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.89400000"
   longitude: "-56.19700000"
-  wikiDataId: Q984523
-- id: 153707
-  name: La Figurita
-  state_id: 3218
+- name: La Figurita
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.88600000"
   longitude: "-56.20300000"
-  wikiDataId: Q986342
-- id: 153708
-  name: La Teja
-  state_id: 3218
+- name: La Teja
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.86200000"
   longitude: "-56.23600000"
-  wikiDataId: Q984835
-- id: 149290
-  name: La Unión
-  state_id: 3218
+- name: La Unión
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.87861111"
   longitude: "-56.13583333"
-  wikiDataId: Q984518
-- id: 153709
-  name: Larrañaga
-  state_id: 3218
+- name: Larrañaga
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.86100000"
   longitude: "-56.16300000"
-  wikiDataId: Q1806010
-- id: 153710
-  name: Las Acacias
-  state_id: 3218
+- name: Las Acacias
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.85500000"
   longitude: "-56.17000000"
-  wikiDataId: Q1661914
-- id: 153711
-  name: Lezica
-  state_id: 3218
+- name: Lezica
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.84600000"
   longitude: "-56.22300000"
-  wikiDataId: Q986348
-- id: 149291
-  name: Malvín
-  state_id: 3218
+- name: Malvín
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.89352778"
   longitude: "-56.09994444"
-  wikiDataId: Q1004920
-- id: 153712
-  name: Malvín Norte
-  state_id: 3218
+- name: Malvín Norte
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.87800000"
   longitude: "-56.08300000"
-  wikiDataId: Q1005816
-- id: 149292
-  name: Manga
-  state_id: 3218
+- name: Manga
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.80722222"
   longitude: "-56.13805556"
-  wikiDataId: Q985379
-- id: 153713
-  name: Marconi
-  state_id: 3218
+- name: Marconi
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.86200000"
   longitude: "-56.14700000"
-  wikiDataId: Q56671640
-- id: 149293
-  name: Maroñas
-  state_id: 3218
+- name: Maroñas
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.86338889"
   longitude: "-56.12963889"
-  wikiDataId: Q984197
-- id: 153714
-  name: Melilla
-  state_id: 3218
+- name: Melilla
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.83700000"
   longitude: "-56.25900000"
-  wikiDataId: Q6009580
-- id: 153715
-  name: Mercado Modelo
-  state_id: 3218
+- name: Mercado Modelo
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.85600000"
   longitude: "-56.20200000"
-  wikiDataId: Q1788762
-- id: 129833
-  name: Montevideo
-  state_id: 3218
+- name: Montevideo
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.90328000"
   longitude: "-56.18816000"
-  wikiDataId: Q1335
-- id: 149294
-  name: Nuevo París
-  state_id: 3218
+- name: Nuevo París
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.83333333"
   longitude: "-56.25000000"
-  wikiDataId: Q751376
-- id: 129838
-  name: Pajas Blancas
-  state_id: 3218
+- name: Pajas Blancas
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.80167000"
   longitude: "-56.33417000"
-  wikiDataId: Q984873
-- id: 153716
-  name: Palermo
-  state_id: 3218
+- name: Palermo
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.90300000"
   longitude: "-56.18200000"
-  wikiDataId: Q984385
-- id: 153717
-  name: Parque Batlle
-  state_id: 3218
+- name: Parque Batlle
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.90000000"
   longitude: "-56.18000000"
-  wikiDataId: Q588205
-- id: 153718
-  name: Parque Rodó
-  state_id: 3218
+- name: Parque Rodó
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.90800000"
   longitude: "-56.17100000"
-  wikiDataId: Q124499800
-- id: 153719
-  name: Paso de la Arena
-  state_id: 3218
+- name: Paso de la Arena
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.86100000"
   longitude: "-56.23900000"
-  wikiDataId: Q984720
-- id: 149295
-  name: Paso Molino
-  state_id: 3218
+- name: Paso Molino
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.85000000"
   longitude: "-56.21666667"
-  wikiDataId: Q10345885
-- id: 149296
-  name: Peñarol
-  state_id: 3218
+- name: Peñarol
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.82519444"
   longitude: "-56.19916667"
-  wikiDataId: Q1007597
-- id: 153720
-  name: Perez Castellanos
-  state_id: 3218
+- name: Perez Castellanos
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.84300000"
   longitude: "-56.21300000"
-  wikiDataId: Q519177
-- id: 149297
-  name: Piedras Blancas
-  state_id: 3218
+- name: Piedras Blancas
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.82361111"
   longitude: "-56.14027778"
-  wikiDataId: Q984919
-- id: 149298
-  name: Pocitos
-  state_id: 3218
+- name: Pocitos
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.90833333"
   longitude: "-56.15000000"
-  wikiDataId: Q2094894
-- id: 153721
-  name: Prado
-  state_id: 3218
+- name: Prado
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.85600000"
   longitude: "-56.20400000"
-  wikiDataId: Q389478
-- id: 149299
-  name: Punta Carretas
-  state_id: 3218
+- name: Punta Carretas
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.92188889"
   longitude: "-56.15944444"
-  wikiDataId: Q984390
-- id: 153723
-  name: Punta de Rieles
-  state_id: 3218
+- name: Punta de Rieles
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.84700000"
   longitude: "-56.25200000"
-  wikiDataId: Q2118579
-- id: 153722
-  name: Punta Espinillo
-  state_id: 3218
+- name: Punta Espinillo
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.83500000"
   longitude: "-56.28600000"
-  wikiDataId: Q18418589
-- id: 149300
-  name: Punta Gorda
-  state_id: 3218
+- name: Punta Gorda
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.88647222"
   longitude: "-56.08983333"
-  wikiDataId: Q984180
-- id: 149301
-  name: Reducto
-  state_id: 3218
+- name: Reducto
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.87831944"
   longitude: "-56.18957778"
-  wikiDataId: Q984388
-- id: 129871
-  name: Santiago Vázquez
-  state_id: 3218
+- name: Santiago Vázquez
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.79028000"
   longitude: "-56.35000000"
-  wikiDataId: Q3698900
-- id: 149302
-  name: Sayago
-  state_id: 3218
+- name: Sayago
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.83583333"
   longitude: "-56.21250000"
-  wikiDataId: Q1004942
-- id: 149303
-  name: Tres Cruces
-  state_id: 3218
+- name: Tres Cruces
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.89583333"
   longitude: "-56.16805556"
-  wikiDataId: Q984193
-- id: 153724
-  name: Tres Ombues
-  state_id: 3218
+- name: Tres Ombues
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.76600000"
   longitude: "-56.33000000"
-  wikiDataId: Q1304029
-- id: 149304
-  name: Villa Española
-  state_id: 3218
+- name: Villa Española
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.86388889"
   longitude: "-56.14472222"
-  wikiDataId: Q984929
-- id: 149305
-  name: Villa García
-  state_id: 3218
+- name: Villa García
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.78111000"
   longitude: "-56.05333000"
-  wikiDataId: Q7930332
-- id: 149306
-  name: Villa Muñoz
-  state_id: 3218
+- name: Villa Muñoz
   state_code: MO
   state_name: Montevideo
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.88781389"
   longitude: "-56.17701389"
-  wikiDataId: Q984422
-- id: 129803
-  name: Estación Porvenir
-  state_id: 3212
+- name: Estación Porvenir
   state_code: PA
   state_name: Paysandú
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.37085000"
   longitude: "-57.85371000"
-  wikiDataId: Q630016
-- id: 129807
-  name: Guichón
-  state_id: 3212
+- name: Guichón
   state_code: PA
   state_name: Paysandú
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.35846000"
   longitude: "-57.19778000"
-  wikiDataId: Q603086
-- id: 129844
-  name: Paysandú
-  state_id: 3212
+- name: Paysandú
   state_code: PA
   state_name: Paysandú
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.31710000"
   longitude: "-58.08072000"
-  wikiDataId: Q309442
-- id: 129845
-  name: Piedras Coloradas
-  state_id: 3212
+- name: Piedras Coloradas
   state_code: PA
   state_name: Paysandú
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.37183000"
   longitude: "-57.60901000"
-  wikiDataId: Q530827
-- id: 129850
-  name: Quebracho
-  state_id: 3212
+- name: Quebracho
   state_code: PA
   state_name: Paysandú
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-31.93526000"
   longitude: "-57.90140000"
-  wikiDataId: Q2095080
-- id: 129861
-  name: San Félix
-  state_id: 3212
+- name: San Félix
   state_code: PA
   state_name: Paysandú
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.34631000"
   longitude: "-58.10094000"
-  wikiDataId: Q2094814
-- id: 129806
-  name: Fray Bentos
-  state_id: 3210
+- name: Fray Bentos
   state_code: RN
   state_name: Río Negro
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.11651000"
   longitude: "-58.31067000"
-  wikiDataId: Q849835
-- id: 129836
-  name: Nuevo Berlín
-  state_id: 3210
+- name: Nuevo Berlín
   state_code: RN
   state_name: Río Negro
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.97974000"
   longitude: "-58.05858000"
-  wikiDataId: Q1714088
-- id: 129863
-  name: San Javier
-  state_id: 3210
+- name: San Javier
   state_code: RN
   state_name: Río Negro
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.66523000"
   longitude: "-58.13320000"
-  wikiDataId: Q518618
-- id: 129893
-  name: Young
-  state_id: 3210
+- name: Young
   state_code: RN
   state_name: Río Negro
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.69844000"
   longitude: "-57.62693000"
-  wikiDataId: Q1005607
-- id: 129831
-  name: Minas de Corrales
-  state_id: 3207
+- name: Minas de Corrales
   state_code: RV
   state_name: Rivera
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-31.57375000"
   longitude: "-55.47075000"
-  wikiDataId: Q1020376
-- id: 129852
-  name: Rivera
-  state_id: 3207
+- name: Rivera
   state_code: RV
   state_name: Rivera
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-30.90534000"
   longitude: "-55.55076000"
-  wikiDataId: Q646498
-- id: 129882
-  name: Tranqueras
-  state_id: 3207
+- name: Tranqueras
   state_code: RV
   state_name: Rivera
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-31.20000000"
   longitude: "-55.75000000"
-  wikiDataId: Q1784710
-- id: 129888
-  name: Vichadero
-  state_id: 3207
+- name: Vichadero
   state_code: RV
   state_name: Rivera
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-31.77794000"
   longitude: "-54.69183000"
-  wikiDataId: Q2093578
-- id: 129790
-  name: Castillos
-  state_id: 3216
+- name: Castillos
   state_code: RO
   state_name: Rocha
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.19871000"
   longitude: "-53.85919000"
-  wikiDataId: Q953667
-- id: 129792
-  name: Cebollatí
-  state_id: 3216
+- name: Cebollatí
   state_code: RO
   state_name: Rocha
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.26703000"
   longitude: "-53.79425000"
-  wikiDataId: Q1022303
-- id: 129793
-  name: Chui
-  state_id: 3216
+- name: Chui
   state_code: RO
   state_name: Rocha
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.69792000"
   longitude: "-53.45926000"
-  wikiDataId: Q1026307
-- id: 129798
-  name: Dieciocho de Julio
-  state_id: 3216
+- name: Dieciocho de Julio
   state_code: RO
   state_name: Rocha
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.68216000"
   longitude: "-53.55325000"
-  wikiDataId: Q204526
-- id: 129816
-  name: La Paloma
-  state_id: 3216
+- name: La Paloma
   state_code: RO
   state_name: Rocha
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.66268000"
   longitude: "-54.16452000"
-  wikiDataId: Q893173
-- id: 129822
-  name: Lascano
-  state_id: 3216
+- name: Lascano
   state_code: RO
   state_name: Rocha
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.67235000"
   longitude: "-54.20650000"
-  wikiDataId: Q1013691
-- id: 129853
-  name: Rocha
-  state_id: 3216
+- name: Rocha
   state_code: RO
   state_name: Rocha
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.48333000"
   longitude: "-54.33333000"
-  wikiDataId: Q1017387
-- id: 129886
-  name: Velázquez
-  state_id: 3216
+- name: Velázquez
   state_code: RO
   state_name: Rocha
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.03631000"
   longitude: "-54.28054000"
-  wikiDataId: Q1020369
-- id: 129783
-  name: Belén
-  state_id: 3220
+- name: Belén
   state_code: SA
   state_name: Salto
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-30.78716000"
   longitude: "-57.77577000"
-  wikiDataId: Q816336
-- id: 129857
-  name: Salto
-  state_id: 3220
+- name: Salto
   state_code: SA
   state_name: Salto
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-31.38333000"
   longitude: "-57.96667000"
-  wikiDataId: Q335506
-- id: 129889
-  name: Villa Constitución
-  state_id: 3220
+- name: Villa Constitución
   state_code: SA
   state_name: Salto
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-31.06913000"
   longitude: "-57.84946000"
-  wikiDataId: Q1128223
-- id: 129797
-  name: Delta del Tigre
-  state_id: 3204
+- name: Delta del Tigre
   state_code: SJ
   state_name: San José
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.76488000"
   longitude: "-56.36450000"
-  wikiDataId: Q1184943
-- id: 129801
-  name: Ecilda Paullier
-  state_id: 3204
+- name: Ecilda Paullier
   state_code: SJ
   state_name: San José
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.35778000"
   longitude: "-57.04883000"
-  wikiDataId: Q1281233
-- id: 129823
-  name: Libertad
-  state_id: 3204
+- name: Libertad
   state_code: SJ
   state_name: San José
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.63459000"
   longitude: "-56.61739000"
-  wikiDataId: Q946150
-- id: 129849
-  name: Puntas de Valdéz
-  state_id: 3204
+- name: Puntas de Valdéz
   state_code: SJ
   state_name: San José
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.58550000"
   longitude: "-56.70097000"
-  wikiDataId: Q423201
-- id: 129851
-  name: Rafael Perazza
-  state_id: 3204
+- name: Rafael Perazza
   state_code: SJ
   state_name: San José
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.52335000"
   longitude: "-56.79710000"
-  wikiDataId: Q1891613
-- id: 129854
-  name: Rodríguez
-  state_id: 3204
+- name: Rodríguez
   state_code: SJ
   state_name: San José
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.38100000"
   longitude: "-56.53797000"
-  wikiDataId: Q32453
-- id: 129864
-  name: San José de Mayo
-  state_id: 3204
+- name: San José de Mayo
   state_code: SJ
   state_name: San José
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-34.33750000"
   longitude: "-56.71361000"
-  wikiDataId: Q983435
-- id: 129787
-  name: Cardona
-  state_id: 3219
+- name: Cardona
   state_code: SO
   state_name: Soriano
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.87049000"
   longitude: "-57.36954000"
-  wikiDataId: Q247843
-- id: 129799
-  name: Dolores
-  state_id: 3219
+- name: Dolores
   state_code: SO
   state_name: Soriano
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.53009000"
   longitude: "-58.21701000"
-  wikiDataId: Q546964
-- id: 129811
-  name: José Enrique Rodó
-  state_id: 3219
+- name: José Enrique Rodó
   state_code: SO
   state_name: Soriano
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.69618000"
   longitude: "-57.53153000"
-  wikiDataId: Q1020396
-- id: 129828
-  name: Mercedes
-  state_id: 3219
+- name: Mercedes
   state_code: SO
   state_name: Soriano
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.25240000"
   longitude: "-58.03047000"
-  wikiDataId: Q844914
-- id: 129839
-  name: Palmitas
-  state_id: 3219
+- name: Palmitas
   state_code: SO
   state_name: Soriano
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.50719000"
   longitude: "-57.80079000"
-  wikiDataId: Q489450
-- id: 129867
-  name: Santa Catalina
-  state_id: 3219
+- name: Santa Catalina
   state_code: SO
   state_name: Soriano
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.79100000"
   longitude: "-57.48824000"
-  wikiDataId: Q1022310
-- id: 129891
-  name: Villa Soriano
-  state_id: 3219
+- name: Villa Soriano
   state_code: SO
   state_name: Soriano
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.39811000"
   longitude: "-58.32177000"
-  wikiDataId: Q32022851
-- id: 129796
-  name: Curtina
-  state_id: 3221
+- name: Curtina
   state_code: TA
   state_name: Tacuarembó
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.15000000"
   longitude: "-56.11667000"
-  wikiDataId: Q1020386
-- id: 129843
-  name: Paso de los Toros
-  state_id: 3221
+- name: Paso de los Toros
   state_code: TA
   state_name: Tacuarembó
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.81667000"
   longitude: "-56.51667000"
-  wikiDataId: Q664156
-- id: 129877
-  name: Tacuarembó
-  state_id: 3221
+- name: Tacuarembó
   state_code: TA
   state_name: Tacuarembó
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-31.71694000"
   longitude: "-55.98111000"
-  wikiDataId: Q833016
-- id: 129868
-  name: Santa Clara de Olimar
-  state_id: 3214
+- name: Santa Clara de Olimar
   state_code: TT
   state_name: Treinta y Tres
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.92254000"
   longitude: "-54.94447000"
-  wikiDataId: Q1508561
-- id: 129883
-  name: Treinta y Tres
-  state_id: 3214
+- name: Treinta y Tres
   state_code: TT
   state_name: Treinta y Tres
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.23333000"
   longitude: "-54.38333000"
-  wikiDataId: Q830390
-- id: 129887
-  name: Vergara
-  state_id: 3214
+- name: Vergara
   state_code: TT
   state_name: Treinta y Tres
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-32.94419000"
   longitude: "-53.93810000"
-  wikiDataId: Q2298580
-- id: 129890
-  name: Villa Sara
-  state_id: 3214
+- name: Villa Sara
   state_code: TT
   state_name: Treinta y Tres
-  country_id: 235
-  country_code: UY
-  country_name: Uruguay
   latitude: "-33.25340000"
   longitude: "-54.41947000"
-  wikiDataId: Q1022308

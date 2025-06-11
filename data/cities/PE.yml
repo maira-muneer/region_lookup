@@ -1,5314 +1,2416 @@
 ---
-- id: 80572
-  name: Bagua Grande
-  state_id: 3685
+- name: Bagua Grande
   state_code: AMA
   state_name: Amazonas
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.75611000"
   longitude: "-78.44111000"
-  wikiDataId: Q793765
-- id: 80582
-  name: Cajaruro
-  state_id: 3685
+- name: Cajaruro
   state_code: AMA
   state_name: Amazonas
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.73639000"
   longitude: "-78.42556000"
-  wikiDataId: Q205119
-- id: 80602
-  name: Chachapoyas
-  state_id: 3685
+- name: Chachapoyas
   state_code: AMA
   state_name: Amazonas
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.23169000"
   longitude: "-77.86903000"
-  wikiDataId: Q757133
-- id: 80632
-  name: Condorcanqui
-  state_id: 3685
+- name: Condorcanqui
   state_code: AMA
   state_name: Amazonas
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.16515000"
   longitude: "-78.03840000"
-  wikiDataId: Q1288434
-- id: 80689
-  name: La Peca
-  state_id: 3685
+- name: La Peca
   state_code: AMA
   state_name: Amazonas
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.61111000"
   longitude: "-78.43500000"
-  wikiDataId: Q1759360
-- id: 80781
-  name: Provincia de Bagua
-  state_id: 3685
+- name: Provincia de Bagua
   state_code: AMA
   state_name: Amazonas
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.09006000"
   longitude: "-78.39972000"
-  wikiDataId: Q1366082
-- id: 80784
-  name: Provincia de Bongará
-  state_id: 3685
+- name: Provincia de Bongará
   state_code: AMA
   state_name: Amazonas
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.68341000"
   longitude: "-77.87308000"
-  wikiDataId: Q1342814
-- id: 80803
-  name: Provincia de Chachapoyas
-  state_id: 3685
+- name: Provincia de Chachapoyas
   state_code: AMA
   state_name: Amazonas
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.27480000"
   longitude: "-77.81067000"
-  wikiDataId: Q997406
-- id: 80857
-  name: Provincia de Luya
-  state_id: 3685
+- name: Provincia de Luya
   state_code: AMA
   state_name: Amazonas
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.41667000"
   longitude: "-78.00000000"
-  wikiDataId: Q268277
-- id: 80885
-  name: Provincia de Rodríguez de Mendoza
-  state_id: 3685
+- name: Provincia de Rodríguez de Mendoza
   state_code: AMA
   state_name: Amazonas
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.33333000"
   longitude: "-77.41667000"
-  wikiDataId: Q1366038
-- id: 81006
-  name: Utcubamba
-  state_id: 3685
+- name: Utcubamba
   state_code: AMA
   state_name: Amazonas
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.77031000"
   longitude: "-78.32850000"
-  wikiDataId: Q941183
-- id: 80564
-  name: Asuncion
-  state_id: 3680
+- name: Asuncion
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.18987000"
   longitude: "-77.39878000"
-  wikiDataId: Q1166116
-- id: 80594
-  name: Carás
-  state_id: 3680
+- name: Carás
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.04692000"
   longitude: "-77.80901000"
-  wikiDataId: Q1035471
-- id: 80592
-  name: Carhuaz
-  state_id: 3680
+- name: Carhuaz
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.28194000"
   longitude: "-77.64472000"
-  wikiDataId: Q1036082
-- id: 80593
-  name: Carlos Fermin Fitzcarrald
-  state_id: 3680
+- name: Carlos Fermin Fitzcarrald
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.04415000"
   longitude: "-77.24168000"
-  wikiDataId: Q633478
-- id: 80615
-  name: Chimbote
-  state_id: 3680
+- name: Chimbote
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.08528000"
   longitude: "-78.57833000"
-  wikiDataId: Q518431
-- id: 80628
-  name: Coishco
-  state_id: 3680
+- name: Coishco
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.02306000"
   longitude: "-78.61556000"
-  wikiDataId: Q3344173
-- id: 80656
-  name: Huaraz
-  state_id: 3680
+- name: Huaraz
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.52779000"
   longitude: "-77.52778000"
-  wikiDataId: Q793809
-- id: 80658
-  name: Huarmey
-  state_id: 3680
+- name: Huarmey
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.06806000"
   longitude: "-78.15222000"
-  wikiDataId: Q430862
-- id: 80766
-  name: Pomabamba
-  state_id: 3680
+- name: Pomabamba
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.83333000"
   longitude: "-77.46667000"
-  wikiDataId: Q3322611
-- id: 80770
-  name: Provincia de Aija
-  state_id: 3680
+- name: Provincia de Aija
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.83333000"
   longitude: "-77.66667000"
-  wikiDataId: Q615891
-- id: 80776
-  name: Provincia de Antonio Raymondi
-  state_id: 3680
+- name: Provincia de Antonio Raymondi
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.08333000"
   longitude: "-77.08333000"
-  wikiDataId: Q1166121
-- id: 80782
-  name: Provincia de Bolognesi
-  state_id: 3680
+- name: Provincia de Bolognesi
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.10723000"
   longitude: "-77.14804000"
-  wikiDataId: Q1166113
-- id: 80796
-  name: Provincia de Carhuaz
-  state_id: 3680
+- name: Provincia de Carhuaz
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.31700000"
   longitude: "-77.55100000"
-  wikiDataId: Q1166126
-- id: 80797
-  name: Provincia de Casma
-  state_id: 3680
+- name: Provincia de Casma
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.47638000"
   longitude: "-78.24738000"
-  wikiDataId: Q747503
-- id: 80816
-  name: Provincia de Corongo
-  state_id: 3680
+- name: Provincia de Corongo
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.58333000"
   longitude: "-77.91667000"
-  wikiDataId: Q1166124
-- id: 80837
-  name: Provincia de Huaraz
-  state_id: 3680
+- name: Provincia de Huaraz
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.56109000"
   longitude: "-77.64605000"
-  wikiDataId: Q1140995
-- id: 80838
-  name: Provincia de Huari
-  state_id: 3680
+- name: Provincia de Huari
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.33333000"
   longitude: "-77.16667000"
-  wikiDataId: Q1779705
-- id: 80839
-  name: Provincia de Huarmey
-  state_id: 3680
+- name: Provincia de Huarmey
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.91667000"
   longitude: "-78.00000000"
-  wikiDataId: Q1779624
-- id: 80841
-  name: Provincia de Huaylas
-  state_id: 3680
+- name: Provincia de Huaylas
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.91667000"
   longitude: "-77.83333000"
-  wikiDataId: Q1779670
-- id: 80861
-  name: Provincia de Mariscal Luzuriaga
-  state_id: 3680
+- name: Provincia de Mariscal Luzuriaga
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.83333000"
   longitude: "-77.25000000"
-  wikiDataId: Q1779663
-- id: 80871
-  name: Provincia de Pallasca
-  state_id: 3680
+- name: Provincia de Pallasca
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.33333000"
   longitude: "-77.91667000"
-  wikiDataId: Q1779654
-- id: 80880
-  name: Provincia de Pomabamba
-  state_id: 3680
+- name: Provincia de Pomabamba
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.82311000"
   longitude: "-77.47559000"
-  wikiDataId: Q1779643
-- id: 80883
-  name: Provincia de Recuay
-  state_id: 3680
+- name: Provincia de Recuay
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.00000000"
   longitude: "-77.41667000"
-  wikiDataId: Q1779720
-- id: 80890
-  name: Provincia de Santa
-  state_id: 3680
+- name: Provincia de Santa
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.00000000"
   longitude: "-78.25000000"
-  wikiDataId: Q1779734
-- id: 80894
-  name: Provincia de Sihuas
-  state_id: 3680
+- name: Provincia de Sihuas
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.50000000"
   longitude: "-77.50000000"
-  wikiDataId: Q1779714
-- id: 80911
-  name: Provincia de Yungay
-  state_id: 3680
+- name: Provincia de Yungay
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.16667000"
   longitude: "-77.75000000"
-  wikiDataId: Q1798739
-- id: 80919
-  name: Puerto Santa
-  state_id: 3680
+- name: Puerto Santa
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.98772000"
   longitude: "-78.64727000"
-  wikiDataId: Q541435
-- id: 81017
-  name: Yauya
-  state_id: 3680
+- name: Yauya
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.98333000"
   longitude: "-77.30000000"
-  wikiDataId: Q2088849
-- id: 81018
-  name: Yungay
-  state_id: 3680
+- name: Yungay
   state_code: ANC
   state_name: Áncash
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.13833000"
   longitude: "-77.74361000"
-  wikiDataId: Q919678
-- id: 80554
-  name: Abancay
-  state_id: 3699
+- name: Abancay
   state_code: APU
   state_name: Apurímac
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.63389000"
   longitude: "-72.88139000"
-  wikiDataId: Q215238
-- id: 80559
-  name: Andahuaylas
-  state_id: 3699
+- name: Andahuaylas
   state_code: APU
   state_name: Apurímac
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.65556000"
   longitude: "-73.38722000"
-  wikiDataId: Q489660
-- id: 80767
-  name: Provincia de Abancay
-  state_id: 3699
+- name: Provincia de Abancay
   state_code: APU
   state_name: Apurímac
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.66667000"
   longitude: "-72.91667000"
-  wikiDataId: Q1771870
-- id: 80772
-  name: Provincia de Andahuaylas
-  state_id: 3699
+- name: Provincia de Andahuaylas
   state_code: APU
   state_name: Apurímac
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.66667000"
   longitude: "-73.41667000"
-  wikiDataId: Q1798747
-- id: 80775
-  name: Provincia de Antabamba
-  state_id: 3699
+- name: Provincia de Antabamba
   state_code: APU
   state_name: Apurímac
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.41667000"
   longitude: "-72.75000000"
-  wikiDataId: Q1814228
-- id: 80779
-  name: Provincia de Aymaraes
-  state_id: 3699
+- name: Provincia de Aymaraes
   state_code: APU
   state_name: Apurímac
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.41667000"
   longitude: "-73.25000000"
-  wikiDataId: Q1814234
-- id: 80817
-  name: Provincia de Cotabambas
-  state_id: 3699
+- name: Provincia de Cotabambas
   state_code: APU
   state_name: Apurímac
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.00000000"
   longitude: "-72.20000000"
-  wikiDataId: Q1814244
-- id: 80825
-  name: Provincia de Grau
-  state_id: 3699
+- name: Provincia de Grau
   state_code: APU
   state_name: Apurímac
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.00000000"
   longitude: "-72.58333000"
-  wikiDataId: Q1814172
-- id: 80946
-  name: San Jerónimo
-  state_id: 3699
+- name: San Jerónimo
   state_code: APU
   state_name: Apurímac
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.65138000"
   longitude: "-73.36388000"
-  wikiDataId: Q11011907
-- id: 80984
-  name: Talavera
-  state_id: 3699
+- name: Talavera
   state_code: APU
   state_name: Apurímac
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.65306000"
   longitude: "-73.42917000"
-  wikiDataId: Q723584
-- id: 80555
-  name: Acarí
-  state_id: 3681
+- name: Acarí
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.42393000"
   longitude: "-74.61361000"
-  wikiDataId: Q25247498
-- id: 80561
-  name: Arequipa
-  state_id: 3681
+- name: Arequipa
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.39889000"
   longitude: "-71.53500000"
-  wikiDataId: Q159273
-- id: 80588
-  name: Camaná
-  state_id: 3681
+- name: Camaná
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.62375000"
   longitude: "-72.71055000"
-  wikiDataId: Q1028011
-- id: 80598
-  name: Ccolo
-  state_id: 3681
+- name: Ccolo
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.50611000"
   longitude: "-71.49184000"
-  wikiDataId: Q3312424
-- id: 80619
-  name: Chivay
-  state_id: 3681
+- name: Chivay
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.63833000"
   longitude: "-71.60111000"
-  wikiDataId: Q2351933
-- id: 80627
-  name: Cocachacra
-  state_id: 3681
+- name: Cocachacra
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.08833000"
   longitude: "-71.75750000"
-  wikiDataId: Q3344173
-- id: 80634
-  name: Cotahuasi
-  state_id: 3681
+- name: Cotahuasi
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.21306000"
   longitude: "-72.88861000"
-  wikiDataId: Q2638258
-- id: 80655
-  name: Huarancante
-  state_id: 3681
+- name: Huarancante
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.76803000"
   longitude: "-71.45952000"
-  wikiDataId: Q723677
-- id: 80657
-  name: Huarichancara
-  state_id: 3681
+- name: Huarichancara
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.63972000"
   longitude: "-71.06111000"
-  wikiDataId: Q793809
-- id: 80673
-  name: Jatun Orcochiri
-  state_id: 3681
+- name: Jatun Orcochiri
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.75003000"
   longitude: "-71.34641000"
-  wikiDataId: Q1000341
-- id: 80677
-  name: Jayune
-  state_id: 3681
+- name: Jayune
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.56277000"
   longitude: "-71.30312000"
-  wikiDataId: Q917434
-- id: 80704
-  name: Llongasora
-  state_id: 3681
+- name: Llongasora
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.63951000"
   longitude: "-71.29921000"
-  wikiDataId: Q3344864
-- id: 80705
-  name: Lluta
-  state_id: 3681
+- name: Lluta
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.01472000"
   longitude: "-72.01417000"
-  wikiDataId: Q3344864
-- id: 80717
-  name: Mollendo
-  state_id: 3681
+- name: Mollendo
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.02306000"
   longitude: "-72.01472000"
-  wikiDataId: Q2351948
-- id: 80733
-  name: Orcopampa
-  state_id: 3681
+- name: Orcopampa
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.26611000"
   longitude: "-72.34167000"
-  wikiDataId: Q916382
-- id: 80777
-  name: Provincia de Arequipa
-  state_id: 3681
+- name: Provincia de Arequipa
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.33333000"
   longitude: "-71.50000000"
-  wikiDataId: Q601118
-- id: 80789
-  name: Provincia de Camaná
-  state_id: 3681
+- name: Provincia de Camaná
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.41667000"
   longitude: "-72.83333000"
-  wikiDataId: Q1784851
-- id: 80795
-  name: Provincia de Caravelí
-  state_id: 3681
+- name: Provincia de Caravelí
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.58333000"
   longitude: "-74.00000000"
-  wikiDataId: Q1779727
-- id: 80798
-  name: Provincia de Castilla
-  state_id: 3681
+- name: Provincia de Castilla
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.58333000"
   longitude: "-72.41667000"
-  wikiDataId: Q614628
-- id: 80800
-  name: Provincia de Caylloma
-  state_id: 3681
+- name: Provincia de Caylloma
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.66667000"
   longitude: "-71.58333000"
-  wikiDataId: Q1806435
-- id: 80812
-  name: Provincia de Condesuyos
-  state_id: 3681
+- name: Provincia de Condesuyos
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.58333000"
   longitude: "-72.83333000"
-  wikiDataId: Q1814253
-- id: 80845
-  name: Provincia de Islay
-  state_id: 3681
+- name: Provincia de Islay
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.00000000"
   longitude: "-71.83333000"
-  wikiDataId: Q1779688
-- id: 80851
-  name: Provincia de La Unión
-  state_id: 3681
+- name: Provincia de La Unión
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.00000000"
   longitude: "-72.83333000"
-  wikiDataId: Q1779698
-- id: 80914
-  name: Pucara
-  state_id: 3681
+- name: Pucara
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.97993000"
   longitude: "-71.45988000"
-  wikiDataId: Q217071
-- id: 80923
-  name: Punta de Bombón
-  state_id: 3681
+- name: Punta de Bombón
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.17190000"
   longitude: "-71.79240000"
-  wikiDataId: Q232842
-- id: 81012
-  name: Vizcachane
-  state_id: 3681
+- name: Vizcachane
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.80861000"
   longitude: "-71.20111000"
-  wikiDataId: Q3344843
-- id: 81020
-  name: Yura
-  state_id: 3681
+- name: Yura
   state_code: ARE
   state_name: Arequipa
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.25223000"
   longitude: "-71.67969000"
-  wikiDataId: Q2306609
-- id: 80568
-  name: Ayacucho
-  state_id: 3692
+- name: Ayacucho
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.15878000"
   longitude: "-74.22321000"
-  wikiDataId: Q504215
-- id: 80570
-  name: Ayna
-  state_id: 3692
+- name: Ayna
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.65000000"
   longitude: "-73.91667000"
-  wikiDataId: Q3344141
-- id: 80633
-  name: Coracora
-  state_id: 3692
+- name: Coracora
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.03333000"
   longitude: "-73.78333000"
-  wikiDataId: Q763662
-- id: 80653
-  name: Huanta
-  state_id: 3692
+- name: Huanta
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.93333000"
   longitude: "-74.25000000"
-  wikiDataId: Q2158344
-- id: 80755
-  name: Paucar Del Sara Sara
-  state_id: 3692
+- name: Paucar Del Sara Sara
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.12275000"
   longitude: "-73.26177000"
-  wikiDataId: Q1806437
-- id: 80792
-  name: Provincia de Cangallo
-  state_id: 3692
+- name: Provincia de Cangallo
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.57300000"
   longitude: "-74.38900000"
-  wikiDataId: Q1814190
-- id: 80829
-  name: Provincia de Huamanga
-  state_id: 3692
+- name: Provincia de Huamanga
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.20000000"
   longitude: "-74.25000000"
-  wikiDataId: Q1784857
-- id: 80830
-  name: Provincia de Huanca Sancos
-  state_id: 3692
+- name: Provincia de Huanca Sancos
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.07600000"
   longitude: "-74.42800000"
-  wikiDataId: Q1808513
-- id: 80835
-  name: Provincia de Huanta
-  state_id: 3692
+- name: Provincia de Huanta
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.50000000"
   longitude: "-74.16667000"
-  wikiDataId: Q930214
-- id: 80850
-  name: Provincia de La Mar
-  state_id: 3692
+- name: Provincia de La Mar
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.91667000"
   longitude: "-73.83333000"
-  wikiDataId: Q514494
-- id: 80856
-  name: Provincia de Lucanas
-  state_id: 3692
+- name: Provincia de Lucanas
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.50000000"
   longitude: "-74.33333000"
-  wikiDataId: Q1814203
-- id: 80873
-  name: Provincia de Parinacochas
-  state_id: 3692
+- name: Provincia de Parinacochas
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.02965000"
   longitude: "-73.63487000"
-  wikiDataId: Q549969
-- id: 80895
-  name: Provincia de Sucre
-  state_id: 3692
+- name: Provincia de Sucre
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.10300000"
   longitude: "-73.78600000"
-  wikiDataId: Q1814180
-- id: 80908
-  name: Provincia de Víctor Fajardo
-  state_id: 3692
+- name: Provincia de Víctor Fajardo
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.75000000"
   longitude: "-74.33333000"
-  wikiDataId: Q1947116
-- id: 80907
-  name: Provincia de Vilcas Huamán
-  state_id: 3692
+- name: Provincia de Vilcas Huamán
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.63200000"
   longitude: "-73.88800000"
-  wikiDataId: Q537708
-- id: 80924
-  name: Puquio
-  state_id: 3692
+- name: Puquio
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.70000000"
   longitude: "-74.13333000"
-  wikiDataId: Q2726653
-- id: 80951
-  name: San Miguel
-  state_id: 3692
+- name: San Miguel
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.01250000"
   longitude: "-73.98083000"
-  wikiDataId: Q2726675
-- id: 80985
-  name: Tambo
-  state_id: 3692
+- name: Tambo
   state_code: AYA
   state_name: Ayacucho
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.79847000"
   longitude: "-73.92438000"
-  wikiDataId: Q723584
-- id: 80573
-  name: Bambamarca
-  state_id: 3688
+- name: Bambamarca
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.68333000"
   longitude: "-78.53333000"
-  wikiDataId: Q3348274
-- id: 80575
-  name: Bellavista
-  state_id: 3688
+- name: Bellavista
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.66417000"
   longitude: "-78.67722000"
-  wikiDataId: Q2582671
-- id: 80580
-  name: Cajabamba
-  state_id: 3688
+- name: Cajabamba
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.61667000"
   longitude: "-78.05000000"
-  wikiDataId: Q3344351
-- id: 80581
-  name: Cajamarca
-  state_id: 3688
+- name: Cajamarca
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.16378000"
   longitude: "-78.50027000"
-  wikiDataId: Q205119
-- id: 80600
-  name: Celendín
-  state_id: 3688
+- name: Celendín
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.86590000"
   longitude: "-78.14585000"
-  wikiDataId: Q3344002
-- id: 80623
-  name: Chota
-  state_id: 3688
+- name: Chota
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.55000000"
   longitude: "-78.65000000"
-  wikiDataId: Q2964558
-- id: 80678
-  name: Jaén
-  state_id: 3688
+- name: Jaén
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.70729000"
   longitude: "-78.80785000"
-  wikiDataId: Q1229885
-- id: 80785
-  name: Provincia de Cajabamba
-  state_id: 3688
+- name: Provincia de Cajabamba
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.50000000"
   longitude: "-78.16667000"
-  wikiDataId: Q751373
-- id: 80786
-  name: Provincia de Cajamarca
-  state_id: 3688
+- name: Provincia de Cajamarca
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.33333000"
   longitude: "-78.41667000"
-  wikiDataId: Q1431135
-- id: 80802
-  name: Provincia de Celendín
-  state_id: 3688
+- name: Provincia de Celendín
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.83333000"
   longitude: "-78.25000000"
-  wikiDataId: Q1431153
-- id: 80806
-  name: Provincia de Chota
-  state_id: 3688
+- name: Provincia de Chota
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.38332000"
   longitude: "-79.18055000"
-  wikiDataId: Q1431140
-- id: 80814
-  name: Provincia de Contumazá
-  state_id: 3688
+- name: Provincia de Contumazá
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.33333000"
   longitude: "-78.91667000"
-  wikiDataId: Q1948003
-- id: 80819
-  name: Provincia de Cutervo
-  state_id: 3688
+- name: Provincia de Cutervo
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.36667000"
   longitude: "-78.85000000"
-  wikiDataId: Q1947910
-- id: 80826
-  name: Provincia de Hualgayoc
-  state_id: 3688
+- name: Provincia de Hualgayoc
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.68000000"
   longitude: "-78.53000000"
-  wikiDataId: Q1947926
-- id: 80847
-  name: Provincia de Jaén
-  state_id: 3688
+- name: Provincia de Jaén
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.71074000"
   longitude: "-79.00438000"
-  wikiDataId: Q683949
-- id: 80886
-  name: Provincia de San Ignacio
-  state_id: 3688
+- name: Provincia de San Ignacio
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.08333000"
   longitude: "-79.00000000"
-  wikiDataId: Q1814197
-- id: 80888
-  name: Provincia de San Miguel
-  state_id: 3688
+- name: Provincia de San Miguel
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.00000000"
   longitude: "-79.00000000"
-  wikiDataId: Q1947960
-- id: 80891
-  name: Provincia de Santa Cruz
-  state_id: 3688
+- name: Provincia de Santa Cruz
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.83333000"
   longitude: "-79.00000000"
-  wikiDataId: Q2084630
-- id: 80944
-  name: San Ignacio
-  state_id: 3688
+- name: San Ignacio
   state_code: CAJ
   state_name: Cajamarca
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.14583000"
   longitude: "-79.00139000"
-  wikiDataId: Q11011907
-- id: 80587
-  name: Callao
-  state_id: 3701
+- name: Callao
   state_code: CAL
   state_name: Callao
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.05659000"
   longitude: "-77.11814000"
-  wikiDataId: Q105037
-- id: 80560
-  name: Anta
-  state_id: 3691
+- name: Anta
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.47056000"
   longitude: "-72.14833000"
-  wikiDataId: Q3348268
-- id: 80579
-  name: Cahuanuyo
-  state_id: 3691
+- name: Cahuanuyo
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.34147000"
   longitude: "-71.46311000"
-  wikiDataId: Q3344055
-- id: 80584
-  name: Calca
-  state_id: 3691
+- name: Calca
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.33333000"
   longitude: "-71.95000000"
-  wikiDataId: Q3344215
-- id: 80586
-  name: Callanca
-  state_id: 3691
+- name: Callanca
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.18137000"
   longitude: "-71.14070000"
-  wikiDataId: Q3344215
-- id: 80597
-  name: Ccaquiracunca
-  state_id: 3691
+- name: Ccaquiracunca
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.27683000"
   longitude: "-71.45026000"
-  wikiDataId: Q3312424
-- id: 80599
-  name: Ccuntuma
-  state_id: 3691
+- name: Ccuntuma
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.12540000"
   longitude: "-71.41216000"
-  wikiDataId: Q3312424
-- id: 80607
-  name: Checacupe
-  state_id: 3691
+- name: Checacupe
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.02694000"
   longitude: "-71.45278000"
-  wikiDataId: Q765311
-- id: 80608
-  name: Checca
-  state_id: 3691
+- name: Checca
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.47278000"
   longitude: "-71.39389000"
-  wikiDataId: Q765311
-- id: 80613
-  name: Chignayhua
-  state_id: 3691
+- name: Chignayhua
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.24610000"
   longitude: "-71.44442000"
-  wikiDataId: Q260911
-- id: 80617
-  name: Chinchero
-  state_id: 3691
+- name: Chinchero
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.39222000"
   longitude: "-72.04778000"
-  wikiDataId: Q26764442
-- id: 80629
-  name: Combapata
-  state_id: 3691
+- name: Combapata
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.10111000"
   longitude: "-71.42944000"
-  wikiDataId: Q3344173
-- id: 80631
-  name: Conchopata
-  state_id: 3691
+- name: Conchopata
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.46968000"
   longitude: "-71.19843000"
-  wikiDataId: Q43418
-- id: 80635
-  name: Cullcuyre
-  state_id: 3691
+- name: Cullcuyre
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.09272000"
   longitude: "-71.33119000"
-  wikiDataId: Q2638258
-- id: 80636
-  name: Cusco
-  state_id: 3691
+- name: Cusco
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.52264000"
   longitude: "-71.96734000"
-  wikiDataId: Q5582862
-- id: 80661
-  name: Huayna Alcalde
-  state_id: 3691
+- name: Huayna Alcalde
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.26989000"
   longitude: "-71.09599000"
-  wikiDataId: Q16576408
-- id: 80676
-  name: Jayobamba
-  state_id: 3691
+- name: Jayobamba
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.09425000"
   longitude: "-71.33922000"
-  wikiDataId: Q917434
-- id: 80696
-  name: Langui
-  state_id: 3691
+- name: Langui
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.43194000"
   longitude: "-71.27306000"
-  wikiDataId: Q2638295
-- id: 80700
-  name: Layo
-  state_id: 3691
+- name: Layo
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.49361000"
   longitude: "-71.15500000"
-  wikiDataId: Q11172311
-- id: 80702
-  name: Lima Pampa
-  state_id: 3691
+- name: Lima Pampa
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.08976000"
   longitude: "-71.33664000"
-  wikiDataId: Q2868
-- id: 80709
-  name: Maranganí
-  state_id: 3691
+- name: Maranganí
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.35672000"
   longitude: "-71.16924000"
-  wikiDataId: Q13190024
-- id: 80710
-  name: Maras
-  state_id: 3691
+- name: Maras
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.33500000"
   longitude: "-72.15667000"
-  wikiDataId: Q1026235
-- id: 80723
-  name: Mosoc Cancha
-  state_id: 3691
+- name: Mosoc Cancha
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.28514000"
   longitude: "-71.08773000"
-  wikiDataId: Q6024431
-- id: 80724
-  name: Mosoc Llacta
-  state_id: 3691
+- name: Mosoc Llacta
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.12000000"
   longitude: "-71.47278000"
-  wikiDataId: Q6024431
-- id: 80731
-  name: Ollantaytambo
-  state_id: 3691
+- name: Ollantaytambo
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.25722000"
   longitude: "-72.26306000"
-  wikiDataId: Q916382
-- id: 80735
-  name: Oropesa
-  state_id: 3691
+- name: Oropesa
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.59278000"
   longitude: "-71.77194000"
-  wikiDataId: Q916382
-- id: 80748
-  name: Pampamarca
-  state_id: 3691
+- name: Pampamarca
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.14639000"
   longitude: "-71.45944000"
-  wikiDataId: Q2640020
-- id: 80750
-  name: Pangoa
-  state_id: 3691
+- name: Pangoa
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.11667000"
   longitude: "-73.00000000"
-  wikiDataId: Q2725364
-- id: 80756
-  name: Paucartambo
-  state_id: 3691
+- name: Paucartambo
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.31522000"
   longitude: "-71.59364000"
-  wikiDataId: Q2989631
-- id: 80763
-  name: Pisac
-  state_id: 3691
+- name: Pisac
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.42250000"
   longitude: "-71.84667000"
-  wikiDataId: Q3344087
-- id: 80769
-  name: Provincia de Acomayo
-  state_id: 3691
+- name: Provincia de Acomayo
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.91667000"
   longitude: "-71.66667000"
-  wikiDataId: Q1920602
-- id: 80774
-  name: Provincia de Anta
-  state_id: 3691
+- name: Provincia de Anta
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.50000000"
   longitude: "-72.33333000"
-  wikiDataId: Q1920482
-- id: 80788
-  name: Provincia de Calca
-  state_id: 3691
+- name: Provincia de Calca
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.00000000"
   longitude: "-72.16667000"
-  wikiDataId: Q1948019
-- id: 80790
-  name: Provincia de Canas
-  state_id: 3691
+- name: Provincia de Canas
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.41083000"
   longitude: "-71.33694000"
-  wikiDataId: Q1920500
-- id: 80791
-  name: Provincia de Canchis
-  state_id: 3691
+- name: Provincia de Canchis
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.08194000"
   longitude: "-71.18556000"
-  wikiDataId: Q951287
-- id: 80808
-  name: Provincia de Chumbivilcas
-  state_id: 3691
+- name: Provincia de Chumbivilcas
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.41667000"
   longitude: "-72.00000000"
-  wikiDataId: Q584864
-- id: 80818
-  name: Provincia de Cusco
-  state_id: 3691
+- name: Provincia de Cusco
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.50000000"
   longitude: "-72.00000000"
-  wikiDataId: Q1132101
-- id: 80822
-  name: Provincia de Espinar
-  state_id: 3691
+- name: Provincia de Espinar
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.75000000"
   longitude: "-71.41667000"
-  wikiDataId: Q1947973
-- id: 80849
-  name: Provincia de La Convención
-  state_id: 3691
+- name: Provincia de La Convención
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.00000000"
   longitude: "-73.00000000"
-  wikiDataId: Q1343276
-- id: 80874
-  name: Provincia de Paruro
-  state_id: 3691
+- name: Provincia de Paruro
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.91667000"
   longitude: "-71.91667000"
-  wikiDataId: Q1920613
-- id: 80877
-  name: Provincia de Paucartambo
-  state_id: 3691
+- name: Provincia de Paucartambo
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.16667000"
   longitude: "-71.41667000"
-  wikiDataId: Q746434
-- id: 80882
-  name: Provincia de Quispicanchis
-  state_id: 3691
+- name: Provincia de Quispicanchis
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.41667000"
   longitude: "-71.00000000"
-  wikiDataId: Q1920520
-- id: 80906
-  name: Provincia de Urubamba
-  state_id: 3691
+- name: Provincia de Urubamba
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.25000000"
   longitude: "-72.33333000"
-  wikiDataId: Q1771879
-- id: 80926
-  name: Qquea
-  state_id: 3691
+- name: Qquea
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.05417000"
   longitude: "-71.38583000"
-  wikiDataId: Q672921
-- id: 80928
-  name: Queromarca
-  state_id: 3691
+- name: Queromarca
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.18391000"
   longitude: "-71.38343000"
-  wikiDataId: Q672921
-- id: 80953
-  name: San Pablo
-  state_id: 3691
+- name: San Pablo
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.20278000"
   longitude: "-71.31556000"
-  wikiDataId: Q2726675
-- id: 80960
-  name: Santa Ana
-  state_id: 3691
+- name: Santa Ana
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.86667000"
   longitude: "-72.71667000"
-  wikiDataId: Q1944245
-- id: 80968
-  name: Santo Tomas
-  state_id: 3691
+- name: Santo Tomas
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.44556000"
   longitude: "-72.08417000"
-  wikiDataId: Q3344084
-- id: 80975
-  name: Sicuani
-  state_id: 3691
+- name: Sicuani
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.26944000"
   longitude: "-71.22611000"
-  wikiDataId: Q4419079
-- id: 80993
-  name: Tinta
-  state_id: 3691
+- name: Tinta
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.14500000"
   longitude: "-71.40694000"
-  wikiDataId: Q1974467
-- id: 81000
-  name: Tungasuca
-  state_id: 3691
+- name: Tungasuca
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.16389000"
   longitude: "-71.47667000"
-  wikiDataId: Q49278346
-- id: 81004
-  name: Urcos
-  state_id: 3691
+- name: Urcos
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.68611000"
   longitude: "-71.62278000"
-  wikiDataId: Q2989619
-- id: 81005
-  name: Urubamba
-  state_id: 3691
+- name: Urubamba
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.30472000"
   longitude: "-72.11583000"
-  wikiDataId: Q2304483
-- id: 81015
-  name: Yanaoca
-  state_id: 3691
+- name: Yanaoca
   state_code: CUS
   state_name: Cusco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.21806000"
   longitude: "-71.43167000"
-  wikiDataId: Q2989624
-- id: 80651
-  name: Huancavelica
-  state_id: 3679
+- name: Huancavelica
   state_code: HUV
   state_name: Huancavelica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.78261000"
   longitude: "-74.97266000"
-  wikiDataId: Q1000333
-- id: 80662
-  name: Huaytara
-  state_id: 3679
+- name: Huaytara
   state_code: HUV
   state_name: Huancavelica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.65616000"
   longitude: "-75.09234000"
-  wikiDataId: Q629736
-- id: 80749
-  name: Pampas
-  state_id: 3679
+- name: Pampas
   state_code: HUV
   state_name: Huancavelica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.39490000"
   longitude: "-74.86687000"
-  wikiDataId: Q2725364
-- id: 80768
-  name: Provincia de Acobamba
-  state_id: 3679
+- name: Provincia de Acobamba
   state_code: HUV
   state_name: Huancavelica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.75000000"
   longitude: "-74.66667000"
-  wikiDataId: Q1948039
-- id: 80773
-  name: Provincia de Angaraes
-  state_id: 3679
+- name: Provincia de Angaraes
   state_code: HUV
   state_name: Huancavelica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.00000000"
   longitude: "-74.75000000"
-  wikiDataId: Q2084862
-- id: 80799
-  name: Provincia de Castrovirreyna
-  state_id: 3679
+- name: Provincia de Castrovirreyna
   state_code: HUV
   state_name: Huancavelica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.14535000"
   longitude: "-75.40598000"
-  wikiDataId: Q1944312
-- id: 80810
-  name: Provincia de Churcampa
-  state_id: 3679
+- name: Provincia de Churcampa
   state_code: HUV
   state_name: Huancavelica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.60000000"
   longitude: "-74.52000000"
-  wikiDataId: Q639598
-- id: 80833
-  name: Provincia de Huancavelica
-  state_id: 3679
+- name: Provincia de Huancavelica
   state_code: HUV
   state_name: Huancavelica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.66667000"
   longitude: "-75.25000000"
-  wikiDataId: Q2088859
-- id: 80903
-  name: Provincia de Tayacaja
-  state_id: 3679
+- name: Provincia de Tayacaja
   state_code: HUV
   state_name: Huancavelica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.25000000"
   longitude: "-74.75000000"
-  wikiDataId: Q1948195
-- id: 80558
-  name: Ambo
-  state_id: 3687
+- name: Ambo
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.13083000"
   longitude: "-76.20472000"
-  wikiDataId: Q3317423
-- id: 80646
-  name: Huacaybamba
-  state_id: 3687
+- name: Huacaybamba
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.99480000"
   longitude: "-76.81027000"
-  wikiDataId: Q2084668
-- id: 80665
-  name: Huánuco
-  state_id: 3687
+- name: Huánuco
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.93062000"
   longitude: "-76.24223000"
-  wikiDataId: Q504394
-- id: 80691
-  name: La Unión
-  state_id: 3687
+- name: La Unión
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.82702000"
   longitude: "-76.80199000"
-  wikiDataId: Q595441
-- id: 80699
-  name: Lauricocha
-  state_id: 3687
+- name: Lauricocha
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.20055000"
   longitude: "-76.70359000"
-  wikiDataId: Q188098
-- id: 80703
-  name: Llata
-  state_id: 3687
+- name: Llata
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.41667000"
   longitude: "-76.78333000"
-  wikiDataId: Q3344864
-- id: 80771
-  name: Provincia de Ambo
-  state_id: 3687
+- name: Provincia de Ambo
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.16667000"
   longitude: "-76.16667000"
-  wikiDataId: Q980098
-- id: 80821
-  name: Provincia de Dos de Mayo
-  state_id: 3687
+- name: Provincia de Dos de Mayo
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.91667000"
   longitude: "-76.75000000"
-  wikiDataId: Q2088810
-- id: 80828
-  name: Provincia de Huamalíes
-  state_id: 3687
+- name: Provincia de Huamalíes
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.25000000"
   longitude: "-76.50000000"
-  wikiDataId: Q1819840
-- id: 80842
-  name: Provincia de Huánuco
-  state_id: 3687
+- name: Provincia de Huánuco
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.66667000"
   longitude: "-76.08333000"
-  wikiDataId: Q2100624
-- id: 80855
-  name: Provincia de Leoncio Prado
-  state_id: 3687
+- name: Provincia de Leoncio Prado
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.16667000"
   longitude: "-76.00000000"
-  wikiDataId: Q1468138
-- id: 80859
-  name: Provincia de Marañón
-  state_id: 3687
+- name: Provincia de Marañón
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.75000000"
   longitude: "-76.66667000"
-  wikiDataId: Q764487
-- id: 80869
-  name: Provincia de Pachitea
-  state_id: 3687
+- name: Provincia de Pachitea
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.95262000"
   longitude: "-75.81390000"
-  wikiDataId: Q2084641
-- id: 80917
-  name: Puerto Inca
-  state_id: 3687
+- name: Puerto Inca
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.36696000"
   longitude: "-75.08958000"
-  wikiDataId: Q1944276
-- id: 80952
-  name: San Miguel de Cauri
-  state_id: 3687
+- name: San Miguel de Cauri
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.13818000"
   longitude: "-76.62288000"
-  wikiDataId: Q2726675
-- id: 80992
-  name: Tingo María
-  state_id: 3687
+- name: Tingo María
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.29532000"
   longitude: "-75.99574000"
-  wikiDataId: Q1974467
-- id: 81014
-  name: Yanacancha
-  state_id: 3687
+- name: Yanacancha
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.24111000"
   longitude: "-76.64556000"
-  wikiDataId: Q3344843
-- id: 81016
-  name: Yarowilca
-  state_id: 3687
+- name: Yarowilca
   state_code: HUC
   state_name: Huanuco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.80263000"
   longitude: "-76.59516000"
-  wikiDataId: Q2088849
-- id: 80616
-  name: Chincha Alta
-  state_id: 3700
+- name: Chincha Alta
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.40985000"
   longitude: "-76.13235000"
-  wikiDataId: Q990685
-- id: 80667
-  name: Ica
-  state_id: 3700
+- name: Ica
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.06777000"
   longitude: "-75.72861000"
-  wikiDataId: Q840712
-- id: 80706
-  name: Los Aquijes
-  state_id: 3700
+- name: Los Aquijes
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.09667000"
   longitude: "-75.69083000"
-  wikiDataId: Q3344864
-- id: 80714
-  name: Minas de Marcona
-  state_id: 3700
+- name: Minas de Marcona
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.21194000"
   longitude: "-75.11028000"
-  wikiDataId: Q580017
-- id: 80729
-  name: Nazca
-  state_id: 3700
+- name: Nazca
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.83098000"
   longitude: "-74.93895000"
-  wikiDataId: Q1711521
-- id: 80747
-  name: Palpa
-  state_id: 3700
+- name: Palpa
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.53361000"
   longitude: "-75.18556000"
-  wikiDataId: Q2640020
-- id: 80752
-  name: Paracas
-  state_id: 3700
+- name: Paracas
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.86667000"
   longitude: "-76.26667000"
-  wikiDataId: Q2725364
-- id: 80764
-  name: Pisco
-  state_id: 3700
+- name: Pisco
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.71029000"
   longitude: "-76.20538000"
-  wikiDataId: Q290504
-- id: 80805
-  name: Provincia de Chincha
-  state_id: 3700
+- name: Provincia de Chincha
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.31791000"
   longitude: "-75.93930000"
-  wikiDataId: Q1325771
-- id: 80843
-  name: Provincia de Ica
-  state_id: 3700
+- name: Provincia de Ica
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.33861000"
   longitude: "-75.64833000"
-  wikiDataId: Q2084696
-- id: 80865
-  name: Provincia de Nazca
-  state_id: 3700
+- name: Provincia de Nazca
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.00000000"
   longitude: "-75.08333000"
-  wikiDataId: Q938322
-- id: 80872
-  name: Provincia de Palpa
-  state_id: 3700
+- name: Provincia de Palpa
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.41667000"
   longitude: "-75.16667000"
-  wikiDataId: Q783136
-- id: 80878
-  name: Provincia de Pisco
-  state_id: 3700
+- name: Provincia de Pisco
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.80377000"
   longitude: "-75.94264000"
-  wikiDataId: Q1366050
-- id: 80935
-  name: Río Grande
-  state_id: 3700
+- name: Río Grande
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.51600000"
   longitude: "-75.19933000"
-  wikiDataId: Q3344069
-- id: 80943
-  name: San Clemente
-  state_id: 3700
+- name: San Clemente
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.66667000"
   longitude: "-76.15000000"
-  wikiDataId: Q1935565
-- id: 80949
-  name: San Juan Bautista
-  state_id: 3700
+- name: San Juan Bautista
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.01083000"
   longitude: "-75.73583000"
-  wikiDataId: Q11011907
-- id: 80964
-  name: Santiago
-  state_id: 3700
+- name: Santiago
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.18469000"
   longitude: "-75.71124000"
-  wikiDataId: Q1944245
-- id: 80978
-  name: Subtanjalla
-  state_id: 3700
+- name: Subtanjalla
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.01889000"
   longitude: "-75.75806000"
-  wikiDataId: Q11034041
-- id: 81009
-  name: Villa Tupac Amaru
-  state_id: 3700
+- name: Villa Tupac Amaru
   state_code: ICA
   state_name: Ica
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.71135000"
   longitude: "-76.14980000"
-  wikiDataId: Q941183
-- id: 80556
-  name: Acolla
-  state_id: 3693
+- name: Acolla
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.73193000"
   longitude: "-75.54634000"
-  wikiDataId: Q25247498
-- id: 80591
-  name: Carhuamayo
-  state_id: 3693
+- name: Carhuamayo
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.91667000"
   longitude: "-76.03333000"
-  wikiDataId: Q3344236
-- id: 80604
-  name: Chanchamayo
-  state_id: 3693
+- name: Chanchamayo
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.05000000"
   longitude: "-75.31667000"
-  wikiDataId: Q765311
-- id: 80625
-  name: Chupaca
-  state_id: 3693
+- name: Chupaca
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.06667000"
   longitude: "-75.28333000"
-  wikiDataId: Q3344173
-- id: 80630
-  name: Concepción
-  state_id: 3693
+- name: Concepción
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.91762000"
   longitude: "-75.31401000"
-  wikiDataId: Q43418
-- id: 80652
-  name: Huancayo
-  state_id: 3693
+- name: Huancayo
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.06513000"
   longitude: "-75.20486000"
-  wikiDataId: Q468782
-- id: 80659
-  name: Huasahuasi
-  state_id: 3693
+- name: Huasahuasi
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.26527000"
   longitude: "-75.64722000"
-  wikiDataId: Q430862
-- id: 80663
-  name: Huayucachi
-  state_id: 3693
+- name: Huayucachi
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.13333000"
   longitude: "-75.23333000"
-  wikiDataId: Q629736
-- id: 80674
-  name: Jauja
-  state_id: 3693
+- name: Jauja
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.77584000"
   longitude: "-75.49656000"
-  wikiDataId: Q917434
-- id: 80685
-  name: Junín
-  state_id: 3693
+- name: Junín
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.15895000"
   longitude: "-75.99304000"
-  wikiDataId: Q2640092
-- id: 80688
-  name: La Oroya
-  state_id: 3693
+- name: La Oroya
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.51893000"
   longitude: "-75.89935000"
-  wikiDataId: Q1759360
-- id: 80713
-  name: Mazamari
-  state_id: 3693
+- name: Mazamari
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.32583000"
   longitude: "-74.53083000"
-  wikiDataId: Q580017
-- id: 80720
-  name: Morococha
-  state_id: 3693
+- name: Morococha
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.59972000"
   longitude: "-76.14111000"
-  wikiDataId: Q766735
-- id: 80734
-  name: Orcotuna
-  state_id: 3693
+- name: Orcotuna
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.96886000"
   longitude: "-75.30780000"
-  wikiDataId: Q916382
-- id: 80758
-  name: Perené
-  state_id: 3693
+- name: Perené
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.94510000"
   longitude: "-75.22394000"
-  wikiDataId: Q2070443
-- id: 80761
-  name: Pilcomay
-  state_id: 3693
+- name: Pilcomay
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.04722000"
   longitude: "-75.24931000"
-  wikiDataId: Q3344087
-- id: 80809
-  name: Provincia de Chupaca
-  state_id: 3693
+- name: Provincia de Chupaca
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.30000000"
   longitude: "-75.43300000"
-  wikiDataId: Q1777631
-- id: 80811
-  name: Provincia de Concepción
-  state_id: 3693
+- name: Provincia de Concepción
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.75000000"
   longitude: "-75.00000000"
-  wikiDataId: Q1991124
-- id: 80834
-  name: Provincia de Huancayo
-  state_id: 3693
+- name: Provincia de Huancayo
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.17319000"
   longitude: "-75.16169000"
-  wikiDataId: Q1777621
-- id: 80846
-  name: Provincia de Jauja
-  state_id: 3693
+- name: Provincia de Jauja
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.72600000"
   longitude: "-75.54700000"
-  wikiDataId: Q922867
-- id: 80848
-  name: Provincia de Junín
-  state_id: 3693
+- name: Provincia de Junín
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.08333000"
   longitude: "-76.00000000"
-  wikiDataId: Q644721
-- id: 80893
-  name: Provincia de Satipo
-  state_id: 3693
+- name: Provincia de Satipo
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.50000000"
   longitude: "-74.25000000"
-  wikiDataId: Q1335384
-- id: 80902
-  name: Provincia de Tarma
-  state_id: 3693
+- name: Provincia de Tarma
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.40562000"
   longitude: "-75.69129000"
-  wikiDataId: Q946269
-- id: 80909
-  name: Provincia de Yauli
-  state_id: 3693
+- name: Provincia de Yauli
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.66667000"
   longitude: "-76.16667000"
-  wikiDataId: Q1342828
-- id: 80940
-  name: San Agustin
-  state_id: 3693
+- name: San Agustin
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.97195000"
   longitude: "-75.25562000"
-  wikiDataId: Q3348291
-- id: 80947
-  name: San Jerónimo
-  state_id: 3693
+- name: San Jerónimo
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.95591000"
   longitude: "-75.28411000"
-  wikiDataId: Q11011907
-- id: 80954
-  name: San Pedro de Cajas
-  state_id: 3693
+- name: San Pedro de Cajas
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.25061000"
   longitude: "-75.86116000"
-  wikiDataId: Q25400021
-- id: 80956
-  name: San Ramón
-  state_id: 3693
+- name: San Ramón
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.12417000"
   longitude: "-75.35733000"
-  wikiDataId: Q2219996
-- id: 80970
-  name: Satipo
-  state_id: 3693
+- name: Satipo
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.25222000"
   longitude: "-74.63861000"
-  wikiDataId: Q3057885
-- id: 80974
-  name: Sicaya
-  state_id: 3693
+- name: Sicaya
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.03333000"
   longitude: "-75.28333000"
-  wikiDataId: Q7507402
-- id: 80991
-  name: Tarma
-  state_id: 3693
+- name: Tarma
   state_code: JUN
   state_name: Junín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.41899000"
   longitude: "-75.68992000"
-  wikiDataId: Q1759366
-- id: 80562
-  name: Ascope
-  state_id: 3683
+- name: Ascope
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.71444000"
   longitude: "-79.10778000"
-  wikiDataId: Q3344017
-- id: 80595
-  name: Cascas
-  state_id: 3683
+- name: Cascas
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.48333000"
   longitude: "-78.81667000"
-  wikiDataId: Q3344040
-- id: 80609
-  name: Chepen
-  state_id: 3683
+- name: Chepen
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.14367000"
   longitude: "-79.45674000"
-  wikiDataId: Q1920599
-- id: 80611
-  name: Chicama
-  state_id: 3683
+- name: Chicama
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.84472000"
   longitude: "-79.14694000"
-  wikiDataId: Q7258550
-- id: 80620
-  name: Chocope
-  state_id: 3683
+- name: Chocope
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.79139000"
   longitude: "-79.22167000"
-  wikiDataId: Q5103685
-- id: 80643
-  name: Gran Chimu
-  state_id: 3683
+- name: Gran Chimu
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.57976000"
   longitude: "-78.64718000"
-  wikiDataId: Q1920564
-- id: 80644
-  name: Guadalupe
-  state_id: 3683
+- name: Guadalupe
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.25000000"
   longitude: "-79.48333000"
-  wikiDataId: Q2117510
-- id: 80649
-  name: Huamachuco
-  state_id: 3683
+- name: Huamachuco
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.80000000"
   longitude: "-78.06667000"
-  wikiDataId: Q1632770
-- id: 80682
-  name: Julcan
-  state_id: 3683
+- name: Julcan
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.17238000"
   longitude: "-78.46356000"
-  wikiDataId: Q1920491
-- id: 80697
-  name: Laredo
-  state_id: 3683
+- name: Laredo
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.08965000"
   longitude: "-78.96020000"
-  wikiDataId: Q6488869
-- id: 80715
-  name: Moche
-  state_id: 3683
+- name: Moche
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.17111000"
   longitude: "-79.00917000"
-  wikiDataId: Q6887544
-- id: 80736
-  name: Otuzco
-  state_id: 3683
+- name: Otuzco
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.90000000"
   longitude: "-78.58333000"
-  wikiDataId: Q3056421
-- id: 80741
-  name: Pacanga
-  state_id: 3683
+- name: Pacanga
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.16667000"
   longitude: "-79.50000000"
-  wikiDataId: Q7121871
-- id: 80742
-  name: Pacasmayo
-  state_id: 3683
+- name: Pacasmayo
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.40056000"
   longitude: "-79.57139000"
-  wikiDataId: Q1279608
-- id: 80745
-  name: Paiján
-  state_id: 3683
+- name: Paiján
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.73291000"
   longitude: "-79.30150000"
-  wikiDataId: Q7124745
-- id: 80783
-  name: Provincia de Bolívar
-  state_id: 3683
+- name: Provincia de Bolívar
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.33333000"
   longitude: "-77.75000000"
-  wikiDataId: Q951816
-- id: 80866
-  name: Provincia de Otuzco
-  state_id: 3683
+- name: Provincia de Otuzco
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.90457000"
   longitude: "-78.56362000"
-  wikiDataId: Q583300
-- id: 80868
-  name: Provincia de Pacasmayo
-  state_id: 3683
+- name: Provincia de Pacasmayo
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.25000000"
   longitude: "-79.50000000"
-  wikiDataId: Q1944266
-- id: 80876
-  name: Provincia de Pataz
-  state_id: 3683
+- name: Provincia de Pataz
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.25000000"
   longitude: "-77.33333000"
-  wikiDataId: Q1948180
-- id: 80892
-  name: Provincia de Santiago de Chuco
-  state_id: 3683
+- name: Provincia de Santiago de Chuco
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.33333000"
   longitude: "-78.25000000"
-  wikiDataId: Q1944238
-- id: 80904
-  name: Provincia de Trujillo
-  state_id: 3683
+- name: Provincia de Trujillo
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.08333000"
   longitude: "-78.91667000"
-  wikiDataId: Q2013427
-- id: 80915
-  name: Pueblo Nuevo
-  state_id: 3683
+- name: Pueblo Nuevo
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.18806000"
   longitude: "-79.51528000"
-  wikiDataId: Q217071
-- id: 80931
-  name: Quiruvilca
-  state_id: 3683
+- name: Quiruvilca
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.96667000"
   longitude: "-78.20000000"
-  wikiDataId: Q27194717
-- id: 80936
-  name: Salaverry
-  state_id: 3683
+- name: Salaverry
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.22100000"
   longitude: "-78.97698000"
-  wikiDataId: Q7403730
-- id: 80955
-  name: San Pedro de Lloc
-  state_id: 3683
+- name: San Pedro de Lloc
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.42890000"
   longitude: "-79.50416000"
-  wikiDataId: Q1014474
-- id: 80959
-  name: Sanchez Carrion
-  state_id: 3683
+- name: Sanchez Carrion
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.78538000"
   longitude: "-77.92586000"
-  wikiDataId: Q1944245
-- id: 80965
-  name: Santiago de Cao
-  state_id: 3683
+- name: Santiago de Cao
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.95889000"
   longitude: "-79.23917000"
-  wikiDataId: Q15275280
-- id: 80966
-  name: Santiago de Chuco
-  state_id: 3683
+- name: Santiago de Chuco
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.14099000"
   longitude: "-78.17329000"
-  wikiDataId: Q3344084
-- id: 80998
-  name: Trujillo
-  state_id: 3683
+- name: Trujillo
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.11599000"
   longitude: "-79.02998000"
-  wikiDataId: Q214173
-- id: 81010
-  name: Viru
-  state_id: 3683
+- name: Viru
   state_code: LAL
   state_name: La Libertad
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.52199000"
   longitude: "-78.60355000"
-  wikiDataId: Q1948051
-- id: 80612
-  name: Chiclayo
-  state_id: 3702
+- name: Chiclayo
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.77137000"
   longitude: "-79.84088000"
-  wikiDataId: Q260911
-- id: 80621
-  name: Chongoyape
-  state_id: 3702
+- name: Chongoyape
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.64056000"
   longitude: "-79.38917000"
-  wikiDataId: Q5767159
-- id: 80641
-  name: Eten
-  state_id: 3702
+- name: Eten
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.90806000"
   longitude: "-79.86417000"
-  wikiDataId: Q2084675
-- id: 80642
-  name: Ferreñafe
-  state_id: 3702
+- name: Ferreñafe
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.63889000"
   longitude: "-79.78889000"
-  wikiDataId: Q2143690
-- id: 80675
-  name: Jayanca
-  state_id: 3702
+- name: Jayanca
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.39083000"
   longitude: "-79.82194000"
-  wikiDataId: Q917434
-- id: 80694
-  name: Lambayeque
-  state_id: 3702
+- name: Lambayeque
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.70111000"
   longitude: "-79.90611000"
-  wikiDataId: Q768086
-- id: 80716
-  name: Mochumí
-  state_id: 3702
+- name: Mochumí
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.54364000"
   longitude: "-79.86217000"
-  wikiDataId: Q27194530
-- id: 80718
-  name: Monsefú
-  state_id: 3702
+- name: Monsefú
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.87431000"
   longitude: "-79.86871000"
-  wikiDataId: Q10976116
-- id: 80728
-  name: Mórrope
-  state_id: 3702
+- name: Mórrope
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.53536000"
   longitude: "-80.01104000"
-  wikiDataId: Q27194532
-- id: 80725
-  name: Motupe
-  state_id: 3702
+- name: Motupe
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.15194000"
   longitude: "-79.71417000"
-  wikiDataId: Q6024431
-- id: 80732
-  name: Olmos
-  state_id: 3702
+- name: Olmos
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.98472000"
   longitude: "-79.74528000"
-  wikiDataId: Q916382
-- id: 80739
-  name: Oyotún
-  state_id: 3702
+- name: Oyotún
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.84438000"
   longitude: "-79.30093000"
-  wikiDataId: Q27557971
-- id: 80760
-  name: Picsi
-  state_id: 3702
+- name: Picsi
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.71778000"
   longitude: "-79.76972000"
-  wikiDataId: Q3344087
-- id: 80762
-  name: Pimentel
-  state_id: 3702
+- name: Pimentel
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.83667000"
   longitude: "-79.93417000"
-  wikiDataId: Q3344087
-- id: 80804
-  name: Provincia de Chiclayo
-  state_id: 3702
+- name: Provincia de Chiclayo
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.76667000"
   longitude: "-79.85000000"
-  wikiDataId: Q546559
-- id: 80823
-  name: Provincia de Ferreñafe
-  state_id: 3702
+- name: Provincia de Ferreñafe
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.33333000"
   longitude: "-79.50000000"
-  wikiDataId: Q1948067
-- id: 80853
-  name: Provincia de Lambayeque
-  state_id: 3702
+- name: Provincia de Lambayeque
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.08333000"
   longitude: "-80.08333000"
-  wikiDataId: Q632826
-- id: 80916
-  name: Pueblo Nuevo
-  state_id: 3702
+- name: Pueblo Nuevo
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.71667000"
   longitude: "-79.88333000"
-  wikiDataId: Q217071
-- id: 80932
-  name: Reque
-  state_id: 3702
+- name: Reque
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.86556000"
   longitude: "-79.81778000"
-  wikiDataId: Q27194717
-- id: 80948
-  name: San José
-  state_id: 3702
+- name: San José
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.73813000"
   longitude: "-79.82750000"
-  wikiDataId: Q11011907
-- id: 80972
-  name: Saña
-  state_id: 3702
+- name: Saña
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.91888000"
   longitude: "-79.58200000"
-  wikiDataId: Q6171043
-- id: 80963
-  name: Santa Rosa
-  state_id: 3702
+- name: Santa Rosa
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.75772000"
   longitude: "-79.82747000"
-  wikiDataId: Q1944245
-- id: 81001
-  name: Túcume
-  state_id: 3702
+- name: Túcume
   state_code: LAM
   state_name: Lambayeque
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.50637000"
   longitude: "-79.85725000"
-  wikiDataId: Q1677131
-- id: 80563
-  name: Asentamiento Humano Nicolas de Pierola
-  state_id: 3695
+- name: Asentamiento Humano Nicolas de Pierola
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.93573000"
   longitude: "-76.70611000"
-  wikiDataId: Q3344017
-- id: 80574
-  name: Barranca
-  state_id: 3695
+- name: Barranca
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.75000000"
   longitude: "-77.76667000"
-  wikiDataId: Q2582671
-- id: 80585
-  name: Caleta de Carquín
-  state_id: 3695
+- name: Caleta de Carquín
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.09250000"
   longitude: "-77.62667000"
-  wikiDataId: Q3344215
-- id: 80603
-  name: Chancay
-  state_id: 3695
+- name: Chancay
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.57139000"
   longitude: "-77.26722000"
-  wikiDataId: Q757133
-- id: 80614
-  name: Chilca
-  state_id: 3695
+- name: Chilca
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.52111000"
   longitude: "-76.73722000"
-  wikiDataId: Q260911
-- id: 80622
-  name: Chosica
-  state_id: 3695
+- name: Chosica
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.94306000"
   longitude: "-76.70944000"
-  wikiDataId: Q5767299
-- id: 80647
-  name: Huacho
-  state_id: 3695
+- name: Huacho
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.10667000"
   longitude: "-77.60500000"
-  wikiDataId: Q1002052
-- id: 80648
-  name: Hualmay
-  state_id: 3695
+- name: Hualmay
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.09639000"
   longitude: "-77.61389000"
-  wikiDataId: Q1002052
-- id: 80654
-  name: Huaral
-  state_id: 3695
+- name: Huaral
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.49500000"
   longitude: "-77.20778000"
-  wikiDataId: Q723677
-- id: 80660
-  name: Huaura
-  state_id: 3695
+- name: Huaura
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.07000000"
   longitude: "-77.59944000"
-  wikiDataId: Q16576408
-- id: 80671
-  name: Imperial
-  state_id: 3695
+- name: Imperial
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.05927000"
   longitude: "-76.35269000"
-  wikiDataId: Q1000341
-- id: 80672
-  name: Independencia
-  state_id: 3695
+- name: Independencia
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.99000000"
   longitude: "-77.04583000"
-  wikiDataId: Q1000341
-- id: 80701
-  name: Lima
-  state_id: 3695
+- name: Lima
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.04318000"
   longitude: "-77.02824000"
-  wikiDataId: Q2868
-- id: 80708
-  name: Mala
-  state_id: 3695
+- name: Mala
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.65806000"
   longitude: "-76.63083000"
-  wikiDataId: Q3348229
-- id: 80712
-  name: Matucana
-  state_id: 3695
+- name: Matucana
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.85000000"
   longitude: "-76.40000000"
-  wikiDataId: Q580017
-- id: 80730
-  name: Nuevo Imperial
-  state_id: 3695
+- name: Nuevo Imperial
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.07541000"
   longitude: "-76.31719000"
-  wikiDataId: Q1711521
-- id: 80738
-  name: Oyon
-  state_id: 3695
+- name: Oyon
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.75869000"
   longitude: "-76.87634000"
-  wikiDataId: Q1422624
-- id: 80753
-  name: Paramonga
-  state_id: 3695
+- name: Paramonga
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.66667000"
   longitude: "-77.83333000"
-  wikiDataId: Q25768004
-- id: 80754
-  name: Pativilca
-  state_id: 3695
+- name: Pativilca
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.70000000"
   longitude: "-77.78333000"
-  wikiDataId: Q3368805
-- id: 80787
-  name: Provincia de Cajatambo
-  state_id: 3695
+- name: Provincia de Cajatambo
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.66667000"
   longitude: "-77.00000000"
-  wikiDataId: Q1422587
-- id: 80801
-  name: Provincia de Cañete
-  state_id: 3695
+- name: Provincia de Cañete
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.75000000"
   longitude: "-76.33333000"
-  wikiDataId: Q1431156
-- id: 80793
-  name: Provincia de Canta
-  state_id: 3695
+- name: Provincia de Canta
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.46667000"
   longitude: "-76.61667000"
-  wikiDataId: Q1422611
-- id: 80836
-  name: Provincia de Huaral
-  state_id: 3695
+- name: Provincia de Huaral
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.25000000"
   longitude: "-76.91667000"
-  wikiDataId: Q1422606
-- id: 80840
-  name: Provincia de Huarochirí
-  state_id: 3695
+- name: Provincia de Huarochirí
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.91667000"
   longitude: "-76.41667000"
-  wikiDataId: Q1367991
-- id: 80910
-  name: Provincia de Yauyos
-  state_id: 3695
+- name: Provincia de Yauyos
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.41667000"
   longitude: "-76.00000000"
-  wikiDataId: Q1422601
-- id: 80920
-  name: Puerto Supe
-  state_id: 3695
+- name: Puerto Supe
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.80135000"
   longitude: "-77.74333000"
-  wikiDataId: Q3504032
-- id: 80930
-  name: Quilmaná
-  state_id: 3695
+- name: Quilmaná
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.94860000"
   longitude: "-76.38112000"
-  wikiDataId: Q27194717
-- id: 80933
-  name: Ricardo Palma
-  state_id: 3695
+- name: Ricardo Palma
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.91978000"
   longitude: "-76.65610000"
-  wikiDataId: Q27194717
-- id: 80942
-  name: San Bartolo
-  state_id: 3695
+- name: San Bartolo
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.38333000"
   longitude: "-76.78333000"
-  wikiDataId: Q1935565
-- id: 80945
-  name: San Isidro
-  state_id: 3695
+- name: San Isidro
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.11667000"
   longitude: "-77.05000000"
-  wikiDataId: Q11011907
-- id: 80950
-  name: San Luis
-  state_id: 3695
+- name: San Luis
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.07674000"
   longitude: "-76.99435000"
-  wikiDataId: Q11011907
-- id: 80958
-  name: San Vicente de Cañete
-  state_id: 3695
+- name: San Vicente de Cañete
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.07556000"
   longitude: "-76.38528000"
-  wikiDataId: Q1853969
-- id: 80962
-  name: Santa María
-  state_id: 3695
+- name: Santa María
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.00538000"
   longitude: "-76.89329000"
-  wikiDataId: Q1944245
-- id: 80967
-  name: Santiago de Surco
-  state_id: 3695
+- name: Santiago de Surco
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.13588000"
   longitude: "-77.00742000"
-  wikiDataId: Q3344084
-- id: 80971
-  name: Sayán
-  state_id: 3695
+- name: Sayán
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.13333000"
   longitude: "-77.19460000"
-  wikiDataId: Q3057885
-- id: 80980
-  name: Supe
-  state_id: 3695
+- name: Supe
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.79750000"
   longitude: "-77.71306000"
-  wikiDataId: Q510413
-- id: 81003
-  name: Urb. Santo Domingo
-  state_id: 3695
+- name: Urb. Santo Domingo
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.87655000"
   longitude: "-77.03345000"
-  wikiDataId: Q1677131
-- id: 81013
-  name: Végueta
-  state_id: 3695
+- name: Végueta
   state_code: LIM
   state_name: Lima
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.02253000"
   longitude: "-77.64378000"
-  wikiDataId: Q3344843
-- id: 147944
-  name: Andoas
-  state_id: 4922
+- name: Andoas
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-2.90250000"
   longitude: "-76.40250000"
-  wikiDataId: Q3649471
-- id: 147941
-  name: Borja
-  state_id: 4922
+- name: Borja
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.43333333"
   longitude: "-77.55000000"
-  wikiDataId: Q4945551
-- id: 147949
-  name: Caballococha
-  state_id: 4922
+- name: Caballococha
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-3.90583333"
   longitude: "-70.51638889"
-  wikiDataId: Q3317724
-- id: 147947
-  name: Cape Pantoja
-  state_id: 4922
+- name: Cape Pantoja
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-0.96435000"
   longitude: "-75.18144000"
-  wikiDataId: Q19206831
-- id: 147952
-  name: Indiana
-  state_id: 4922
+- name: Indiana
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-3.50142700"
   longitude: "-73.04809600"
-  wikiDataId: Q6022990
-- id: 147940
-  name: Iquitos
-  state_id: 4922
+- name: Iquitos
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-3.73333333"
   longitude: "-73.25000000"
-  wikiDataId: Q193289
-- id: 147945
-  name: Jeberos
-  state_id: 4922
+- name: Jeberos
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.28333000"
   longitude: "-76.28333000"
-  wikiDataId: Q27094722
-- id: 147946
-  name: Jenaro Herrera
-  state_id: 4922
+- name: Jenaro Herrera
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.90741000"
   longitude: "-73.66779000"
-  wikiDataId: Q15696655
-- id: 147948
-  name: Lagunas
-  state_id: 4922
+- name: Lagunas
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.22694000"
   longitude: "-75.67528000"
-  wikiDataId: Q27194615
-- id: 147942
-  name: Nauta
-  state_id: 4922
+- name: Nauta
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.50833333"
   longitude: "-73.58333333"
-  wikiDataId: Q3309417
-- id: 147953
-  name: Punchana
-  state_id: 4922
+- name: Punchana
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-3.71666667"
   longitude: "-73.23333333"
-  wikiDataId: Q7259962
-- id: 147954
-  name: Requena
-  state_id: 4922
+- name: Requena
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.74797000"
   longitude: "-75.05491000"
-  wikiDataId: Q3344103
-- id: 147955
-  name: San Antonio del Estrecho
-  state_id: 4922
+- name: San Antonio del Estrecho
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-2.45012000"
   longitude: "-72.66896000"
-  wikiDataId: Q19799162
-- id: 147950
-  name: San Lorenzo
-  state_id: 4922
+- name: San Lorenzo
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.81667000"
   longitude: "-76.60000000"
-  wikiDataId: Q3317765
-- id: 147943
-  name: San Pablo
-  state_id: 4922
+- name: San Pablo
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.01922000"
   longitude: "-71.10281000"
-  wikiDataId: Q28905458
-- id: 147951
-  name: Tamshiyacu
-  state_id: 4922
+- name: Tamshiyacu
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.00320000"
   longitude: "-73.15850000"
-  wikiDataId: Q3514886
-- id: 147956
-  name: Yurimaguas
-  state_id: 4922
+- name: Yurimaguas
   state_code: LOR
   state_name: Loreto
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.90000000"
   longitude: "-76.08333333"
-  wikiDataId: Q117625
-- id: 80666
-  name: Iberia
-  state_id: 3678
+- name: Iberia
   state_code: MDD
   state_name: Madre de Dios
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.35000000"
   longitude: "-69.58333000"
-  wikiDataId: Q504394
-- id: 80858
-  name: Provincia de Manú
-  state_id: 3678
+- name: Provincia de Manú
   state_code: MDD
   state_name: Madre de Dios
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.25000000"
   longitude: "-71.00000000"
-  wikiDataId: Q2320717
-- id: 80898
-  name: Provincia de Tahuamanú
-  state_id: 3678
+- name: Provincia de Tahuamanú
   state_code: MDD
   state_name: Madre de Dios
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-11.25000000"
   longitude: "-70.50000000"
-  wikiDataId: Q945636
-- id: 80900
-  name: Provincia de Tambopata
-  state_id: 3678
+- name: Provincia de Tambopata
   state_code: MDD
   state_name: Madre de Dios
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.19948000"
   longitude: "-70.05006000"
-  wikiDataId: Q1999122
-- id: 80918
-  name: Puerto Maldonado
-  state_id: 3678
+- name: Puerto Maldonado
   state_code: MDD
   state_name: Madre de Dios
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.59331000"
   longitude: "-69.18913000"
-  wikiDataId: Q541435
-- id: 80939
-  name: Salvación
-  state_id: 3678
+- name: Salvación
   state_code: MDD
   state_name: Madre de Dios
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.83605000"
   longitude: "-71.36490000"
-  wikiDataId: Q3348291
-- id: 80987
-  name: Tambopata
-  state_id: 3678
+- name: Tambopata
   state_code: MDD
   state_name: Madre de Dios
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-12.67191000"
   longitude: "-69.35547000"
-  wikiDataId: Q723584
-- id: 80670
-  name: Ilo
-  state_id: 3698
+- name: Ilo
   state_code: MOQ
   state_name: Moquegua
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.63185000"
   longitude: "-71.34108000"
-  wikiDataId: Q1000341
-- id: 80719
-  name: Moquegua
-  state_id: 3698
+- name: Moquegua
   state_code: MOQ
   state_name: Moquegua
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.19832000"
   longitude: "-70.93567000"
-  wikiDataId: Q1000346
-- id: 80743
-  name: Pacocha
-  state_id: 3698
+- name: Pacocha
   state_code: MOQ
   state_name: Moquegua
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.64604000"
   longitude: "-71.34481000"
-  wikiDataId: Q1279608
-- id: 80824
-  name: Provincia de General Sánchez Cerro
-  state_id: 3698
+- name: Provincia de General Sánchez Cerro
   state_code: MOQ
   state_name: Moquegua
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.50000000"
   longitude: "-70.66667000"
-  wikiDataId: Q1947893
-- id: 80844
-  name: Provincia de Ilo
-  state_id: 3698
+- name: Provincia de Ilo
   state_code: MOQ
   state_name: Moquegua
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.49694000"
   longitude: "-71.16722000"
-  wikiDataId: Q1944257
-- id: 80862
-  name: Provincia de Mariscal Nieto
-  state_id: 3698
+- name: Provincia de Mariscal Nieto
   state_code: MOQ
   state_name: Moquegua
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.08361000"
   longitude: "-71.00333000"
-  wikiDataId: Q1944431
-- id: 80996
-  name: Torata
-  state_id: 3698
+- name: Torata
   state_code: MOQ
   state_name: Moquegua
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.07694000"
   longitude: "-70.84333000"
-  wikiDataId: Q3344048
-- id: 80601
-  name: Cerro de Pasco
-  state_id: 3686
+- name: Cerro de Pasco
   state_code: PAS
   state_name: Pasco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.66748000"
   longitude: "-76.25668000"
-  wikiDataId: Q674320
-- id: 80605
-  name: Chaupimarca
-  state_id: 3686
+- name: Chaupimarca
   state_code: PAS
   state_name: Pasco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.40696000"
   longitude: "-76.46168000"
-  wikiDataId: Q765311
-- id: 80737
-  name: Oxapampa
-  state_id: 3686
+- name: Oxapampa
   state_code: PAS
   state_name: Pasco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.57750000"
   longitude: "-75.40167000"
-  wikiDataId: Q1014523
-- id: 80757
-  name: Paucartambo
-  state_id: 3686
+- name: Paucartambo
   state_code: PAS
   state_name: Pasco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.77326000"
   longitude: "-75.81109000"
-  wikiDataId: Q27194421
-- id: 80820
-  name: Provincia de Daniel Carrión
-  state_id: 3686
+- name: Provincia de Daniel Carrión
   state_code: PAS
   state_name: Pasco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.50000000"
   longitude: "-76.50000000"
-  wikiDataId: Q1944288
-- id: 80867
-  name: Provincia de Oxapampa
-  state_id: 3686
+- name: Provincia de Oxapampa
   state_code: PAS
   state_name: Pasco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.33333000"
   longitude: "-75.08333000"
-  wikiDataId: Q960169
-- id: 80875
-  name: Provincia de Pasco
-  state_id: 3686
+- name: Provincia de Pasco
   state_code: PAS
   state_name: Pasco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.66667000"
   longitude: "-76.08333000"
-  wikiDataId: Q976034
-- id: 80994
-  name: Tinyahuarco
-  state_id: 3686
+- name: Tinyahuarco
   state_code: PAS
   state_name: Pasco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.76771000"
   longitude: "-76.27523000"
-  wikiDataId: Q1974467
-- id: 81008
-  name: Villa Rica
-  state_id: 3686
+- name: Villa Rica
   state_code: PAS
   state_name: Pasco
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.73944000"
   longitude: "-75.26972000"
-  wikiDataId: Q941183
-- id: 80567
-  name: Ayabaca
-  state_id: 3697
+- name: Ayabaca
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.63983000"
   longitude: "-79.71491000"
-  wikiDataId: Q792713
-- id: 80577
-  name: Bernal
-  state_id: 3697
+- name: Bernal
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.45000000"
   longitude: "-80.75000000"
-  wikiDataId: Q3344055
-- id: 80578
-  name: Buenos Aires
-  state_id: 3697
+- name: Buenos Aires
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.26083000"
   longitude: "-79.96417000"
-  wikiDataId: Q3344055
-- id: 80596
-  name: Catacaos
-  state_id: 3697
+- name: Catacaos
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.26667000"
   longitude: "-80.68333000"
-  wikiDataId: Q3312424
-- id: 80624
-  name: Chulucanas
-  state_id: 3697
+- name: Chulucanas
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.09250000"
   longitude: "-80.16250000"
-  wikiDataId: Q1089449
-- id: 80638
-  name: El Alto
-  state_id: 3697
+- name: El Alto
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.26851000"
   longitude: "-81.21719000"
-  wikiDataId: Q5582862
-- id: 80650
-  name: Huancabamba
-  state_id: 3697
+- name: Huancabamba
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.23861000"
   longitude: "-79.45056000"
-  wikiDataId: Q2307821
-- id: 80686
-  name: La Breita
-  state_id: 3697
+- name: La Breita
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.25691000"
   longitude: "-80.88599000"
-  wikiDataId: Q2640092
-- id: 80687
-  name: La Huaca
-  state_id: 3697
+- name: La Huaca
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.91167000"
   longitude: "-80.96000000"
-  wikiDataId: Q2640092
-- id: 80692
-  name: La Unión
-  state_id: 3697
+- name: La Unión
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.40232000"
   longitude: "-80.74224000"
-  wikiDataId: Q595441
-- id: 80698
-  name: Las Lomas
-  state_id: 3697
+- name: Las Lomas
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.65333000"
   longitude: "-80.24667000"
-  wikiDataId: Q6488869
-- id: 80727
-  name: Máncora
-  state_id: 3697
+- name: Máncora
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.10778000"
   longitude: "-81.04750000"
-  wikiDataId: Q529807
-- id: 80711
-  name: Marcavelica
-  state_id: 3697
+- name: Marcavelica
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.87778000"
   longitude: "-80.70528000"
-  wikiDataId: Q1026235
-- id: 80721
-  name: Morropon
-  state_id: 3697
+- name: Morropon
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.25000000"
   longitude: "-80.00000000"
-  wikiDataId: Q384980
-- id: 80746
-  name: Paita
-  state_id: 3697
+- name: Paita
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.08917000"
   longitude: "-81.11444000"
-  wikiDataId: Q1026270
-- id: 80765
-  name: Piura
-  state_id: 3697
+- name: Piura
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.19449000"
   longitude: "-80.63282000"
-  wikiDataId: Q223966
-- id: 80778
-  name: Provincia de Ayabaca
-  state_id: 3697
+- name: Provincia de Ayabaca
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.75000000"
   longitude: "-79.83333000"
-  wikiDataId: Q1367672
-- id: 80831
-  name: Provincia de Huancabamba
-  state_id: 3697
+- name: Provincia de Huancabamba
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.50000000"
   longitude: "-79.58333000"
-  wikiDataId: Q1422619
-- id: 80870
-  name: Provincia de Paita
-  state_id: 3697
+- name: Provincia de Paita
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.10189000"
   longitude: "-81.09695000"
-  wikiDataId: Q2084618
-- id: 80879
-  name: Provincia de Piura
-  state_id: 3697
+- name: Provincia de Piura
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.21416000"
   longitude: "-80.40617000"
-  wikiDataId: Q676572
-- id: 80896
-  name: Provincia de Sullana
-  state_id: 3697
+- name: Provincia de Sullana
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.50000000"
   longitude: "-80.66667000"
-  wikiDataId: Q612923
-- id: 80899
-  name: Provincia de Talara
-  state_id: 3697
+- name: Provincia de Talara
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.41667000"
   longitude: "-81.08333000"
-  wikiDataId: Q2287241
-- id: 80927
-  name: Querecotillo
-  state_id: 3697
+- name: Querecotillo
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.83778000"
   longitude: "-80.64556000"
-  wikiDataId: Q672921
-- id: 80937
-  name: Salinera Colán
-  state_id: 3697
+- name: Salinera Colán
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.03333000"
   longitude: "-81.06667000"
-  wikiDataId: Q7403730
-- id: 80938
-  name: Salitral
-  state_id: 3697
+- name: Salitral
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.85722000"
   longitude: "-80.68111000"
-  wikiDataId: Q7403730
-- id: 80973
-  name: Sechura
-  state_id: 3697
+- name: Sechura
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.55694000"
   longitude: "-80.82222000"
-  wikiDataId: Q3236446
-- id: 80979
-  name: Sullana
-  state_id: 3697
+- name: Sullana
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.90389000"
   longitude: "-80.68528000"
-  wikiDataId: Q510413
-- id: 80983
-  name: Talara
-  state_id: 3697
+- name: Talara
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.57722000"
   longitude: "-81.27194000"
-  wikiDataId: Q723584
-- id: 80986
-  name: Tambo Grande
-  state_id: 3697
+- name: Tambo Grande
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.92694000"
   longitude: "-80.34472000"
-  wikiDataId: Q723584
-- id: 81007
-  name: Vice
-  state_id: 3697
+- name: Vice
   state_code: PIU
   state_name: Piura
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.41667000"
   longitude: "-80.78333000"
-  wikiDataId: Q941183
-- id: 80566
-  name: Atuncolla
-  state_id: 3682
+- name: Atuncolla
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.68333000"
   longitude: "-70.15000000"
-  wikiDataId: Q1920509
-- id: 80569
-  name: Ayaviri
-  state_id: 3682
+- name: Ayaviri
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.88639000"
   longitude: "-70.58889000"
-  wikiDataId: Q3344141
-- id: 80571
-  name: Azángaro
-  state_id: 3682
+- name: Azángaro
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.90843000"
   longitude: "-70.19616000"
-  wikiDataId: Q2638284
-- id: 80637
-  name: Desaguadero
-  state_id: 3682
+- name: Desaguadero
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.56556000"
   longitude: "-69.04167000"
-  wikiDataId: Q5582862
-- id: 80639
-  name: El Collao
-  state_id: 3682
+- name: El Collao
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.72641000"
   longitude: "-69.75515000"
-  wikiDataId: Q2088833
-- id: 80645
-  name: Hacienda Huancane
-  state_id: 3682
+- name: Hacienda Huancane
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.82327000"
   longitude: "-70.88540000"
-  wikiDataId: Q2117510
-- id: 80669
-  name: Ilave
-  state_id: 3682
+- name: Ilave
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.08333000"
   longitude: "-69.66667000"
-  wikiDataId: Q3348236
-- id: 80683
-  name: Juli
-  state_id: 3682
+- name: Juli
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.21667000"
   longitude: "-69.45000000"
-  wikiDataId: Q2588438
-- id: 80684
-  name: Juliaca
-  state_id: 3682
+- name: Juliaca
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.50000000"
   longitude: "-70.13333000"
-  wikiDataId: Q696074
-- id: 80690
-  name: La Rinconada
-  state_id: 3682
+- name: La Rinconada
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.63126000"
   longitude: "-69.44638000"
-  wikiDataId: Q852929
-- id: 80695
-  name: Lampa
-  state_id: 3682
+- name: Lampa
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.35000000"
   longitude: "-70.36667000"
-  wikiDataId: Q2638295
-- id: 80707
-  name: Macusani
-  state_id: 3682
+- name: Macusani
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.08333000"
   longitude: "-70.43333000"
-  wikiDataId: Q3348229
-- id: 81023
-  name: Ñuñoa
-  state_id: 3682
+- name: Ñuñoa
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.47788000"
   longitude: "-70.63583000"
-  wikiDataId: Q27194667
-- id: 80780
-  name: Provincia de Azángaro
-  state_id: 3682
+- name: Provincia de Azángaro
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.83333000"
   longitude: "-70.16667000"
-  wikiDataId: Q2088824
-- id: 80794
-  name: Provincia de Carabaya
-  state_id: 3682
+- name: Provincia de Carabaya
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.83333000"
   longitude: "-70.25000000"
-  wikiDataId: Q1944216
-- id: 80807
-  name: Provincia de Chucuito
-  state_id: 3682
+- name: Provincia de Chucuito
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.60545000"
   longitude: "-69.35761000"
-  wikiDataId: Q2088871
-- id: 80832
-  name: Provincia de Huancané
-  state_id: 3682
+- name: Provincia de Huancané
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.16667000"
   longitude: "-69.58333000"
-  wikiDataId: Q1944227
-- id: 80854
-  name: Provincia de Lampa
-  state_id: 3682
+- name: Provincia de Lampa
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.41667000"
   longitude: "-70.58333000"
-  wikiDataId: Q1944347
-- id: 80863
-  name: Provincia de Melgar
-  state_id: 3682
+- name: Provincia de Melgar
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.75000000"
   longitude: "-70.75000000"
-  wikiDataId: Q1944356
-- id: 80881
-  name: Provincia de Puno
-  state_id: 3682
+- name: Provincia de Puno
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.00000000"
   longitude: "-70.00000000"
-  wikiDataId: Q2084681
-- id: 80889
-  name: Provincia de Sandia
-  state_id: 3682
+- name: Provincia de Sandia
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-13.83333000"
   longitude: "-69.33333000"
-  wikiDataId: Q1948135
-- id: 80922
-  name: Puno
-  state_id: 3682
+- name: Puno
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.84220000"
   longitude: "-70.01990000"
-  wikiDataId: Q232842
-- id: 80941
-  name: San Antonio De Putina
-  state_id: 3682
+- name: San Antonio De Putina
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-14.71175000"
   longitude: "-69.61559000"
-  wikiDataId: Q1935565
-- id: 80957
-  name: San Roman
-  state_id: 3682
+- name: San Roman
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.83333000"
   longitude: "-70.50000000"
-  wikiDataId: Q1944337
-- id: 80961
-  name: Santa Lucía
-  state_id: 3682
+- name: Santa Lucía
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.69788000"
   longitude: "-70.60610000"
-  wikiDataId: Q1944245
-- id: 80988
-  name: Taquile
-  state_id: 3682
+- name: Taquile
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-15.76667000"
   longitude: "-69.68333000"
-  wikiDataId: Q723584
-- id: 81019
-  name: Yunguyo
-  state_id: 3682
+- name: Yunguyo
   state_code: PUN
   state_name: Puno
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-16.25000000"
   longitude: "-69.08333000"
-  wikiDataId: Q2306609
-- id: 80576
-  name: Bellavista
-  state_id: 3694
+- name: Bellavista
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.05614000"
   longitude: "-76.59110000"
-  wikiDataId: Q3344055
-- id: 80606
-  name: Chazuta
-  state_id: 3694
+- name: Chazuta
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.57087000"
   longitude: "-76.13753000"
-  wikiDataId: Q765311
-- id: 80640
-  name: El Dorado
-  state_id: 3694
+- name: El Dorado
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.56298000"
   longitude: "-76.74130000"
-  wikiDataId: Q2084675
-- id: 80664
-  name: Huicungo
-  state_id: 3694
+- name: Huicungo
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.31860000"
   longitude: "-76.77556000"
-  wikiDataId: Q629736
-- id: 80679
-  name: Jepelacio
-  state_id: 3694
+- name: Jepelacio
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.11667000"
   longitude: "-76.95000000"
-  wikiDataId: Q1229885
-- id: 80681
-  name: Juanjuí
-  state_id: 3694
+- name: Juanjuí
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.17697000"
   longitude: "-76.72774000"
-  wikiDataId: Q2671983
-- id: 80693
-  name: Lamas
-  state_id: 3694
+- name: Lamas
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.41667000"
   longitude: "-76.53333000"
-  wikiDataId: Q3139869
-- id: 80726
-  name: Moyobamba
-  state_id: 3694
+- name: Moyobamba
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.03416000"
   longitude: "-76.97168000"
-  wikiDataId: Q285672
-- id: 80759
-  name: Picota
-  state_id: 3694
+- name: Picota
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.92033000"
   longitude: "-76.33142000"
-  wikiDataId: Q3344087
-- id: 80827
-  name: Provincia de Huallaga
-  state_id: 3694
+- name: Provincia de Huallaga
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.75664000"
   longitude: "-76.90143000"
-  wikiDataId: Q731515
-- id: 80852
-  name: Provincia de Lamas
-  state_id: 3694
+- name: Provincia de Lamas
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.33333000"
   longitude: "-76.66667000"
-  wikiDataId: Q2281473
-- id: 80860
-  name: Provincia de Mariscal Cáceres
-  state_id: 3694
+- name: Provincia de Mariscal Cáceres
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-7.27390000"
   longitude: "-77.18216000"
-  wikiDataId: Q1947944
-- id: 80864
-  name: Provincia de Moyobamba
-  state_id: 3694
+- name: Provincia de Moyobamba
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-5.75000000"
   longitude: "-77.25000000"
-  wikiDataId: Q1948150
-- id: 80884
-  name: Provincia de Rioja
-  state_id: 3694
+- name: Provincia de Rioja
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.00000000"
   longitude: "-77.41667000"
-  wikiDataId: Q2084648
-- id: 80887
-  name: Provincia de San Martín
-  state_id: 3694
+- name: Provincia de San Martín
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.58333000"
   longitude: "-76.16667000"
-  wikiDataId: Q588491
-- id: 80934
-  name: Rioja
-  state_id: 3694
+- name: Rioja
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.05675000"
   longitude: "-77.16651000"
-  wikiDataId: Q3344069
-- id: 80969
-  name: Saposoa
-  state_id: 3694
+- name: Saposoa
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.93395000"
   longitude: "-76.77158000"
-  wikiDataId: Q3344065
-- id: 80976
-  name: Sisa
-  state_id: 3694
+- name: Sisa
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.61085000"
   longitude: "-76.69302000"
-  wikiDataId: Q11034041
-- id: 80977
-  name: Soritor
-  state_id: 3694
+- name: Soritor
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.13917000"
   longitude: "-77.10389000"
-  wikiDataId: Q11034041
-- id: 80981
-  name: Tabalosos
-  state_id: 3694
+- name: Tabalosos
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.35000000"
   longitude: "-76.68333000"
-  wikiDataId: Q510413
-- id: 80989
-  name: Tarapoto
-  state_id: 3694
+- name: Tarapoto
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-6.50139000"
   longitude: "-76.36556000"
-  wikiDataId: Q927933
-- id: 80995
-  name: Tocache
-  state_id: 3694
+- name: Tocache
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.18770000"
   longitude: "-76.52046000"
-  wikiDataId: Q3344048
-- id: 81002
-  name: Uchiza
-  state_id: 3694
+- name: Uchiza
   state_code: SAM
   state_name: San Martín
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.45917000"
   longitude: "-76.46333000"
-  wikiDataId: Q1677131
-- id: 80583
-  name: Calana
-  state_id: 3696
+- name: Calana
   state_code: TAC
   state_name: Tacna
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.94167000"
   longitude: "-70.18694000"
-  wikiDataId: Q205119
-- id: 80590
-  name: Candarave
-  state_id: 3696
+- name: Candarave
   state_code: TAC
   state_name: Tacna
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.26778000"
   longitude: "-70.24944000"
-  wikiDataId: Q3344236
-- id: 80618
-  name: Chipispaya
-  state_id: 3696
+- name: Chipispaya
   state_code: TAC
   state_name: Tacna
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.49790000"
   longitude: "-70.21714000"
-  wikiDataId: Q26764442
-- id: 80626
-  name: Chuquitira
-  state_id: 3696
+- name: Chuquitira
   state_code: TAC
   state_name: Tacna
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.28891000"
   longitude: "-70.04363000"
-  wikiDataId: Q3344173
-- id: 80668
-  name: Ilabaya
-  state_id: 3696
+- name: Ilabaya
   state_code: TAC
   state_name: Tacna
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.42083000"
   longitude: "-70.51333000"
-  wikiDataId: Q840712
-- id: 80680
-  name: Jorge Basadre
-  state_id: 3696
+- name: Jorge Basadre
   state_code: TAC
   state_name: Tacna
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.57919000"
   longitude: "-70.73083000"
-  wikiDataId: Q589047
-- id: 80897
-  name: Provincia de Tacna
-  state_id: 3696
+- name: Provincia de Tacna
   state_code: TAC
   state_name: Tacna
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.83333000"
   longitude: "-70.50000000"
-  wikiDataId: Q1355960
-- id: 80901
-  name: Provincia de Tarata
-  state_id: 3696
+- name: Provincia de Tarata
   state_code: TAC
   state_name: Tacna
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.41667000"
   longitude: "-70.08333000"
-  wikiDataId: Q1410654
-- id: 80921
-  name: Pujocucho
-  state_id: 3696
+- name: Pujocucho
   state_code: TAC
   state_name: Tacna
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.15778000"
   longitude: "-70.35222000"
-  wikiDataId: Q3504032
-- id: 80929
-  name: Quilahuani
-  state_id: 3696
+- name: Quilahuani
   state_code: TAC
   state_name: Tacna
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.31778000"
   longitude: "-70.25806000"
-  wikiDataId: Q672921
-- id: 80982
-  name: Tacna
-  state_id: 3696
+- name: Tacna
   state_code: TAC
   state_name: Tacna
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-18.01465000"
   longitude: "-70.25362000"
-  wikiDataId: Q272795
-- id: 80990
-  name: Tarata
-  state_id: 3696
+- name: Tarata
   state_code: TAC
   state_name: Tacna
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.47444000"
   longitude: "-70.03278000"
-  wikiDataId: Q2588449
-- id: 80997
-  name: Totoral
-  state_id: 3696
+- name: Totoral
   state_code: TAC
   state_name: Tacna
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-17.40620000"
   longitude: "-70.36464000"
-  wikiDataId: Q3344048
-- id: 80557
-  name: Aguas Verdes
-  state_id: 3689
+- name: Aguas Verdes
   state_code: TUM
   state_name: Tumbes
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-3.48139000"
   longitude: "-80.24500000"
-  wikiDataId: Q5660311
-- id: 80751
-  name: Papayal
-  state_id: 3689
+- name: Papayal
   state_code: TUM
   state_name: Tumbes
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.07771000"
   longitude: "-80.73690000"
-  wikiDataId: Q2725364
-- id: 80813
-  name: Provincia de Contralmirante Villar
-  state_id: 3689
+- name: Provincia de Contralmirante Villar
   state_code: TUM
   state_name: Tumbes
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-4.00000000"
   longitude: "-80.75000000"
-  wikiDataId: Q1422590
-- id: 80905
-  name: Provincia de Tumbes
-  state_id: 3689
+- name: Provincia de Tumbes
   state_code: TUM
   state_name: Tumbes
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-3.75000000"
   longitude: "-80.41667000"
-  wikiDataId: Q1479348
-- id: 80912
-  name: Provincia de Zarumilla
-  state_id: 3689
+- name: Provincia de Zarumilla
   state_code: TUM
   state_name: Tumbes
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-3.66667000"
   longitude: "-80.25000000"
-  wikiDataId: Q1477797
-- id: 80999
-  name: Tumbes
-  state_id: 3689
+- name: Tumbes
   state_code: TUM
   state_name: Tumbes
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-3.56694000"
   longitude: "-80.45153000"
-  wikiDataId: Q827640
-- id: 81021
-  name: Zarumilla
-  state_id: 3689
+- name: Zarumilla
   state_code: TUM
   state_name: Tumbes
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-3.50306000"
   longitude: "-80.27306000"
-  wikiDataId: Q2877763
-- id: 81022
-  name: Zorritos
-  state_id: 3689
+- name: Zorritos
   state_code: TUM
   state_name: Tumbes
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-3.68046000"
   longitude: "-80.67819000"
-  wikiDataId: Q3317432
-- id: 80565
-  name: Atalaya
-  state_id: 3684
+- name: Atalaya
   state_code: UCA
   state_name: Ucayali
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.38980000"
   longitude: "-73.21977000"
-  wikiDataId: Q1920509
-- id: 80589
-  name: Campoverde
-  state_id: 3684
+- name: Campoverde
   state_code: UCA
   state_name: Ucayali
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.47533000"
   longitude: "-74.80709000"
-  wikiDataId: Q34789572
-- id: 80744
-  name: Padre Abad
-  state_id: 3684
+- name: Padre Abad
   state_code: UCA
   state_name: Ucayali
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.79680000"
   longitude: "-75.42850000"
-  wikiDataId: Q548556
-- id: 80815
-  name: Provincia de Coronel Portillo
-  state_id: 3684
+- name: Provincia de Coronel Portillo
   state_code: UCA
   state_name: Ucayali
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-9.50000000"
   longitude: "-73.33333000"
-  wikiDataId: Q579906
-- id: 80913
-  name: Pucallpa
-  state_id: 3684
+- name: Pucallpa
   state_code: UCA
   state_name: Ucayali
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-8.37915000"
   longitude: "-74.55387000"
-  wikiDataId: Q217071
-- id: 80925
-  name: Purus
-  state_id: 3684
+- name: Purus
   state_code: UCA
   state_name: Ucayali
-  country_id: 173
-  country_code: PE
-  country_name: Peru
   latitude: "-10.37331000"
   longitude: "-71.58231000"
-  wikiDataId: Q672921

@@ -1,1530 +1,696 @@
 ---
-- id: 19148
-  name: Bankim
-  state_id: 2663
+- name: Bankim
   state_code: AD
   state_name: Adamawa
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.08303000'
   longitude: '11.49050000'
-  wikiDataId: Q2629132
-- id: 19150
-  name: Banyo
-  state_id: 2663
+- name: Banyo
   state_code: AD
   state_name: Adamawa
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.75000000'
   longitude: '11.81667000'
-  wikiDataId: Q520600
-- id: 19162
-  name: Bélel
-  state_id: 2663
+- name: Bélel
   state_code: AD
   state_name: Adamawa
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '7.05000000'
   longitude: '14.43333000'
-  wikiDataId: Q2929807
-- id: 19168
-  name: Djohong
-  state_id: 2663
+- name: Djohong
   state_code: AD
   state_name: Adamawa
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.83333000'
   longitude: '14.70000000'
-  wikiDataId: Q1100817
-- id: 19187
-  name: Kontcha
-  state_id: 2663
+- name: Kontcha
   state_code: AD
   state_name: Adamawa
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '7.96667000'
   longitude: '12.23333000'
-  wikiDataId: Q2443778
-- id: 19203
-  name: Mayo-Banyo
-  state_id: 2663
+- name: Mayo-Banyo
   state_code: AD
   state_name: Adamawa
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.58138000'
   longitude: '11.73522000'
-  wikiDataId: Q2443291
-- id: 19218
-  name: Meïganga
-  state_id: 2663
+- name: Meïganga
   state_code: AD
   state_name: Adamawa
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.51667000'
   longitude: '14.30000000'
-  wikiDataId: Q2629052
-- id: 19236
-  name: Ngaoundéré
-  state_id: 2663
+- name: Ngaoundéré
   state_code: AD
   state_name: Adamawa
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '7.32765000'
   longitude: '13.58472000'
-  wikiDataId: Q745906
-- id: 19256
-  name: Somié
-  state_id: 2663
+- name: Somié
   state_code: AD
   state_name: Adamawa
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.45843000'
   longitude: '11.43299000'
-  wikiDataId: Q2708780
-- id: 19258
-  name: Tibati
-  state_id: 2663
+- name: Tibati
   state_code: AD
   state_name: Adamawa
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.46504000'
   longitude: '12.62843000'
-  wikiDataId: Q2005262
-- id: 19259
-  name: Tignère
-  state_id: 2663
+- name: Tignère
   state_code: AD
   state_name: Adamawa
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '7.36667000'
   longitude: '12.65000000'
-  wikiDataId: Q2005262
-- id: 19262
-  name: Vina
-  state_id: 2663
+- name: Vina
   state_code: AD
   state_name: Adamawa
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '7.16365000'
   longitude: '13.72711000'
-  wikiDataId: Q667019
-- id: 19134
-  name: Akono
-  state_id: 2660
+- name: Akono
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.50000000'
   longitude: '11.33333000'
-  wikiDataId: Q322917
-- id: 19135
-  name: Akonolinga
-  state_id: 2660
+- name: Akonolinga
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.76667000'
   longitude: '12.25000000'
-  wikiDataId: Q2829121
-- id: 19139
-  name: Bafia
-  state_id: 2660
+- name: Bafia
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.75000000'
   longitude: '11.23333000'
-  wikiDataId: Q799790
-- id: 19174
-  name: Eséka
-  state_id: 2660
+- name: Eséka
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.65000000'
   longitude: '10.76667000'
-  wikiDataId: Q3591508
-- id: 19173
-  name: Essé
-  state_id: 2660
+- name: Essé
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.10000000'
   longitude: '11.90000000'
-  wikiDataId: Q23675648
-- id: 19270
-  name: Évodoula
-  state_id: 2660
+- name: Évodoula
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.08333000'
   longitude: '11.20000000'
-  wikiDataId: Q910616
-- id: 19208
-  name: Mbalmayo
-  state_id: 2660
+- name: Mbalmayo
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.51667000'
   longitude: '11.50000000'
-  wikiDataId: Q2702755
-- id: 19209
-  name: Mbam-Et-Inoubou
-  state_id: 2660
+- name: Mbam-Et-Inoubou
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.73754000'
   longitude: '10.96972000'
-  wikiDataId: Q2702755
-- id: 19210
-  name: Mbandjok
-  state_id: 2660
+- name: Mbandjok
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.45000000'
   longitude: '11.90000000'
-  wikiDataId: Q2702755
-- id: 19213
-  name: Mbankomo
-  state_id: 2660
+- name: Mbankomo
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.78333000'
   longitude: '11.38333000'
-  wikiDataId: Q23671107
-- id: 19216
-  name: Mefou-et-Akono
-  state_id: 2660
+- name: Mefou-et-Akono
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.58706000'
   longitude: '11.36089000'
-  wikiDataId: Q2444484
-- id: 19219
-  name: Mfoundi
-  state_id: 2660
+- name: Mfoundi
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.86670000'
   longitude: '11.51670000'
-  wikiDataId: Q2445046
-- id: 19221
-  name: Minta
-  state_id: 2660
+- name: Minta
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.58333000'
   longitude: '12.80000000'
-  wikiDataId: Q2445046
-- id: 19231
-  name: Nanga Eboko
-  state_id: 2660
+- name: Nanga Eboko
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.68333000'
   longitude: '12.36667000'
-  wikiDataId: Q23667291
-- id: 19233
-  name: Ndikiniméki
-  state_id: 2660
+- name: Ndikiniméki
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.76667000'
   longitude: '10.83333000'
-  wikiDataId: Q23667291
-- id: 19237
-  name: Ngomedzap
-  state_id: 2660
+- name: Ngomedzap
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.25000000'
   longitude: '11.20000000'
-  wikiDataId: Q745906
-- id: 19238
-  name: Ngoro
-  state_id: 2660
+- name: Ngoro
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.95000000'
   longitude: '11.38333000'
-  wikiDataId: Q23665962
-- id: 19243
-  name: Nkoteng
-  state_id: 2660
+- name: Nkoteng
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.51667000'
   longitude: '12.03333000'
-  wikiDataId: Q999070
-- id: 19245
-  name: Ntui
-  state_id: 2660
+- name: Ntui
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.45000000'
   longitude: '11.63333000'
-  wikiDataId: Q999070
-- id: 19246
-  name: Obala
-  state_id: 2660
+- name: Obala
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.16667000'
   longitude: '11.53333000'
-  wikiDataId: Q2604706
-- id: 19247
-  name: Okoa
-  state_id: 2660
+- name: Okoa
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.98333000'
   longitude: '11.60000000'
-  wikiDataId: Q2604706
-- id: 19248
-  name: Okola
-  state_id: 2660
+- name: Okola
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.01667000'
   longitude: '11.38333000'
-  wikiDataId: Q2604706
-- id: 19249
-  name: Ombésa
-  state_id: 2660
+- name: Ombésa
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.60000000'
   longitude: '11.25000000'
-  wikiDataId: Q2604706
-- id: 19254
-  name: Saa
-  state_id: 2660
+- name: Saa
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.36667000'
   longitude: '11.45000000'
-  wikiDataId: Q23665342
-- id: 19266
-  name: Yaoundé
-  state_id: 2660
+- name: Yaoundé
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.86667000'
   longitude: '11.51667000'
-  wikiDataId: Q3808
-- id: 19268
-  name: Yoko
-  state_id: 2660
+- name: Yoko
   state_code: CE
   state_name: Centre
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.53333000'
   longitude: '12.31667000'
-  wikiDataId: Q23663220
-- id: 19132
-  name: Abong Mbang
-  state_id: 2661
+- name: Abong Mbang
   state_code: ES
   state_name: East
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.98333000'
   longitude: '13.18333000'
-  wikiDataId: Q322917
-- id: 19152
-  name: Batouri
-  state_id: 2661
+- name: Batouri
   state_code: ES
   state_name: East
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.43333000'
   longitude: '14.36667000'
-  wikiDataId: Q673185
-- id: 19161
-  name: Bélabo
-  state_id: 2661
+- name: Bélabo
   state_code: ES
   state_name: East
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.93333000'
   longitude: '13.30000000'
-  wikiDataId: Q2929807
-- id: 19156
-  name: Bertoua
-  state_id: 2661
+- name: Bertoua
   state_code: ES
   state_name: East
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.57728000'
   longitude: '13.68459000'
-  wikiDataId: Q657734
-- id: 19163
-  name: Bétaré Oya
-  state_id: 2661
+- name: Bétaré Oya
   state_code: ES
   state_name: East
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.60000000'
   longitude: '14.08333000'
-  wikiDataId: Q23676678
-- id: 19166
-  name: Dimako
-  state_id: 2661
+- name: Dimako
   state_code: ES
   state_name: East
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.38333000'
   longitude: '13.56667000'
-  wikiDataId: Q1100817
-- id: 19170
-  name: Doumé
-  state_id: 2661
+- name: Doumé
   state_code: ES
   state_name: East
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.23333000'
   longitude: '13.45000000'
-  wikiDataId: Q132830
-- id: 19182
-  name: Garoua Boulaï
-  state_id: 2661
+- name: Garoua Boulaï
   state_code: ES
   state_name: East
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.88333000'
   longitude: '14.55000000'
-  wikiDataId: Q5523752
-- id: 19211
-  name: Mbang
-  state_id: 2661
+- name: Mbang
   state_code: ES
   state_name: East
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.58333000'
   longitude: '13.33333000'
-  wikiDataId: Q23671107
-- id: 19232
-  name: Ndelele
-  state_id: 2661
+- name: Ndelele
   state_code: ES
   state_name: East
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.04065000'
   longitude: '14.92501000'
-  wikiDataId: Q23667291
-- id: 19267
-  name: Yokadouma
-  state_id: 2661
+- name: Yokadouma
   state_code: ES
   state_name: East
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.51667000'
   longitude: '15.05000000'
-  wikiDataId: Q2708630
-- id: 19157
-  name: Bogo
-  state_id: 2656
+- name: Bogo
   state_code: EN
   state_name: Far North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '10.73360000'
   longitude: '14.60928000'
-  wikiDataId: Q23676899
-- id: 19186
-  name: Kaélé
-  state_id: 2656
+- name: Kaélé
   state_code: EN
   state_name: Far North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '10.10917000'
   longitude: '14.45083000'
-  wikiDataId: Q2443778
-- id: 19189
-  name: Kousséri
-  state_id: 2656
+- name: Kousséri
   state_code: EN
   state_name: Far North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '12.07689000'
   longitude: '15.03063000'
-  wikiDataId: Q697662
-- id: 19190
-  name: Koza
-  state_id: 2656
+- name: Koza
   state_code: EN
   state_name: Far North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '10.86846000'
   longitude: '13.88205000'
-  wikiDataId: Q23672974
-- id: 19199
-  name: Makary
-  state_id: 2656
+- name: Makary
   state_code: EN
   state_name: Far North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '12.57535000'
   longitude: '14.45483000'
-  wikiDataId: Q6738809
-- id: 19202
-  name: Maroua
-  state_id: 2656
+- name: Maroua
   state_code: EN
   state_name: Far North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '10.59095000'
   longitude: '14.31593000'
-  wikiDataId: Q818824
-- id: 19206
-  name: Mayo-Sava
-  state_id: 2656
+- name: Mayo-Sava
   state_code: EN
   state_name: Far North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '11.10682000'
   longitude: '14.20560000'
-  wikiDataId: Q613340
-- id: 19207
-  name: Mayo-Tsanaga
-  state_id: 2656
+- name: Mayo-Tsanaga
   state_code: EN
   state_name: Far North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '10.58221000'
   longitude: '13.79351000'
-  wikiDataId: Q613340
-- id: 19220
-  name: Mindif
-  state_id: 2656
+- name: Mindif
   state_code: EN
   state_name: Far North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '10.39757000'
   longitude: '14.43626000'
-  wikiDataId: Q2445046
-- id: 19223
-  name: Mokolo
-  state_id: 2656
+- name: Mokolo
   state_code: EN
   state_name: Far North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '10.74244000'
   longitude: '13.80227000'
-  wikiDataId: Q2708658
-- id: 19224
-  name: Mora
-  state_id: 2656
+- name: Mora
   state_code: EN
   state_name: Far North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '11.04611000'
   longitude: '14.14011000'
-  wikiDataId: Q2708675
-- id: 19265
-  name: Yagoua
-  state_id: 2656
+- name: Yagoua
   state_code: EN
   state_name: Far North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '10.34107000'
   longitude: '15.23288000'
-  wikiDataId: Q523657
-- id: 19158
-  name: Bonabéri
-  state_id: 2662
+- name: Bonabéri
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.07142000'
   longitude: '9.68177000'
-  wikiDataId: Q4941069
-- id: 19164
-  name: Diang
-  state_id: 2662
+- name: Diang
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.25000000'
   longitude: '10.01667000'
-  wikiDataId: Q23676202
-- id: 19165
-  name: Dibombari
-  state_id: 2662
+- name: Dibombari
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.17870000'
   longitude: '9.65610000'
-  wikiDataId: Q23676202
-- id: 19167
-  name: Dizangué
-  state_id: 2662
+- name: Dizangué
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.76667000'
   longitude: '9.98333000'
-  wikiDataId: Q1100817
-- id: 19169
-  name: Douala
-  state_id: 2662
+- name: Douala
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.04827000'
   longitude: '9.70428000'
-  wikiDataId: Q132830
-- id: 19172
-  name: Edéa
-  state_id: 2662
+- name: Edéa
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.80000000'
   longitude: '10.13333000'
-  wikiDataId: Q1002900
-- id: 19198
-  name: Loum
-  state_id: 2662
+- name: Loum
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.71820000'
   longitude: '9.73510000'
-  wikiDataId: Q1828275
-- id: 19201
-  name: Manjo
-  state_id: 2662
+- name: Manjo
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.84280000'
   longitude: '9.82170000'
-  wikiDataId: Q1888230
-- id: 19212
-  name: Mbanga
-  state_id: 2662
+- name: Mbanga
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.50160000'
   longitude: '9.56710000'
-  wikiDataId: Q23671107
-- id: 19217
-  name: Melong
-  state_id: 2662
+- name: Melong
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.12181000'
   longitude: '9.96143000'
-  wikiDataId: Q2444484
-- id: 19225
-  name: Mouanko
-  state_id: 2662
+- name: Mouanko
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.63972000'
   longitude: '9.77694000'
-  wikiDataId: Q2708675
-- id: 19234
-  name: Ndom
-  state_id: 2662
+- name: Ndom
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.49780000'
   longitude: '9.56280000'
-  wikiDataId: Q12698776
-- id: 19235
-  name: Ngambé
-  state_id: 2662
+- name: Ngambé
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.23343000'
   longitude: '10.61532000'
-  wikiDataId: Q12698776
-- id: 19242
-  name: Nkongsamba
-  state_id: 2662
+- name: Nkongsamba
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.95470000'
   longitude: '9.94040000'
-  wikiDataId: Q999070
-- id: 19250
-  name: Penja
-  state_id: 2662
+- name: Penja
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.63911000'
   longitude: '9.67987000'
-  wikiDataId: Q2604706
-- id: 19264
-  name: Yabassi
-  state_id: 2662
+- name: Yabassi
   state_code: LT
   state_name: Littoral
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.45697000'
   longitude: '9.96822000'
-  wikiDataId: Q2465841
-- id: 19176
-  name: Faro Department
-  state_id: 2665
+- name: Faro Department
   state_code: 'NO'
   state_name: North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '8.25014000'
   longitude: '12.87829000'
-  wikiDataId: Q955885
-- id: 19181
-  name: Garoua
-  state_id: 2665
+- name: Garoua
   state_code: 'NO'
   state_name: North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '9.30143000'
   longitude: '13.39771000'
-  wikiDataId: Q157915
-- id: 19183
-  name: Guider
-  state_id: 2665
+- name: Guider
   state_code: 'NO'
   state_name: North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '9.93330000'
   longitude: '13.94671000'
-  wikiDataId: Q2708439
-- id: 19194
-  name: Lagdo
-  state_id: 2665
+- name: Lagdo
   state_code: 'NO'
   state_name: North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '9.05828000'
   longitude: '13.66605000'
-  wikiDataId: Q2533580
-- id: 19204
-  name: Mayo-Louti
-  state_id: 2665
+- name: Mayo-Louti
   state_code: 'NO'
   state_name: North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '9.96577000'
   longitude: '13.72738000'
-  wikiDataId: Q2443752
-- id: 19205
-  name: Mayo-Rey
-  state_id: 2665
+- name: Mayo-Rey
   state_code: 'NO'
   state_name: North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '8.12630000'
   longitude: '14.61456000'
-  wikiDataId: Q2443767
-- id: 19251
-  name: Pitoa
-  state_id: 2665
+- name: Pitoa
   state_code: 'NO'
   state_name: North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '9.38390000'
   longitude: '13.50231000'
-  wikiDataId: Q2604706
-- id: 19252
-  name: Poli
-  state_id: 2665
+- name: Poli
   state_code: 'NO'
   state_name: North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '8.47560000'
   longitude: '13.24097000'
-  wikiDataId: Q23665280
-- id: 19253
-  name: Rey Bouba
-  state_id: 2665
+- name: Rey Bouba
   state_code: 'NO'
   state_name: North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '8.67240000'
   longitude: '14.17860000'
-  wikiDataId: Q23665342
-- id: 19257
-  name: Tcholliré
-  state_id: 2665
+- name: Tcholliré
   state_code: 'NO'
   state_name: North
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '8.40220000'
   longitude: '14.16980000'
-  wikiDataId: Q2708780
-- id: 19137
-  name: Babanki
-  state_id: 2657
+- name: Babanki
   state_code: NW
   state_name: Northwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.11667000'
   longitude: '10.25000000'
-  wikiDataId: Q2841553
-- id: 19141
-  name: Bali
-  state_id: 2657
+- name: Bali
   state_code: NW
   state_name: Northwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.88737000'
   longitude: '10.01176000'
-  wikiDataId: Q799808
-- id: 19142
-  name: Bamenda
-  state_id: 2657
+- name: Bamenda
   state_code: NW
   state_name: Northwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.95970000'
   longitude: '10.14597000'
-  wikiDataId: Q528432
-- id: 19151
-  name: Batibo
-  state_id: 2657
+- name: Batibo
   state_code: NW
   state_name: Northwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.83580000'
   longitude: '9.85530000'
-  wikiDataId: Q520600
-- id: 19155
-  name: Belo
-  state_id: 2657
+- name: Belo
   state_code: NW
   state_name: Northwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.13333000'
   longitude: '10.25000000'
-  wikiDataId: Q25337079
-- id: 19159
-  name: Boyo
-  state_id: 2657
+- name: Boyo
   state_code: NW
   state_name: Northwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.36365000'
   longitude: '10.35540000'
-  wikiDataId: Q4941069
-- id: 19180
-  name: Fundong
-  state_id: 2657
+- name: Fundong
   state_code: NW
   state_name: Northwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.25000000'
   longitude: '10.26667000'
-  wikiDataId: Q1439847
-- id: 19185
-  name: Jakiri
-  state_id: 2657
+- name: Jakiri
   state_code: NW
   state_name: Northwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.10000000'
   longitude: '10.65000000'
-  wikiDataId: Q2443778
-- id: 19193
-  name: Kumbo
-  state_id: 2657
+- name: Kumbo
   state_code: NW
   state_name: Northwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.20000000'
   longitude: '10.66667000'
-  wikiDataId: Q2533580
-- id: 19214
-  name: Mbengwi
-  state_id: 2657
+- name: Mbengwi
   state_code: NW
   state_name: Northwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.01667000'
   longitude: '10.00000000'
-  wikiDataId: Q23671107
-- id: 19222
-  name: Mme-Bafumen
-  state_id: 2657
+- name: Mme-Bafumen
   state_code: NW
   state_name: Northwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.33333000'
   longitude: '10.23333000'
-  wikiDataId: Q23669912
-- id: 19241
-  name: Njinikom
-  state_id: 2657
+- name: Njinikom
   state_code: NW
   state_name: Northwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.23333000'
   longitude: '10.28333000'
-  wikiDataId: Q10600392
-- id: 19263
-  name: Wum
-  state_id: 2657
+- name: Wum
   state_code: NW
   state_name: Northwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '6.38333000'
   longitude: '10.06667000'
-  wikiDataId: Q2034978
-- id: 19133
-  name: Akom II
-  state_id: 2659
+- name: Akom II
   state_code: SU
   state_name: South
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '2.78333000'
   longitude: '10.56667000'
-  wikiDataId: Q322917
-- id: 19136
-  name: Ambam
-  state_id: 2659
+- name: Ambam
   state_code: SU
   state_name: South
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '2.38333000'
   longitude: '11.28333000'
-  wikiDataId: Q2841553
-- id: 19269
-  name: Ébolowa
-  state_id: 2659
+- name: Ébolowa
   state_code: SU
   state_name: South
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '2.90000000'
   longitude: '11.15000000'
-  wikiDataId: Q910616
-- id: 19191
-  name: Kribi
-  state_id: 2659
+- name: Kribi
   state_code: SU
   state_name: South
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '2.93725000'
   longitude: '9.90765000'
-  wikiDataId: Q997121
-- id: 19197
-  name: Lolodorf
-  state_id: 2659
+- name: Lolodorf
   state_code: SU
   state_name: South
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '3.23333000'
   longitude: '10.73333000'
-  wikiDataId: Q819314
-- id: 19229
-  name: Mvangué
-  state_id: 2659
+- name: Mvangué
   state_code: SU
   state_name: South
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '2.96667000'
   longitude: '11.51667000'
-  wikiDataId: Q23667291
-- id: 19230
-  name: Mvila
-  state_id: 2659
+- name: Mvila
   state_code: SU
   state_name: South
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '2.79796000'
   longitude: '11.39434000'
-  wikiDataId: Q23667291
-- id: 19255
-  name: Sangmélima
-  state_id: 2659
+- name: Sangmélima
   state_code: SU
   state_name: South
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '2.93333000'
   longitude: '11.98333000'
-  wikiDataId: Q2708780
-- id: 19144
-  name: Bamusso
-  state_id: 2658
+- name: Bamusso
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.45910000'
   longitude: '8.90270000'
-  wikiDataId: Q528432
-- id: 19154
-  name: Bekondo
-  state_id: 2658
+- name: Bekondo
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.68190000'
   longitude: '9.32140000'
-  wikiDataId: Q25337079
-- id: 19160
-  name: Buea
-  state_id: 2658
+- name: Buea
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.15342000'
   longitude: '9.24231000'
-  wikiDataId: Q312209
-- id: 19175
-  name: Fako Division
-  state_id: 2658
+- name: Fako Division
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.16667000'
   longitude: '9.16667000'
-  wikiDataId: Q955885
-- id: 19177
-  name: Fontem
-  state_id: 2658
+- name: Fontem
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.46850000'
   longitude: '9.88180000'
-  wikiDataId: Q9261275
-- id: 19192
-  name: Kumba
-  state_id: 2658
+- name: Kumba
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.63630000'
   longitude: '9.44690000'
-  wikiDataId: Q997047
-- id: 19195
-  name: Lebialem
-  state_id: 2658
+- name: Lebialem
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.56043000'
   longitude: '9.92316000'
-  wikiDataId: Q2443757
-- id: 19196
-  name: Limbe
-  state_id: 2658
+- name: Limbe
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.02356000'
   longitude: '9.20607000'
-  wikiDataId: Q819314
-- id: 19200
-  name: Mamfe
-  state_id: 2658
+- name: Mamfe
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.75132000'
   longitude: '9.31370000'
-  wikiDataId: Q1888230
-- id: 19226
-  name: Mundemba
-  state_id: 2658
+- name: Mundemba
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.94790000'
   longitude: '8.87240000'
-  wikiDataId: Q2708675
-- id: 19227
-  name: Mutengene
-  state_id: 2658
+- name: Mutengene
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.09130000'
   longitude: '9.31440000'
-  wikiDataId: Q10334043
-- id: 19228
-  name: Muyuka
-  state_id: 2658
+- name: Muyuka
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.28980000'
   longitude: '9.41030000'
-  wikiDataId: Q23667291
-- id: 19240
-  name: Nguti
-  state_id: 2658
+- name: Nguti
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.32990000'
   longitude: '9.41850000'
-  wikiDataId: Q10600392
-- id: 19260
-  name: Tiko
-  state_id: 2658
+- name: Tiko
   state_code: SW
   state_name: Southwest
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.07500000'
   longitude: '9.36005000'
-  wikiDataId: Q2228759
-- id: 19138
-  name: Bafang
-  state_id: 2664
+- name: Bafang
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.15705000'
   longitude: '10.17710000'
-  wikiDataId: Q667828
-- id: 19140
-  name: Bafoussam
-  state_id: 2664
+- name: Bafoussam
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.47775000'
   longitude: '10.41759000'
-  wikiDataId: Q799808
-- id: 19143
-  name: Bamendjou
-  state_id: 2664
+- name: Bamendjou
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.38988000'
   longitude: '10.33014000'
-  wikiDataId: Q528432
-- id: 19145
-  name: Bana
-  state_id: 2664
+- name: Bana
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.14655000'
   longitude: '10.27545000'
-  wikiDataId: Q528432
-- id: 19146
-  name: Bandjoun
-  state_id: 2664
+- name: Bandjoun
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.37568000'
   longitude: '10.41326000'
-  wikiDataId: Q2629132
-- id: 19147
-  name: Bangangté
-  state_id: 2664
+- name: Bangangté
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.14079000'
   longitude: '10.52535000'
-  wikiDataId: Q2629132
-- id: 19149
-  name: Bansoa
-  state_id: 2664
+- name: Bansoa
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.44836000'
   longitude: '10.31355000'
-  wikiDataId: Q23676440
-- id: 19153
-  name: Bazou
-  state_id: 2664
+- name: Bazou
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.06001000'
   longitude: '10.46751000'
-  wikiDataId: Q673185
-- id: 19171
-  name: Dschang
-  state_id: 2664
+- name: Dschang
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.44397000'
   longitude: '10.05332000'
-  wikiDataId: Q289267
-- id: 19178
-  name: Foumban
-  state_id: 2664
+- name: Foumban
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.72662000'
   longitude: '10.89865000'
-  wikiDataId: Q1439847
-- id: 19179
-  name: Foumbot
-  state_id: 2664
+- name: Foumbot
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.50803000'
   longitude: '10.63250000'
-  wikiDataId: Q1439847
-- id: 19184
-  name: Hauts-Plateaux
-  state_id: 2664
+- name: Hauts-Plateaux
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.29632000'
   longitude: '10.34314000'
-  wikiDataId: Q2443778
-- id: 19188
-  name: Koung-Khi
-  state_id: 2664
+- name: Koung-Khi
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.33848000'
   longitude: '10.47453000'
-  wikiDataId: Q2443749
-- id: 19215
-  name: Mbouda
-  state_id: 2664
+- name: Mbouda
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.62611000'
   longitude: '10.25421000'
-  wikiDataId: Q2709339
-- id: 19239
-  name: Ngou
-  state_id: 2664
+- name: Ngou
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.19685000'
   longitude: '10.38595000'
-  wikiDataId: Q23677480
-- id: 19244
-  name: Noun
-  state_id: 2664
+- name: Noun
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '5.64123000'
   longitude: '10.91840000'
-  wikiDataId: Q999070
-- id: 19261
-  name: Tonga
-  state_id: 2664
+- name: Tonga
   state_code: OU
   state_name: West
-  country_id: 38
-  country_code: CM
-  country_name: Cameroon
   latitude: '4.96667000'
   longitude: '10.70000000'
-  wikiDataId: Q23663889

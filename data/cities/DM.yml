@@ -1,188 +1,86 @@
 ---
-- id: 31003
-  name: Calibishie
-  state_id: 4082
+- name: Calibishie
   state_code: '02'
   state_name: Saint Andrew
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.59297000'
   longitude: "-61.34901000"
-  wikiDataId: Q2933944
-- id: 31008
-  name: Marigot
-  state_id: 4082
+- name: Marigot
   state_code: '02'
   state_name: Saint Andrew
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.53886000'
   longitude: "-61.28375000"
-  wikiDataId: Q3052620
-- id: 31017
-  name: Wesley
-  state_id: 4082
+- name: Wesley
   state_code: '02'
   state_name: Saint Andrew
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.56667000'
   longitude: "-61.31667000"
-  wikiDataId: Q595272
-- id: 31018
-  name: Woodford Hill
-  state_id: 4082
+- name: Woodford Hill
   state_code: '02'
   state_name: Saint Andrew
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.58093000'
   longitude: "-61.33149000"
-  wikiDataId: Q3098466
-- id: 31004
-  name: Castle Bruce
-  state_id: 4078
+- name: Castle Bruce
   state_code: '03'
   state_name: Saint David
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.44397000'
   longitude: "-61.25723000"
-  wikiDataId: Q1049398
-- id: 31012
-  name: Rosalie
-  state_id: 4078
+- name: Rosalie
   state_code: '03'
   state_name: Saint David
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.36667000'
   longitude: "-61.26667000"
-  wikiDataId: Q976314
-- id: 31013
-  name: Roseau
-  state_id: 4079
+- name: Roseau
   state_code: '04'
   state_name: Saint George
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.30174000'
   longitude: "-61.38808000"
-  wikiDataId: Q36281
-- id: 31011
-  name: Portsmouth
-  state_id: 4076
+- name: Portsmouth
   state_code: '05'
   state_name: Saint John
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.58333000'
   longitude: "-61.46667000"
-  wikiDataId: Q1014235
-- id: 31014
-  name: Saint Joseph
-  state_id: 4085
+- name: Saint Joseph
   state_code: '06'
   state_name: Saint Joseph
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.40000000'
   longitude: "-61.43333000"
-  wikiDataId: Q1021646
-- id: 31015
-  name: Salisbury
-  state_id: 4085
+- name: Salisbury
   state_code: '06'
   state_name: Saint Joseph
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.43689000'
   longitude: "-61.43637000"
-  wikiDataId: Q3555054
-- id: 31009
-  name: Pointe Michel
-  state_id: 4083
+- name: Pointe Michel
   state_code: '07'
   state_name: Saint Luke
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.25976000'
   longitude: "-61.37452000"
-  wikiDataId: Q1934011
-- id: 31016
-  name: Soufrière
-  state_id: 4077
+- name: Soufrière
   state_code: '08'
   state_name: Saint Mark
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.23374000'
   longitude: "-61.35881000"
-  wikiDataId: Q1027850
-- id: 31002
-  name: Berekua
-  state_id: 4080
+- name: Berekua
   state_code: '09'
   state_name: Saint Patrick
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.23333000'
   longitude: "-61.31667000"
-  wikiDataId: Q1136090
-- id: 31006
-  name: La Plaine
-  state_id: 4080
+- name: La Plaine
   state_code: '09'
   state_name: Saint Patrick
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.32768000'
   longitude: "-61.24753000"
-  wikiDataId: Q3174970
-- id: 31007
-  name: Mahaut
-  state_id: 4084
+- name: Mahaut
   state_code: '10'
   state_name: Saint Paul
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.36357000'
   longitude: "-61.39701000"
-  wikiDataId: Q3052683
-- id: 31010
-  name: Pont Cassé
-  state_id: 4084
+- name: Pont Cassé
   state_code: '10'
   state_name: Saint Paul
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.36667000'
   longitude: "-61.35000000"
-  wikiDataId: Q1972895
-- id: 31005
-  name: Colihaut
-  state_id: 4081
+- name: Colihaut
   state_code: '11'
   state_name: Saint Peter
-  country_id: 61
-  country_code: DM
-  country_name: Dominica
   latitude: '15.48478000'
   longitude: "-61.46215000"
-  wikiDataId: Q1108306

@@ -1,1453 +1,661 @@
 ---
-- id: 153955
-  name: Al-Dawha
-  state_id: 5118
+- name: Al-Dawha
   state_code: BTH
   state_name: Bethlehem
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.69773990'
   longitude: '35.14595450'
-  wikiDataId: Q4702335
-- id: 153957
-  name: al-Khader
-  state_id: 5118
+- name: al-Khader
   state_code: BTH
   state_name: Bethlehem
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.69484540'
   longitude: '35.15014530'
-  wikiDataId: Q1996562
-- id: 153960
-  name: al-Ubeidiya
-  state_id: 5118
+- name: al-Ubeidiya
   state_code: BTH
   state_name: Bethlehem
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.72386430'
   longitude: '35.27122130'
-  wikiDataId: Q4703304
-- id: 153950
-  name: Battir
-  state_id: 5118
+- name: Battir
   state_code: BTH
   state_name: Bethlehem
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.72821540'
   longitude: '35.11743230'
-  wikiDataId: Q2915285
-- id: 153951
-  name: Beit Fajjar
-  state_id: 5118
+- name: Beit Fajjar
   state_code: BTH
   state_name: Bethlehem
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.62166990'
   longitude: '35.13430330'
-  wikiDataId: Q4881435
-- id: 153952
-  name: Beit Jala
-  state_id: 5118
+- name: Beit Jala
   state_code: BTH
   state_name: Bethlehem
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.71603340'
   longitude: '35.16654930'
-  wikiDataId: Q803984
-- id: 153953
-  name: Beit Sahour
-  state_id: 5118
+- name: Beit Sahour
   state_code: BTH
   state_name: Bethlehem
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.69787040'
   longitude: '35.20793030'
-  wikiDataId: Q803990
-- id: 153954
-  name: Bethlehem
-  state_id: 5118
+- name: Bethlehem
   state_code: BTH
   state_name: Bethlehem
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.70541650'
   longitude: '35.18184280'
-  wikiDataId: Q5776
-- id: 153956
-  name: Husan
-  state_id: 5118
+- name: Husan
   state_code: BTH
   state_name: Bethlehem
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.70846040'
   longitude: '35.11282530'
-  wikiDataId: Q5948939
-- id: 153958
-  name: Nahalin
-  state_id: 5118
+- name: Nahalin
   state_code: BTH
   state_name: Bethlehem
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.68564240'
   longitude: '35.09976230'
-  wikiDataId: Q2898800
-- id: 153959
-  name: Tuqu'
-  state_id: 5118
+- name: Tuqu'
   state_code: BTH
   state_name: Bethlehem
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.63912740'
   longitude: '35.19189030'
-  wikiDataId: Q2448610
-- id: 153961
-  name: Za'atara
-  state_id: 5118
+- name: Za'atara
   state_code: BTH
   state_name: Bethlehem
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.67447840'
   longitude: '35.23449130'
-  wikiDataId: Q2898722
-- id: 153963
-  name: az-Zawayda
-  state_id: 5119
+- name: az-Zawayda
   state_code: DEB
   state_name: Deir El Balah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.42979750'
   longitude: '34.35014230'
-  wikiDataId: Q59623
-- id: 153962
-  name: Deir al-Balah
-  state_id: 5119
+- name: Deir al-Balah
   state_code: DEB
   state_name: Deir El Balah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.41717350'
   longitude: '34.33033130'
-  wikiDataId: Q557383
-- id: 153965
-  name: Al-Zahra
-  state_id: 5120
+- name: Al-Zahra
   state_code: GZA
   state_name: Gaza
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.47246750'
   longitude: '34.37782930'
-  wikiDataId: Q310110
-- id: 153964
-  name: Gaza City
-  state_id: 5120
+- name: Gaza City
   state_code: GZA
   state_name: Gaza
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.50172950'
   longitude: '34.44624480'
-  wikiDataId: Q47492
-- id: 153970
-  name: ad-Dhahiriya
-  state_id: 5121
+- name: ad-Dhahiriya
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.40967250'
   longitude: '34.95490830'
-  wikiDataId: Q600680
-- id: 153980
-  name: as-Samu
-  state_id: 5121
+- name: as-Samu
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.39864450'
   longitude: '35.04468830'
-  wikiDataId: Q1768653
-- id: 153971
-  name: Bani Na'im
-  state_id: 5121
+- name: Bani Na'im
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.51490050'
   longitude: '35.14474030'
-  wikiDataId: Q2918596
-- id: 153972
-  name: Beit 'Awwa
-  state_id: 5121
+- name: Beit 'Awwa
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.50675240'
   longitude: '34.92956130'
-  wikiDataId: Q4881423
-- id: 153973
-  name: Beit Ula
-  state_id: 5121
+- name: Beit Ula
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.59845640'
   longitude: '35.00577530'
-  wikiDataId: Q4881463
-- id: 153974
-  name: Beit Ummar
-  state_id: 5121
+- name: Beit Ummar
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.62284640'
   longitude: '35.08159930'
-  wikiDataId: Q2893117
-- id: 153975
-  name: Deir Sammit
-  state_id: 5121
+- name: Deir Sammit
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.51996340'
   longitude: '34.95207130'
-  wikiDataId: Q5252523
-- id: 153966
-  name: Dura
-  state_id: 5121
+- name: Dura
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.50512740'
   longitude: '35.00692730'
-  wikiDataId: Q2435966
-- id: 153967
-  name: Halhul
-  state_id: 5121
+- name: Halhul
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.57992420'
   longitude: '35.07930450'
-  wikiDataId: Q2574933
-- id: 153968
-  name: Hebron
-  state_id: 5121
+- name: Hebron
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.53260350'
   longitude: '35.07922630'
-  wikiDataId: Q168225
-- id: 153976
-  name: Idhna
-  state_id: 5121
+- name: Idhna
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.55728640'
   longitude: '34.95864330'
-  wikiDataId: Q2919205
-- id: 153977
-  name: Kharas
-  state_id: 5121
+- name: Kharas
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.61225240'
   longitude: '35.02365130'
-  wikiDataId: Q6400582
-- id: 153978
-  name: Nuba
-  state_id: 5121
+- name: Nuba
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.61382080'
   longitude: '35.00579200'
-  wikiDataId: Q7067821
-- id: 153979
-  name: Sa'ir
-  state_id: 5121
+- name: Sa'ir
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.58248950'
   longitude: '35.12317630'
-  wikiDataId: Q7395443
-- id: 153981
-  name: Surif
-  state_id: 5121
+- name: Surif
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.64958640'
   longitude: '35.04411230'
-  wikiDataId: Q2898863
-- id: 153983
-  name: Taffuh
-  state_id: 5121
+- name: Taffuh
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.53848250'
   longitude: '35.03037330'
-  wikiDataId: Q7674962
-- id: 153982
-  name: Tarqumiya
-  state_id: 5121
+- name: Tarqumiya
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.57736440'
   longitude: '34.99357430'
-  wikiDataId: Q1998630
-- id: 153969
-  name: Yatta
-  state_id: 5121
+- name: Yatta
   state_code: HBN
   state_name: Hebron
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.44418450'
   longitude: '35.06950530'
-  wikiDataId: Q2282208
-- id: 153986
-  name: Ajjah
-  state_id: 5122
+- name: Ajjah
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.36001710'
   longitude: '35.17739430'
-  wikiDataId: Q4699844
-- id: 153997
-  name: al-Yamun
-  state_id: 5122
+- name: al-Yamun
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.48671110'
   longitude: '35.21299230'
-  wikiDataId: Q4703350
-- id: 153987
-  name: Arrabah
-  state_id: 5122
+- name: Arrabah
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.40331010'
   longitude: '35.18531430'
-  wikiDataId: Q2463999
-- id: 153988
-  name: Burqin
-  state_id: 5122
+- name: Burqin
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.45616900'
   longitude: '35.24108830'
-  wikiDataId: Q286871
-- id: 153989
-  name: Deir Abu Da'if
-  state_id: 5122
+- name: Deir Abu Da'if
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.45609510'
   longitude: '35.34432230'
-  wikiDataId: Q3380916
-- id: 153990
-  name: Jaba
-  state_id: 5122
+- name: Jaba
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.32506110'
   longitude: '35.19956430'
-  wikiDataId: Q2267472
-- id: 153984
-  name: Jenin
-  state_id: 5122
+- name: Jenin
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.45728400'
   longitude: '35.28161440'
-  wikiDataId: Q374748
-- id: 153991
-  name: Kafr Dan
-  state_id: 5122
+- name: Kafr Dan
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.47801110'
   longitude: '35.23318730'
-  wikiDataId: Q2918959
-- id: 153992
-  name: Kafr Rai
-  state_id: 5122
+- name: Kafr Rai
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.37345210'
   longitude: '35.13493630'
-  wikiDataId: Q2898490
-- id: 153993
-  name: Meithalun
-  state_id: 5122
+- name: Meithalun
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.34924410'
   longitude: '35.25088430'
-  wikiDataId: Q2898712
-- id: 153985
-  name: Qabatiya
-  state_id: 5122
+- name: Qabatiya
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.40961710'
   longitude: '35.25949330'
-  wikiDataId: Q1899332
-- id: 153995
-  name: Silat ad-Dhahr
-  state_id: 5122
+- name: Silat ad-Dhahr
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.31753210'
   longitude: '35.16663230'
-  wikiDataId: Q2898957
-- id: 153994
-  name: Silat al-Harithiya
-  state_id: 5122
+- name: Silat al-Harithiya
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.50979700'
   longitude: '35.20684730'
-  wikiDataId: Q2898808
-- id: 153996
-  name: Ya'bad
-  state_id: 5122
+- name: Ya'bad
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.44686800'
   longitude: '35.14667430'
-  wikiDataId: Q1828708
-- id: 153998
-  name: Zababdeh
-  state_id: 5122
+- name: Zababdeh
   state_code: JEN
   state_name: Jenin
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.38523610'
   longitude: '35.30287930'
-  wikiDataId: Q136690
-- id: 154000
-  name: al-Auja
-  state_id: 5123
+- name: al-Auja
   state_code: JRH
   state_name: 'Jericho '
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.94809930'
   longitude: '35.45056430'
-  wikiDataId: Q2895271
-- id: 154001
-  name: al-Jiftlik
-  state_id: 5123
+- name: al-Jiftlik
   state_code: JRH
   state_name: 'Jericho '
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.14143230'
   longitude: '35.44660250'
-  wikiDataId: Q2895719
-- id: 153999
-  name: Jericho
-  state_id: 5123
+- name: Jericho
   state_code: JRH
   state_name: 'Jericho '
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.85950700'
   longitude: '35.44390820'
-  wikiDataId: Q5687
-- id: 154003
-  name: Abu Dis
-  state_id: 5124
+- name: Abu Dis
   state_code: JEM
   state_name: Jerusalem (Quds)
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.76361630'
   longitude: '35.23712230'
-  wikiDataId: Q246590
-- id: 154004
-  name: Ar-Ram
-  state_id: 5124
+- name: Ar-Ram
   state_code: JEM
   state_name: Jerusalem (Quds)
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.84928630'
   longitude: '35.21288930'
-  wikiDataId: Q775087
-- id: 154006
-  name: Beit 'Anan
-  state_id: 5124
+- name: Beit 'Anan
   state_code: JEM
   state_name: Jerusalem (Quds)
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.85109930'
   longitude: '35.09111930'
-  wikiDataId: Q12053122
-- id: 154005
-  name: Biddu
-  state_id: 5124
+- name: Biddu
   state_code: JEM
   state_name: Jerusalem (Quds)
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.83445820'
   longitude: '35.07441730'
-  wikiDataId: Q977521
-- id: 154007
-  name: Bir Nabala
-  state_id: 5124
+- name: Bir Nabala
   state_code: JEM
   state_name: Jerusalem (Quds)
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.85121630'
   longitude: '35.18023530'
-  wikiDataId: Q2905320
-- id: 154002
-  name: East Jerusalem
-  state_id: 5124
+- name: East Jerusalem
   state_code: JEM
   state_name: Jerusalem (Quds)
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.79650430'
   longitude: '35.01054340'
-  wikiDataId: Q212938
-- id: 154008
-  name: Hizma
-  state_id: 5124
+- name: Hizma
   state_code: JEM
   state_name: Jerusalem (Quds)
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.83649540'
   longitude: '35.24263130'
-  wikiDataId: Q2907886
-- id: 154009
-  name: Kafr Aqab
-  state_id: 5124
+- name: Kafr Aqab
   state_code: JEM
   state_name: Jerusalem (Quds)
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.87472270'
   longitude: '35.21724000'
-  wikiDataId: Q2918647
-- id: 154011
-  name: Qalandiya
-  state_id: 5124
+- name: Qalandiya
   state_code: JEM
   state_name: Jerusalem (Quds)
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.86163130'
   longitude: '35.18731430'
-  wikiDataId: Q94800
-- id: 154010
-  name: Qatanna
-  state_id: 5124
+- name: Qatanna
   state_code: JEM
   state_name: Jerusalem (Quds)
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.82695730'
   longitude: '35.08960030'
-  wikiDataId: Q7267085
-- id: 154012
-  name: Abasan al-Kabira
-  state_id: 5125
+- name: Abasan al-Kabira
   state_code: KYS
   state_name: Khan Yunis
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.32316050'
   longitude: '34.32342530'
-  wikiDataId: Q3303148
-- id: 154015
-  name: Abasan al-Saghira
-  state_id: 5125
+- name: Abasan al-Saghira
   state_code: KYS
   state_name: Khan Yunis
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.33974350'
   longitude: '34.32603330'
-  wikiDataId: Q1814855
-- id: 154017
-  name: Al-Qarara
-  state_id: 5125
+- name: Al-Qarara
   state_code: KYS
   state_name: Khan Yunis
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.37134650'
   longitude: '34.31466030'
-  wikiDataId: Q1814845
-- id: 154013
-  name: Bani Suheila
-  state_id: 5125
+- name: Bani Suheila
   state_code: KYS
   state_name: Khan Yunis
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.34213850'
   longitude: '34.30465430'
-  wikiDataId: Q1983186
-- id: 154014
-  name: Khan Yunis
-  state_id: 5125
+- name: Khan Yunis
   state_code: KYS
   state_name: Khan Yunis
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.34623510'
   longitude: '34.28339890'
-  wikiDataId: Q309348
-- id: 154016
-  name: Khuzaʽa
-  state_id: 5125
+- name: Khuzaʽa
   state_code: KYS
   state_name: Khan Yunis
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.30705660'
   longitude: '34.33944730'
-  wikiDataId: Q3303148
-- id: 154019
-  name: Aqraba
-  state_id: 5126
+- name: Aqraba
   state_code: NBS
   state_name: Nablus
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.12762020'
   longitude: '35.32213530'
-  wikiDataId: Q2918318
-- id: 154020
-  name: Asira ash-Shamaliya
-  state_id: 5126
+- name: Asira ash-Shamaliya
   state_code: NBS
   state_name: Nablus
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.25186910'
   longitude: '35.24757130'
-  wikiDataId: Q4807028
-- id: 154026
-  name: Beit Furik
-  state_id: 5126
+- name: Beit Furik
   state_code: NBS
   state_name: Nablus
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.17549020'
   longitude: '35.31588430'
-  wikiDataId: Q246369
-- id: 154021
-  name: Beita
-  state_id: 5126
+- name: Beita
   state_code: NBS
   state_name: Nablus
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.14137420'
   longitude: '35.26579930'
-  wikiDataId: Q275915
-- id: 154022
-  name: Huwara
-  state_id: 5126
+- name: Huwara
   state_code: NBS
   state_name: Nablus
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.15134720'
   longitude: '35.23619930'
-  wikiDataId: Q2898928
-- id: 154023
-  name: Jammain
-  state_id: 5126
+- name: Jammain
   state_code: NBS
   state_name: Nablus
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.13211420'
   longitude: '35.18274230'
-  wikiDataId: Q2896581
-- id: 154018
-  name: Nablus
-  state_id: 5126
+- name: Nablus
   state_code: NBS
   state_name: Nablus
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.22437550'
   longitude: '35.20647930'
-  wikiDataId: Q214178
-- id: 154024
-  name: Qabalan
-  state_id: 5126
+- name: Qabalan
   state_code: NBS
   state_name: Nablus
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.10185420'
   longitude: '35.26712930'
-  wikiDataId: Q7265686
-- id: 154025
-  name: Sebastia
-  state_id: 5126
+- name: Sebastia
   state_code: NBS
   state_name: Nablus
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.27827510'
   longitude: '35.17803330'
-  wikiDataId: Q2918480
-- id: 154027
-  name: Beit Hanoun
-  state_id: 5127
+- name: Beit Hanoun
   state_code: NGZ
   state_name: North Gaza
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.53851740'
   longitude: '34.51617030'
-  wikiDataId: Q74176
-- id: 154028
-  name: Beit Lahia
-  state_id: 5127
+- name: Beit Lahia
   state_code: NGZ
   state_name: North Gaza
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.55132340'
   longitude: '34.48862230'
-  wikiDataId: Q803986
-- id: 154029
-  name: Izbat Beit Hanoun
-  state_id: 5127
+- name: Izbat Beit Hanoun
   state_code: NGZ
   state_name: North Gaza
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.54728950'
   longitude: '34.50197220'
-  wikiDataId: Q40337544
-- id: 154030
-  name: Jabalia
-  state_id: 5127
+- name: Jabalia
   state_code: NGZ
   state_name: North Gaza
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.52943050'
   longitude: '34.45914130'
-  wikiDataId: Q1015472
-- id: 154031
-  name: Azzun
-  state_id: 5128
+- name: Azzun
   state_code: QQA
   state_name: Qalqilya
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.17713520'
   longitude: '35.03535730'
-  wikiDataId: Q4119457
-- id: 154032
-  name: Hableh
-  state_id: 5128
+- name: Hableh
   state_code: QQA
   state_name: Qalqilya
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.16387820'
   longitude: '34.95768030'
-  wikiDataId: Q2917125
-- id: 154034
-  name: Kafr Thulth
-  state_id: 5128
+- name: Kafr Thulth
   state_code: QQA
   state_name: Qalqilya
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.15283320'
   longitude: '35.02469030'
-  wikiDataId: Q2903619
-- id: 154033
-  name: Qalqilya
-  state_id: 5128
+- name: Qalqilya
   state_code: QQA
   state_name: Qalqilya
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.19604910'
   longitude: '34.96091330'
-  wikiDataId: Q623159
-- id: 154037
-  name: Al Qarya as Suwaydiya
-  state_id: 5129
+- name: Al Qarya as Suwaydiya
   state_code: RFH
   state_name: Rafah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.32316550'
   longitude: '34.20157530'
-  wikiDataId: Q123376507
-- id: 154035
-  name: Al-Bayuk
-  state_id: 5129
+- name: Al-Bayuk
   state_code: RFH
   state_name: Rafah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.26347860'
   longitude: '34.26098130'
-  wikiDataId: Q59624
-- id: 154036
-  name: Al-Mawasi
-  state_id: 5129
+- name: Al-Mawasi
   state_code: RFH
   state_name: Rafah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.34844960'
   longitude: '34.23553630'
-  wikiDataId: Q4702878
-- id: 154038
-  name: 'Rafah '
-  state_id: 5129
+- name: 'Rafah '
   state_code: RFH
   state_name: Rafah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.29681450'
   longitude: '34.22288230'
-  wikiDataId: Q172343
-- id: 154039
-  name: Shokat as-Sufi
-  state_id: 5129
+- name: Shokat as-Sufi
   state_code: RFH
   state_name: Rafah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.25091250'
   longitude: '34.24516720'
-  wikiDataId: Q59769
-- id: 154040
-  name: Al-Bireh
-  state_id: 5130
+- name: Al-Bireh
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.91259730'
   longitude: '35.20111730'
-  wikiDataId: Q311326
-- id: 154050
-  name: al-Mazra'a ash-Sharqiya
-  state_id: 5130
+- name: al-Mazra'a ash-Sharqiya
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.00327220'
   longitude: '35.25553230'
-  wikiDataId: Q4702883
-- id: 154044
-  name: Bani Zeid al-Sharqiya
-  state_id: 5130
+- name: Bani Zeid al-Sharqiya
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.04074320'
   longitude: '35.15327830'
-  wikiDataId: Q4855732
-- id: 154045
-  name: Beit Liqya
-  state_id: 5130
+- name: Beit Liqya
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.86997130'
   longitude: '35.04460230'
-  wikiDataId: Q4881453
-- id: 154042
-  name: Beitunia
-  state_id: 5130
+- name: Beitunia
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.88931530'
   longitude: '35.14921330'
-  wikiDataId: Q528941
-- id: 154046
-  name: Bir Zeit
-  state_id: 5130
+- name: Bir Zeit
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.97534830'
   longitude: '35.17544230'
-  wikiDataId: Q212381
-- id: 154047
-  name: Deir Dibwan
-  state_id: 5130
+- name: Deir Dibwan
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.91123930'
   longitude: '35.24838830'
-  wikiDataId: Q12212354
-- id: 154048
-  name: Deir Jarir
-  state_id: 5130
+- name: Deir Jarir
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.96564630'
   longitude: '35.27317630'
-  wikiDataId: Q5252515
-- id: 154049
-  name: Kharbatha al-Misbah
-  state_id: 5130
+- name: Kharbatha al-Misbah
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.88530030'
   longitude: '35.05147330'
-  wikiDataId: Q2896932
-- id: 154051
-  name: Ni'lin
-  state_id: 5130
+- name: Ni'lin
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.94687730'
   longitude: '35.00086130'
-  wikiDataId: Q2918718
-- id: 154041
-  name: Ramallah
-  state_id: 5130
+- name: Ramallah
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.90741710'
   longitude: '35.16468200'
-  wikiDataId: Q158119
-- id: 154043
-  name: Rawabi
-  state_id: 5130
+- name: Rawabi
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.01021570'
   longitude: '35.17129410'
-  wikiDataId: Q1570801
-- id: 154052
-  name: Silwad
-  state_id: 5130
+- name: Silwad
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '31.97942420'
   longitude: '35.24126530'
-  wikiDataId: Q684632
-- id: 154053
-  name: Sinjil
-  state_id: 5130
+- name: Sinjil
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.03364130'
   longitude: '35.24333530'
-  wikiDataId: Q2909143
-- id: 154054
-  name: Turmus Ayya
-  state_id: 5130
+- name: Turmus Ayya
   state_code: RBH
   state_name: Ramallah
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.03276020'
   longitude: '35.26777530'
-  wikiDataId: Q7855610
-- id: 154071
-  name: az-Zawiya
-  state_id: 5131
+- name: az-Zawiya
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.09470520'
   longitude: '35.01867630'
-  wikiDataId: Q9163181
-- id: 154055
-  name: Biddya
-  state_id: 5131
+- name: Biddya
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.11340020'
   longitude: '35.05686530'
-  wikiDataId: Q2533232
-- id: 154056
-  name: Bruqin
-  state_id: 5131
+- name: Bruqin
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.07264720'
   longitude: '35.07780630'
-  wikiDataId: Q4119463
-- id: 154057
-  name: Deir Ballut
-  state_id: 5131
+- name: Deir Ballut
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.06506720'
   longitude: '35.00494930'
-  wikiDataId: Q2905340
-- id: 154058
-  name: Deir Istiya
-  state_id: 5131
+- name: Deir Istiya
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.13079620'
   longitude: '35.11953630'
-  wikiDataId: Q5252508
-- id: 154059
-  name: Farkha
-  state_id: 5131
+- name: Farkha
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.06877720'
   longitude: '35.13027630'
-  wikiDataId: Q5435373
-- id: 154060
-  name: Haris
-  state_id: 5131
+- name: Haris
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.11344920'
   longitude: '35.12311630'
-  wikiDataId: Q4119467
-- id: 154061
-  name: Iskaka
-  state_id: 5131
+- name: Iskaka
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.10295520'
   longitude: '35.20394930'
-  wikiDataId: Q6081257
-- id: 154062
-  name: Kafr ad-Dik
-  state_id: 5131
+- name: Kafr ad-Dik
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.06863540'
   longitude: '35.06050810'
-  wikiDataId: Q12060929
-- id: 154063
-  name: Kifl Hares
-  state_id: 5131
+- name: Kifl Hares
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.11692420'
   longitude: '35.13636430'
-  wikiDataId: Q12060997
-- id: 154064
-  name: Marda
-  state_id: 5131
+- name: Marda
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.11425120'
   longitude: '35.17525130'
-  wikiDataId: Q6758606
-- id: 154065
-  name: Mas-ha
-  state_id: 5131
+- name: Mas-ha
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.10729820'
   longitude: '35.03037430'
-  wikiDataId: Q4119589
-- id: 154066
-  name: Qarawat Bani Hassan
-  state_id: 5131
+- name: Qarawat Bani Hassan
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.12853920'
   longitude: '35.07877830'
-  wikiDataId: Q2897029
-- id: 154067
-  name: Qira
-  state_id: 5131
+- name: Qira
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.12213420'
   longitude: '35.15063230'
-  wikiDataId: Q7267910
-- id: 154068
-  name: Rafat
-  state_id: 5131
+- name: Rafat
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.07872020'
   longitude: '35.02468730'
-  wikiDataId: Q7282406
-- id: 154069
-  name: Sarta
-  state_id: 5131
+- name: Sarta
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.10336920'
   longitude: '35.07123830'
-  wikiDataId: Q7424625
-- id: 154070
-  name: Yasuf
-  state_id: 5131
+- name: Yasuf
   state_code: SLT
   state_name: Salfit
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.10940520'
   longitude: '35.21911530'
-  wikiDataId: Q2918617
-- id: 154073
-  name: "'Aqqaba"
-  state_id: 5132
+- name: "'Aqqaba"
   state_code: TBS
   state_name: Tubas
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.35257060'
   longitude: '35.32674760'
-  wikiDataId: Q4540438
-- id: 154074
-  name: Tammun
-  state_id: 5132
+- name: Tammun
   state_code: TBS
   state_name: Tubas
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.28315510'
   longitude: '35.36518930'
-  wikiDataId: Q275722
-- id: 154072
-  name: Tubas
-  state_id: 5132
+- name: Tubas
   state_code: TBS
   state_name: Tubas
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.32112010'
   longitude: '35.34935330'
-  wikiDataId: Q275919
-- id: 154075
-  name: Anabta
-  state_id: 5133
+- name: Anabta
   state_code: TKM
   state_name: Tulkarm
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.30728710'
   longitude: '35.09887830'
-  wikiDataId: Q2701952
-- id: 154076
-  name: Attil
-  state_id: 5133
+- name: Attil
   state_code: TKM
   state_name: Tulkarm
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.37010310'
   longitude: '35.05193830'
-  wikiDataId: Q246431
-- id: 154077
-  name: Bal'a
-  state_id: 5133
+- name: Bal'a
   state_code: TKM
   state_name: Tulkarm
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.33255610'
   longitude: '35.08935330'
-  wikiDataId: '35.0893533'
-- id: 154078
-  name: Baqa ash-Sharqiyya
-  state_id: 5133
+- name: Baqa ash-Sharqiyya
   state_code: TKM
   state_name: Tulkarm
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.41117510'
   longitude: '35.05059330'
-  wikiDataId: Q4857765
-- id: 154079
-  name: Beit Lid
-  state_id: 5133
+- name: Beit Lid
   state_code: TKM
   state_name: Tulkarm
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.26158210'
   longitude: '35.10968030'
-  wikiDataId: Q2903283
-- id: 154080
-  name: Qaffin
-  state_id: 5133
+- name: Qaffin
   state_code: TKM
   state_name: Tulkarm
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.43341200'
   longitude: '35.06370030'
-  wikiDataId: Q2892780
-- id: 154081
-  name: Tulkarm
-  state_id: 5133
+- name: Tulkarm
   state_code: TKM
   state_name: Tulkarm
-  country_id: 169
-  country_code: PS
-  country_name: Palestinian Territory Occupied
   latitude: '32.30796480'
   longitude: '35.00802890'
-  wikiDataId: Q985531

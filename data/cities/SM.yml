@@ -1,100 +1,46 @@
 ---
-- id: 104693
-  name: Acquaviva
-  state_id: 59
+- name: Acquaviva
   state_code: '01'
   state_name: Acquaviva
-  country_id: 192
-  country_code: SM
-  country_name: San Marino
   latitude: '43.94593000'
   longitude: '12.41850000'
-  wikiDataId: Q289747
-- id: 104694
-  name: Borgo Maggiore
-  state_id: 61
+- name: Borgo Maggiore
   state_code: '06'
   state_name: Borgo Maggiore
-  country_id: 192
-  country_code: SM
-  country_name: San Marino
   latitude: '43.94193000'
   longitude: '12.44738000'
-  wikiDataId: Q289747
-- id: 104699
-  name: Poggio di Chiesanuova
-  state_id: 60
+- name: Poggio di Chiesanuova
   state_code: '02'
   state_name: Chiesanuova
-  country_id: 192
-  country_code: SM
-  country_name: San Marino
   latitude: '43.90451000'
   longitude: '12.42142000'
-  wikiDataId: Q289747
-- id: 104695
-  name: Domagnano
-  state_id: 64
+- name: Domagnano
   state_code: '03'
   state_name: Domagnano
-  country_id: 192
-  country_code: SM
-  country_name: San Marino
   latitude: '43.94961000'
   longitude: '12.46828000'
-  wikiDataId: Q289747
-- id: 104696
-  name: Faetano
-  state_id: 62
+- name: Faetano
   state_code: '04'
   state_name: Faetano
-  country_id: 192
-  country_code: SM
-  country_name: San Marino
   latitude: '43.92831000'
   longitude: '12.49798000'
-  wikiDataId: Q289747
-- id: 104697
-  name: Fiorentino
-  state_id: 66
+- name: Fiorentino
   state_code: '05'
   state_name: Fiorentino
-  country_id: 192
-  country_code: SM
-  country_name: San Marino
   latitude: '43.91001000'
   longitude: '12.45738000'
-  wikiDataId: Q289747
-- id: 104698
-  name: Monte Giardino
-  state_id: 63
+- name: Monte Giardino
   state_code: '08'
   state_name: Montegiardino
-  country_id: 192
-  country_code: SM
-  country_name: San Marino
   latitude: '43.90878000'
   longitude: '12.48201000'
-  wikiDataId: Q289747
-- id: 104700
-  name: San Marino
-  state_id: 58
+- name: San Marino
   state_code: '07'
   state_name: San Marino
-  country_id: 192
-  country_code: SM
-  country_name: San Marino
   latitude: '43.93667000'
   longitude: '12.44639000'
-  wikiDataId: Q1848
-- id: 104701
-  name: Serravalle
-  state_id: 65
+- name: Serravalle
   state_code: '09'
   state_name: Serravalle
-  country_id: 192
-  country_code: SM
-  country_name: San Marino
   latitude: '43.96897000'
   longitude: '12.48167000'
-  wikiDataId: Q1848
